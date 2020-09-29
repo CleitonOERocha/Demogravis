@@ -1,0 +1,2503 @@
+;Codigo.do.Municipio;Municipios;Territorio.de.Identidade;Ano;status;total
+1;2900108;Abaíra;Chapada Diamantina;1991;Total_urb;2965
+2;2900207;Abaré;Itaparica;1991;Total_urb;2952
+3;2900306;Acajutiba;Litoral Norte e Agreste Baiano;1991;Total_urb;9728
+4;2900355;Adustina;Semi-Árido Nordeste II;1991;Total_urb;2279
+5;2900405;Água Fria;Portal do Sertão;1991;Total_urb;3122
+6;2900603;Aiquara;Médio Rio de Contas;1991;Total_urb;2455
+7;2900702;Alagoinhas;Litoral Norte e Agreste Baiano;1991;Total_urb;99508
+8;2900801;Alcobaça;Extremo Sul;1991;Total_urb;5464
+9;2900900;Almadina;Litoral Sul;1991;Total_urb;6028
+10;2901007;Amargosa;Vale de Jequiriçá;1991;Total_urb;15831
+11;2901106;Amélia Rodrigues;Portal do Sertão;1991;Total_urb;16444
+12;2901155;América Dourada;Irecê;1991;Total_urb;8247
+13;2901205;Anagé;Vitória da Conquista;1991;Total_urb;4341
+14;2901304;Andaraí;Chapada Diamantina;1991;Total_urb;5825
+15;2901353;Andorinha;Piemonte Norte do Itapicuru;1991;Total_urb;3666
+16;2901403;Angical;Bacia do Rio Grande;1991;Total_urb;3749
+17;2901502;Anguera;Portal do Sertão;1991;Total_urb;2983
+18;2901601;Antas;Semi-Árido Nordeste II;1991;Total_urb;4026
+19;2901700;Antônio Cardoso;Portal do Sertão;1991;Total_urb;808
+20;2901809;Antônio Gonçalves;Piemonte Norte do Itapicuru;1991;Total_urb;4540
+21;2901908;Aporá;Litoral Norte e Agreste Baiano;1991;Total_urb;5941
+22;2901957;Apuarema;Médio Rio de Contas;1991;Total_urb;3681
+23;2902054;Araçás;Litoral Norte e Agreste Baiano;1991;Total_urb;3759
+24;2902005;Aracatu;Vitória da Conquista;1991;Total_urb;2077
+25;2902104;Araci;Sisal;1991;Total_urb;11584
+26;2902203;Aramari;Litoral Norte e Agreste Baiano;1991;Total_urb;3829
+27;2902252;Arataca;Litoral Sul;1991;Total_urb;4456
+28;2902302;Aratuípe;Baixo Sul;1991;Total_urb;3738
+29;2902401;Aurelino Leal;Litoral Sul;1991;Total_urb;9268
+30;2902500;Baianópolis;Bacia do Rio Grande;1991;Total_urb;2305
+31;2902609;Baixa Grande;Bacia do Jacuípe;1991;Total_urb;6071
+32;2902658;Banzaê;Semi-Árido Nordeste II;1991;Total_urb;939
+33;2902708;Barra;Velho Chico;1991;Total_urb;15767
+34;2902807;Barra da Estiva;Chapada Diamantina;1991;Total_urb;4659
+35;2902906;Barra do Choça;Vitória da Conquista;1991;Total_urb;11644
+36;2903003;Barra do Mendes;Irecê;1991;Total_urb;4817
+37;2903102;Barra do Rocha;Médio Rio de Contas;1991;Total_urb;3065
+38;2903201;Barreiras;Bacia do Rio Grande;1991;Total_urb;70870
+39;2903235;Barro Alto;Irecê;1991;Total_urb;2448
+40;2903300;Barro Preto/Lomanto Junior;Litoral Sul;1991;Total_urb;4589
+41;2903276;Barrocas;Sisal;1991;Total_urb;NA
+42;2903409;Belmonte;Costa do Descobrimento;1991;Total_urb;10860
+43;2903508;Belo Campo;Vitória da Conquista;1991;Total_urb;5713
+44;2903607;Biritinga;Sisal;1991;Total_urb;1781
+45;2903706;Boa Nova;Médio Rio de Contas;1991;Total_urb;2988
+46;2903805;Boa Vista do Tupim;Piemonte do Paraguaçu;1991;Total_urb;4296
+47;2903904;Bom Jesus da Lapa;Velho Chico;1991;Total_urb;32390
+48;2903953;Bom Jesus da Serra;Vitória da Conquista;1991;Total_urb;1127
+49;2904001;Boninal;Chapada Diamantina;1991;Total_urb;2492
+50;2904050;Bonito;Chapada Diamantina;1991;Total_urb;4349
+51;2904100;Boquira;Bacia do Paramirim;1991;Total_urb;5057
+52;2904209;Botuporã;Bacia do Paramirim;1991;Total_urb;1762
+53;2904308;Brejões;Vale de Jequiriçá;1991;Total_urb;3352
+54;2904407;Brejolândia;Bacia do Rio Corrente;1991;Total_urb;1513
+55;2904506;Brotas de Macaúbas;Velho Chico;1991;Total_urb;2450
+56;2904605;Brumado;Sertão Produtivo;1991;Total_urb;36013
+57;2904704;Buerarema;Litoral Sul;1991;Total_urb;15959
+58;2904753;Buritirama;Bacia do Rio Grande;1991;Total_urb;2785
+59;2904803;Caatiba;Médio Sudoeste da Bahia;1991;Total_urb;3106
+60;2904852;Cabaceiras do Paraguaçu;Recôncavo;1991;Total_urb;1846
+61;2904902;Cachoeira;Recôncavo;1991;Total_urb;14193
+62;2905008;Caculé;Sertão Produtivo;1991;Total_urb;8697
+63;2905107;Caém;Piemonte da Diamantina;1991;Total_urb;3824
+64;2905156;Caetanos;Vitória da Conquista;1991;Total_urb;891
+65;2905206;Caetité;Sertão Produtivo;1991;Total_urb;16925
+66;2905305;Cafarnaum;Irecê;1991;Total_urb;5883
+67;2905404;Cairu;Baixo Sul;1991;Total_urb;5597
+68;2905503;Caldeirão Grande;Piemonte Norte do Itapicuru;1991;Total_urb;4852
+69;2905602;Camacan;Litoral Sul;1991;Total_urb;16364
+70;2905701;Camaçari;Metropolitana de Salvador;1991;Total_urb;108232
+71;2905800;Camamu;Baixo Sul;1991;Total_urb;8125
+72;2905909;Campo Alegre de Lourdes;Sertão do São Francisco;1991;Total_urb;4177
+73;2906006;Campo Formoso;Piemonte Norte do Itapicuru;1991;Total_urb;16432
+74;2906105;Canápolis;Bacia do Rio Corrente;1991;Total_urb;1638
+75;2906204;Canarana;Irecê;1991;Total_urb;7549
+76;2906303;Canavieiras;Litoral Sul;1991;Total_urb;20658
+77;2906402;Candeal;Sisal;1991;Total_urb;2541
+78;2906501;Candeias;Metropolitana de Salvador;1991;Total_urb;61438
+79;2906600;Candiba;Sertão Produtivo;1991;Total_urb;4087
+80;2906709;Cândido Sales;Vitória da Conquista;1991;Total_urb;11883
+81;2906808;Cansanção;Sisal;1991;Total_urb;6926
+82;2906824;Canudos;Sertão do São Francisco;1991;Total_urb;5232
+83;2906857;Capela do Alto Alegre;Bacia do Jacuípe;1991;Total_urb;3425
+84;2906873;Capim Grosso;Piemonte da Diamantina;1991;Total_urb;12470
+85;2906899;Caraíbas;Vitória da Conquista;1991;Total_urb;518
+86;2906907;Caravelas;Extremo Sul;1991;Total_urb;8932
+87;2907004;Cardeal da Silva;Litoral Norte e Agreste Baiano;1991;Total_urb;2274
+88;2907103;Carinhanha;Velho Chico;1991;Total_urb;7325
+89;2907202;Casa Nova;Sertão do São Francisco;1991;Total_urb;18482
+90;2907301;Castro Alves;Recôncavo;1991;Total_urb;13187
+91;2907400;Catolândia;Bacia do Rio Grande;1991;Total_urb;801
+92;2907509;Catu;Litoral Norte e Agreste Baiano;1991;Total_urb;33394
+93;2907558;Caturama;Bacia do Paramirim;1991;Total_urb;1192
+94;2907608;Central;Irecê;1991;Total_urb;6621
+95;2907707;Chorrochó;Itaparica;1991;Total_urb;1528
+96;2907806;Cícero Dantas;Semi-Árido Nordeste II;1991;Total_urb;12124
+97;2907905;Cipó;Semi-Árido Nordeste II;1991;Total_urb;7770
+98;2908002;Coaraci;Litoral Sul;1991;Total_urb;21659
+99;2908101;Côcos;Bacia do Rio Corrente;1991;Total_urb;4972
+100;2908200;Conceição da Feira;Portal do Sertão;1991;Total_urb;8035
+101;2908309;Conceição do Almeida;Recôncavo;1991;Total_urb;7659
+102;2908408;Conceição do Coité;Sisal;1991;Total_urb;20002
+103;2908507;Conceição do Jacuípe;Portal do Sertão;1991;Total_urb;16174
+104;2908606;Conde;Litoral Norte e Agreste Baiano;1991;Total_urb;5494
+105;2908705;Condeúba;Vitória da Conquista;1991;Total_urb;5761
+106;2908804;Contendas do Sincorá;Sertão Produtivo;1991;Total_urb;2181
+107;2908903;Coração de Maria;Portal do Sertão;1991;Total_urb;5570
+108;2909000;Cordeiros;Vitória da Conquista;1991;Total_urb;2296
+109;2909109;Coribe;Bacia do Rio Corrente;1991;Total_urb;4825
+110;2909208;Coronel João Sá;Semi-Árido Nordeste II;1991;Total_urb;2972
+111;2909307;Correntina;Bacia do Rio Corrente;1991;Total_urb;8636
+112;2909406;Cotegipe;Bacia do Rio Grande;1991;Total_urb;5118
+113;2909505;Cravolândia;Vale de Jequiriçá;1991;Total_urb;2475
+114;2909604;Crisópolis;Litoral Norte e Agreste Baiano;1991;Total_urb;4057
+115;2909703;Cristópolis;Bacia do Rio Grande;1991;Total_urb;2252
+116;2909802;Cruz das Almas;Recôncavo;1991;Total_urb;30908
+117;2909901;Curaçá;Sertão do São Francisco;1991;Total_urb;7749
+118;2910008;Dário Meira;Médio Rio de Contas;1991;Total_urb;4102
+119;2910057;Dias D'Ávila;Metropolitana de Salvador;1991;Total_urb;29478
+120;2910107;Dom Basílio;Sertão Produtivo;1991;Total_urb;1109
+121;2910206;Dom Macedo Costa;Recôncavo;1991;Total_urb;853
+122;2910305;Elísio Medrado;Vale de Jequiriçá;1991;Total_urb;1997
+123;2910404;Encruzilhada;Vitória da Conquista;1991;Total_urb;3692
+124;2910503;Entre Rios;Litoral Norte e Agreste Baiano;1991;Total_urb;16897
+125;2900504;Érico Cardoso;Bacia do Paramirim;1991;Total_urb;1108
+126;2910602;Esplanada;Litoral Norte e Agreste Baiano;1991;Total_urb;15198
+127;2910701;Euclides da Cunha;Semi-Árido Nordeste II;1991;Total_urb;17778
+128;2910727;Eunápolis;Costa do Descobrimento;1991;Total_urb;63540
+129;2910750;Fátima;Semi-Árido Nordeste II;1991;Total_urb;4344
+130;2910776;Feira da Mata;Velho Chico;1991;Total_urb;1470
+131;2910800;Feira de Santana;Portal do Sertão;1991;Total_urb;349557
+132;2910859;Filadélfia;Piemonte Norte do Itapicuru;1991;Total_urb;4902
+133;2910909;Firmino Alves;Médio Sudoeste da Bahia;1991;Total_urb;3793
+134;2911006;Floresta Azul;Litoral Sul;1991;Total_urb;7766
+135;2911105;Formosa do Rio Preto;Bacia do Rio Grande;1991;Total_urb;5624
+136;2911204;Gandu;Baixo Sul;1991;Total_urb;19597
+137;2911253;Gavião;Bacia do Jacuípe;1991;Total_urb;2486
+138;2911303;Gentio do Ouro;Irecê;1991;Total_urb;4163
+139;2911402;Glória;Itaparica;1991;Total_urb;1611
+140;2911501;Gongogi;Médio Rio de Contas;1991;Total_urb;5676
+141;2911600;Governador Mangabeira;Recôncavo;1991;Total_urb;5338
+142;2911659;Guajeru;Vitória da Conquista;1991;Total_urb;1044
+143;2911709;Guanambi;Sertão Produtivo;1991;Total_urb;45127
+144;2911808;Guaratinga;Costa do Descobrimento;1991;Total_urb;9159
+145;2911857;Heliópolis;Semi-Árido Nordeste II;1991;Total_urb;2367
+146;2911907;Iaçu;Piemonte do Paraguaçu;1991;Total_urb;18806
+147;2912004;Ibiassucê;Sertão Produtivo;1991;Total_urb;2956
+148;2912103;Ibicaraí;Litoral Sul;1991;Total_urb;19332
+149;2912202;Ibicoara;Chapada Diamantina;1991;Total_urb;1253
+150;2912301;Ibicuí;Médio Sudoeste da Bahia;1991;Total_urb;9308
+151;2912400;Ibipeba;Irecê;1991;Total_urb;4973
+152;2912509;Ibipitanga;Bacia do Paramirim;1991;Total_urb;2199
+153;2912608;Ibiquera;Piemonte do Paraguaçu;1991;Total_urb;2060
+154;2912707;Ibirapitanga;Baixo Sul;1991;Total_urb;6697
+155;2912806;Ibirapoã;Extremo Sul;1991;Total_urb;3413
+156;2912905;Ibirataia;Médio Rio de Contas;1991;Total_urb;15369
+157;2913002;Ibitiara;Chapada Diamantina;1991;Total_urb;2921
+158;2913101;Ibititá;Irecê;1991;Total_urb;6588
+159;2913200;Ibotirama;Velho Chico;1991;Total_urb;15231
+160;2913309;Ichu;Sisal;1991;Total_urb;3124
+161;2913408;Igaporã;Velho Chico;1991;Total_urb;5903
+162;2913457;Igrapiúna;Baixo Sul;1991;Total_urb;966
+163;2913507;Iguaí;Médio Sudoeste da Bahia;1991;Total_urb;9062
+164;2913606;Ilhéus;Litoral Sul;1991;Total_urb;144232
+165;2913705;Inhambupe;Litoral Norte e Agreste Baiano;1991;Total_urb;10057
+166;2913804;Ipecaetá;Portal do Sertão;1991;Total_urb;1411
+167;2913903;Ipiaú;Médio Rio de Contas;1991;Total_urb;36408
+168;2914000;Ipirá;Bacia do Jacuípe;1991;Total_urb;18088
+169;2914109;Ipupiara;Irecê;1991;Total_urb;4102
+170;2914208;Irajuba;Vale de Jequiriçá;1991;Total_urb;1832
+171;2914307;Iramaia;Chapada Diamantina;1991;Total_urb;6817
+172;2914406;Iraquara;Chapada Diamantina;1991;Total_urb;4093
+173;2914505;Irará;Portal do Sertão;1991;Total_urb;7368
+174;2914604;Irecê;Irecê;1991;Total_urb;40069
+175;2914653;Itabela;Costa do Descobrimento;1991;Total_urb;13577
+176;2914703;Itaberaba;Piemonte do Paraguaçu;1991;Total_urb;36934
+177;2914802;Itabuna;Litoral Sul;1991;Total_urb;177561
+178;2914901;Itacaré;Litoral Sul;1991;Total_urb;4275
+179;2915007;Itaeté;Chapada Diamantina;1991;Total_urb;4676
+180;2915106;Itagi;Médio Rio de Contas;1991;Total_urb;8536
+181;2915205;Itagibá;Médio Rio de Contas;1991;Total_urb;7284
+182;2915304;Itagimirim;Costa do Descobrimento;1991;Total_urb;5078
+183;2915353;Itaguaçu da Bahia;Irecê;1991;Total_urb;1530
+184;2915403;Itaju do Colônia;Litoral Sul;1991;Total_urb;2885
+185;2915502;Itajuípe;Litoral Sul;1991;Total_urb;15972
+186;2915601;Itamaraju;Extremo Sul;1991;Total_urb;44449
+187;2915700;Itamari;Médio Rio de Contas;1991;Total_urb;4649
+188;2915809;Itambé;Médio Sudoeste da Bahia;1991;Total_urb;18516
+189;2915908;Itanagra;Litoral Norte e Agreste Baiano;1991;Total_urb;1382
+190;2916005;Itanhém;Extremo Sul;1991;Total_urb;13060
+191;2916104;Itaparica;Metropolitana de Salvador;1991;Total_urb;15055
+192;2916203;Itapé;Litoral Sul;1991;Total_urb;7565
+193;2916302;Itapebi;Costa do Descobrimento;1991;Total_urb;6396
+194;2916401;Itapetinga;Médio Sudoeste da Bahia;1991;Total_urb;49340
+195;2916500;Itapicuru;Litoral Norte e Agreste Baiano;1991;Total_urb;3395
+196;2916609;Itapitanga;Litoral Sul;1991;Total_urb;6095
+197;2916708;Itaquara;Vale de Jequiriçá;1991;Total_urb;3070
+198;2916807;Itarantim;Médio Sudoeste da Bahia;1991;Total_urb;10127
+199;2916856;Itatim;Piemonte do Paraguaçu;1991;Total_urb;6254
+200;2916906;Itiruçu;Vale de Jequiriçá;1991;Total_urb;7700
+201;2917003;Itiúba;Sisal;1991;Total_urb;7068
+202;2917102;Itororó;Médio Sudoeste da Bahia;1991;Total_urb;15924
+203;2917201;Ituaçu;Sertão Produtivo;1991;Total_urb;3014
+204;2917300;Ituberá;Baixo Sul;1991;Total_urb;11806
+205;2917334;Iuiu;Sertão Produtivo;1991;Total_urb;4227
+206;2917359;Jaborandi;Bacia do Rio Corrente;1991;Total_urb;1687
+207;2917409;Jacaraci;Vitória da Conquista;1991;Total_urb;2439
+208;2917508;Jacobina;Piemonte da Diamantina;1991;Total_urb;50009
+209;2917607;Jaguaquara;Vale de Jequiriçá;1991;Total_urb;26977
+210;2917706;Jaguarari;Piemonte Norte do Itapicuru;1991;Total_urb;6070
+211;2917805;Jaguaripe;Baixo Sul;1991;Total_urb;3943
+212;2917904;Jandaíra;Litoral Norte e Agreste Baiano;1991;Total_urb;4471
+213;2918001;Jequié;Médio Rio de Contas;1991;Total_urb;116885
+214;2918100;Jeremoabo;Semi-Árido Nordeste II;1991;Total_urb;13640
+215;2918209;Jiquiriçá;Vale de Jequiriçá;1991;Total_urb;3386
+216;2918308;Jitaúna;Médio Rio de Contas;1991;Total_urb;6993
+217;2918357;João Dourado;Irecê;1991;Total_urb;9336
+218;2918407;Juazeiro;Sertão do São Francisco;1991;Total_urb;102266
+219;2918456;Jucuruçu;Extremo Sul;1991;Total_urb;1299
+220;2918506;Jussara;Irecê;1991;Total_urb;8547
+221;2918555;Jussari;Litoral Sul;1991;Total_urb;4609
+222;2918605;Jussiape;Chapada Diamantina;1991;Total_urb;3902
+223;2918704;Lafayette Coutinho;Vale de Jequiriçá;1991;Total_urb;1771
+224;2919058;Lagedo do Tabocal;Vale de Jequiriçá;1991;Total_urb;3291
+225;2918753;Lagoa Real;Sertão Produtivo;1991;Total_urb;1148
+226;2918803;Laje;Vale de Jequiriçá;1991;Total_urb;3849
+227;2918902;Lajedão;Extremo Sul;1991;Total_urb;1663
+228;2919009;Lajedinho;Piemonte do Paraguaçu;1991;Total_urb;892
+229;2919108;Lamarão;Sisal;1991;Total_urb;1521
+230;2919157;Lapão;Irecê;1991;Total_urb;6848
+231;2919207;Lauro de Freitas;Metropolitana de Salvador;1991;Total_urb;44374
+232;2919306;Lençóis;Chapada Diamantina;1991;Total_urb;3481
+233;2919405;Licínio de Almeida;Vitória da Conquista;1991;Total_urb;5771
+234;2919504;Livramento de N. Senhora;Sertão Produtivo;1991;Total_urb;13200
+235;2919553;Luís Eduardo Magalhães;Bacia do Rio Grande;1991;Total_urb;NA
+236;2919603;Macajuba;Piemonte do Paraguaçu;1991;Total_urb;3235
+237;2919702;Macarani;Médio Sudoeste da Bahia;1991;Total_urb;8881
+238;2919801;Macaúbas;Bacia do Paramirim;1991;Total_urb;8001
+239;2919900;Macururé;Itaparica;1991;Total_urb;1353
+240;2919926;Madre de Deus;Metropolitana de Salvador;1991;Total_urb;8792
+241;2919959;Maetinga;Vitória da Conquista;1991;Total_urb;1317
+242;2920007;Maiquinique;Médio Sudoeste da Bahia;1991;Total_urb;4056
+243;2920106;Mairi;Bacia do Jacuípe;1991;Total_urb;6980
+244;2920205;Malhada;Velho Chico;1991;Total_urb;2688
+245;2920304;Malhada de Pedras;Sertão Produtivo;1991;Total_urb;1501
+246;2920403;Manoel Vitorino;Médio Rio de Contas;1991;Total_urb;5186
+247;2920452;Mansidão;Bacia do Rio Grande;1991;Total_urb;1844
+248;2920502;Maracás;Vale de Jequiriçá;1991;Total_urb;12195
+249;2920601;Maragogipe;Recôncavo;1991;Total_urb;20472
+250;2920700;Maraú;Litoral Sul;1991;Total_urb;2651
+251;2920809;Marcionílio Souza;Chapada Diamantina;1991;Total_urb;3934
+252;2920908;Mascote;Litoral Sul;1991;Total_urb;1573
+253;2921005;Mata de São João;Litoral Norte e Agreste Baiano;1991;Total_urb;24143
+254;2921054;Matina;Velho Chico;1991;Total_urb;1389
+255;2921104;Medeiros Neto;Extremo Sul;1991;Total_urb;15704
+256;2921203;Miguel Calmon;Piemonte da Diamantina;1991;Total_urb;11969
+257;2921302;Milagres;Vale de Jequiriçá;1991;Total_urb;7200
+258;2921401;Mirangaba;Piemonte da Diamantina;1991;Total_urb;4181
+259;2921450;Mirante;Vitória da Conquista;1991;Total_urb;496
+260;2921500;Monte Santo;Sisal;1991;Total_urb;4855
+261;2921609;Morpará;Velho Chico;1991;Total_urb;3637
+262;2921708;Morro do Chapéu;Chapada Diamantina;1991;Total_urb;15519
+263;2921807;Mortugaba;Vitória da Conquista;1991;Total_urb;4149
+264;2921906;Mucugê;Chapada Diamantina;1991;Total_urb;2230
+265;2922003;Mucuri;Extremo Sul;1991;Total_urb;4810
+266;2922052;Mulungu do Morro;Irecê;1991;Total_urb;4931
+267;2922102;Mundo Novo;Piemonte do Paraguaçu;1991;Total_urb;11983
+268;2922201;Muniz Ferreira;Recôncavo;1991;Total_urb;2524
+269;2922250;Muquém do São Francisco;Velho Chico;1991;Total_urb;807
+270;2922300;Muritiba;Recôncavo;1991;Total_urb;14709
+271;2922409;Mutuípe;Vale de Jequiriçá;1991;Total_urb;6943
+272;2922508;Nazaré;Recôncavo;1991;Total_urb;20491
+273;2922607;Nilo Peçanha;Baixo Sul;1991;Total_urb;1980
+274;2922656;Nordestina;Sisal;1991;Total_urb;1370
+275;2922706;Nova Canaã;Médio Sudoeste da Bahia;1991;Total_urb;5527
+276;2922730;Nova Fátima;Bacia do Jacuípe;1991;Total_urb;3462
+277;2922755;Nova Ibiá;Médio Rio de Contas;1991;Total_urb;2358
+278;2922805;Nova Itarana;Vale de Jequiriçá;1991;Total_urb;1960
+279;2922854;Nova Redenção;Chapada Diamantina;1991;Total_urb;3581
+280;2922904;Nova Soure;Semi-Árido Nordeste II;1991;Total_urb;10177
+281;2923001;Nova Viçosa;Extremo Sul;1991;Total_urb;9374
+282;2923035;Novo Horizonte;Chapada Diamantina;1991;Total_urb;1357
+283;2923050;Novo Triunfo;Semi-Árido Nordeste II;1991;Total_urb;2398
+284;2923100;Olindina;Litoral Norte e Agreste Baiano;1991;Total_urb;9102
+285;2923209;Oliveira dos Brejinhos;Velho Chico;1991;Total_urb;4191
+286;2923308;Ouriçangas;Litoral Norte e Agreste Baiano;1991;Total_urb;1932
+287;2923357;Ourolândia;Piemonte da Diamantina;1991;Total_urb;2356
+288;2923407;Palmas de Monte Alto;Sertão Produtivo;1991;Total_urb;5312
+289;2923506;Palmeiras;Chapada Diamantina;1991;Total_urb;3600
+290;2923605;Paramirim;Bacia do Paramirim;1991;Total_urb;5356
+291;2923704;Paratinga;Velho Chico;1991;Total_urb;7346
+292;2923803;Paripiranga;Semi-Árido Nordeste II;1991;Total_urb;5454
+293;2923902;Pau Brasil;Litoral Sul;1991;Total_urb;9279
+294;2924009;Paulo Afonso;Itaparica;1991;Total_urb;74355
+295;2924058;Pé de Serra;Bacia do Jacuípe;1991;Total_urb;3738
+296;2924108;Pedrão;Litoral Norte e Agreste Baiano;1991;Total_urb;1411
+297;2924207;Pedro Alexandre;Semi-Árido Nordeste II;1991;Total_urb;1427
+298;2924306;Piatã;Chapada Diamantina;1991;Total_urb;3306
+299;2924405;Pilão Arcado;Sertão do São Francisco;1991;Total_urb;4268
+300;2924504;Pindaí;Sertão Produtivo;1991;Total_urb;3048
+301;2924603;Pindobaçu;Piemonte Norte do Itapicuru;1991;Total_urb;5703
+302;2924652;Pintadas;Bacia do Jacuípe;1991;Total_urb;2303
+303;2924678;Piraí do Norte;Baixo Sul;1991;Total_urb;1848
+304;2924702;Piripá;Vitória da Conquista;1991;Total_urb;3478
+305;2924801;Piritiba;Piemonte do Paraguaçu;1991;Total_urb;8987
+306;2924900;Planaltino;Vale de Jequiriçá;1991;Total_urb;2375
+307;2925006;Planalto;Vitória da Conquista;1991;Total_urb;9957
+308;2925105;Poções;Vitória da Conquista;1991;Total_urb;24873
+309;2925204;Pojuca;Litoral Norte e Agreste Baiano;1991;Total_urb;18510
+310;2925253;Ponto Novo;Piemonte Norte do Itapicuru;1991;Total_urb;5542
+311;2925303;Porto Seguro;Costa do Descobrimento;1991;Total_urb;23315
+312;2925402;Potiraguá;Médio Sudoeste da Bahia;1991;Total_urb;5630
+313;2925501;Prado;Extremo Sul;1991;Total_urb;9655
+314;2925600;Presidente Dutra;Irecê;1991;Total_urb;6352
+315;2925709;Presidente Jânio Quadros;Vitória da Conquista;1991;Total_urb;1493
+316;2925758;Presidente Tancredo Neves;Baixo Sul;1991;Total_urb;2136
+317;2925808;Queimadas;Sisal;1991;Total_urb;8431
+318;2925907;Quijingue;Sisal;1991;Total_urb;3389
+319;2925931;Quixabeira;Bacia do Jacuípe;1991;Total_urb;2710
+320;2925956;Rafael Jambeiro;Piemonte do Paraguaçu;1991;Total_urb;2549
+321;2926004;Remanso;Sertão do São Francisco;1991;Total_urb;17868
+322;2926103;Retirolândia;Sisal;1991;Total_urb;3882
+323;2926202;Riachão das Neves;Bacia do Rio Grande;1991;Total_urb;8921
+324;2926301;Riachão do Jacuípe;Bacia do Jacuípe;1991;Total_urb;14557
+325;2926400;Riacho de Santana;Velho Chico;1991;Total_urb;8373
+326;2926509;Ribeira do Amparo;Semi-Árido Nordeste II;1991;Total_urb;754
+327;2926608;Ribeira do Pombal;Semi-Árido Nordeste II;1991;Total_urb;20752
+328;2926657;Ribeirão do Largo;Vitória da Conquista;1991;Total_urb;2436
+329;2926707;Rio de Contas;Chapada Diamantina;1991;Total_urb;4539
+330;2926806;Rio do Antônio;Sertão Produtivo;1991;Total_urb;3883
+331;2926905;Rio do Pires;Bacia do Paramirim;1991;Total_urb;3239
+332;2927002;Rio Real;Litoral Norte e Agreste Baiano;1991;Total_urb;13917
+333;2927101;Rodelas;Itaparica;1991;Total_urb;3053
+334;2927200;Ruy Barbosa;Piemonte do Paraguaçu;1991;Total_urb;17114
+335;2927309;Salinas da Margarida;Metropolitana de Salvador;1991;Total_urb;3902
+336;2927408;Salvador;Metropolitana de Salvador;1991;Total_urb;2073510
+337;2927507;Santa Bárbara;Portal do Sertão;1991;Total_urb;4766
+338;2927606;Santa Brígida;Semi-Árido Nordeste II;1991;Total_urb;2840
+339;2927705;Santa Cruz Cabrália;Costa do Descobrimento;1991;Total_urb;3197
+340;2927804;Santa Cruz da Vitória;Médio Sudoeste da Bahia;1991;Total_urb;4527
+341;2927903;Santa Inês;Vale de Jequiriçá;1991;Total_urb;9049
+342;2928059;Santa Luzia;Litoral Sul;1991;Total_urb;7410
+343;2928109;Santa Maria da Vitória;Bacia do Rio Corrente;1991;Total_urb;20774
+344;2928406;Santa Rita de Cássia;Bacia do Rio Grande;1991;Total_urb;10621
+345;2928505;Santa Terezinha;Piemonte do Paraguaçu;1991;Total_urb;1378
+346;2928000;Santaluz;Sisal;1991;Total_urb;12704
+347;2928208;Santana;Bacia do Rio Corrente;1991;Total_urb;11589
+348;2928307;Santanópolis;Portal do Sertão;1991;Total_urb;785
+349;2928604;Santo Amaro;Recôncavo;1991;Total_urb;40894
+350;2928703;Santo Antônio de Jesus;Recôncavo;1991;Total_urb;52855
+351;2928802;Santo Estevão;Portal do Sertão;1991;Total_urb;12654
+352;2928901;São Desidério;Bacia do Rio Grande;1991;Total_urb;5539
+353;2928950;São Domingos;Sisal;1991;Total_urb;3442
+354;2929107;São Felipe;Recôncavo;1991;Total_urb;6906
+355;2929008;São Félix;Recôncavo;1991;Total_urb;7420
+356;2929057;São Félix do Coribe;Bacia do Rio Corrente;1991;Total_urb;6764
+357;2929206;São Francisco do Conde;Recôncavo;1991;Total_urb;15734
+358;2929255;São Gabriel;Irecê;1991;Total_urb;6997
+359;2929305;São Gonçalo dos Campos;Portal do Sertão;1991;Total_urb;11372
+360;2929354;São José da Vitória;Litoral Sul;1991;Total_urb;5217
+361;2929370;São José do Jacuípe;Bacia do Jacuípe;1991;Total_urb;3633
+362;2929404;São Miguel das Matas;Vale de Jequiriçá;1991;Total_urb;2040
+363;2929503;São Sebastião do Passé;Recôncavo;1991;Total_urb;25806
+364;2929602;Sapeaçu;Recôncavo;1991;Total_urb;6347
+365;2929701;Sátiro Dias;Litoral Norte e Agreste Baiano;1991;Total_urb;2290
+366;2929750;Saubara;Recôncavo;1991;Total_urb;5469
+367;2929800;Saúde;Piemonte da Diamantina;1991;Total_urb;5515
+368;2929909;Seabra;Chapada Diamantina;1991;Total_urb;12432
+369;2930006;Sebastião Laranjeiras;Sertão Produtivo;1991;Total_urb;2529
+370;2930105;Senhor do Bonfim;Piemonte Norte do Itapicuru;1991;Total_urb;49087
+371;2930204;Sento Sé;Sertão do São Francisco;1991;Total_urb;12380
+372;2930154;Serra do Ramalho;Velho Chico;1991;Total_urb;2159
+373;2930303;Serra Dourada;Bacia do Rio Corrente;1991;Total_urb;4242
+374;2930402;Serra Preta;Bacia do Jacuípe;1991;Total_urb;488
+375;2930501;Serrinha;Sisal;1991;Total_urb;37854
+376;2930600;Serrolândia;Piemonte da Diamantina;1991;Total_urb;4743
+377;2930709;Simões Filho;Metropolitana de Salvador;1991;Total_urb;44419
+378;2930758;Sítio do Mato;Velho Chico;1991;Total_urb;5665
+379;2930766;Sítio do Quinto;Semi-Árido Nordeste II;1991;Total_urb;2147
+380;2930774;Sobradinho;Sertão do São Francisco;1991;Total_urb;19482
+381;2930808;Souto Soares;Chapada Diamantina;1991;Total_urb;2802
+382;2930907;Tabocas do Brejo Velho;Bacia do Rio Corrente;1991;Total_urb;2766
+383;2931004;Tanhaçu;Sertão Produtivo;1991;Total_urb;4969
+384;2931053;Tanque Novo;Bacia do Paramirim;1991;Total_urb;3346
+385;2931103;Tanquinho;Portal do Sertão;1991;Total_urb;5820
+386;2931202;Taperoá;Baixo Sul;1991;Total_urb;7308
+387;2931301;Tapiramutá;Piemonte do Paraguaçu;1991;Total_urb;8795
+388;2931350;Teixeira de Freitas;Extremo Sul;1991;Total_urb;74221
+389;2931400;Teodoro Sampaio;Portal do Sertão;1991;Total_urb;6490
+390;2931509;Teofilândia;Sisal;1991;Total_urb;3779
+391;2931608;Teolândia;Baixo Sul;1991;Total_urb;1759
+392;2931707;Terra Nova;Portal do Sertão;1991;Total_urb;10003
+393;2931806;Tremedal;Vitória da Conquista;1991;Total_urb;2757
+394;2931905;Tucano;Sisal;1991;Total_urb;10131
+395;2932002;Uauá;Sertão do São Francisco;1991;Total_urb;7251
+396;2932101;Ubaíra;Vale de Jequiriçá;1991;Total_urb;7085
+397;2932200;Ubaitaba;Litoral Sul;1991;Total_urb;12508
+398;2932309;Ubatã;Médio Rio de Contas;1991;Total_urb;19430
+399;2932408;Uibaí;Irecê;1991;Total_urb;6818
+400;2932457;Umburanas;Piemonte da Diamantina;1991;Total_urb;4564
+401;2932507;Una;Litoral Sul;1991;Total_urb;5347
+402;2932606;Urandi;Sertão Produtivo;1991;Total_urb;3472
+403;2932705;Uruçuca;Litoral Sul;1991;Total_urb;9040
+404;2932804;Utinga;Chapada Diamantina;1991;Total_urb;7449
+405;2932903;Valença;Baixo Sul;1991;Total_urb;43699
+406;2933000;Valente;Sisal;1991;Total_urb;6438
+407;2933059;Várzea da Roça;Bacia do Jacuípe;1991;Total_urb;3963
+408;2933109;Várzea do Poço;Bacia do Jacuípe;1991;Total_urb;4276
+409;2933158;Várzea Nova;Piemonte da Diamantina;1991;Total_urb;7117
+410;2933174;Varzedo;Recôncavo;1991;Total_urb;1704
+411;2933208;Vera Cruz;Metropolitana de Salvador;1991;Total_urb;20308
+412;2933257;Vereda;Extremo Sul;1991;Total_urb;961
+413;2933307;Vitória da Conquista;Vitória da Conquista;1991;Total_urb;188351
+414;2933406;Wagner;Chapada Diamantina;1991;Total_urb;4818
+415;2933455;Wanderley;Bacia do Rio Grande;1991;Total_urb;4706
+416;2933505;Wenceslau Guimarães;Baixo Sul;1991;Total_urb;4033
+417;2933604;Xique-Xique;Irecê;1991;Total_urb;26664
+418;2900108;Abaíra;Chapada Diamantina;2000;Total_urb;3559
+419;2900207;Abaré;Itaparica;2000;Total_urb;5528
+420;2900306;Acajutiba;Litoral Norte e Agreste Baiano;2000;Total_urb;12184
+421;2900355;Adustina;Semi-Árido Nordeste II;2000;Total_urb;4484
+422;2900405;Água Fria;Portal do Sertão;2000;Total_urb;4324
+423;2900603;Aiquara;Médio Rio de Contas;2000;Total_urb;2726
+424;2900702;Alagoinhas;Litoral Norte e Agreste Baiano;2000;Total_urb;112440
+425;2900801;Alcobaça;Extremo Sul;2000;Total_urb;7446
+426;2900900;Almadina;Litoral Sul;2000;Total_urb;5416
+427;2901007;Amargosa;Vale de Jequiriçá;2000;Total_urb;20884
+428;2901106;Amélia Rodrigues;Portal do Sertão;2000;Total_urb;19022
+429;2901155;América Dourada;Irecê;2000;Total_urb;10148
+430;2901205;Anagé;Vitória da Conquista;2000;Total_urb;4208
+431;2901304;Andaraí;Chapada Diamantina;2000;Total_urb;7166
+432;2901353;Andorinha;Piemonte Norte do Itapicuru;2000;Total_urb;4335
+433;2901403;Angical;Bacia do Rio Grande;2000;Total_urb;6035
+434;2901502;Anguera;Portal do Sertão;2000;Total_urb;3456
+435;2901601;Antas;Semi-Árido Nordeste II;2000;Total_urb;5014
+436;2901700;Antônio Cardoso;Portal do Sertão;2000;Total_urb;2316
+437;2901809;Antônio Gonçalves;Piemonte Norte do Itapicuru;2000;Total_urb;5260
+438;2901908;Aporá;Litoral Norte e Agreste Baiano;2000;Total_urb;6546
+439;2901957;Apuarema;Médio Rio de Contas;2000;Total_urb;4382
+440;2902054;Araçás;Litoral Norte e Agreste Baiano;2000;Total_urb;5330
+441;2902005;Aracatu;Vitória da Conquista;2000;Total_urb;3187
+442;2902104;Araci;Sisal;2000;Total_urb;16189
+443;2902203;Aramari;Litoral Norte e Agreste Baiano;2000;Total_urb;4291
+444;2902252;Arataca;Litoral Sul;2000;Total_urb;5483
+445;2902302;Aratuípe;Baixo Sul;2000;Total_urb;4787
+446;2902401;Aurelino Leal;Litoral Sul;2000;Total_urb;13940
+447;2902500;Baianópolis;Bacia do Rio Grande;2000;Total_urb;2727
+448;2902609;Baixa Grande;Bacia do Jacuípe;2000;Total_urb;7126
+449;2902658;Banzaê;Semi-Árido Nordeste II;2000;Total_urb;3414
+450;2902708;Barra;Velho Chico;2000;Total_urb;19641
+451;2902807;Barra da Estiva;Chapada Diamantina;2000;Total_urb;8933
+452;2902906;Barra do Choça;Vitória da Conquista;2000;Total_urb;17721
+453;2903003;Barra do Mendes;Irecê;2000;Total_urb;5579
+454;2903102;Barra do Rocha;Médio Rio de Contas;2000;Total_urb;3425
+455;2903201;Barreiras;Bacia do Rio Grande;2000;Total_urb;115784
+456;2903235;Barro Alto;Irecê;2000;Total_urb;5176
+457;2903300;Barro Preto/Lomanto Junior;Litoral Sul;2000;Total_urb;5159
+458;2903276;Barrocas;Sisal;2000;Total_urb;NA
+459;2903409;Belmonte;Costa do Descobrimento;2000;Total_urb;10806
+460;2903508;Belo Campo;Vitória da Conquista;2000;Total_urb;8082
+461;2903607;Biritinga;Sisal;2000;Total_urb;2347
+462;2903706;Boa Nova;Médio Rio de Contas;2000;Total_urb;4589
+463;2903805;Boa Vista do Tupim;Piemonte do Paraguaçu;2000;Total_urb;5840
+464;2903904;Bom Jesus da Lapa;Velho Chico;2000;Total_urb;37726
+465;2903953;Bom Jesus da Serra;Vitória da Conquista;2000;Total_urb;1953
+466;2904001;Boninal;Chapada Diamantina;2000;Total_urb;3821
+467;2904050;Bonito;Chapada Diamantina;2000;Total_urb;5501
+468;2904100;Boquira;Bacia do Paramirim;2000;Total_urb;6600
+469;2904209;Botuporã;Bacia do Paramirim;2000;Total_urb;3251
+470;2904308;Brejões;Vale de Jequiriçá;2000;Total_urb;4568
+471;2904407;Brejolândia;Bacia do Rio Corrente;2000;Total_urb;1832
+472;2904506;Brotas de Macaúbas;Velho Chico;2000;Total_urb;3050
+473;2904605;Brumado;Sertão Produtivo;2000;Total_urb;40710
+474;2904704;Buerarema;Litoral Sul;2000;Total_urb;16249
+475;2904753;Buritirama;Bacia do Rio Grande;2000;Total_urb;5924
+476;2904803;Caatiba;Médio Sudoeste da Bahia;2000;Total_urb;4428
+477;2904852;Cabaceiras do Paraguaçu;Recôncavo;2000;Total_urb;3305
+478;2904902;Cachoeira;Recôncavo;2000;Total_urb;15831
+479;2905008;Caculé;Sertão Produtivo;2000;Total_urb;11531
+480;2905107;Caém;Piemonte da Diamantina;2000;Total_urb;3377
+481;2905156;Caetanos;Vitória da Conquista;2000;Total_urb;2312
+482;2905206;Caetité;Sertão Produtivo;2000;Total_urb;23459
+483;2905305;Cafarnaum;Irecê;2000;Total_urb;9209
+484;2905404;Cairu;Baixo Sul;2000;Total_urb;6981
+485;2905503;Caldeirão Grande;Piemonte Norte do Itapicuru;2000;Total_urb;4081
+486;2905602;Camacan;Litoral Sul;2000;Total_urb;24282
+487;2905701;Camaçari;Metropolitana de Salvador;2000;Total_urb;154402
+488;2905800;Camamu;Baixo Sul;2000;Total_urb;12107
+489;2905909;Campo Alegre de Lourdes;Sertão do São Francisco;2000;Total_urb;6539
+490;2906006;Campo Formoso;Piemonte Norte do Itapicuru;2000;Total_urb;21003
+491;2906105;Canápolis;Bacia do Rio Corrente;2000;Total_urb;2538
+492;2906204;Canarana;Irecê;2000;Total_urb;9755
+493;2906303;Canavieiras;Litoral Sul;2000;Total_urb;26343
+494;2906402;Candeal;Sisal;2000;Total_urb;3417
+495;2906501;Candeias;Metropolitana de Salvador;2000;Total_urb;69127
+496;2906600;Candiba;Sertão Produtivo;2000;Total_urb;6159
+497;2906709;Cândido Sales;Vitória da Conquista;2000;Total_urb;18924
+498;2906808;Cansanção;Sisal;2000;Total_urb;9221
+499;2906824;Canudos;Sertão do São Francisco;2000;Total_urb;7012
+500;2906857;Capela do Alto Alegre;Bacia do Jacuípe;2000;Total_urb;4533
+501;2906873;Capim Grosso;Piemonte da Diamantina;2000;Total_urb;17861
+502;2906899;Caraíbas;Vitória da Conquista;2000;Total_urb;1424
+503;2906907;Caravelas;Extremo Sul;2000;Total_urb;10332
+504;2907004;Cardeal da Silva;Litoral Norte e Agreste Baiano;2000;Total_urb;2832
+505;2907103;Carinhanha;Velho Chico;2000;Total_urb;10483
+506;2907202;Casa Nova;Sertão do São Francisco;2000;Total_urb;27266
+507;2907301;Castro Alves;Recôncavo;2000;Total_urb;14647
+508;2907400;Catolândia;Bacia do Rio Grande;2000;Total_urb;848
+509;2907509;Catu;Litoral Norte e Agreste Baiano;2000;Total_urb;37816
+510;2907558;Caturama;Bacia do Paramirim;2000;Total_urb;1563
+511;2907608;Central;Irecê;2000;Total_urb;7637
+512;2907707;Chorrochó;Itaparica;2000;Total_urb;2155
+513;2907806;Cícero Dantas;Semi-Árido Nordeste II;2000;Total_urb;15797
+514;2907905;Cipó;Semi-Árido Nordeste II;2000;Total_urb;9527
+515;2908002;Coaraci;Litoral Sul;2000;Total_urb;23269
+516;2908101;Côcos;Bacia do Rio Corrente;2000;Total_urb;6424
+517;2908200;Conceição da Feira;Portal do Sertão;2000;Total_urb;11237
+518;2908309;Conceição do Almeida;Recôncavo;2000;Total_urb;8318
+519;2908408;Conceição do Coité;Sisal;2000;Total_urb;28026
+520;2908507;Conceição do Jacuípe;Portal do Sertão;2000;Total_urb;19466
+521;2908606;Conde;Litoral Norte e Agreste Baiano;2000;Total_urb;10492
+522;2908705;Condeúba;Vitória da Conquista;2000;Total_urb;6331
+523;2908804;Contendas do Sincorá;Sertão Produtivo;2000;Total_urb;2331
+524;2908903;Coração de Maria;Portal do Sertão;2000;Total_urb;7528
+525;2909000;Cordeiros;Vitória da Conquista;2000;Total_urb;2100
+526;2909109;Coribe;Bacia do Rio Corrente;2000;Total_urb;5695
+527;2909208;Coronel João Sá;Semi-Árido Nordeste II;2000;Total_urb;5538
+528;2909307;Correntina;Bacia do Rio Corrente;2000;Total_urb;11355
+529;2909406;Cotegipe;Bacia do Rio Grande;2000;Total_urb;6547
+530;2909505;Cravolândia;Vale de Jequiriçá;2000;Total_urb;3000
+531;2909604;Crisópolis;Litoral Norte e Agreste Baiano;2000;Total_urb;6855
+532;2909703;Cristópolis;Bacia do Rio Grande;2000;Total_urb;2675
+533;2909802;Cruz das Almas;Recôncavo;2000;Total_urb;39604
+534;2909901;Curaçá;Sertão do São Francisco;2000;Total_urb;10775
+535;2910008;Dário Meira;Médio Rio de Contas;2000;Total_urb;4931
+536;2910057;Dias D'Ávila;Metropolitana de Salvador;2000;Total_urb;42673
+537;2910107;Dom Basílio;Sertão Produtivo;2000;Total_urb;1521
+538;2910206;Dom Macedo Costa;Recôncavo;2000;Total_urb;1297
+539;2910305;Elísio Medrado;Vale de Jequiriçá;2000;Total_urb;2514
+540;2910404;Encruzilhada;Vitória da Conquista;2000;Total_urb;4983
+541;2910503;Entre Rios;Litoral Norte e Agreste Baiano;2000;Total_urb;23019
+542;2900504;Érico Cardoso;Bacia do Paramirim;2000;Total_urb;1322
+543;2910602;Esplanada;Litoral Norte e Agreste Baiano;2000;Total_urb;17538
+544;2910701;Euclides da Cunha;Semi-Árido Nordeste II;2000;Total_urb;24531
+545;2910727;Eunápolis;Costa do Descobrimento;2000;Total_urb;79161
+546;2910750;Fátima;Semi-Árido Nordeste II;2000;Total_urb;6343
+547;2910776;Feira da Mata;Velho Chico;2000;Total_urb;2822
+548;2910800;Feira de Santana;Portal do Sertão;2000;Total_urb;431730
+549;2910859;Filadélfia;Piemonte Norte do Itapicuru;2000;Total_urb;7966
+550;2910909;Firmino Alves;Médio Sudoeste da Bahia;2000;Total_urb;3806
+551;2911006;Floresta Azul;Litoral Sul;2000;Total_urb;7548
+552;2911105;Formosa do Rio Preto;Bacia do Rio Grande;2000;Total_urb;9381
+553;2911204;Gandu;Baixo Sul;2000;Total_urb;22060
+554;2911253;Gavião;Bacia do Jacuípe;2000;Total_urb;2203
+555;2911303;Gentio do Ouro;Irecê;2000;Total_urb;4902
+556;2911402;Glória;Itaparica;2000;Total_urb;2365
+557;2911501;Gongogi;Médio Rio de Contas;2000;Total_urb;6250
+558;2911600;Governador Mangabeira;Recôncavo;2000;Total_urb;6684
+559;2911659;Guajeru;Vitória da Conquista;2000;Total_urb;1723
+560;2911709;Guanambi;Sertão Produtivo;2000;Total_urb;54003
+561;2911808;Guaratinga;Costa do Descobrimento;2000;Total_urb;10017
+562;2911857;Heliópolis;Semi-Árido Nordeste II;2000;Total_urb;4232
+563;2911907;Iaçu;Piemonte do Paraguaçu;2000;Total_urb;21636
+564;2912004;Ibiassucê;Sertão Produtivo;2000;Total_urb;4037
+565;2912103;Ibicaraí;Litoral Sul;2000;Total_urb;19333
+566;2912202;Ibicoara;Chapada Diamantina;2000;Total_urb;4016
+567;2912301;Ibicuí;Médio Sudoeste da Bahia;2000;Total_urb;10454
+568;2912400;Ibipeba;Irecê;2000;Total_urb;9282
+569;2912509;Ibipitanga;Bacia do Paramirim;2000;Total_urb;3663
+570;2912608;Ibiquera;Piemonte do Paraguaçu;2000;Total_urb;2493
+571;2912707;Ibirapitanga;Baixo Sul;2000;Total_urb;6363
+572;2912806;Ibirapoã;Extremo Sul;2000;Total_urb;3573
+573;2912905;Ibirataia;Médio Rio de Contas;2000;Total_urb;18726
+574;2913002;Ibitiara;Chapada Diamantina;2000;Total_urb;2714
+575;2913101;Ibititá;Irecê;2000;Total_urb;8060
+576;2913200;Ibotirama;Velho Chico;2000;Total_urb;16384
+577;2913309;Ichu;Sisal;2000;Total_urb;2663
+578;2913408;Igaporã;Velho Chico;2000;Total_urb;7101
+579;2913457;Igrapiúna;Baixo Sul;2000;Total_urb;2377
+580;2913507;Iguaí;Médio Sudoeste da Bahia;2000;Total_urb;12557
+581;2913606;Ilhéus;Litoral Sul;2000;Total_urb;162125
+582;2913705;Inhambupe;Litoral Norte e Agreste Baiano;2000;Total_urb;12581
+583;2913804;Ipecaetá;Portal do Sertão;2000;Total_urb;2065
+584;2913903;Ipiaú;Médio Rio de Contas;2000;Total_urb;37924
+585;2914000;Ipirá;Bacia do Jacuípe;2000;Total_urb;23320
+586;2914109;Ipupiara;Irecê;2000;Total_urb;5184
+587;2914208;Irajuba;Vale de Jequiriçá;2000;Total_urb;2717
+588;2914307;Iramaia;Chapada Diamantina;2000;Total_urb;7682
+589;2914406;Iraquara;Chapada Diamantina;2000;Total_urb;5330
+590;2914505;Irará;Portal do Sertão;2000;Total_urb;8657
+591;2914604;Irecê;Irecê;2000;Total_urb;53143
+592;2914653;Itabela;Costa do Descobrimento;2000;Total_urb;18837
+593;2914703;Itaberaba;Piemonte do Paraguaçu;2000;Total_urb;44517
+594;2914802;Itabuna;Litoral Sul;2000;Total_urb;191184
+595;2914901;Itacaré;Litoral Sul;2000;Total_urb;7951
+596;2915007;Itaeté;Chapada Diamantina;2000;Total_urb;5454
+597;2915106;Itagi;Médio Rio de Contas;2000;Total_urb;9986
+598;2915205;Itagibá;Médio Rio de Contas;2000;Total_urb;8767
+599;2915304;Itagimirim;Costa do Descobrimento;2000;Total_urb;5941
+600;2915353;Itaguaçu da Bahia;Irecê;2000;Total_urb;1987
+601;2915403;Itaju do Colônia;Litoral Sul;2000;Total_urb;6441
+602;2915502;Itajuípe;Litoral Sul;2000;Total_urb;16123
+603;2915601;Itamaraju;Extremo Sul;2000;Total_urb;48037
+604;2915700;Itamari;Médio Rio de Contas;2000;Total_urb;5488
+605;2915809;Itambé;Médio Sudoeste da Bahia;2000;Total_urb;22175
+606;2915908;Itanagra;Litoral Norte e Agreste Baiano;2000;Total_urb;1859
+607;2916005;Itanhém;Extremo Sul;2000;Total_urb;14090
+608;2916104;Itaparica;Metropolitana de Salvador;2000;Total_urb;18945
+609;2916203;Itapé;Litoral Sul;2000;Total_urb;8666
+610;2916302;Itapebi;Costa do Descobrimento;2000;Total_urb;8542
+611;2916401;Itapetinga;Médio Sudoeste da Bahia;2000;Total_urb;55182
+612;2916500;Itapicuru;Litoral Norte e Agreste Baiano;2000;Total_urb;5085
+613;2916609;Itapitanga;Litoral Sul;2000;Total_urb;7095
+614;2916708;Itaquara;Vale de Jequiriçá;2000;Total_urb;4165
+615;2916807;Itarantim;Médio Sudoeste da Bahia;2000;Total_urb;12960
+616;2916856;Itatim;Piemonte do Paraguaçu;2000;Total_urb;8700
+617;2916906;Itiruçu;Vale de Jequiriçá;2000;Total_urb;9871
+618;2917003;Itiúba;Sisal;2000;Total_urb;8864
+619;2917102;Itororó;Médio Sudoeste da Bahia;2000;Total_urb;16627
+620;2917201;Ituaçu;Sertão Produtivo;2000;Total_urb;4429
+621;2917300;Ituberá;Baixo Sul;2000;Total_urb;15910
+622;2917334;Iuiu;Sertão Produtivo;2000;Total_urb;4571
+623;2917359;Jaborandi;Bacia do Rio Corrente;2000;Total_urb;2023
+624;2917409;Jacaraci;Vitória da Conquista;2000;Total_urb;3651
+625;2917508;Jacobina;Piemonte da Diamantina;2000;Total_urb;52088
+626;2917607;Jaguaquara;Vale de Jequiriçá;2000;Total_urb;35103
+627;2917706;Jaguarari;Piemonte Norte do Itapicuru;2000;Total_urb;13381
+628;2917805;Jaguaripe;Baixo Sul;2000;Total_urb;4632
+629;2917904;Jandaíra;Litoral Norte e Agreste Baiano;2000;Total_urb;5507
+630;2918001;Jequié;Médio Rio de Contas;2000;Total_urb;130296
+631;2918100;Jeremoabo;Semi-Árido Nordeste II;2000;Total_urb;14764
+632;2918209;Jiquiriçá;Vale de Jequiriçá;2000;Total_urb;4588
+633;2918308;Jitaúna;Médio Rio de Contas;2000;Total_urb;9568
+634;2918357;João Dourado;Irecê;2000;Total_urb;11441
+635;2918407;Juazeiro;Sertão do São Francisco;2000;Total_urb;133278
+636;2918456;Jucuruçu;Extremo Sul;2000;Total_urb;1850
+637;2918506;Jussara;Irecê;2000;Total_urb;9865
+638;2918555;Jussari;Litoral Sul;2000;Total_urb;5124
+639;2918605;Jussiape;Chapada Diamantina;2000;Total_urb;3766
+640;2918704;Lafayette Coutinho;Vale de Jequiriçá;2000;Total_urb;1921
+641;2919058;Lagedo do Tabocal;Vale de Jequiriçá;2000;Total_urb;4608
+642;2918753;Lagoa Real;Sertão Produtivo;2000;Total_urb;2006
+643;2918803;Laje;Vale de Jequiriçá;2000;Total_urb;5118
+644;2918902;Lajedão;Extremo Sul;2000;Total_urb;1852
+645;2919009;Lajedinho;Piemonte do Paraguaçu;2000;Total_urb;1154
+646;2919108;Lamarão;Sisal;2000;Total_urb;1928
+647;2919157;Lapão;Irecê;2000;Total_urb;9222
+648;2919207;Lauro de Freitas;Metropolitana de Salvador;2000;Total_urb;108385
+649;2919306;Lençóis;Chapada Diamantina;2000;Total_urb;6395
+650;2919405;Licínio de Almeida;Vitória da Conquista;2000;Total_urb;5957
+651;2919504;Livramento de N. Senhora;Sertão Produtivo;2000;Total_urb;16724
+652;2919553;Luís Eduardo Magalhães;Bacia do Rio Grande;2000;Total_urb;NA
+653;2919603;Macajuba;Piemonte do Paraguaçu;2000;Total_urb;4405
+654;2919702;Macarani;Médio Sudoeste da Bahia;2000;Total_urb;10719
+655;2919801;Macaúbas;Bacia do Paramirim;2000;Total_urb;11681
+656;2919900;Macururé;Itaparica;2000;Total_urb;2355
+657;2919926;Madre de Deus;Metropolitana de Salvador;2000;Total_urb;11599
+658;2919959;Maetinga;Vitória da Conquista;2000;Total_urb;1974
+659;2920007;Maiquinique;Médio Sudoeste da Bahia;2000;Total_urb;5208
+660;2920106;Mairi;Bacia do Jacuípe;2000;Total_urb;9595
+661;2920205;Malhada;Velho Chico;2000;Total_urb;6073
+662;2920304;Malhada de Pedras;Sertão Produtivo;2000;Total_urb;2348
+663;2920403;Manoel Vitorino;Médio Rio de Contas;2000;Total_urb;6783
+664;2920452;Mansidão;Bacia do Rio Grande;2000;Total_urb;2334
+665;2920502;Maracás;Vale de Jequiriçá;2000;Total_urb;18516
+666;2920601;Maragogipe;Recôncavo;2000;Total_urb;21043
+667;2920700;Maraú;Litoral Sul;2000;Total_urb;2849
+668;2920809;Marcionílio Souza;Chapada Diamantina;2000;Total_urb;5097
+669;2920908;Mascote;Litoral Sul;2000;Total_urb;11853
+670;2921005;Mata de São João;Litoral Norte e Agreste Baiano;2000;Total_urb;24969
+671;2921054;Matina;Velho Chico;2000;Total_urb;2759
+672;2921104;Medeiros Neto;Extremo Sul;2000;Total_urb;16027
+673;2921203;Miguel Calmon;Piemonte da Diamantina;2000;Total_urb;14819
+674;2921302;Milagres;Vale de Jequiriçá;2000;Total_urb;9359
+675;2921401;Mirangaba;Piemonte da Diamantina;2000;Total_urb;4713
+676;2921450;Mirante;Vitória da Conquista;2000;Total_urb;1279
+677;2921500;Monte Santo;Sisal;2000;Total_urb;7226
+678;2921609;Morpará;Velho Chico;2000;Total_urb;5494
+679;2921708;Morro do Chapéu;Chapada Diamantina;2000;Total_urb;19793
+680;2921807;Mortugaba;Vitória da Conquista;2000;Total_urb;4994
+681;2921906;Mucugê;Chapada Diamantina;2000;Total_urb;3317
+682;2922003;Mucuri;Extremo Sul;2000;Total_urb;18685
+683;2922052;Mulungu do Morro;Irecê;2000;Total_urb;6159
+684;2922102;Mundo Novo;Piemonte do Paraguaçu;2000;Total_urb;11129
+685;2922201;Muniz Ferreira;Recôncavo;2000;Total_urb;3301
+686;2922250;Muquém do São Francisco;Velho Chico;2000;Total_urb;997
+687;2922300;Muritiba;Recôncavo;2000;Total_urb;17905
+688;2922409;Mutuípe;Vale de Jequiriçá;2000;Total_urb;8984
+689;2922508;Nazaré;Recôncavo;2000;Total_urb;23011
+690;2922607;Nilo Peçanha;Baixo Sul;2000;Total_urb;2495
+691;2922656;Nordestina;Sisal;2000;Total_urb;2875
+692;2922706;Nova Canaã;Médio Sudoeste da Bahia;2000;Total_urb;5973
+693;2922730;Nova Fátima;Bacia do Jacuípe;2000;Total_urb;4441
+694;2922755;Nova Ibiá;Médio Rio de Contas;2000;Total_urb;2534
+695;2922805;Nova Itarana;Vale de Jequiriçá;2000;Total_urb;2497
+696;2922854;Nova Redenção;Chapada Diamantina;2000;Total_urb;4492
+697;2922904;Nova Soure;Semi-Árido Nordeste II;2000;Total_urb;10869
+698;2923001;Nova Viçosa;Extremo Sul;2000;Total_urb;24636
+699;2923035;Novo Horizonte;Chapada Diamantina;2000;Total_urb;2000
+700;2923050;Novo Triunfo;Semi-Árido Nordeste II;2000;Total_urb;5247
+701;2923100;Olindina;Litoral Norte e Agreste Baiano;2000;Total_urb;11152
+702;2923209;Oliveira dos Brejinhos;Velho Chico;2000;Total_urb;5817
+703;2923308;Ouriçangas;Litoral Norte e Agreste Baiano;2000;Total_urb;2584
+704;2923357;Ourolândia;Piemonte da Diamantina;2000;Total_urb;4458
+705;2923407;Palmas de Monte Alto;Sertão Produtivo;2000;Total_urb;6657
+706;2923506;Palmeiras;Chapada Diamantina;2000;Total_urb;3999
+707;2923605;Paramirim;Bacia do Paramirim;2000;Total_urb;7883
+708;2923704;Paratinga;Velho Chico;2000;Total_urb;9067
+709;2923803;Paripiranga;Semi-Árido Nordeste II;2000;Total_urb;7781
+710;2923902;Pau Brasil;Litoral Sul;2000;Total_urb;8740
+711;2924009;Paulo Afonso;Itaparica;2000;Total_urb;82584
+712;2924058;Pé de Serra;Bacia do Jacuípe;2000;Total_urb;4111
+713;2924108;Pedrão;Litoral Norte e Agreste Baiano;2000;Total_urb;1457
+714;2924207;Pedro Alexandre;Semi-Árido Nordeste II;2000;Total_urb;2131
+715;2924306;Piatã;Chapada Diamantina;2000;Total_urb;5771
+716;2924405;Pilão Arcado;Sertão do São Francisco;2000;Total_urb;7865
+717;2924504;Pindaí;Sertão Produtivo;2000;Total_urb;3631
+718;2924603;Pindobaçu;Piemonte Norte do Itapicuru;2000;Total_urb;10456
+719;2924652;Pintadas;Bacia do Jacuípe;2000;Total_urb;4076
+720;2924678;Piraí do Norte;Baixo Sul;2000;Total_urb;2787
+721;2924702;Piripá;Vitória da Conquista;2000;Total_urb;5248
+722;2924801;Piritiba;Piemonte do Paraguaçu;2000;Total_urb;12728
+723;2924900;Planaltino;Vale de Jequiriçá;2000;Total_urb;2990
+724;2925006;Planalto;Vitória da Conquista;2000;Total_urb;12537
+725;2925105;Poções;Vitória da Conquista;2000;Total_urb;31801
+726;2925204;Pojuca;Litoral Norte e Agreste Baiano;2000;Total_urb;21884
+727;2925253;Ponto Novo;Piemonte Norte do Itapicuru;2000;Total_urb;6767
+728;2925303;Porto Seguro;Costa do Descobrimento;2000;Total_urb;79619
+729;2925402;Potiraguá;Médio Sudoeste da Bahia;2000;Total_urb;7546
+730;2925501;Prado;Extremo Sul;2000;Total_urb;14169
+731;2925600;Presidente Dutra;Irecê;2000;Total_urb;7659
+732;2925709;Presidente Jânio Quadros;Vitória da Conquista;2000;Total_urb;2913
+733;2925758;Presidente Tancredo Neves;Baixo Sul;2000;Total_urb;6221
+734;2925808;Queimadas;Sisal;2000;Total_urb;9783
+735;2925907;Quijingue;Sisal;2000;Total_urb;4892
+736;2925931;Quixabeira;Bacia do Jacuípe;2000;Total_urb;3130
+737;2925956;Rafael Jambeiro;Piemonte do Paraguaçu;2000;Total_urb;4902
+738;2926004;Remanso;Sertão do São Francisco;2000;Total_urb;21015
+739;2926103;Retirolândia;Sisal;2000;Total_urb;5474
+740;2926202;Riachão das Neves;Bacia do Rio Grande;2000;Total_urb;10257
+741;2926301;Riachão do Jacuípe;Bacia do Jacuípe;2000;Total_urb;15569
+742;2926400;Riacho de Santana;Velho Chico;2000;Total_urb;11011
+743;2926509;Ribeira do Amparo;Semi-Árido Nordeste II;2000;Total_urb;1459
+744;2926608;Ribeira do Pombal;Semi-Árido Nordeste II;2000;Total_urb;25383
+745;2926657;Ribeirão do Largo;Vitória da Conquista;2000;Total_urb;4451
+746;2926707;Rio de Contas;Chapada Diamantina;2000;Total_urb;5684
+747;2926806;Rio do Antônio;Sertão Produtivo;2000;Total_urb;5112
+748;2926905;Rio do Pires;Bacia do Paramirim;2000;Total_urb;4310
+749;2927002;Rio Real;Litoral Norte e Agreste Baiano;2000;Total_urb;20043
+750;2927101;Rodelas;Itaparica;2000;Total_urb;4786
+751;2927200;Ruy Barbosa;Piemonte do Paraguaçu;2000;Total_urb;20263
+752;2927309;Salinas da Margarida;Metropolitana de Salvador;2000;Total_urb;4611
+753;2927408;Salvador;Metropolitana de Salvador;2000;Total_urb;2442102
+754;2927507;Santa Bárbara;Portal do Sertão;2000;Total_urb;7167
+755;2927606;Santa Brígida;Semi-Árido Nordeste II;2000;Total_urb;4408
+756;2927705;Santa Cruz Cabrália;Costa do Descobrimento;2000;Total_urb;13527
+757;2927804;Santa Cruz da Vitória;Médio Sudoeste da Bahia;2000;Total_urb;4988
+758;2927903;Santa Inês;Vale de Jequiriçá;2000;Total_urb;10374
+759;2928059;Santa Luzia;Litoral Sul;2000;Total_urb;8329
+760;2928109;Santa Maria da Vitória;Bacia do Rio Corrente;2000;Total_urb;22787
+761;2928406;Santa Rita de Cássia;Bacia do Rio Grande;2000;Total_urb;12185
+762;2928505;Santa Terezinha;Piemonte do Paraguaçu;2000;Total_urb;1859
+763;2928000;Santaluz;Sisal;2000;Total_urb;17966
+764;2928208;Santana;Bacia do Rio Corrente;2000;Total_urb;12496
+765;2928307;Santanópolis;Portal do Sertão;2000;Total_urb;1250
+766;2928604;Santo Amaro;Recôncavo;2000;Total_urb;44505
+767;2928703;Santo Antônio de Jesus;Recôncavo;2000;Total_urb;66245
+768;2928802;Santo Estevão;Portal do Sertão;2000;Total_urb;19693
+769;2928901;São Desidério;Bacia do Rio Grande;2000;Total_urb;7129
+770;2928950;São Domingos;Sisal;2000;Total_urb;3711
+771;2929107;São Felipe;Recôncavo;2000;Total_urb;8250
+772;2929008;São Félix;Recôncavo;2000;Total_urb;8748
+773;2929057;São Félix do Coribe;Bacia do Rio Corrente;2000;Total_urb;8552
+774;2929206;São Francisco do Conde;Recôncavo;2000;Total_urb;21870
+775;2929255;São Gabriel;Irecê;2000;Total_urb;9811
+776;2929305;São Gonçalo dos Campos;Portal do Sertão;2000;Total_urb;13552
+777;2929354;São José da Vitória;Litoral Sul;2000;Total_urb;5154
+778;2929370;São José do Jacuípe;Bacia do Jacuípe;2000;Total_urb;5701
+779;2929404;São Miguel das Matas;Vale de Jequiriçá;2000;Total_urb;2772
+780;2929503;São Sebastião do Passé;Recôncavo;2000;Total_urb;29549
+781;2929602;Sapeaçu;Recôncavo;2000;Total_urb;7524
+782;2929701;Sátiro Dias;Litoral Norte e Agreste Baiano;2000;Total_urb;3426
+783;2929750;Saubara;Recôncavo;2000;Total_urb;10076
+784;2929800;Saúde;Piemonte da Diamantina;2000;Total_urb;5991
+785;2929909;Seabra;Chapada Diamantina;2000;Total_urb;16749
+786;2930006;Sebastião Laranjeiras;Sertão Produtivo;2000;Total_urb;3639
+787;2930105;Senhor do Bonfim;Piemonte Norte do Itapicuru;2000;Total_urb;51343
+788;2930204;Sento Sé;Sertão do São Francisco;2000;Total_urb;17264
+789;2930154;Serra do Ramalho;Velho Chico;2000;Total_urb;3742
+790;2930303;Serra Dourada;Bacia do Rio Corrente;2000;Total_urb;5377
+791;2930402;Serra Preta;Bacia do Jacuípe;2000;Total_urb;5692
+792;2930501;Serrinha;Sisal;2000;Total_urb;45943
+793;2930600;Serrolândia;Piemonte da Diamantina;2000;Total_urb;6042
+794;2930709;Simões Filho;Metropolitana de Salvador;2000;Total_urb;76905
+795;2930758;Sítio do Mato;Velho Chico;2000;Total_urb;6470
+796;2930766;Sítio do Quinto;Semi-Árido Nordeste II;2000;Total_urb;3662
+797;2930774;Sobradinho;Sertão do São Francisco;2000;Total_urb;19610
+798;2930808;Souto Soares;Chapada Diamantina;2000;Total_urb;5080
+799;2930907;Tabocas do Brejo Velho;Bacia do Rio Corrente;2000;Total_urb;3431
+800;2931004;Tanhaçu;Sertão Produtivo;2000;Total_urb;7017
+801;2931053;Tanque Novo;Bacia do Paramirim;2000;Total_urb;5535
+802;2931103;Tanquinho;Portal do Sertão;2000;Total_urb;5082
+803;2931202;Taperoá;Baixo Sul;2000;Total_urb;7523
+804;2931301;Tapiramutá;Piemonte do Paraguaçu;2000;Total_urb;12425
+805;2931350;Teixeira de Freitas;Extremo Sul;2000;Total_urb;98688
+806;2931400;Teodoro Sampaio;Portal do Sertão;2000;Total_urb;6627
+807;2931509;Teofilândia;Sisal;2000;Total_urb;5858
+808;2931608;Teolândia;Baixo Sul;2000;Total_urb;3606
+809;2931707;Terra Nova;Portal do Sertão;2000;Total_urb;11131
+810;2931806;Tremedal;Vitória da Conquista;2000;Total_urb;3503
+811;2931905;Tucano;Sisal;2000;Total_urb;18597
+812;2932002;Uauá;Sertão do São Francisco;2000;Total_urb;9608
+813;2932101;Ubaíra;Vale de Jequiriçá;2000;Total_urb;8010
+814;2932200;Ubaitaba;Litoral Sul;2000;Total_urb;18582
+815;2932309;Ubatã;Médio Rio de Contas;2000;Total_urb;17847
+816;2932408;Uibaí;Irecê;2000;Total_urb;7880
+817;2932457;Umburanas;Piemonte da Diamantina;2000;Total_urb;6186
+818;2932507;Una;Litoral Sul;2000;Total_urb;15274
+819;2932606;Urandi;Sertão Produtivo;2000;Total_urb;4730
+820;2932705;Uruçuca;Litoral Sul;2000;Total_urb;14158
+821;2932804;Utinga;Chapada Diamantina;2000;Total_urb;11472
+822;2932903;Valença;Baixo Sul;2000;Total_urb;55884
+823;2933000;Valente;Sisal;2000;Total_urb;9511
+824;2933059;Várzea da Roça;Bacia do Jacuípe;2000;Total_urb;5847
+825;2933109;Várzea do Poço;Bacia do Jacuípe;2000;Total_urb;5034
+826;2933158;Várzea Nova;Piemonte da Diamantina;2000;Total_urb;8683
+827;2933174;Varzedo;Recôncavo;2000;Total_urb;2627
+828;2933208;Vera Cruz;Metropolitana de Salvador;2000;Total_urb;27872
+829;2933257;Vereda;Extremo Sul;2000;Total_urb;1276
+830;2933307;Vitória da Conquista;Vitória da Conquista;2000;Total_urb;225545
+831;2933406;Wagner;Chapada Diamantina;2000;Total_urb;6037
+832;2933455;Wanderley;Bacia do Rio Grande;2000;Total_urb;5478
+833;2933505;Wenceslau Guimarães;Baixo Sul;2000;Total_urb;6790
+834;2933604;Xique-Xique;Irecê;2000;Total_urb;31565
+835;2900108;Abaíra;Chapada Diamantina;2010;Total_urb;3736
+836;2900207;Abaré;Itaparica;2010;Total_urb;9029
+837;2900306;Acajutiba;Litoral Norte e Agreste Baiano;2010;Total_urb;12774
+838;2900355;Adustina;Semi-Árido Nordeste II;2010;Total_urb;5572
+839;2900405;Água Fria;Portal do Sertão;2010;Total_urb;5777
+840;2900603;Aiquara;Médio Rio de Contas;2010;Total_urb;2680
+841;2900702;Alagoinhas;Litoral Norte e Agreste Baiano;2010;Total_urb;124042
+842;2900801;Alcobaça;Extremo Sul;2010;Total_urb;11085
+843;2900900;Almadina;Litoral Sul;2010;Total_urb;5080
+844;2901007;Amargosa;Vale de Jequiriçá;2010;Total_urb;24891
+845;2901106;Amélia Rodrigues;Portal do Sertão;2010;Total_urb;19957
+846;2901155;América Dourada;Irecê;2010;Total_urb;10832
+847;2901205;Anagé;Vitória da Conquista;2010;Total_urb;4924
+848;2901304;Andaraí;Chapada Diamantina;2010;Total_urb;7773
+849;2901353;Andorinha;Piemonte Norte do Itapicuru;2010;Total_urb;6208
+850;2901403;Angical;Bacia do Rio Grande;2010;Total_urb;6531
+851;2901502;Anguera;Portal do Sertão;2010;Total_urb;4326
+852;2901601;Antas;Semi-Árido Nordeste II;2010;Total_urb;6360
+853;2901700;Antônio Cardoso;Portal do Sertão;2010;Total_urb;3225
+854;2901809;Antônio Gonçalves;Piemonte Norte do Itapicuru;2010;Total_urb;5783
+855;2901908;Aporá;Litoral Norte e Agreste Baiano;2010;Total_urb;8505
+856;2901957;Apuarema;Médio Rio de Contas;2010;Total_urb;5117
+857;2902054;Araçás;Litoral Norte e Agreste Baiano;2010;Total_urb;5807
+858;2902005;Aracatu;Vitória da Conquista;2010;Total_urb;3938
+859;2902104;Araci;Sisal;2010;Total_urb;19638
+860;2902203;Aramari;Litoral Norte e Agreste Baiano;2010;Total_urb;5125
+861;2902252;Arataca;Litoral Sul;2010;Total_urb;5588
+862;2902302;Aratuípe;Baixo Sul;2010;Total_urb;5513
+863;2902401;Aurelino Leal;Litoral Sul;2010;Total_urb;11426
+864;2902500;Baianópolis;Bacia do Rio Grande;2010;Total_urb;3482
+865;2902609;Baixa Grande;Bacia do Jacuípe;2010;Total_urb;8338
+866;2902658;Banzaê;Semi-Árido Nordeste II;2010;Total_urb;4042
+867;2902708;Barra;Velho Chico;2010;Total_urb;22446
+868;2902807;Barra da Estiva;Chapada Diamantina;2010;Total_urb;10404
+869;2902906;Barra do Choça;Vitória da Conquista;2010;Total_urb;22407
+870;2903003;Barra do Mendes;Irecê;2010;Total_urb;6256
+871;2903102;Barra do Rocha;Médio Rio de Contas;2010;Total_urb;3806
+872;2903201;Barreiras;Bacia do Rio Grande;2010;Total_urb;123741
+873;2903235;Barro Alto;Irecê;2010;Total_urb;6712
+874;2903300;Barro Preto/Lomanto Junior;Litoral Sul;2010;Total_urb;5295
+875;2903276;Barrocas;Sisal;2010;Total_urb;5695
+876;2903409;Belmonte;Costa do Descobrimento;2010;Total_urb;11420
+877;2903508;Belo Campo;Vitória da Conquista;2010;Total_urb;9029
+878;2903607;Biritinga;Sisal;2010;Total_urb;3517
+879;2903706;Boa Nova;Médio Rio de Contas;2010;Total_urb;5804
+880;2903805;Boa Vista do Tupim;Piemonte do Paraguaçu;2010;Total_urb;6593
+881;2903904;Bom Jesus da Lapa;Velho Chico;2010;Total_urb;43099
+882;2903953;Bom Jesus da Serra;Vitória da Conquista;2010;Total_urb;2768
+883;2904001;Boninal;Chapada Diamantina;2010;Total_urb;4607
+884;2904050;Bonito;Chapada Diamantina;2010;Total_urb;6232
+885;2904100;Boquira;Bacia do Paramirim;2010;Total_urb;7364
+886;2904209;Botuporã;Bacia do Paramirim;2010;Total_urb;4076
+887;2904308;Brejões;Vale de Jequiriçá;2010;Total_urb;4937
+888;2904407;Brejolândia;Bacia do Rio Corrente;2010;Total_urb;1984
+889;2904506;Brotas de Macaúbas;Velho Chico;2010;Total_urb;3118
+890;2904605;Brumado;Sertão Produtivo;2010;Total_urb;45131
+891;2904704;Buerarema;Litoral Sul;2010;Total_urb;15277
+892;2904753;Buritirama;Bacia do Rio Grande;2010;Total_urb;7905
+893;2904803;Caatiba;Médio Sudoeste da Bahia;2010;Total_urb;5398
+894;2904852;Cabaceiras do Paraguaçu;Recôncavo;2010;Total_urb;4644
+895;2904902;Cachoeira;Recôncavo;2010;Total_urb;16387
+896;2905008;Caculé;Sertão Produtivo;2010;Total_urb;13309
+897;2905107;Caém;Piemonte da Diamantina;2010;Total_urb;3655
+898;2905156;Caetanos;Vitória da Conquista;2010;Total_urb;3291
+899;2905206;Caetité;Sertão Produtivo;2010;Total_urb;28447
+900;2905305;Cafarnaum;Irecê;2010;Total_urb;10563
+901;2905404;Cairu;Baixo Sul;2010;Total_urb;8147
+902;2905503;Caldeirão Grande;Piemonte Norte do Itapicuru;2010;Total_urb;4558
+903;2905602;Camacan;Litoral Sul;2010;Total_urb;24685
+904;2905701;Camaçari;Metropolitana de Salvador;2010;Total_urb;231973
+905;2905800;Camamu;Baixo Sul;2010;Total_urb;15618
+906;2905909;Campo Alegre de Lourdes;Sertão do São Francisco;2010;Total_urb;8126
+907;2906006;Campo Formoso;Piemonte Norte do Itapicuru;2010;Total_urb;24863
+908;2906105;Canápolis;Bacia do Rio Corrente;2010;Total_urb;3225
+909;2906204;Canarana;Irecê;2010;Total_urb;11455
+910;2906303;Canavieiras;Litoral Sul;2010;Total_urb;25903
+911;2906402;Candeal;Sisal;2010;Total_urb;3476
+912;2906501;Candeias;Metropolitana de Salvador;2010;Total_urb;75994
+913;2906600;Candiba;Sertão Produtivo;2010;Total_urb;7725
+914;2906709;Cândido Sales;Vitória da Conquista;2010;Total_urb;19286
+915;2906808;Cansanção;Sisal;2010;Total_urb;11021
+916;2906824;Canudos;Sertão do São Francisco;2010;Total_urb;8698
+917;2906857;Capela do Alto Alegre;Bacia do Jacuípe;2010;Total_urb;5595
+918;2906873;Capim Grosso;Piemonte da Diamantina;2010;Total_urb;21762
+919;2906899;Caraíbas;Vitória da Conquista;2010;Total_urb;2513
+920;2906907;Caravelas;Extremo Sul;2010;Total_urb;11309
+921;2907004;Cardeal da Silva;Litoral Norte e Agreste Baiano;2010;Total_urb;2901
+922;2907103;Carinhanha;Velho Chico;2010;Total_urb;12585
+923;2907202;Casa Nova;Sertão do São Francisco;2010;Total_urb;37543
+924;2907301;Castro Alves;Recôncavo;2010;Total_urb;15686
+925;2907400;Catolândia;Bacia do Rio Grande;2010;Total_urb;967
+926;2907509;Catu;Litoral Norte e Agreste Baiano;2010;Total_urb;42755
+927;2907558;Caturama;Bacia do Paramirim;2010;Total_urb;2374
+928;2907608;Central;Irecê;2010;Total_urb;8157
+929;2907707;Chorrochó;Itaparica;2010;Total_urb;2631
+930;2907806;Cícero Dantas;Semi-Árido Nordeste II;2010;Total_urb;17726
+931;2907905;Cipó;Semi-Árido Nordeste II;2010;Total_urb;11287
+932;2908002;Coaraci;Litoral Sul;2010;Total_urb;19130
+933;2908101;Côcos;Bacia do Rio Corrente;2010;Total_urb;8572
+934;2908200;Conceição da Feira;Portal do Sertão;2010;Total_urb;13137
+935;2908309;Conceição do Almeida;Recôncavo;2010;Total_urb;7926
+936;2908408;Conceição do Coité;Sisal;2010;Total_urb;36278
+937;2908507;Conceição do Jacuípe;Portal do Sertão;2010;Total_urb;23539
+938;2908606;Conde;Litoral Norte e Agreste Baiano;2010;Total_urb;12129
+939;2908705;Condeúba;Vitória da Conquista;2010;Total_urb;7462
+940;2908804;Contendas do Sincorá;Sertão Produtivo;2010;Total_urb;2297
+941;2908903;Coração de Maria;Portal do Sertão;2010;Total_urb;9400
+942;2909000;Cordeiros;Vitória da Conquista;2010;Total_urb;2551
+943;2909109;Coribe;Bacia do Rio Corrente;2010;Total_urb;6141
+944;2909208;Coronel João Sá;Semi-Árido Nordeste II;2010;Total_urb;7043
+945;2909307;Correntina;Bacia do Rio Corrente;2010;Total_urb;12604
+946;2909406;Cotegipe;Bacia do Rio Grande;2010;Total_urb;6648
+947;2909505;Cravolândia;Vale de Jequiriçá;2010;Total_urb;3180
+948;2909604;Crisópolis;Litoral Norte e Agreste Baiano;2010;Total_urb;8612
+949;2909703;Cristópolis;Bacia do Rio Grande;2010;Total_urb;3133
+950;2909802;Cruz das Almas;Recôncavo;2010;Total_urb;49885
+951;2909901;Curaçá;Sertão do São Francisco;2010;Total_urb;13719
+952;2910008;Dário Meira;Médio Rio de Contas;2010;Total_urb;5090
+953;2910057;Dias D'Ávila;Metropolitana de Salvador;2010;Total_urb;62473
+954;2910107;Dom Basílio;Sertão Produtivo;2010;Total_urb;2241
+955;2910206;Dom Macedo Costa;Recôncavo;2010;Total_urb;1761
+956;2910305;Elísio Medrado;Vale de Jequiriçá;2010;Total_urb;3248
+957;2910404;Encruzilhada;Vitória da Conquista;2010;Total_urb;5130
+958;2910503;Entre Rios;Litoral Norte e Agreste Baiano;2010;Total_urb;23840
+959;2900504;Érico Cardoso;Bacia do Paramirim;2010;Total_urb;2016
+960;2910602;Esplanada;Litoral Norte e Agreste Baiano;2010;Total_urb;20822
+961;2910701;Euclides da Cunha;Semi-Árido Nordeste II;2010;Total_urb;27416
+962;2910727;Eunápolis;Costa do Descobrimento;2010;Total_urb;93413
+963;2910750;Fátima;Semi-Árido Nordeste II;2010;Total_urb;6916
+964;2910776;Feira da Mata;Velho Chico;2010;Total_urb;3243
+965;2910800;Feira de Santana;Portal do Sertão;2010;Total_urb;510635
+966;2910859;Filadélfia;Piemonte Norte do Itapicuru;2010;Total_urb;9022
+967;2910909;Firmino Alves;Médio Sudoeste da Bahia;2010;Total_urb;4337
+968;2911006;Floresta Azul;Litoral Sul;2010;Total_urb;7343
+969;2911105;Formosa do Rio Preto;Bacia do Rio Grande;2010;Total_urb;13647
+970;2911204;Gandu;Baixo Sul;2010;Total_urb;24848
+971;2911253;Gavião;Bacia do Jacuípe;2010;Total_urb;2538
+972;2911303;Gentio do Ouro;Irecê;2010;Total_urb;5350
+973;2911402;Glória;Itaparica;2010;Total_urb;2827
+974;2911501;Gongogi;Médio Rio de Contas;2010;Total_urb;5358
+975;2911600;Governador Mangabeira;Recôncavo;2010;Total_urb;7417
+976;2911659;Guajeru;Vitória da Conquista;2010;Total_urb;2077
+977;2911709;Guanambi;Sertão Produtivo;2010;Total_urb;62565
+978;2911808;Guaratinga;Costa do Descobrimento;2010;Total_urb;10425
+979;2911857;Heliópolis;Semi-Árido Nordeste II;2010;Total_urb;5428
+980;2911907;Iaçu;Piemonte do Paraguaçu;2010;Total_urb;20168
+981;2912004;Ibiassucê;Sertão Produtivo;2010;Total_urb;4706
+982;2912103;Ibicaraí;Litoral Sul;2010;Total_urb;17885
+983;2912202;Ibicoara;Chapada Diamantina;2010;Total_urb;10961
+984;2912301;Ibicuí;Médio Sudoeste da Bahia;2010;Total_urb;11964
+985;2912400;Ibipeba;Irecê;2010;Total_urb;10049
+986;2912509;Ibipitanga;Bacia do Paramirim;2010;Total_urb;5155
+987;2912608;Ibiquera;Piemonte do Paraguaçu;2010;Total_urb;2461
+988;2912707;Ibirapitanga;Baixo Sul;2010;Total_urb;6163
+989;2912806;Ibirapoã;Extremo Sul;2010;Total_urb;4532
+990;2912905;Ibirataia;Médio Rio de Contas;2010;Total_urb;15742
+991;2913002;Ibitiara;Chapada Diamantina;2010;Total_urb;3437
+992;2913101;Ibititá;Irecê;2010;Total_urb;8338
+993;2913200;Ibotirama;Velho Chico;2010;Total_urb;19501
+994;2913309;Ichu;Sisal;2010;Total_urb;3365
+995;2913408;Igaporã;Velho Chico;2010;Total_urb;7864
+996;2913457;Igrapiúna;Baixo Sul;2010;Total_urb;4275
+997;2913507;Iguaí;Médio Sudoeste da Bahia;2010;Total_urb;14580
+998;2913606;Ilhéus;Litoral Sul;2010;Total_urb;155281
+999;2913705;Inhambupe;Litoral Norte e Agreste Baiano;2010;Total_urb;15635
+1000;2913804;Ipecaetá;Portal do Sertão;2010;Total_urb;2637
+1001;2913903;Ipiaú;Médio Rio de Contas;2010;Total_urb;40384
+1002;2914000;Ipirá;Bacia do Jacuípe;2010;Total_urb;29009
+1003;2914109;Ipupiara;Irecê;2010;Total_urb;5979
+1004;2914208;Irajuba;Vale de Jequiriçá;2010;Total_urb;3273
+1005;2914307;Iramaia;Chapada Diamantina;2010;Total_urb;5404
+1006;2914406;Iraquara;Chapada Diamantina;2010;Total_urb;6757
+1007;2914505;Irará;Portal do Sertão;2010;Total_urb;11246
+1008;2914604;Irecê;Irecê;2010;Total_urb;61019
+1009;2914653;Itabela;Costa do Descobrimento;2010;Total_urb;21384
+1010;2914703;Itaberaba;Piemonte do Paraguaçu;2010;Total_urb;48485
+1011;2914802;Itabuna;Litoral Sul;2010;Total_urb;199643
+1012;2914901;Itacaré;Litoral Sul;2010;Total_urb;13642
+1013;2915007;Itaeté;Chapada Diamantina;2010;Total_urb;6209
+1014;2915106;Itagi;Médio Rio de Contas;2010;Total_urb;10210
+1015;2915205;Itagibá;Médio Rio de Contas;2010;Total_urb;9572
+1016;2915304;Itagimirim;Costa do Descobrimento;2010;Total_urb;5649
+1017;2915353;Itaguaçu da Bahia;Irecê;2010;Total_urb;2598
+1018;2915403;Itaju do Colônia;Litoral Sul;2010;Total_urb;5860
+1019;2915502;Itajuípe;Litoral Sul;2010;Total_urb;16839
+1020;2915601;Itamaraju;Extremo Sul;2010;Total_urb;49785
+1021;2915700;Itamari;Médio Rio de Contas;2010;Total_urb;5839
+1022;2915809;Itambé;Médio Sudoeste da Bahia;2010;Total_urb;19698
+1023;2915908;Itanagra;Litoral Norte e Agreste Baiano;2010;Total_urb;2327
+1024;2916005;Itanhém;Extremo Sul;2010;Total_urb;14206
+1025;2916104;Itaparica;Metropolitana de Salvador;2010;Total_urb;20725
+1026;2916203;Itapé;Litoral Sul;2010;Total_urb;7180
+1027;2916302;Itapebi;Costa do Descobrimento;2010;Total_urb;8268
+1028;2916401;Itapetinga;Médio Sudoeste da Bahia;2010;Total_urb;66276
+1029;2916500;Itapicuru;Litoral Norte e Agreste Baiano;2010;Total_urb;6675
+1030;2916609;Itapitanga;Litoral Sul;2010;Total_urb;7591
+1031;2916708;Itaquara;Vale de Jequiriçá;2010;Total_urb;4608
+1032;2916807;Itarantim;Médio Sudoeste da Bahia;2010;Total_urb;15302
+1033;2916856;Itatim;Piemonte do Paraguaçu;2010;Total_urb;10112
+1034;2916906;Itiruçu;Vale de Jequiriçá;2010;Total_urb;9526
+1035;2917003;Itiúba;Sisal;2010;Total_urb;9699
+1036;2917102;Itororó;Médio Sudoeste da Bahia;2010;Total_urb;18100
+1037;2917201;Ituaçu;Sertão Produtivo;2010;Total_urb;6569
+1038;2917300;Ituberá;Baixo Sul;2010;Total_urb;19252
+1039;2917334;Iuiu;Sertão Produtivo;2010;Total_urb;5284
+1040;2917359;Jaborandi;Bacia do Rio Corrente;2010;Total_urb;3040
+1041;2917409;Jacaraci;Vitória da Conquista;2010;Total_urb;4923
+1042;2917508;Jacobina;Piemonte da Diamantina;2010;Total_urb;55868
+1043;2917607;Jaguaquara;Vale de Jequiriçá;2010;Total_urb;38850
+1044;2917706;Jaguarari;Piemonte Norte do Itapicuru;2010;Total_urb;16612
+1045;2917805;Jaguaripe;Baixo Sul;2010;Total_urb;5298
+1046;2917904;Jandaíra;Litoral Norte e Agreste Baiano;2010;Total_urb;6147
+1047;2918001;Jequié;Médio Rio de Contas;2010;Total_urb;139426
+1048;2918100;Jeremoabo;Semi-Árido Nordeste II;2010;Total_urb;17437
+1049;2918209;Jiquiriçá;Vale de Jequiriçá;2010;Total_urb;5581
+1050;2918308;Jitaúna;Médio Rio de Contas;2010;Total_urb;9260
+1051;2918357;João Dourado;Irecê;2010;Total_urb;13569
+1052;2918407;Juazeiro;Sertão do São Francisco;2010;Total_urb;160775
+1053;2918456;Jucuruçu;Extremo Sul;2010;Total_urb;2292
+1054;2918506;Jussara;Irecê;2010;Total_urb;10052
+1055;2918555;Jussari;Litoral Sul;2010;Total_urb;4876
+1056;2918605;Jussiape;Chapada Diamantina;2010;Total_urb;3068
+1057;2918704;Lafayette Coutinho;Vale de Jequiriçá;2010;Total_urb;2104
+1058;2919058;Lagedo do Tabocal;Vale de Jequiriçá;2010;Total_urb;5149
+1059;2918753;Lagoa Real;Sertão Produtivo;2010;Total_urb;2808
+1060;2918803;Laje;Vale de Jequiriçá;2010;Total_urb;6080
+1061;2918902;Lajedão;Extremo Sul;2010;Total_urb;2076
+1062;2919009;Lajedinho;Piemonte do Paraguaçu;2010;Total_urb;1245
+1063;2919108;Lamarão;Sisal;2010;Total_urb;2085
+1064;2919157;Lapão;Irecê;2010;Total_urb;10050
+1065;2919207;Lauro de Freitas;Metropolitana de Salvador;2010;Total_urb;163449
+1066;2919306;Lençóis;Chapada Diamantina;2010;Total_urb;8037
+1067;2919405;Licínio de Almeida;Vitória da Conquista;2010;Total_urb;6253
+1068;2919504;Livramento de N. Senhora;Sertão Produtivo;2010;Total_urb;20530
+1069;2919553;Luís Eduardo Magalhães;Bacia do Rio Grande;2010;Total_urb;54881
+1070;2919603;Macajuba;Piemonte do Paraguaçu;2010;Total_urb;6871
+1071;2919702;Macarani;Médio Sudoeste da Bahia;2010;Total_urb;13639
+1072;2919801;Macaúbas;Bacia do Paramirim;2010;Total_urb;15411
+1073;2919900;Macururé;Itaparica;2010;Total_urb;2860
+1074;2919926;Madre de Deus;Metropolitana de Salvador;2010;Total_urb;16854
+1075;2919959;Maetinga;Vitória da Conquista;2010;Total_urb;2817
+1076;2920007;Maiquinique;Médio Sudoeste da Bahia;2010;Total_urb;6916
+1077;2920106;Mairi;Bacia do Jacuípe;2010;Total_urb;11115
+1078;2920205;Malhada;Velho Chico;2010;Total_urb;6559
+1079;2920304;Malhada de Pedras;Sertão Produtivo;2010;Total_urb;3234
+1080;2920403;Manoel Vitorino;Médio Rio de Contas;2010;Total_urb;7359
+1081;2920452;Mansidão;Bacia do Rio Grande;2010;Total_urb;4782
+1082;2920502;Maracás;Vale de Jequiriçá;2010;Total_urb;17707
+1083;2920601;Maragogipe;Recôncavo;2010;Total_urb;25093
+1084;2920700;Maraú;Litoral Sul;2010;Total_urb;3561
+1085;2920809;Marcionílio Souza;Chapada Diamantina;2010;Total_urb;5312
+1086;2920908;Mascote;Litoral Sul;2010;Total_urb;11679
+1087;2921005;Mata de São João;Litoral Norte e Agreste Baiano;2010;Total_urb;29825
+1088;2921054;Matina;Velho Chico;2010;Total_urb;3473
+1089;2921104;Medeiros Neto;Extremo Sul;2010;Total_urb;17064
+1090;2921203;Miguel Calmon;Piemonte da Diamantina;2010;Total_urb;16066
+1091;2921302;Milagres;Vale de Jequiriçá;2010;Total_urb;7789
+1092;2921401;Mirangaba;Piemonte da Diamantina;2010;Total_urb;7879
+1093;2921450;Mirante;Vitória da Conquista;2010;Total_urb;1809
+1094;2921500;Monte Santo;Sisal;2010;Total_urb;8845
+1095;2921609;Morpará;Velho Chico;2010;Total_urb;5538
+1096;2921708;Morro do Chapéu;Chapada Diamantina;2010;Total_urb;20267
+1097;2921807;Mortugaba;Vitória da Conquista;2010;Total_urb;5887
+1098;2921906;Mucugê;Chapada Diamantina;2010;Total_urb;4180
+1099;2922003;Mucuri;Extremo Sul;2010;Total_urb;27492
+1100;2922052;Mulungu do Morro;Irecê;2010;Total_urb;5919
+1101;2922102;Mundo Novo;Piemonte do Paraguaçu;2010;Total_urb;13564
+1102;2922201;Muniz Ferreira;Recôncavo;2010;Total_urb;3394
+1103;2922250;Muquém do São Francisco;Velho Chico;2010;Total_urb;1283
+1104;2922300;Muritiba;Recôncavo;2010;Total_urb;18040
+1105;2922409;Mutuípe;Vale de Jequiriçá;2010;Total_urb;9659
+1106;2922508;Nazaré;Recôncavo;2010;Total_urb;22864
+1107;2922607;Nilo Peçanha;Baixo Sul;2010;Total_urb;3105
+1108;2922656;Nordestina;Sisal;2010;Total_urb;3921
+1109;2922706;Nova Canaã;Médio Sudoeste da Bahia;2010;Total_urb;6852
+1110;2922730;Nova Fátima;Bacia do Jacuípe;2010;Total_urb;5074
+1111;2922755;Nova Ibiá;Médio Rio de Contas;2010;Total_urb;2807
+1112;2922805;Nova Itarana;Vale de Jequiriçá;2010;Total_urb;2715
+1113;2922854;Nova Redenção;Chapada Diamantina;2010;Total_urb;5237
+1114;2922904;Nova Soure;Semi-Árido Nordeste II;2010;Total_urb;11730
+1115;2923001;Nova Viçosa;Extremo Sul;2010;Total_urb;33526
+1116;2923035;Novo Horizonte;Chapada Diamantina;2010;Total_urb;3505
+1117;2923050;Novo Triunfo;Semi-Árido Nordeste II;2010;Total_urb;7503
+1118;2923100;Olindina;Litoral Norte e Agreste Baiano;2010;Total_urb;12773
+1119;2923209;Oliveira dos Brejinhos;Velho Chico;2010;Total_urb;6584
+1120;2923308;Ouriçangas;Litoral Norte e Agreste Baiano;2010;Total_urb;2762
+1121;2923357;Ourolândia;Piemonte da Diamantina;2010;Total_urb;6341
+1122;2923407;Palmas de Monte Alto;Sertão Produtivo;2010;Total_urb;9832
+1123;2923506;Palmeiras;Chapada Diamantina;2010;Total_urb;5239
+1124;2923605;Paramirim;Bacia do Paramirim;2010;Total_urb;10029
+1125;2923704;Paratinga;Velho Chico;2010;Total_urb;10905
+1126;2923803;Paripiranga;Semi-Árido Nordeste II;2010;Total_urb;9533
+1127;2923902;Pau Brasil;Litoral Sul;2010;Total_urb;7382
+1128;2924009;Paulo Afonso;Itaparica;2010;Total_urb;93404
+1129;2924058;Pé de Serra;Bacia do Jacuípe;2010;Total_urb;5174
+1130;2924108;Pedrão;Litoral Norte e Agreste Baiano;2010;Total_urb;1716
+1131;2924207;Pedro Alexandre;Semi-Árido Nordeste II;2010;Total_urb;2786
+1132;2924306;Piatã;Chapada Diamantina;2010;Total_urb;7612
+1133;2924405;Pilão Arcado;Sertão do São Francisco;2010;Total_urb;11027
+1134;2924504;Pindaí;Sertão Produtivo;2010;Total_urb;4319
+1135;2924603;Pindobaçu;Piemonte Norte do Itapicuru;2010;Total_urb;11237
+1136;2924652;Pintadas;Bacia do Jacuípe;2010;Total_urb;5840
+1137;2924678;Piraí do Norte;Baixo Sul;2010;Total_urb;3689
+1138;2924702;Piripá;Vitória da Conquista;2010;Total_urb;6195
+1139;2924801;Piritiba;Piemonte do Paraguaçu;2010;Total_urb;15162
+1140;2924900;Planaltino;Vale de Jequiriçá;2010;Total_urb;3640
+1141;2925006;Planalto;Vitória da Conquista;2010;Total_urb;14869
+1142;2925105;Poções;Vitória da Conquista;2010;Total_urb;34659
+1143;2925204;Pojuca;Litoral Norte e Agreste Baiano;2010;Total_urb;28378
+1144;2925253;Ponto Novo;Piemonte Norte do Itapicuru;2010;Total_urb;8405
+1145;2925303;Porto Seguro;Costa do Descobrimento;2010;Total_urb;104078
+1146;2925402;Potiraguá;Médio Sudoeste da Bahia;2010;Total_urb;6604
+1147;2925501;Prado;Extremo Sul;2010;Total_urb;15474
+1148;2925600;Presidente Dutra;Irecê;2010;Total_urb;9056
+1149;2925709;Presidente Jânio Quadros;Vitória da Conquista;2010;Total_urb;4198
+1150;2925758;Presidente Tancredo Neves;Baixo Sul;2010;Total_urb;9569
+1151;2925808;Queimadas;Sisal;2010;Total_urb;12492
+1152;2925907;Quijingue;Sisal;2010;Total_urb;6377
+1153;2925931;Quixabeira;Bacia do Jacuípe;2010;Total_urb;3663
+1154;2925956;Rafael Jambeiro;Piemonte do Paraguaçu;2010;Total_urb;6850
+1155;2926004;Remanso;Sertão do São Francisco;2010;Total_urb;23470
+1156;2926103;Retirolândia;Sisal;2010;Total_urb;6722
+1157;2926202;Riachão das Neves;Bacia do Rio Grande;2010;Total_urb;10744
+1158;2926301;Riachão do Jacuípe;Bacia do Jacuípe;2010;Total_urb;19860
+1159;2926400;Riacho de Santana;Velho Chico;2010;Total_urb;13091
+1160;2926509;Ribeira do Amparo;Semi-Árido Nordeste II;2010;Total_urb;1921
+1161;2926608;Ribeira do Pombal;Semi-Árido Nordeste II;2010;Total_urb;29756
+1162;2926657;Ribeirão do Largo;Vitória da Conquista;2010;Total_urb;4647
+1163;2926707;Rio de Contas;Chapada Diamantina;2010;Total_urb;6309
+1164;2926806;Rio do Antônio;Sertão Produtivo;2010;Total_urb;5993
+1165;2926905;Rio do Pires;Bacia do Paramirim;2010;Total_urb;5267
+1166;2927002;Rio Real;Litoral Norte e Agreste Baiano;2010;Total_urb;23310
+1167;2927101;Rodelas;Itaparica;2010;Total_urb;6540
+1168;2927200;Ruy Barbosa;Piemonte do Paraguaçu;2010;Total_urb;22093
+1169;2927309;Salinas da Margarida;Metropolitana de Salvador;2010;Total_urb;5960
+1170;2927408;Salvador;Metropolitana de Salvador;2010;Total_urb;2674923
+1171;2927507;Santa Bárbara;Portal do Sertão;2010;Total_urb;8669
+1172;2927606;Santa Brígida;Semi-Árido Nordeste II;2010;Total_urb;5611
+1173;2927705;Santa Cruz Cabrália;Costa do Descobrimento;2010;Total_urb;19002
+1174;2927804;Santa Cruz da Vitória;Médio Sudoeste da Bahia;2010;Total_urb;5076
+1175;2927903;Santa Inês;Vale de Jequiriçá;2010;Total_urb;9514
+1176;2928059;Santa Luzia;Litoral Sul;2010;Total_urb;8072
+1177;2928109;Santa Maria da Vitória;Bacia do Rio Corrente;2010;Total_urb;23816
+1178;2928406;Santa Rita de Cássia;Bacia do Rio Grande;2010;Total_urb;14907
+1179;2928505;Santa Terezinha;Piemonte do Paraguaçu;2010;Total_urb;2334
+1180;2928000;Santaluz;Sisal;2010;Total_urb;20795
+1181;2928208;Santana;Bacia do Rio Corrente;2010;Total_urb;13483
+1182;2928307;Santanópolis;Portal do Sertão;2010;Total_urb;1684
+1183;2928604;Santo Amaro;Recôncavo;2010;Total_urb;44766
+1184;2928703;Santo Antônio de Jesus;Recôncavo;2010;Total_urb;79299
+1185;2928802;Santo Estevão;Portal do Sertão;2010;Total_urb;27690
+1186;2928901;São Desidério;Bacia do Rio Grande;2010;Total_urb;8633
+1187;2928950;São Domingos;Sisal;2010;Total_urb;5916
+1188;2929107;São Felipe;Recôncavo;2010;Total_urb;9820
+1189;2929008;São Félix;Recôncavo;2010;Total_urb;9265
+1190;2929057;São Félix do Coribe;Bacia do Rio Corrente;2010;Total_urb;10587
+1191;2929206;São Francisco do Conde;Recôncavo;2010;Total_urb;27391
+1192;2929255;São Gabriel;Irecê;2010;Total_urb;10494
+1193;2929305;São Gonçalo dos Campos;Portal do Sertão;2010;Total_urb;16505
+1194;2929354;São José da Vitória;Litoral Sul;2010;Total_urb;5162
+1195;2929370;São José do Jacuípe;Bacia do Jacuípe;2010;Total_urb;6991
+1196;2929404;São Miguel das Matas;Vale de Jequiriçá;2010;Total_urb;3360
+1197;2929503;São Sebastião do Passé;Recôncavo;2010;Total_urb;33112
+1198;2929602;Sapeaçu;Recôncavo;2010;Total_urb;8084
+1199;2929701;Sátiro Dias;Litoral Norte e Agreste Baiano;2010;Total_urb;4332
+1200;2929750;Saubara;Recôncavo;2010;Total_urb;10948
+1201;2929800;Saúde;Piemonte da Diamantina;2010;Total_urb;6646
+1202;2929909;Seabra;Chapada Diamantina;2010;Total_urb;20277
+1203;2930006;Sebastião Laranjeiras;Sertão Produtivo;2010;Total_urb;4084
+1204;2930105;Senhor do Bonfim;Piemonte Norte do Itapicuru;2010;Total_urb;57566
+1205;2930204;Sento Sé;Sertão do São Francisco;2010;Total_urb;21676
+1206;2930154;Serra do Ramalho;Velho Chico;2010;Total_urb;6274
+1207;2930303;Serra Dourada;Bacia do Rio Corrente;2010;Total_urb;6002
+1208;2930402;Serra Preta;Bacia do Jacuípe;2010;Total_urb;6920
+1209;2930501;Serrinha;Sisal;2010;Total_urb;47188
+1210;2930600;Serrolândia;Piemonte da Diamantina;2010;Total_urb;7279
+1211;2930709;Simões Filho;Metropolitana de Salvador;2010;Total_urb;105811
+1212;2930758;Sítio do Mato;Velho Chico;2010;Total_urb;6866
+1213;2930766;Sítio do Quinto;Semi-Árido Nordeste II;2010;Total_urb;5172
+1214;2930774;Sobradinho;Sertão do São Francisco;2010;Total_urb;20002
+1215;2930808;Souto Soares;Chapada Diamantina;2010;Total_urb;6039
+1216;2930907;Tabocas do Brejo Velho;Bacia do Rio Corrente;2010;Total_urb;3932
+1217;2931004;Tanhaçu;Sertão Produtivo;2010;Total_urb;8290
+1218;2931053;Tanque Novo;Bacia do Paramirim;2010;Total_urb;7317
+1219;2931103;Tanquinho;Portal do Sertão;2010;Total_urb;5711
+1220;2931202;Taperoá;Baixo Sul;2010;Total_urb;8725
+1221;2931301;Tapiramutá;Piemonte do Paraguaçu;2010;Total_urb;12784
+1222;2931350;Teixeira de Freitas;Extremo Sul;2010;Total_urb;129263
+1223;2931400;Teodoro Sampaio;Portal do Sertão;2010;Total_urb;6341
+1224;2931509;Teofilândia;Sisal;2010;Total_urb;6692
+1225;2931608;Teolândia;Baixo Sul;2010;Total_urb;5068
+1226;2931707;Terra Nova;Portal do Sertão;2010;Total_urb;11488
+1227;2931806;Tremedal;Vitória da Conquista;2010;Total_urb;3939
+1228;2931905;Tucano;Sisal;2010;Total_urb;21958
+1229;2932002;Uauá;Sertão do São Francisco;2010;Total_urb;10761
+1230;2932101;Ubaíra;Vale de Jequiriçá;2010;Total_urb;8822
+1231;2932200;Ubaitaba;Litoral Sul;2010;Total_urb;17598
+1232;2932309;Ubatã;Médio Rio de Contas;2010;Total_urb;17951
+1233;2932408;Uibaí;Irecê;2010;Total_urb;8311
+1234;2932457;Umburanas;Piemonte da Diamantina;2010;Total_urb;7510
+1235;2932507;Una;Litoral Sul;2010;Total_urb;15030
+1236;2932606;Urandi;Sertão Produtivo;2010;Total_urb;5939
+1237;2932705;Uruçuca;Litoral Sul;2010;Total_urb;15779
+1238;2932804;Utinga;Chapada Diamantina;2010;Total_urb;12810
+1239;2932903;Valença;Baixo Sul;2010;Total_urb;64368
+1240;2933000;Valente;Sisal;2010;Total_urb;13487
+1241;2933059;Várzea da Roça;Bacia do Jacuípe;2010;Total_urb;6481
+1242;2933109;Várzea do Poço;Bacia do Jacuípe;2010;Total_urb;5789
+1243;2933158;Várzea Nova;Piemonte da Diamantina;2010;Total_urb;8553
+1244;2933174;Varzedo;Recôncavo;2010;Total_urb;3364
+1245;2933208;Vera Cruz;Metropolitana de Salvador;2010;Total_urb;35244
+1246;2933257;Vereda;Extremo Sul;2010;Total_urb;1379
+1247;2933307;Vitória da Conquista;Vitória da Conquista;2010;Total_urb;274739
+1248;2933406;Wagner;Chapada Diamantina;2010;Total_urb;6482
+1249;2933455;Wanderley;Bacia do Rio Grande;2010;Total_urb;5878
+1250;2933505;Wenceslau Guimarães;Baixo Sul;2010;Total_urb;7511
+1251;2933604;Xique-Xique;Irecê;2010;Total_urb;32541
+1252;2900108;Abaíra;Chapada Diamantina;1991;Total_rural;5789
+1253;2900207;Abaré;Itaparica;1991;Total_rural;8497
+1254;2900306;Acajutiba;Litoral Norte e Agreste Baiano;1991;Total_rural;3166
+1255;2900355;Adustina;Semi-Árido Nordeste II;1991;Total_rural;11435
+1256;2900405;Água Fria;Portal do Sertão;1991;Total_rural;11023
+1257;2900603;Aiquara;Médio Rio de Contas;1991;Total_rural;4157
+1258;2900702;Alagoinhas;Litoral Norte e Agreste Baiano;1991;Total_rural;17386
+1259;2900801;Alcobaça;Extremo Sul;1991;Total_rural;9946
+1260;2900900;Almadina;Litoral Sul;1991;Total_rural;3976
+1261;2901007;Amargosa;Vale de Jequiriçá;1991;Total_rural;12195
+1262;2901106;Amélia Rodrigues;Portal do Sertão;1991;Total_rural;6335
+1263;2901155;América Dourada;Irecê;1991;Total_rural;7718
+1264;2901205;Anagé;Vitória da Conquista;1991;Total_rural;37203
+1265;2901304;Andaraí;Chapada Diamantina;1991;Total_rural;8460
+1266;2901353;Andorinha;Piemonte Norte do Itapicuru;1991;Total_rural;13504
+1267;2901403;Angical;Bacia do Rio Grande;1991;Total_rural;12303
+1268;2901502;Anguera;Portal do Sertão;1991;Total_rural;4876
+1269;2901601;Antas;Semi-Árido Nordeste II;1991;Total_rural;13078
+1270;2901700;Antônio Cardoso;Portal do Sertão;1991;Total_rural;10520
+1271;2901809;Antônio Gonçalves;Piemonte Norte do Itapicuru;1991;Total_rural;9542
+1272;2901908;Aporá;Litoral Norte e Agreste Baiano;1991;Total_rural;9801
+1273;2901957;Apuarema;Médio Rio de Contas;1991;Total_rural;3966
+1274;2902054;Araçás;Litoral Norte e Agreste Baiano;1991;Total_rural;5181
+1275;2902005;Aracatu;Vitória da Conquista;1991;Total_rural;13387
+1276;2902104;Araci;Sisal;1991;Total_rural;33757
+1277;2902203;Aramari;Litoral Norte e Agreste Baiano;1991;Total_rural;3807
+1278;2902252;Arataca;Litoral Sul;1991;Total_rural;9138
+1279;2902302;Aratuípe;Baixo Sul;1991;Total_rural;4073
+1280;2902401;Aurelino Leal;Litoral Sul;1991;Total_rural;6469
+1281;2902500;Baianópolis;Bacia do Rio Grande;1991;Total_rural;11518
+1282;2902609;Baixa Grande;Bacia do Jacuípe;1991;Total_rural;15563
+1283;2902658;Banzaê;Semi-Árido Nordeste II;1991;Total_rural;10550
+1284;2902708;Barra;Velho Chico;1991;Total_rural;24039
+1285;2902807;Barra da Estiva;Chapada Diamantina;1991;Total_rural;12587
+1286;2902906;Barra do Choça;Vitória da Conquista;1991;Total_rural;13200
+1287;2903003;Barra do Mendes;Irecê;1991;Total_rural;9652
+1288;2903102;Barra do Rocha;Médio Rio de Contas;1991;Total_rural;6625
+1289;2903201;Barreiras;Bacia do Rio Grande;1991;Total_rural;21770
+1290;2903235;Barro Alto;Irecê;1991;Total_rural;9611
+1291;2903300;Barro Preto/Lomanto Junior;Litoral Sul;1991;Total_rural;6012
+1292;2903276;Barrocas;Sisal;1991;Total_rural;NA
+1293;2903409;Belmonte;Costa do Descobrimento;1991;Total_rural;11210
+1294;2903508;Belo Campo;Vitória da Conquista;1991;Total_rural;8588
+1295;2903607;Biritinga;Sisal;1991;Total_rural;12839
+1296;2903706;Boa Nova;Médio Rio de Contas;1991;Total_rural;10517
+1297;2903805;Boa Vista do Tupim;Piemonte do Paraguaçu;1991;Total_rural;12864
+1298;2903904;Bom Jesus da Lapa;Velho Chico;1991;Total_rural;16520
+1299;2903953;Bom Jesus da Serra;Vitória da Conquista;1991;Total_rural;9099
+1300;2904001;Boninal;Chapada Diamantina;1991;Total_rural;11151
+1301;2904050;Bonito;Chapada Diamantina;1991;Total_rural;6736
+1302;2904100;Boquira;Bacia do Paramirim;1991;Total_rural;14387
+1303;2904209;Botuporã;Bacia do Paramirim;1991;Total_rural;8492
+1304;2904308;Brejões;Vale de Jequiriçá;1991;Total_rural;9689
+1305;2904407;Brejolândia;Bacia do Rio Corrente;1991;Total_rural;9755
+1306;2904506;Brotas de Macaúbas;Velho Chico;1991;Total_rural;11813
+1307;2904605;Brumado;Sertão Produtivo;1991;Total_rural;21163
+1308;2904704;Buerarema;Litoral Sul;1991;Total_rural;4880
+1309;2904753;Buritirama;Bacia do Rio Grande;1991;Total_rural;9754
+1310;2904803;Caatiba;Médio Sudoeste da Bahia;1991;Total_rural;6601
+1311;2904852;Cabaceiras do Paraguaçu;Recôncavo;1991;Total_rural;12677
+1312;2904902;Cachoeira;Recôncavo;1991;Total_rural;14097
+1313;2905008;Caculé;Sertão Produtivo;1991;Total_rural;9115
+1314;2905107;Caém;Piemonte da Diamantina;1991;Total_rural;13292
+1315;2905156;Caetanos;Vitória da Conquista;1991;Total_rural;9764
+1316;2905206;Caetité;Sertão Produtivo;1991;Total_rural;23455
+1317;2905305;Cafarnaum;Irecê;1991;Total_rural;7821
+1318;2905404;Cairu;Baixo Sul;1991;Total_rural;9620
+1319;2905503;Caldeirão Grande;Piemonte Norte do Itapicuru;1991;Total_rural;10963
+1320;2905602;Camacan;Litoral Sul;1991;Total_rural;20659
+1321;2905701;Camaçari;Metropolitana de Salvador;1991;Total_rural;5407
+1322;2905800;Camamu;Baixo Sul;1991;Total_rural;24725
+1323;2905909;Campo Alegre de Lourdes;Sertão do São Francisco;1991;Total_rural;21948
+1324;2906006;Campo Formoso;Piemonte Norte do Itapicuru;1991;Total_rural;45672
+1325;2906105;Canápolis;Bacia do Rio Corrente;1991;Total_rural;7837
+1326;2906204;Canarana;Irecê;1991;Total_rural;15040
+1327;2906303;Canavieiras;Litoral Sul;1991;Total_rural;12361
+1328;2906402;Candeal;Sisal;1991;Total_rural;8187
+1329;2906501;Candeias;Metropolitana de Salvador;1991;Total_rural;6503
+1330;2906600;Candiba;Sertão Produtivo;1991;Total_rural;8523
+1331;2906709;Cândido Sales;Vitória da Conquista;1991;Total_rural;11685
+1332;2906808;Cansanção;Sisal;1991;Total_rural;23977
+1333;2906824;Canudos;Sertão do São Francisco;1991;Total_rural;8530
+1334;2906857;Capela do Alto Alegre;Bacia do Jacuípe;1991;Total_rural;13717
+1335;2906873;Capim Grosso;Piemonte da Diamantina;1991;Total_rural;7189
+1336;2906899;Caraíbas;Vitória da Conquista;1991;Total_rural;16570
+1337;2906907;Caravelas;Extremo Sul;1991;Total_rural;10831
+1338;2907004;Cardeal da Silva;Litoral Norte e Agreste Baiano;1991;Total_rural;4126
+1339;2907103;Carinhanha;Velho Chico;1991;Total_rural;18240
+1340;2907202;Casa Nova;Sertão do São Francisco;1991;Total_rural;28356
+1341;2907301;Castro Alves;Recôncavo;1991;Total_rural;13586
+1342;2907400;Catolândia;Bacia do Rio Grande;1991;Total_rural;2473
+1343;2907509;Catu;Litoral Norte e Agreste Baiano;1991;Total_rural;10036
+1344;2907558;Caturama;Bacia do Paramirim;1991;Total_rural;8522
+1345;2907608;Central;Irecê;1991;Total_rural;8075
+1346;2907707;Chorrochó;Itaparica;1991;Total_rural;8075
+1347;2907806;Cícero Dantas;Semi-Árido Nordeste II;1991;Total_rural;15077
+1348;2907905;Cipó;Semi-Árido Nordeste II;1991;Total_rural;4503
+1349;2908002;Coaraci;Litoral Sul;1991;Total_rural;9405
+1350;2908101;Côcos;Bacia do Rio Corrente;1991;Total_rural;11011
+1351;2908200;Conceição da Feira;Portal do Sertão;1991;Total_rural;8032
+1352;2908309;Conceição do Almeida;Recôncavo;1991;Total_rural;10883
+1353;2908408;Conceição do Coité;Sisal;1991;Total_rural;32336
+1354;2908507;Conceição do Jacuípe;Portal do Sertão;1991;Total_rural;6731
+1355;2908606;Conde;Litoral Norte e Agreste Baiano;1991;Total_rural;10655
+1356;2908705;Condeúba;Vitória da Conquista;1991;Total_rural;12137
+1357;2908804;Contendas do Sincorá;Sertão Produtivo;1991;Total_rural;2582
+1358;2908903;Coração de Maria;Portal do Sertão;1991;Total_rural;16367
+1359;2909000;Cordeiros;Vitória da Conquista;1991;Total_rural;8368
+1360;2909109;Coribe;Bacia do Rio Corrente;1991;Total_rural;9342
+1361;2909208;Coronel João Sá;Semi-Árido Nordeste II;1991;Total_rural;14161
+1362;2909307;Correntina;Bacia do Rio Corrente;1991;Total_rural;19369
+1363;2909406;Cotegipe;Bacia do Rio Grande;1991;Total_rural;7362
+1364;2909505;Cravolândia;Vale de Jequiriçá;1991;Total_rural;2245
+1365;2909604;Crisópolis;Litoral Norte e Agreste Baiano;1991;Total_rural;12721
+1366;2909703;Cristópolis;Bacia do Rio Grande;1991;Total_rural;10399
+1367;2909802;Cruz das Almas;Recôncavo;1991;Total_rural;14950
+1368;2909901;Curaçá;Sertão do São Francisco;1991;Total_rural;17146
+1369;2910008;Dário Meira;Médio Rio de Contas;1991;Total_rural;9405
+1370;2910057;Dias D'Ávila;Metropolitana de Salvador;1991;Total_rural;1782
+1371;2910107;Dom Basílio;Sertão Produtivo;1991;Total_rural;8621
+1372;2910206;Dom Macedo Costa;Recôncavo;1991;Total_rural;3051
+1373;2910305;Elísio Medrado;Vale de Jequiriçá;1991;Total_rural;5842
+1374;2910404;Encruzilhada;Vitória da Conquista;1991;Total_rural;17670
+1375;2910503;Entre Rios;Litoral Norte e Agreste Baiano;1991;Total_rural;10821
+1376;2900504;Érico Cardoso;Bacia do Paramirim;1991;Total_rural;6199
+1377;2910602;Esplanada;Litoral Norte e Agreste Baiano;1991;Total_rural;8007
+1378;2910701;Euclides da Cunha;Semi-Árido Nordeste II;1991;Total_rural;34034
+1379;2910727;Eunápolis;Costa do Descobrimento;1991;Total_rural;7005
+1380;2910750;Fátima;Semi-Árido Nordeste II;1991;Total_rural;13339
+1381;2910776;Feira da Mata;Velho Chico;1991;Total_rural;4873
+1382;2910800;Feira de Santana;Portal do Sertão;1991;Total_rural;56890
+1383;2910859;Filadélfia;Piemonte Norte do Itapicuru;1991;Total_rural;12092
+1384;2910909;Firmino Alves;Médio Sudoeste da Bahia;1991;Total_rural;1730
+1385;2911006;Floresta Azul;Litoral Sul;1991;Total_rural;6174
+1386;2911105;Formosa do Rio Preto;Bacia do Rio Grande;1991;Total_rural;9794
+1387;2911204;Gandu;Baixo Sul;1991;Total_rural;6864
+1388;2911253;Gavião;Bacia do Jacuípe;1991;Total_rural;4632
+1389;2911303;Gentio do Ouro;Irecê;1991;Total_rural;6930
+1390;2911402;Glória;Itaparica;1991;Total_rural;11204
+1391;2911501;Gongogi;Médio Rio de Contas;1991;Total_rural;3275
+1392;2911600;Governador Mangabeira;Recôncavo;1991;Total_rural;12521
+1393;2911659;Guajeru;Vitória da Conquista;1991;Total_rural;7490
+1394;2911709;Guanambi;Sertão Produtivo;1991;Total_rural;20465
+1395;2911808;Guaratinga;Costa do Descobrimento;1991;Total_rural;16282
+1396;2911857;Heliópolis;Semi-Árido Nordeste II;1991;Total_rural;9009
+1397;2911907;Iaçu;Piemonte do Paraguaçu;1991;Total_rural;7259
+1398;2912004;Ibiassucê;Sertão Produtivo;1991;Total_rural;8942
+1399;2912103;Ibicaraí;Litoral Sul;1991;Total_rural;11228
+1400;2912202;Ibicoara;Chapada Diamantina;1991;Total_rural;7473
+1401;2912301;Ibicuí;Médio Sudoeste da Bahia;1991;Total_rural;6328
+1402;2912400;Ibipeba;Irecê;1991;Total_rural;12476
+1403;2912509;Ibipitanga;Bacia do Paramirim;1991;Total_rural;11046
+1404;2912608;Ibiquera;Piemonte do Paraguaçu;1991;Total_rural;3778
+1405;2912707;Ibirapitanga;Baixo Sul;1991;Total_rural;20087
+1406;2912806;Ibirapoã;Extremo Sul;1991;Total_rural;4877
+1407;2912905;Ibirataia;Médio Rio de Contas;1991;Total_rural;7325
+1408;2913002;Ibitiara;Chapada Diamantina;1991;Total_rural;14087
+1409;2913101;Ibititá;Irecê;1991;Total_rural;10697
+1410;2913200;Ibotirama;Velho Chico;1991;Total_rural;8039
+1411;2913309;Ichu;Sisal;1991;Total_rural;5472
+1412;2913408;Igaporã;Velho Chico;1991;Total_rural;8049
+1413;2913457;Igrapiúna;Baixo Sul;1991;Total_rural;11729
+1414;2913507;Iguaí;Médio Sudoeste da Bahia;1991;Total_rural;13922
+1415;2913606;Ilhéus;Litoral Sul;1991;Total_rural;79518
+1416;2913705;Inhambupe;Litoral Norte e Agreste Baiano;1991;Total_rural;15720
+1417;2913804;Ipecaetá;Portal do Sertão;1991;Total_rural;14965
+1418;2913903;Ipiaú;Médio Rio de Contas;1991;Total_rural;8837
+1419;2914000;Ipirá;Bacia do Jacuípe;1991;Total_rural;44584
+1420;2914109;Ipupiara;Irecê;1991;Total_rural;3932
+1421;2914208;Irajuba;Vale de Jequiriçá;1991;Total_rural;4522
+1422;2914307;Iramaia;Chapada Diamantina;1991;Total_rural;10382
+1423;2914406;Iraquara;Chapada Diamantina;1991;Total_rural;12913
+1424;2914505;Irará;Portal do Sertão;1991;Total_rural;16501
+1425;2914604;Irecê;Irecê;1991;Total_rural;10839
+1426;2914653;Itabela;Costa do Descobrimento;1991;Total_rural;7271
+1427;2914703;Itaberaba;Piemonte do Paraguaçu;1991;Total_rural;16808
+1428;2914802;Itabuna;Litoral Sul;1991;Total_rural;7716
+1429;2914901;Itacaré;Litoral Sul;1991;Total_rural;14156
+1430;2915007;Itaeté;Chapada Diamantina;1991;Total_rural;9620
+1431;2915106;Itagi;Médio Rio de Contas;1991;Total_rural;6018
+1432;2915205;Itagibá;Médio Rio de Contas;1991;Total_rural;12632
+1433;2915304;Itagimirim;Costa do Descobrimento;1991;Total_rural;2809
+1434;2915353;Itaguaçu da Bahia;Irecê;1991;Total_rural;15811
+1435;2915403;Itaju do Colônia;Litoral Sul;1991;Total_rural;6888
+1436;2915502;Itajuípe;Litoral Sul;1991;Total_rural;8959
+1437;2915601;Itamaraju;Extremo Sul;1991;Total_rural;19859
+1438;2915700;Itamari;Médio Rio de Contas;1991;Total_rural;4182
+1439;2915809;Itambé;Médio Sudoeste da Bahia;1991;Total_rural;5385
+1440;2915908;Itanagra;Litoral Norte e Agreste Baiano;1991;Total_rural;4171
+1441;2916005;Itanhém;Extremo Sul;1991;Total_rural;10165
+1442;2916104;Itaparica;Metropolitana de Salvador;1991;Total_rural;0
+1443;2916203;Itapé;Litoral Sul;1991;Total_rural;8079
+1444;2916302;Itapebi;Costa do Descobrimento;1991;Total_rural;4682
+1445;2916401;Itapetinga;Médio Sudoeste da Bahia;1991;Total_rural;4136
+1446;2916500;Itapicuru;Litoral Norte e Agreste Baiano;1991;Total_rural;21456
+1447;2916609;Itapitanga;Litoral Sul;1991;Total_rural;4379
+1448;2916708;Itaquara;Vale de Jequiriçá;1991;Total_rural;4110
+1449;2916807;Itarantim;Médio Sudoeste da Bahia;1991;Total_rural;7089
+1450;2916856;Itatim;Piemonte do Paraguaçu;1991;Total_rural;3785
+1451;2916906;Itiruçu;Vale de Jequiriçá;1991;Total_rural;4922
+1452;2917003;Itiúba;Sisal;1991;Total_rural;27335
+1453;2917102;Itororó;Médio Sudoeste da Bahia;1991;Total_rural;4586
+1454;2917201;Ituaçu;Sertão Produtivo;1991;Total_rural;13081
+1455;2917300;Ituberá;Baixo Sul;1991;Total_rural;8747
+1456;2917334;Iuiu;Sertão Produtivo;1991;Total_rural;6614
+1457;2917359;Jaborandi;Bacia do Rio Corrente;1991;Total_rural;10005
+1458;2917409;Jacaraci;Vitória da Conquista;1991;Total_rural;11500
+1459;2917508;Jacobina;Piemonte da Diamantina;1991;Total_rural;26509
+1460;2917607;Jaguaquara;Vale de Jequiriçá;1991;Total_rural;12395
+1461;2917706;Jaguarari;Piemonte Norte do Itapicuru;1991;Total_rural;25071
+1462;2917805;Jaguaripe;Baixo Sul;1991;Total_rural;9897
+1463;2917904;Jandaíra;Litoral Norte e Agreste Baiano;1991;Total_rural;3754
+1464;2918001;Jequié;Médio Rio de Contas;1991;Total_rural;27887
+1465;2918100;Jeremoabo;Semi-Árido Nordeste II;1991;Total_rural;24809
+1466;2918209;Jiquiriçá;Vale de Jequiriçá;1991;Total_rural;8377
+1467;2918308;Jitaúna;Médio Rio de Contas;1991;Total_rural;13838
+1468;2918357;João Dourado;Irecê;1991;Total_rural;9875
+1469;2918407;Juazeiro;Sertão do São Francisco;1991;Total_rural;26501
+1470;2918456;Jucuruçu;Extremo Sul;1991;Total_rural;14713
+1471;2918506;Jussara;Irecê;1991;Total_rural;5455
+1472;2918555;Jussari;Litoral Sul;1991;Total_rural;3861
+1473;2918605;Jussiape;Chapada Diamantina;1991;Total_rural;6327
+1474;2918704;Lafayette Coutinho;Vale de Jequiriçá;1991;Total_rural;3354
+1475;2919058;Lagedo do Tabocal;Vale de Jequiriçá;1991;Total_rural;3185
+1476;2918753;Lagoa Real;Sertão Produtivo;1991;Total_rural;9830
+1477;2918803;Laje;Vale de Jequiriçá;1991;Total_rural;14470
+1478;2918902;Lajedão;Extremo Sul;1991;Total_rural;2155
+1479;2919009;Lajedinho;Piemonte do Paraguaçu;1991;Total_rural;5333
+1480;2919108;Lamarão;Sisal;1991;Total_rural;8754
+1481;2919157;Lapão;Irecê;1991;Total_rural;14065
+1482;2919207;Lauro de Freitas;Metropolitana de Salvador;1991;Total_rural;24896
+1483;2919306;Lençóis;Chapada Diamantina;1991;Total_rural;4103
+1484;2919405;Licínio de Almeida;Vitória da Conquista;1991;Total_rural;8318
+1485;2919504;Livramento de N. Senhora;Sertão Produtivo;1991;Total_rural;21145
+1486;2919553;Luís Eduardo Magalhães;Bacia do Rio Grande;1991;Total_rural;NA
+1487;2919603;Macajuba;Piemonte do Paraguaçu;1991;Total_rural;7244
+1488;2919702;Macarani;Médio Sudoeste da Bahia;1991;Total_rural;5176
+1489;2919801;Macaúbas;Bacia do Paramirim;1991;Total_rural;26557
+1490;2919900;Macururé;Itaparica;1991;Total_rural;5417
+1491;2919926;Madre de Deus;Metropolitana de Salvador;1991;Total_rural;391
+1492;2919959;Maetinga;Vitória da Conquista;1991;Total_rural;9082
+1493;2920007;Maiquinique;Médio Sudoeste da Bahia;1991;Total_rural;3777
+1494;2920106;Mairi;Bacia do Jacuípe;1991;Total_rural;13789
+1495;2920205;Malhada;Velho Chico;1991;Total_rural;12522
+1496;2920304;Malhada de Pedras;Sertão Produtivo;1991;Total_rural;5778
+1497;2920403;Manoel Vitorino;Médio Rio de Contas;1991;Total_rural;11839
+1498;2920452;Mansidão;Bacia do Rio Grande;1991;Total_rural;8446
+1499;2920502;Maracás;Vale de Jequiriçá;1991;Total_rural;14959
+1500;2920601;Maragogipe;Recôncavo;1991;Total_rural;18339
+1501;2920700;Maraú;Litoral Sul;1991;Total_rural;14845
+1502;2920809;Marcionílio Souza;Chapada Diamantina;1991;Total_rural;9727
+1503;2920908;Mascote;Litoral Sul;1991;Total_rural;18605
+1504;2921005;Mata de São João;Litoral Norte e Agreste Baiano;1991;Total_rural;6392
+1505;2921054;Matina;Velho Chico;1991;Total_rural;7610
+1506;2921104;Medeiros Neto;Extremo Sul;1991;Total_rural;7355
+1507;2921203;Miguel Calmon;Piemonte da Diamantina;1991;Total_rural;13291
+1508;2921302;Milagres;Vale de Jequiriçá;1991;Total_rural;2098
+1509;2921401;Mirangaba;Piemonte da Diamantina;1991;Total_rural;10470
+1510;2921450;Mirante;Vitória da Conquista;1991;Total_rural;7693
+1511;2921500;Monte Santo;Sisal;1991;Total_rural;46425
+1512;2921609;Morpará;Velho Chico;1991;Total_rural;3774
+1513;2921708;Morro do Chapéu;Chapada Diamantina;1991;Total_rural;16247
+1514;2921807;Mortugaba;Vitória da Conquista;1991;Total_rural;8758
+1515;2921906;Mucugê;Chapada Diamantina;1991;Total_rural;8104
+1516;2922003;Mucuri;Extremo Sul;1991;Total_rural;12796
+1517;2922052;Mulungu do Morro;Irecê;1991;Total_rural;8810
+1518;2922102;Mundo Novo;Piemonte do Paraguaçu;1991;Total_rural;18871
+1519;2922201;Muniz Ferreira;Recôncavo;1991;Total_rural;3756
+1520;2922250;Muquém do São Francisco;Velho Chico;1991;Total_rural;7450
+1521;2922300;Muritiba;Recôncavo;1991;Total_rural;9825
+1522;2922409;Mutuípe;Vale de Jequiriçá;1991;Total_rural;13548
+1523;2922508;Nazaré;Recôncavo;1991;Total_rural;5463
+1524;2922607;Nilo Peçanha;Baixo Sul;1991;Total_rural;10310
+1525;2922656;Nordestina;Sisal;1991;Total_rural;7945
+1526;2922706;Nova Canaã;Médio Sudoeste da Bahia;1991;Total_rural;8288
+1527;2922730;Nova Fátima;Bacia do Jacuípe;1991;Total_rural;6983
+1528;2922755;Nova Ibiá;Médio Rio de Contas;1991;Total_rural;8144
+1529;2922805;Nova Itarana;Vale de Jequiriçá;1991;Total_rural;4676
+1530;2922854;Nova Redenção;Chapada Diamantina;1991;Total_rural;6737
+1531;2922904;Nova Soure;Semi-Árido Nordeste II;1991;Total_rural;14497
+1532;2923001;Nova Viçosa;Extremo Sul;1991;Total_rural;16196
+1533;2923035;Novo Horizonte;Chapada Diamantina;1991;Total_rural;8827
+1534;2923050;Novo Triunfo;Semi-Árido Nordeste II;1991;Total_rural;8682
+1535;2923100;Olindina;Litoral Norte e Agreste Baiano;1991;Total_rural;12360
+1536;2923209;Oliveira dos Brejinhos;Velho Chico;1991;Total_rural;16914
+1537;2923308;Ouriçangas;Litoral Norte e Agreste Baiano;1991;Total_rural;5111
+1538;2923357;Ourolândia;Piemonte da Diamantina;1991;Total_rural;9879
+1539;2923407;Palmas de Monte Alto;Sertão Produtivo;1991;Total_rural;15165
+1540;2923506;Palmeiras;Chapada Diamantina;1991;Total_rural;3542
+1541;2923605;Paramirim;Bacia do Paramirim;1991;Total_rural;17221
+1542;2923704;Paratinga;Velho Chico;1991;Total_rural;16835
+1543;2923803;Paripiranga;Semi-Árido Nordeste II;1991;Total_rural;20573
+1544;2923902;Pau Brasil;Litoral Sul;1991;Total_rural;6900
+1545;2924009;Paulo Afonso;Itaparica;1991;Total_rural;12264
+1546;2924058;Pé de Serra;Bacia do Jacuípe;1991;Total_rural;13310
+1547;2924108;Pedrão;Litoral Norte e Agreste Baiano;1991;Total_rural;5402
+1548;2924207;Pedro Alexandre;Semi-Árido Nordeste II;1991;Total_rural;13374
+1549;2924306;Piatã;Chapada Diamantina;1991;Total_rural;15002
+1550;2924405;Pilão Arcado;Sertão do São Francisco;1991;Total_rural;27681
+1551;2924504;Pindaí;Sertão Produtivo;1991;Total_rural;13527
+1552;2924603;Pindobaçu;Piemonte Norte do Itapicuru;1991;Total_rural;18344
+1553;2924652;Pintadas;Bacia do Jacuípe;1991;Total_rural;8102
+1554;2924678;Piraí do Norte;Baixo Sul;1991;Total_rural;11911
+1555;2924702;Piripá;Vitória da Conquista;1991;Total_rural;6938
+1556;2924801;Piritiba;Piemonte do Paraguaçu;1991;Total_rural;15189
+1557;2924900;Planaltino;Vale de Jequiriçá;1991;Total_rural;7957
+1558;2925006;Planalto;Vitória da Conquista;1991;Total_rural;13569
+1559;2925105;Poções;Vitória da Conquista;1991;Total_rural;12961
+1560;2925204;Pojuca;Litoral Norte e Agreste Baiano;1991;Total_rural;3975
+1561;2925253;Ponto Novo;Piemonte Norte do Itapicuru;1991;Total_rural;11629
+1562;2925303;Porto Seguro;Costa do Descobrimento;1991;Total_rural;11346
+1563;2925402;Potiraguá;Médio Sudoeste da Bahia;1991;Total_rural;4759
+1564;2925501;Prado;Extremo Sul;1991;Total_rural;12977
+1565;2925600;Presidente Dutra;Irecê;1991;Total_rural;7481
+1566;2925709;Presidente Jânio Quadros;Vitória da Conquista;1991;Total_rural;12632
+1567;2925758;Presidente Tancredo Neves;Baixo Sul;1991;Total_rural;16399
+1568;2925808;Queimadas;Sisal;1991;Total_rural;14731
+1569;2925907;Quijingue;Sisal;1991;Total_rural;20569
+1570;2925931;Quixabeira;Bacia do Jacuípe;1991;Total_rural;11217
+1571;2925956;Rafael Jambeiro;Piemonte do Paraguaçu;1991;Total_rural;20023
+1572;2926004;Remanso;Sertão do São Francisco;1991;Total_rural;16513
+1573;2926103;Retirolândia;Sisal;1991;Total_rural;7418
+1574;2926202;Riachão das Neves;Bacia do Rio Grande;1991;Total_rural;11361
+1575;2926301;Riachão do Jacuípe;Bacia do Jacuípe;1991;Total_rural;23053
+1576;2926400;Riacho de Santana;Velho Chico;1991;Total_rural;18886
+1577;2926509;Ribeira do Amparo;Semi-Árido Nordeste II;1991;Total_rural;13188
+1578;2926608;Ribeira do Pombal;Semi-Árido Nordeste II;1991;Total_rural;21757
+1579;2926657;Ribeirão do Largo;Vitória da Conquista;1991;Total_rural;8494
+1580;2926707;Rio de Contas;Chapada Diamantina;1991;Total_rural;9529
+1581;2926806;Rio do Antônio;Sertão Produtivo;1991;Total_rural;9439
+1582;2926905;Rio do Pires;Bacia do Paramirim;1991;Total_rural;8862
+1583;2927002;Rio Real;Litoral Norte e Agreste Baiano;1991;Total_rural;13866
+1584;2927101;Rodelas;Itaparica;1991;Total_rural;1245
+1585;2927200;Ruy Barbosa;Piemonte do Paraguaçu;1991;Total_rural;12938
+1586;2927309;Salinas da Margarida;Metropolitana de Salvador;1991;Total_rural;4989
+1587;2927408;Salvador;Metropolitana de Salvador;1991;Total_rural;1763
+1588;2927507;Santa Bárbara;Portal do Sertão;1991;Total_rural;12002
+1589;2927606;Santa Brígida;Semi-Árido Nordeste II;1991;Total_rural;10450
+1590;2927705;Santa Cruz Cabrália;Costa do Descobrimento;1991;Total_rural;3338
+1591;2927804;Santa Cruz da Vitória;Médio Sudoeste da Bahia;1991;Total_rural;2126
+1592;2927903;Santa Inês;Vale de Jequiriçá;1991;Total_rural;999
+1593;2928059;Santa Luzia;Litoral Sul;1991;Total_rural;8909
+1594;2928109;Santa Maria da Vitória;Bacia do Rio Corrente;1991;Total_rural;20754
+1595;2928406;Santa Rita de Cássia;Bacia do Rio Grande;1991;Total_rural;12619
+1596;2928505;Santa Terezinha;Piemonte do Paraguaçu;1991;Total_rural;7482
+1597;2928000;Santaluz;Sisal;1991;Total_rural;17930
+1598;2928208;Santana;Bacia do Rio Corrente;1991;Total_rural;13080
+1599;2928307;Santanópolis;Portal do Sertão;1991;Total_rural;8545
+1600;2928604;Santo Amaro;Recôncavo;1991;Total_rural;13266
+1601;2928703;Santo Antônio de Jesus;Recôncavo;1991;Total_rural;11476
+1602;2928802;Santo Estevão;Portal do Sertão;1991;Total_rural;24353
+1603;2928901;São Desidério;Bacia do Rio Grande;1991;Total_rural;13438
+1604;2928950;São Domingos;Sisal;1991;Total_rural;6834
+1605;2929107;São Felipe;Recôncavo;1991;Total_rural;13201
+1606;2929008;São Félix;Recôncavo;1991;Total_rural;4762
+1607;2929057;São Félix do Coribe;Bacia do Rio Corrente;1991;Total_rural;5152
+1608;2929206;São Francisco do Conde;Recôncavo;1991;Total_rural;4504
+1609;2929255;São Gabriel;Irecê;1991;Total_rural;10887
+1610;2929305;São Gonçalo dos Campos;Portal do Sertão;1991;Total_rural;12916
+1611;2929354;São José da Vitória;Litoral Sul;1991;Total_rural;3551
+1612;2929370;São José do Jacuípe;Bacia do Jacuípe;1991;Total_rural;10467
+1613;2929404;São Miguel das Matas;Vale de Jequiriçá;1991;Total_rural;7271
+1614;2929503;São Sebastião do Passé;Recôncavo;1991;Total_rural;11019
+1615;2929602;Sapeaçu;Recôncavo;1991;Total_rural;8845
+1616;2929701;Sátiro Dias;Litoral Norte e Agreste Baiano;1991;Total_rural;11389
+1617;2929750;Saubara;Recôncavo;1991;Total_rural;2547
+1618;2929800;Saúde;Piemonte da Diamantina;1991;Total_rural;5874
+1619;2929909;Seabra;Chapada Diamantina;1991;Total_rural;25427
+1620;2930006;Sebastião Laranjeiras;Sertão Produtivo;1991;Total_rural;6561
+1621;2930105;Senhor do Bonfim;Piemonte Norte do Itapicuru;1991;Total_rural;34334
+1622;2930204;Sento Sé;Sertão do São Francisco;1991;Total_rural;16007
+1623;2930154;Serra do Ramalho;Velho Chico;1991;Total_rural;31005
+1624;2930303;Serra Dourada;Bacia do Rio Corrente;1991;Total_rural;13231
+1625;2930402;Serra Preta;Bacia do Jacuípe;1991;Total_rural;17168
+1626;2930501;Serrinha;Sisal;1991;Total_rural;38159
+1627;2930600;Serrolândia;Piemonte da Diamantina;1991;Total_rural;7069
+1628;2930709;Simões Filho;Metropolitana de Salvador;1991;Total_rural;28107
+1629;2930758;Sítio do Mato;Velho Chico;1991;Total_rural;3034
+1630;2930766;Sítio do Quinto;Semi-Árido Nordeste II;1991;Total_rural;9903
+1631;2930774;Sobradinho;Sertão do São Francisco;1991;Total_rural;1726
+1632;2930808;Souto Soares;Chapada Diamantina;1991;Total_rural;15554
+1633;2930907;Tabocas do Brejo Velho;Bacia do Rio Corrente;1991;Total_rural;8515
+1634;2931004;Tanhaçu;Sertão Produtivo;1991;Total_rural;13341
+1635;2931053;Tanque Novo;Bacia do Paramirim;1991;Total_rural;9315
+1636;2931103;Tanquinho;Portal do Sertão;1991;Total_rural;4460
+1637;2931202;Taperoá;Baixo Sul;1991;Total_rural;9738
+1638;2931301;Tapiramutá;Piemonte do Paraguaçu;1991;Total_rural;4896
+1639;2931350;Teixeira de Freitas;Extremo Sul;1991;Total_rural;11326
+1640;2931400;Teodoro Sampaio;Portal do Sertão;1991;Total_rural;3111
+1641;2931509;Teofilândia;Sisal;1991;Total_rural;17791
+1642;2931608;Teolândia;Baixo Sul;1991;Total_rural;10674
+1643;2931707;Terra Nova;Portal do Sertão;1991;Total_rural;2235
+1644;2931806;Tremedal;Vitória da Conquista;1991;Total_rural;18110
+1645;2931905;Tucano;Sisal;1991;Total_rural;36487
+1646;2932002;Uauá;Sertão do São Francisco;1991;Total_rural;17092
+1647;2932101;Ubaíra;Vale de Jequiriçá;1991;Total_rural;13724
+1648;2932200;Ubaitaba;Litoral Sul;1991;Total_rural;8554
+1649;2932309;Ubatã;Médio Rio de Contas;1991;Total_rural;6470
+1650;2932408;Uibaí;Irecê;1991;Total_rural;6798
+1651;2932457;Umburanas;Piemonte da Diamantina;1991;Total_rural;6976
+1652;2932507;Una;Litoral Sul;1991;Total_rural;18410
+1653;2932606;Urandi;Sertão Produtivo;1991;Total_rural;12502
+1654;2932705;Uruçuca;Litoral Sul;1991;Total_rural;21723
+1655;2932804;Utinga;Chapada Diamantina;1991;Total_rural;9599
+1656;2932903;Valença;Baixo Sul;1991;Total_rural;23232
+1657;2933000;Valente;Sisal;1991;Total_rural;11392
+1658;2933059;Várzea da Roça;Bacia do Jacuípe;1991;Total_rural;9485
+1659;2933109;Várzea do Poço;Bacia do Jacuípe;1991;Total_rural;5357
+1660;2933158;Várzea Nova;Piemonte da Diamantina;1991;Total_rural;10027
+1661;2933174;Varzedo;Recôncavo;1991;Total_rural;6958
+1662;2933208;Vera Cruz;Metropolitana de Salvador;1991;Total_rural;1828
+1663;2933257;Vereda;Extremo Sul;1991;Total_rural;7953
+1664;2933307;Vitória da Conquista;Vitória da Conquista;1991;Total_rural;36740
+1665;2933406;Wagner;Chapada Diamantina;1991;Total_rural;3016
+1666;2933455;Wanderley;Bacia do Rio Grande;1991;Total_rural;8931
+1667;2933505;Wenceslau Guimarães;Baixo Sul;1991;Total_rural;13221
+1668;2933604;Xique-Xique;Irecê;1991;Total_rural;13709
+1669;2900108;Abaíra;Chapada Diamantina;2000;Total_rural;5508
+1670;2900207;Abaré;Itaparica;2000;Total_rural;8120
+1671;2900306;Acajutiba;Litoral Norte e Agreste Baiano;2000;Total_rural;2138
+1672;2900355;Adustina;Semi-Árido Nordeste II;2000;Total_rural;9818
+1673;2900405;Água Fria;Portal do Sertão;2000;Total_rural;10394
+1674;2900603;Aiquara;Médio Rio de Contas;2000;Total_rural;2589
+1675;2900702;Alagoinhas;Litoral Norte e Agreste Baiano;2000;Total_rural;17655
+1676;2900801;Alcobaça;Extremo Sul;2000;Total_rural;13454
+1677;2900900;Almadina;Litoral Sul;2000;Total_rural;2446
+1678;2901007;Amargosa;Vale de Jequiriçá;2000;Total_rural;10224
+1679;2901106;Amélia Rodrigues;Portal do Sertão;2000;Total_rural;5112
+1680;2901155;América Dourada;Irecê;2000;Total_rural;5811
+1681;2901205;Anagé;Vitória da Conquista;2000;Total_rural;26852
+1682;2901304;Andaraí;Chapada Diamantina;2000;Total_rural;6718
+1683;2901353;Andorinha;Piemonte Norte do Itapicuru;2000;Total_rural;11439
+1684;2901403;Angical;Bacia do Rio Grande;2000;Total_rural;8666
+1685;2901502;Anguera;Portal do Sertão;2000;Total_rural;5378
+1686;2901601;Antas;Semi-Árido Nordeste II;2000;Total_rural;9045
+1687;2901700;Antônio Cardoso;Portal do Sertão;2000;Total_rural;9304
+1688;2901809;Antônio Gonçalves;Piemonte Norte do Itapicuru;2000;Total_rural;4456
+1689;2901908;Aporá;Litoral Norte e Agreste Baiano;2000;Total_rural;10223
+1690;2901957;Apuarema;Médio Rio de Contas;2000;Total_rural;3061
+1691;2902054;Araçás;Litoral Norte e Agreste Baiano;2000;Total_rural;5673
+1692;2902005;Aracatu;Vitória da Conquista;2000;Total_rural;12304
+1693;2902104;Araci;Sisal;2000;Total_rural;31395
+1694;2902203;Aramari;Litoral Norte e Agreste Baiano;2000;Total_rural;4967
+1695;2902252;Arataca;Litoral Sul;2000;Total_rural;5735
+1696;2902302;Aratuípe;Baixo Sul;2000;Total_rural;3594
+1697;2902401;Aurelino Leal;Litoral Sul;2000;Total_rural;3209
+1698;2902500;Baianópolis;Bacia do Rio Grande;2000;Total_rural;9452
+1699;2902609;Baixa Grande;Bacia do Jacuípe;2000;Total_rural;13315
+1700;2902658;Banzaê;Semi-Árido Nordeste II;2000;Total_rural;7742
+1701;2902708;Barra;Velho Chico;2000;Total_rural;24562
+1702;2902807;Barra da Estiva;Chapada Diamantina;2000;Total_rural;15507
+1703;2902906;Barra do Choça;Vitória da Conquista;2000;Total_rural;23097
+1704;2903003;Barra do Mendes;Irecê;2000;Total_rural;8031
+1705;2903102;Barra do Rocha;Médio Rio de Contas;2000;Total_rural;4649
+1706;2903201;Barreiras;Bacia do Rio Grande;2000;Total_rural;16065
+1707;2903235;Barro Alto;Irecê;2000;Total_rural;6922
+1708;2903300;Barro Preto/Lomanto Junior;Litoral Sul;2000;Total_rural;3443
+1709;2903276;Barrocas;Sisal;2000;Total_rural;NA
+1710;2903409;Belmonte;Costa do Descobrimento;2000;Total_rural;9226
+1711;2903508;Belo Campo;Vitória da Conquista;2000;Total_rural;9573
+1712;2903607;Biritinga;Sisal;2000;Total_rural;12294
+1713;2903706;Boa Nova;Médio Rio de Contas;2000;Total_rural;15955
+1714;2903805;Boa Vista do Tupim;Piemonte do Paraguaçu;2000;Total_rural;12568
+1715;2903904;Bom Jesus da Lapa;Velho Chico;2000;Total_rural;16695
+1716;2903953;Bom Jesus da Serra;Vitória da Conquista;2000;Total_rural;8549
+1717;2904001;Boninal;Chapada Diamantina;2000;Total_rural;8640
+1718;2904050;Bonito;Chapada Diamantina;2000;Total_rural;7401
+1719;2904100;Boquira;Bacia do Paramirim;2000;Total_rural;15521
+1720;2904209;Botuporã;Bacia do Paramirim;2000;Total_rural;8271
+1721;2904308;Brejões;Vale de Jequiriçá;2000;Total_rural;10776
+1722;2904407;Brejolândia;Bacia do Rio Corrente;2000;Total_rural;6930
+1723;2904506;Brotas de Macaúbas;Velho Chico;2000;Total_rural;9953
+1724;2904605;Brumado;Sertão Produtivo;2000;Total_rural;20960
+1725;2904704;Buerarema;Litoral Sul;2000;Total_rural;2869
+1726;2904753;Buritirama;Bacia do Rio Grande;2000;Total_rural;11873
+1727;2904803;Caatiba;Médio Sudoeste da Bahia;2000;Total_rural;11080
+1728;2904852;Cabaceiras do Paraguaçu;Recôncavo;2000;Total_rural;12242
+1729;2904902;Cachoeira;Recôncavo;2000;Total_rural;14585
+1730;2905008;Caculé;Sertão Produtivo;2000;Total_rural;8808
+1731;2905107;Caém;Piemonte da Diamantina;2000;Total_rural;9186
+1732;2905156;Caetanos;Vitória da Conquista;2000;Total_rural;10764
+1733;2905206;Caetité;Sertão Produtivo;2000;Total_rural;21631
+1734;2905305;Cafarnaum;Irecê;2000;Total_rural;6850
+1735;2905404;Cairu;Baixo Sul;2000;Total_rural;4429
+1736;2905503;Caldeirão Grande;Piemonte Norte do Itapicuru;2000;Total_rural;7314
+1737;2905602;Camacan;Litoral Sul;2000;Total_rural;6773
+1738;2905701;Camaçari;Metropolitana de Salvador;2000;Total_rural;7325
+1739;2905800;Camamu;Baixo Sul;2000;Total_rural;21554
+1740;2905909;Campo Alegre de Lourdes;Sertão do São Francisco;2000;Total_rural;21068
+1741;2906006;Campo Formoso;Piemonte Norte do Itapicuru;2000;Total_rural;40939
+1742;2906105;Canápolis;Bacia do Rio Corrente;2000;Total_rural;7205
+1743;2906204;Canarana;Irecê;2000;Total_rural;11910
+1744;2906303;Canavieiras;Litoral Sul;2000;Total_rural;8979
+1745;2906402;Candeal;Sisal;2000;Total_rural;6704
+1746;2906501;Candeias;Metropolitana de Salvador;2000;Total_rural;7656
+1747;2906600;Candiba;Sertão Produtivo;2000;Total_rural;5965
+1748;2906709;Cândido Sales;Vitória da Conquista;2000;Total_rural;9592
+1749;2906808;Cansanção;Sisal;2000;Total_rural;22726
+1750;2906824;Canudos;Sertão do São Francisco;2000;Total_rural;6749
+1751;2906857;Capela do Alto Alegre;Bacia do Jacuípe;2000;Total_rural;7365
+1752;2906873;Capim Grosso;Piemonte da Diamantina;2000;Total_rural;6047
+1753;2906899;Caraíbas;Vitória da Conquista;2000;Total_rural;15740
+1754;2906907;Caravelas;Extremo Sul;2000;Total_rural;9771
+1755;2907004;Cardeal da Silva;Litoral Norte e Agreste Baiano;2000;Total_rural;5202
+1756;2907103;Carinhanha;Velho Chico;2000;Total_rural;16789
+1757;2907202;Casa Nova;Sertão do São Francisco;2000;Total_rural;28464
+1758;2907301;Castro Alves;Recôncavo;2000;Total_rural;10914
+1759;2907400;Catolândia;Bacia do Rio Grande;2000;Total_rural;2244
+1760;2907509;Catu;Litoral Norte e Agreste Baiano;2000;Total_rural;8915
+1761;2907558;Caturama;Bacia do Paramirim;2000;Total_rural;7077
+1762;2907608;Central;Irecê;2000;Total_rural;9155
+1763;2907707;Chorrochó;Itaparica;2000;Total_rural;8016
+1764;2907806;Cícero Dantas;Semi-Árido Nordeste II;2000;Total_rural;15137
+1765;2907905;Cipó;Semi-Árido Nordeste II;2000;Total_rural;4758
+1766;2908002;Coaraci;Litoral Sul;2000;Total_rural;4583
+1767;2908101;Côcos;Bacia do Rio Corrente;2000;Total_rural;11187
+1768;2908200;Conceição da Feira;Portal do Sertão;2000;Total_rural;6277
+1769;2908309;Conceição do Almeida;Recôncavo;2000;Total_rural;10594
+1770;2908408;Conceição do Coité;Sisal;2000;Total_rural;28291
+1771;2908507;Conceição do Jacuípe;Portal do Sertão;2000;Total_rural;6728
+1772;2908606;Conde;Litoral Norte e Agreste Baiano;2000;Total_rural;9934
+1773;2908705;Condeúba;Vitória da Conquista;2000;Total_rural;11716
+1774;2908804;Contendas do Sincorá;Sertão Produtivo;2000;Total_rural;1933
+1775;2908903;Coração de Maria;Portal do Sertão;2000;Total_rural;16290
+1776;2909000;Cordeiros;Vitória da Conquista;2000;Total_rural;6093
+1777;2909109;Coribe;Bacia do Rio Corrente;2000;Total_rural;9453
+1778;2909208;Coronel João Sá;Semi-Árido Nordeste II;2000;Total_rural;14127
+1779;2909307;Correntina;Bacia do Rio Corrente;2000;Total_rural;19228
+1780;2909406;Cotegipe;Bacia do Rio Grande;2000;Total_rural;6827
+1781;2909505;Cravolândia;Vale de Jequiriçá;2000;Total_rural;2001
+1782;2909604;Crisópolis;Litoral Norte e Agreste Baiano;2000;Total_rural;12182
+1783;2909703;Cristópolis;Bacia do Rio Grande;2000;Total_rural;9987
+1784;2909802;Cruz das Almas;Recôncavo;2000;Total_rural;13445
+1785;2909901;Curaçá;Sertão do São Francisco;2000;Total_rural;18066
+1786;2910008;Dário Meira;Médio Rio de Contas;2000;Total_rural;10291
+1787;2910057;Dias D'Ávila;Metropolitana de Salvador;2000;Total_rural;2660
+1788;2910107;Dom Basílio;Sertão Produtivo;2000;Total_rural;8906
+1789;2910206;Dom Macedo Costa;Recôncavo;2000;Total_rural;2451
+1790;2910305;Elísio Medrado;Vale de Jequiriçá;2000;Total_rural;5346
+1791;2910404;Encruzilhada;Vitória da Conquista;2000;Total_rural;27941
+1792;2910503;Entre Rios;Litoral Norte e Agreste Baiano;2000;Total_rural;14494
+1793;2900504;Érico Cardoso;Bacia do Paramirim;2000;Total_rural;10838
+1794;2910602;Esplanada;Litoral Norte e Agreste Baiano;2000;Total_rural;9692
+1795;2910701;Euclides da Cunha;Semi-Árido Nordeste II;2000;Total_rural;29354
+1796;2910727;Eunápolis;Costa do Descobrimento;2000;Total_rural;4959
+1797;2910750;Fátima;Semi-Árido Nordeste II;2000;Total_rural;11955
+1798;2910776;Feira da Mata;Velho Chico;2000;Total_rural;3413
+1799;2910800;Feira de Santana;Portal do Sertão;2000;Total_rural;49219
+1800;2910859;Filadélfia;Piemonte Norte do Itapicuru;2000;Total_rural;9228
+1801;2910909;Firmino Alves;Médio Sudoeste da Bahia;2000;Total_rural;1364
+1802;2911006;Floresta Azul;Litoral Sul;2000;Total_rural;4066
+1803;2911105;Formosa do Rio Preto;Bacia do Rio Grande;2000;Total_rural;8907
+1804;2911204;Gandu;Baixo Sul;2000;Total_rural;5100
+1805;2911253;Gavião;Bacia do Jacuípe;2000;Total_rural;2589
+1806;2911303;Gentio do Ouro;Irecê;2000;Total_rural;5271
+1807;2911402;Glória;Itaparica;2000;Total_rural;12194
+1808;2911501;Gongogi;Médio Rio de Contas;2000;Total_rural;4272
+1809;2911600;Governador Mangabeira;Recôncavo;2000;Total_rural;10481
+1810;2911659;Guajeru;Vitória da Conquista;2000;Total_rural;11113
+1811;2911709;Guanambi;Sertão Produtivo;2000;Total_rural;17725
+1812;2911808;Guaratinga;Costa do Descobrimento;2000;Total_rural;14302
+1813;2911857;Heliópolis;Semi-Árido Nordeste II;2000;Total_rural;8876
+1814;2911907;Iaçu;Piemonte do Paraguaçu;2000;Total_rural;6865
+1815;2912004;Ibiassucê;Sertão Produtivo;2000;Total_rural;8791
+1816;2912103;Ibicaraí;Litoral Sul;2000;Total_rural;9528
+1817;2912202;Ibicoara;Chapada Diamantina;2000;Total_rural;10437
+1818;2912301;Ibicuí;Médio Sudoeste da Bahia;2000;Total_rural;4675
+1819;2912400;Ibipeba;Irecê;2000;Total_rural;6080
+1820;2912509;Ibipitanga;Bacia do Paramirim;2000;Total_rural;9756
+1821;2912608;Ibiquera;Piemonte do Paraguaçu;2000;Total_rural;2002
+1822;2912707;Ibirapitanga;Baixo Sul;2000;Total_rural;15814
+1823;2912806;Ibirapoã;Extremo Sul;2000;Total_rural;3523
+1824;2912905;Ibirataia;Médio Rio de Contas;2000;Total_rural;6015
+1825;2913002;Ibitiara;Chapada Diamantina;2000;Total_rural;11729
+1826;2913101;Ibititá;Irecê;2000;Total_rural;9845
+1827;2913200;Ibotirama;Velho Chico;2000;Total_rural;7765
+1828;2913309;Ichu;Sisal;2000;Total_rural;2930
+1829;2913408;Igaporã;Velho Chico;2000;Total_rural;7456
+1830;2913457;Igrapiúna;Baixo Sul;2000;Total_rural;12583
+1831;2913507;Iguaí;Médio Sudoeste da Bahia;2000;Total_rural;12577
+1832;2913606;Ilhéus;Litoral Sul;2000;Total_rural;60002
+1833;2913705;Inhambupe;Litoral Norte e Agreste Baiano;2000;Total_rural;17008
+1834;2913804;Ipecaetá;Portal do Sertão;2000;Total_rural;16318
+1835;2913903;Ipiaú;Médio Rio de Contas;2000;Total_rural;5697
+1836;2914000;Ipirá;Bacia do Jacuípe;2000;Total_rural;38426
+1837;2914109;Ipupiara;Irecê;2000;Total_rural;3357
+1838;2914208;Irajuba;Vale de Jequiriçá;2000;Total_rural;3645
+1839;2914307;Iramaia;Chapada Diamantina;2000;Total_rural;9871
+1840;2914406;Iraquara;Chapada Diamantina;2000;Total_rural;13004
+1841;2914505;Irará;Portal do Sertão;2000;Total_rural;16506
+1842;2914604;Irecê;Irecê;2000;Total_rural;4293
+1843;2914653;Itabela;Costa do Descobrimento;2000;Total_rural;6909
+1844;2914703;Itaberaba;Piemonte do Paraguaçu;2000;Total_rural;14426
+1845;2914802;Itabuna;Litoral Sul;2000;Total_rural;5491
+1846;2914901;Itacaré;Litoral Sul;2000;Total_rural;10169
+1847;2915007;Itaeté;Chapada Diamantina;2000;Total_rural;8552
+1848;2915106;Itagi;Médio Rio de Contas;2000;Total_rural;4643
+1849;2915205;Itagibá;Médio Rio de Contas;2000;Total_rural;8424
+1850;2915304;Itagimirim;Costa do Descobrimento;2000;Total_rural;1787
+1851;2915353;Itaguaçu da Bahia;Irecê;2000;Total_rural;9322
+1852;2915403;Itaju do Colônia;Litoral Sul;2000;Total_rural;2139
+1853;2915502;Itajuípe;Litoral Sul;2000;Total_rural;6388
+1854;2915601;Itamaraju;Extremo Sul;2000;Total_rural;16107
+1855;2915700;Itamari;Médio Rio de Contas;2000;Total_rural;2859
+1856;2915809;Itambé;Médio Sudoeste da Bahia;2000;Total_rural;8675
+1857;2915908;Itanagra;Litoral Norte e Agreste Baiano;2000;Total_rural;4511
+1858;2916005;Itanhém;Extremo Sul;2000;Total_rural;7244
+1859;2916104;Itaparica;Metropolitana de Salvador;2000;Total_rural;0
+1860;2916203;Itapé;Litoral Sul;2000;Total_rural;5973
+1861;2916302;Itapebi;Costa do Descobrimento;2000;Total_rural;2584
+1862;2916401;Itapetinga;Médio Sudoeste da Bahia;2000;Total_rural;2749
+1863;2916500;Itapicuru;Litoral Norte e Agreste Baiano;2000;Total_rural;22230
+1864;2916609;Itapitanga;Litoral Sul;2000;Total_rural;3287
+1865;2916708;Itaquara;Vale de Jequiriçá;2000;Total_rural;3696
+1866;2916807;Itarantim;Médio Sudoeste da Bahia;2000;Total_rural;3963
+1867;2916856;Itatim;Piemonte do Paraguaçu;2000;Total_rural;4000
+1868;2916906;Itiruçu;Vale de Jequiriçá;2000;Total_rural;3714
+1869;2917003;Itiúba;Sisal;2000;Total_rural;26679
+1870;2917102;Itororó;Médio Sudoeste da Bahia;2000;Total_rural;3172
+1871;2917201;Ituaçu;Sertão Produtivo;2000;Total_rural;12839
+1872;2917300;Ituberá;Baixo Sul;2000;Total_rural;8223
+1873;2917334;Iuiu;Sertão Produtivo;2000;Total_rural;5918
+1874;2917359;Jaborandi;Bacia do Rio Corrente;2000;Total_rural;8265
+1875;2917409;Jacaraci;Vitória da Conquista;2000;Total_rural;9869
+1876;2917508;Jacobina;Piemonte da Diamantina;2000;Total_rural;24404
+1877;2917607;Jaguaquara;Vale de Jequiriçá;2000;Total_rural;11518
+1878;2917706;Jaguarari;Piemonte Norte do Itapicuru;2000;Total_rural;14031
+1879;2917805;Jaguaripe;Baixo Sul;2000;Total_rural;8790
+1880;2917904;Jandaíra;Litoral Norte e Agreste Baiano;2000;Total_rural;4520
+1881;2918001;Jequié;Médio Rio de Contas;2000;Total_rural;16906
+1882;2918100;Jeremoabo;Semi-Árido Nordeste II;2000;Total_rural;20152
+1883;2918209;Jiquiriçá;Vale de Jequiriçá;2000;Total_rural;9050
+1884;2918308;Jitaúna;Médio Rio de Contas;2000;Total_rural;11488
+1885;2918357;João Dourado;Irecê;2000;Total_rural;7526
+1886;2918407;Juazeiro;Sertão do São Francisco;2000;Total_rural;41289
+1887;2918456;Jucuruçu;Extremo Sul;2000;Total_rural;10527
+1888;2918506;Jussara;Irecê;2000;Total_rural;5474
+1889;2918555;Jussari;Litoral Sul;2000;Total_rural;2432
+1890;2918605;Jussiape;Chapada Diamantina;2000;Total_rural;6285
+1891;2918704;Lafayette Coutinho;Vale de Jequiriçá;2000;Total_rural;2181
+1892;2919058;Lagedo do Tabocal;Vale de Jequiriçá;2000;Total_rural;3492
+1893;2918753;Lagoa Real;Sertão Produtivo;2000;Total_rural;10759
+1894;2918803;Laje;Vale de Jequiriçá;2000;Total_rural;14483
+1895;2918902;Lajedão;Extremo Sul;2000;Total_rural;1557
+1896;2919009;Lajedinho;Piemonte do Paraguaçu;2000;Total_rural;3198
+1897;2919108;Lamarão;Sisal;2000;Total_rural;7595
+1898;2919157;Lapão;Irecê;2000;Total_rural;15505
+1899;2919207;Lauro de Freitas;Metropolitana de Salvador;2000;Total_rural;5158
+1900;2919306;Lençóis;Chapada Diamantina;2000;Total_rural;2515
+1901;2919405;Licínio de Almeida;Vitória da Conquista;2000;Total_rural;6392
+1902;2919504;Livramento de N. Senhora;Sertão Produtivo;2000;Total_rural;21301
+1903;2919553;Luís Eduardo Magalhães;Bacia do Rio Grande;2000;Total_rural;NA
+1904;2919603;Macajuba;Piemonte do Paraguaçu;2000;Total_rural;7069
+1905;2919702;Macarani;Médio Sudoeste da Bahia;2000;Total_rural;3875
+1906;2919801;Macaúbas;Bacia do Paramirim;2000;Total_rural;30125
+1907;2919900;Macururé;Itaparica;2000;Total_rural;6257
+1908;2919926;Madre de Deus;Metropolitana de Salvador;2000;Total_rural;437
+1909;2919959;Maetinga;Vitória da Conquista;2000;Total_rural;11712
+1910;2920007;Maiquinique;Médio Sudoeste da Bahia;2000;Total_rural;2118
+1911;2920106;Mairi;Bacia do Jacuípe;2000;Total_rural;10490
+1912;2920205;Malhada;Velho Chico;2000;Total_rural;9541
+1913;2920304;Malhada de Pedras;Sertão Produtivo;2000;Total_rural;6078
+1914;2920403;Manoel Vitorino;Médio Rio de Contas;2000;Total_rural;9921
+1915;2920452;Mansidão;Bacia do Rio Grande;2000;Total_rural;8712
+1916;2920502;Maracás;Vale de Jequiriçá;2000;Total_rural;13167
+1917;2920601;Maragogipe;Recôncavo;2000;Total_rural;19271
+1918;2920700;Maraú;Litoral Sul;2000;Total_rural;15517
+1919;2920809;Marcionílio Souza;Chapada Diamantina;2000;Total_rural;5678
+1920;2920908;Mascote;Litoral Sul;2000;Total_rural;4240
+1921;2921005;Mata de São João;Litoral Norte e Agreste Baiano;2000;Total_rural;7599
+1922;2921054;Matina;Velho Chico;2000;Total_rural;7483
+1923;2921104;Medeiros Neto;Extremo Sul;2000;Total_rural;5208
+1924;2921203;Miguel Calmon;Piemonte da Diamantina;2000;Total_rural;13448
+1925;2921302;Milagres;Vale de Jequiriçá;2000;Total_rural;2708
+1926;2921401;Mirangaba;Piemonte da Diamantina;2000;Total_rural;9548
+1927;2921450;Mirante;Vitória da Conquista;2000;Total_rural;12387
+1928;2921500;Monte Santo;Sisal;2000;Total_rural;47326
+1929;2921609;Morpará;Velho Chico;2000;Total_rural;3103
+1930;2921708;Morro do Chapéu;Chapada Diamantina;2000;Total_rural;14701
+1931;2921807;Mortugaba;Vitória da Conquista;2000;Total_rural;7604
+1932;2921906;Mucugê;Chapada Diamantina;2000;Total_rural;10365
+1933;2922003;Mucuri;Extremo Sul;2000;Total_rural;9377
+1934;2922052;Mulungu do Morro;Irecê;2000;Total_rural;8960
+1935;2922102;Mundo Novo;Piemonte do Paraguaçu;2000;Total_rural;10144
+1936;2922201;Muniz Ferreira;Recôncavo;2000;Total_rural;3640
+1937;2922250;Muquém do São Francisco;Velho Chico;2000;Total_rural;8055
+1938;2922300;Muritiba;Recôncavo;2000;Total_rural;12739
+1939;2922409;Mutuípe;Vale de Jequiriçá;2000;Total_rural;11478
+1940;2922508;Nazaré;Recôncavo;2000;Total_rural;3354
+1941;2922607;Nilo Peçanha;Baixo Sul;2000;Total_rural;8718
+1942;2922656;Nordestina;Sisal;2000;Total_rural;8925
+1943;2922706;Nova Canaã;Médio Sudoeste da Bahia;2000;Total_rural;9393
+1944;2922730;Nova Fátima;Bacia do Jacuípe;2000;Total_rural;3095
+1945;2922755;Nova Ibiá;Médio Rio de Contas;2000;Total_rural;4632
+1946;2922805;Nova Itarana;Vale de Jequiriçá;2000;Total_rural;4095
+1947;2922854;Nova Redenção;Chapada Diamantina;2000;Total_rural;4144
+1948;2922904;Nova Soure;Semi-Árido Nordeste II;2000;Total_rural;13536
+1949;2923001;Nova Viçosa;Extremo Sul;2000;Total_rural;7440
+1950;2923035;Novo Horizonte;Chapada Diamantina;2000;Total_rural;6502
+1951;2923050;Novo Triunfo;Semi-Árido Nordeste II;2000;Total_rural;8352
+1952;2923100;Olindina;Litoral Norte e Agreste Baiano;2000;Total_rural;12757
+1953;2923209;Oliveira dos Brejinhos;Velho Chico;2000;Total_rural;15853
+1954;2923308;Ouriçangas;Litoral Norte e Agreste Baiano;2000;Total_rural;4941
+1955;2923357;Ourolândia;Piemonte da Diamantina;2000;Total_rural;10898
+1956;2923407;Palmas de Monte Alto;Sertão Produtivo;2000;Total_rural;13442
+1957;2923506;Palmeiras;Chapada Diamantina;2000;Total_rural;3519
+1958;2923605;Paramirim;Bacia do Paramirim;2000;Total_rural;11038
+1959;2923704;Paratinga;Velho Chico;2000;Total_rural;18612
+1960;2923803;Paripiranga;Semi-Árido Nordeste II;2000;Total_rural;18810
+1961;2923902;Pau Brasil;Litoral Sul;2000;Total_rural;4308
+1962;2924009;Paulo Afonso;Itaparica;2000;Total_rural;13915
+1963;2924058;Pé de Serra;Bacia do Jacuípe;2000;Total_rural;9420
+1964;2924108;Pedrão;Litoral Norte e Agreste Baiano;2000;Total_rural;5307
+1965;2924207;Pedro Alexandre;Semi-Árido Nordeste II;2000;Total_rural;14822
+1966;2924306;Piatã;Chapada Diamantina;2000;Total_rural;13206
+1967;2924405;Pilão Arcado;Sertão do São Francisco;2000;Total_rural;22848
+1968;2924504;Pindaí;Sertão Produtivo;2000;Total_rural;11863
+1969;2924603;Pindobaçu;Piemonte Norte do Itapicuru;2000;Total_rural;10413
+1970;2924652;Pintadas;Bacia do Jacuípe;2000;Total_rural;6851
+1971;2924678;Piraí do Norte;Baixo Sul;2000;Total_rural;7638
+1972;2924702;Piripá;Vitória da Conquista;2000;Total_rural;10880
+1973;2924801;Piritiba;Piemonte do Paraguaçu;2000;Total_rural;6309
+1974;2924900;Planaltino;Vale de Jequiriçá;2000;Total_rural;4973
+1975;2925006;Planalto;Vitória da Conquista;2000;Total_rural;9170
+1976;2925105;Poções;Vitória da Conquista;2000;Total_rural;12412
+1977;2925204;Pojuca;Litoral Norte e Agreste Baiano;2000;Total_rural;4319
+1978;2925253;Ponto Novo;Piemonte Norte do Itapicuru;2000;Total_rural;10420
+1979;2925303;Porto Seguro;Costa do Descobrimento;2000;Total_rural;16102
+1980;2925402;Potiraguá;Médio Sudoeste da Bahia;2000;Total_rural;7033
+1981;2925501;Prado;Extremo Sul;2000;Total_rural;12329
+1982;2925600;Presidente Dutra;Irecê;2000;Total_rural;6071
+1983;2925709;Presidente Jânio Quadros;Vitória da Conquista;2000;Total_rural;14132
+1984;2925758;Presidente Tancredo Neves;Baixo Sul;2000;Total_rural;13183
+1985;2925808;Queimadas;Sisal;2000;Total_rural;14830
+1986;2925907;Quijingue;Sisal;2000;Total_rural;21484
+1987;2925931;Quixabeira;Bacia do Jacuípe;2000;Total_rural;6336
+1988;2925956;Rafael Jambeiro;Piemonte do Paraguaçu;2000;Total_rural;17698
+1989;2926004;Remanso;Sertão do São Francisco;2000;Total_rural;15242
+1990;2926103;Retirolândia;Sisal;2000;Total_rural;5417
+1991;2926202;Riachão das Neves;Bacia do Rio Grande;2000;Total_rural;11660
+1992;2926301;Riachão do Jacuípe;Bacia do Jacuípe;2000;Total_rural;16064
+1993;2926400;Riacho de Santana;Velho Chico;2000;Total_rural;17632
+1994;2926509;Ribeira do Amparo;Semi-Árido Nordeste II;2000;Total_rural;12444
+1995;2926608;Ribeira do Pombal;Semi-Árido Nordeste II;2000;Total_rural;20887
+1996;2926657;Ribeirão do Largo;Vitória da Conquista;2000;Total_rural;10852
+1997;2926707;Rio de Contas;Chapada Diamantina;2000;Total_rural;8251
+1998;2926806;Rio do Antônio;Sertão Produtivo;2000;Total_rural;9525
+1999;2926905;Rio do Pires;Bacia do Paramirim;2000;Total_rural;7700
+2000;2927002;Rio Real;Litoral Norte e Agreste Baiano;2000;Total_rural;13217
+2001;2927101;Rodelas;Itaparica;2000;Total_rural;1474
+2002;2927200;Ruy Barbosa;Piemonte do Paraguaçu;2000;Total_rural;8763
+2003;2927309;Salinas da Margarida;Metropolitana de Salvador;2000;Total_rural;5766
+2004;2927408;Salvador;Metropolitana de Salvador;2000;Total_rural;1005
+2005;2927507;Santa Bárbara;Portal do Sertão;2000;Total_rural;10766
+2006;2927606;Santa Brígida;Semi-Árido Nordeste II;2000;Total_rural;12495
+2007;2927705;Santa Cruz Cabrália;Costa do Descobrimento;2000;Total_rural;10361
+2008;2927804;Santa Cruz da Vitória;Médio Sudoeste da Bahia;2000;Total_rural;2037
+2009;2927903;Santa Inês;Vale de Jequiriçá;2000;Total_rural;653
+2010;2928059;Santa Luzia;Litoral Sul;2000;Total_rural;7174
+2011;2928109;Santa Maria da Vitória;Bacia do Rio Corrente;2000;Total_rural;18474
+2012;2928406;Santa Rita de Cássia;Bacia do Rio Grande;2000;Total_rural;11841
+2013;2928505;Santa Terezinha;Piemonte do Paraguaçu;2000;Total_rural;6837
+2014;2928000;Santaluz;Sisal;2000;Total_rural;12989
+2015;2928208;Santana;Bacia do Rio Corrente;2000;Total_rural;11643
+2016;2928307;Santanópolis;Portal do Sertão;2000;Total_rural;7394
+2017;2928604;Santo Amaro;Recôncavo;2000;Total_rural;13909
+2018;2928703;Santo Antônio de Jesus;Recôncavo;2000;Total_rural;11123
+2019;2928802;Santo Estevão;Portal do Sertão;2000;Total_rural;21452
+2020;2928901;São Desidério;Bacia do Rio Grande;2000;Total_rural;11877
+2021;2928950;São Domingos;Sisal;2000;Total_rural;4815
+2022;2929107;São Felipe;Recôncavo;2000;Total_rural;11978
+2023;2929008;São Félix;Recôncavo;2000;Total_rural;4951
+2024;2929057;São Félix do Coribe;Bacia do Rio Corrente;2000;Total_rural;3206
+2025;2929206;São Francisco do Conde;Recôncavo;2000;Total_rural;4412
+2026;2929255;São Gabriel;Irecê;2000;Total_rural;8601
+2027;2929305;São Gonçalo dos Campos;Portal do Sertão;2000;Total_rural;13448
+2028;2929354;São José da Vitória;Litoral Sul;2000;Total_rural;1056
+2029;2929370;São José do Jacuípe;Bacia do Jacuípe;2000;Total_rural;3532
+2030;2929404;São Miguel das Matas;Vale de Jequiriçá;2000;Total_rural;7248
+2031;2929503;São Sebastião do Passé;Recôncavo;2000;Total_rural;10411
+2032;2929602;Sapeaçu;Recôncavo;2000;Total_rural;8926
+2033;2929701;Sátiro Dias;Litoral Norte e Agreste Baiano;2000;Total_rural;13825
+2034;2929750;Saubara;Recôncavo;2000;Total_rural;117
+2035;2929800;Saúde;Piemonte da Diamantina;2000;Total_rural;5497
+2036;2929909;Seabra;Chapada Diamantina;2000;Total_rural;22673
+2037;2930006;Sebastião Laranjeiras;Sertão Produtivo;2000;Total_rural;5644
+2038;2930105;Senhor do Bonfim;Piemonte Norte do Itapicuru;2000;Total_rural;16380
+2039;2930204;Sento Sé;Sertão do São Francisco;2000;Total_rural;15197
+2040;2930154;Serra do Ramalho;Velho Chico;2000;Total_rural;28858
+2041;2930303;Serra Dourada;Bacia do Rio Corrente;2000;Total_rural;12638
+2042;2930402;Serra Preta;Bacia do Jacuípe;2000;Total_rural;12034
+2043;2930501;Serrinha;Sisal;2000;Total_rural;37263
+2044;2930600;Serrolândia;Piemonte da Diamantina;2000;Total_rural;6574
+2045;2930709;Simões Filho;Metropolitana de Salvador;2000;Total_rural;17161
+2046;2930758;Sítio do Mato;Velho Chico;2000;Total_rural;5282
+2047;2930766;Sítio do Quinto;Semi-Árido Nordeste II;2000;Total_rural;13369
+2048;2930774;Sobradinho;Sertão do São Francisco;2000;Total_rural;1715
+2049;2930808;Souto Soares;Chapada Diamantina;2000;Total_rural;9715
+2050;2930907;Tabocas do Brejo Velho;Bacia do Rio Corrente;2000;Total_rural;9188
+2051;2931004;Tanhaçu;Sertão Produtivo;2000;Total_rural;13027
+2052;2931053;Tanque Novo;Bacia do Paramirim;2000;Total_rural;10236
+2053;2931103;Tanquinho;Portal do Sertão;2000;Total_rural;2378
+2054;2931202;Taperoá;Baixo Sul;2000;Total_rural;8410
+2055;2931301;Tapiramutá;Piemonte do Paraguaçu;2000;Total_rural;4636
+2056;2931350;Teixeira de Freitas;Extremo Sul;2000;Total_rural;8798
+2057;2931400;Teodoro Sampaio;Portal do Sertão;2000;Total_rural;2257
+2058;2931509;Teofilândia;Sisal;2000;Total_rural;14574
+2059;2931608;Teolândia;Baixo Sul;2000;Total_rural;8966
+2060;2931707;Terra Nova;Portal do Sertão;2000;Total_rural;1744
+2061;2931806;Tremedal;Vitória da Conquista;2000;Total_rural;17697
+2062;2931905;Tucano;Sisal;2000;Total_rural;32351
+2063;2932002;Uauá;Sertão do São Francisco;2000;Total_rural;16385
+2064;2932101;Ubaíra;Vale de Jequiriçá;2000;Total_rural;12585
+2065;2932200;Ubaitaba;Litoral Sul;2000;Total_rural;5272
+2066;2932309;Ubatã;Médio Rio de Contas;2000;Total_rural;3956
+2067;2932408;Uibaí;Irecê;2000;Total_rural;5734
+2068;2932457;Umburanas;Piemonte da Diamantina;2000;Total_rural;7954
+2069;2932507;Una;Litoral Sul;2000;Total_rural;15987
+2070;2932606;Urandi;Sertão Produtivo;2000;Total_rural;11346
+2071;2932705;Uruçuca;Litoral Sul;2000;Total_rural;6165
+2072;2932804;Utinga;Chapada Diamantina;2000;Total_rural;5417
+2073;2932903;Valença;Baixo Sul;2000;Total_rural;21625
+2074;2933000;Valente;Sisal;2000;Total_rural;9634
+2075;2933059;Várzea da Roça;Bacia do Jacuípe;2000;Total_rural;7786
+2076;2933109;Várzea do Poço;Bacia do Jacuípe;2000;Total_rural;2481
+2077;2933158;Várzea Nova;Piemonte da Diamantina;2000;Total_rural;5471
+2078;2933174;Varzedo;Recôncavo;2000;Total_rural;6046
+2079;2933208;Vera Cruz;Metropolitana de Salvador;2000;Total_rural;1878
+2080;2933257;Vereda;Extremo Sul;2000;Total_rural;6174
+2081;2933307;Vitória da Conquista;Vitória da Conquista;2000;Total_rural;36949
+2082;2933406;Wagner;Chapada Diamantina;2000;Total_rural;2939
+2083;2933455;Wanderley;Bacia do Rio Grande;2000;Total_rural;8171
+2084;2933505;Wenceslau Guimarães;Baixo Sul;2000;Total_rural;17136
+2085;2933604;Xique-Xique;Irecê;2000;Total_rural;13153
+2086;2900108;Abaíra;Chapada Diamantina;2010;Total_rural;4580
+2087;2900207;Abaré;Itaparica;2010;Total_rural;8035
+2088;2900306;Acajutiba;Litoral Norte e Agreste Baiano;2010;Total_rural;1879
+2089;2900355;Adustina;Semi-Árido Nordeste II;2010;Total_rural;10130
+2090;2900405;Água Fria;Portal do Sertão;2010;Total_rural;9954
+2091;2900603;Aiquara;Médio Rio de Contas;2010;Total_rural;1922
+2092;2900702;Alagoinhas;Litoral Norte e Agreste Baiano;2010;Total_rural;17907
+2093;2900801;Alcobaça;Extremo Sul;2010;Total_rural;10186
+2094;2900900;Almadina;Litoral Sul;2010;Total_rural;1277
+2095;2901007;Amargosa;Vale de Jequiriçá;2010;Total_rural;9460
+2096;2901106;Amélia Rodrigues;Portal do Sertão;2010;Total_rural;5233
+2097;2901155;América Dourada;Irecê;2010;Total_rural;5129
+2098;2901205;Anagé;Vitória da Conquista;2010;Total_rural;20592
+2099;2901304;Andaraí;Chapada Diamantina;2010;Total_rural;6187
+2100;2901353;Andorinha;Piemonte Norte do Itapicuru;2010;Total_rural;8206
+2101;2901403;Angical;Bacia do Rio Grande;2010;Total_rural;7542
+2102;2901502;Anguera;Portal do Sertão;2010;Total_rural;5916
+2103;2901601;Antas;Semi-Árido Nordeste II;2010;Total_rural;10712
+2104;2901700;Antônio Cardoso;Portal do Sertão;2010;Total_rural;8329
+2105;2901809;Antônio Gonçalves;Piemonte Norte do Itapicuru;2010;Total_rural;5232
+2106;2901908;Aporá;Litoral Norte e Agreste Baiano;2010;Total_rural;9226
+2107;2901957;Apuarema;Médio Rio de Contas;2010;Total_rural;2342
+2108;2902054;Araçás;Litoral Norte e Agreste Baiano;2010;Total_rural;5754
+2109;2902005;Aracatu;Vitória da Conquista;2010;Total_rural;9805
+2110;2902104;Araci;Sisal;2010;Total_rural;32013
+2111;2902203;Aramari;Litoral Norte e Agreste Baiano;2010;Total_rural;4911
+2112;2902252;Arataca;Litoral Sul;2010;Total_rural;4804
+2113;2902302;Aratuípe;Baixo Sul;2010;Total_rural;3086
+2114;2902401;Aurelino Leal;Litoral Sul;2010;Total_rural;2169
+2115;2902500;Baianópolis;Bacia do Rio Grande;2010;Total_rural;10368
+2116;2902609;Baixa Grande;Bacia do Jacuípe;2010;Total_rural;11722
+2117;2902658;Banzaê;Semi-Árido Nordeste II;2010;Total_rural;7772
+2118;2902708;Barra;Velho Chico;2010;Total_rural;26879
+2119;2902807;Barra da Estiva;Chapada Diamantina;2010;Total_rural;10783
+2120;2902906;Barra do Choça;Vitória da Conquista;2010;Total_rural;12381
+2121;2903003;Barra do Mendes;Irecê;2010;Total_rural;7731
+2122;2903102;Barra do Rocha;Médio Rio de Contas;2010;Total_rural;2507
+2123;2903201;Barreiras;Bacia do Rio Grande;2010;Total_rural;13686
+2124;2903235;Barro Alto;Irecê;2010;Total_rural;6900
+2125;2903300;Barro Preto/Lomanto Junior;Litoral Sul;2010;Total_rural;1158
+2126;2903276;Barrocas;Sisal;2010;Total_rural;8496
+2127;2903409;Belmonte;Costa do Descobrimento;2010;Total_rural;10378
+2128;2903508;Belo Campo;Vitória da Conquista;2010;Total_rural;6992
+2129;2903607;Biritinga;Sisal;2010;Total_rural;11319
+2130;2903706;Boa Nova;Médio Rio de Contas;2010;Total_rural;9607
+2131;2903805;Boa Vista do Tupim;Piemonte do Paraguaçu;2010;Total_rural;11398
+2132;2903904;Bom Jesus da Lapa;Velho Chico;2010;Total_rural;20381
+2133;2903953;Bom Jesus da Serra;Vitória da Conquista;2010;Total_rural;7345
+2134;2904001;Boninal;Chapada Diamantina;2010;Total_rural;9088
+2135;2904050;Bonito;Chapada Diamantina;2010;Total_rural;8602
+2136;2904100;Boquira;Bacia do Paramirim;2010;Total_rural;14673
+2137;2904209;Botuporã;Bacia do Paramirim;2010;Total_rural;7078
+2138;2904308;Brejões;Vale de Jequiriçá;2010;Total_rural;9345
+2139;2904407;Brejolândia;Bacia do Rio Corrente;2010;Total_rural;9093
+2140;2904506;Brotas de Macaúbas;Velho Chico;2010;Total_rural;7599
+2141;2904605;Brumado;Sertão Produtivo;2010;Total_rural;19471
+2142;2904704;Buerarema;Litoral Sul;2010;Total_rural;3328
+2143;2904753;Buritirama;Bacia do Rio Grande;2010;Total_rural;11695
+2144;2904803;Caatiba;Médio Sudoeste da Bahia;2010;Total_rural;6022
+2145;2904852;Cabaceiras do Paraguaçu;Recôncavo;2010;Total_rural;12683
+2146;2904902;Cachoeira;Recôncavo;2010;Total_rural;15639
+2147;2905008;Caculé;Sertão Produtivo;2010;Total_rural;8927
+2148;2905107;Caém;Piemonte da Diamantina;2010;Total_rural;6713
+2149;2905156;Caetanos;Vitória da Conquista;2010;Total_rural;10348
+2150;2905206;Caetité;Sertão Produtivo;2010;Total_rural;19068
+2151;2905305;Cafarnaum;Irecê;2010;Total_rural;6646
+2152;2905404;Cairu;Baixo Sul;2010;Total_rural;7227
+2153;2905503;Caldeirão Grande;Piemonte Norte do Itapicuru;2010;Total_rural;7933
+2154;2905602;Camacan;Litoral Sul;2010;Total_rural;6787
+2155;2905701;Camaçari;Metropolitana de Salvador;2010;Total_rural;10997
+2156;2905800;Camamu;Baixo Sul;2010;Total_rural;19562
+2157;2905909;Campo Alegre de Lourdes;Sertão do São Francisco;2010;Total_rural;19964
+2158;2906006;Campo Formoso;Piemonte Norte do Itapicuru;2010;Total_rural;41753
+2159;2906105;Canápolis;Bacia do Rio Corrente;2010;Total_rural;6185
+2160;2906204;Canarana;Irecê;2010;Total_rural;12612
+2161;2906303;Canavieiras;Litoral Sul;2010;Total_rural;6433
+2162;2906402;Candeal;Sisal;2010;Total_rural;5419
+2163;2906501;Candeias;Metropolitana de Salvador;2010;Total_rural;7164
+2164;2906600;Candiba;Sertão Produtivo;2010;Total_rural;5485
+2165;2906709;Cândido Sales;Vitória da Conquista;2010;Total_rural;8632
+2166;2906808;Cansanção;Sisal;2010;Total_rural;21887
+2167;2906824;Canudos;Sertão do São Francisco;2010;Total_rural;7034
+2168;2906857;Capela do Alto Alegre;Bacia do Jacuípe;2010;Total_rural;5932
+2169;2906873;Capim Grosso;Piemonte da Diamantina;2010;Total_rural;4815
+2170;2906899;Caraíbas;Vitória da Conquista;2010;Total_rural;7709
+2171;2906907;Caravelas;Extremo Sul;2010;Total_rural;10105
+2172;2907004;Cardeal da Silva;Litoral Norte e Agreste Baiano;2010;Total_rural;5998
+2173;2907103;Carinhanha;Velho Chico;2010;Total_rural;15795
+2174;2907202;Casa Nova;Sertão do São Francisco;2010;Total_rural;27397
+2175;2907301;Castro Alves;Recôncavo;2010;Total_rural;9722
+2176;2907400;Catolândia;Bacia do Rio Grande;2010;Total_rural;1645
+2177;2907509;Catu;Litoral Norte e Agreste Baiano;2010;Total_rural;8322
+2178;2907558;Caturama;Bacia do Paramirim;2010;Total_rural;6469
+2179;2907608;Central;Irecê;2010;Total_rural;8856
+2180;2907707;Chorrochó;Itaparica;2010;Total_rural;8103
+2181;2907806;Cícero Dantas;Semi-Árido Nordeste II;2010;Total_rural;14574
+2182;2907905;Cipó;Semi-Árido Nordeste II;2010;Total_rural;4468
+2183;2908002;Coaraci;Litoral Sul;2010;Total_rural;1834
+2184;2908101;Côcos;Bacia do Rio Corrente;2010;Total_rural;9581
+2185;2908200;Conceição da Feira;Portal do Sertão;2010;Total_rural;7254
+2186;2908309;Conceição do Almeida;Recôncavo;2010;Total_rural;9963
+2187;2908408;Conceição do Coité;Sisal;2010;Total_rural;25762
+2188;2908507;Conceição do Jacuípe;Portal do Sertão;2010;Total_rural;6584
+2189;2908606;Conde;Litoral Norte e Agreste Baiano;2010;Total_rural;11491
+2190;2908705;Condeúba;Vitória da Conquista;2010;Total_rural;9436
+2191;2908804;Contendas do Sincorá;Sertão Produtivo;2010;Total_rural;2366
+2192;2908903;Coração de Maria;Portal do Sertão;2010;Total_rural;13001
+2193;2909000;Cordeiros;Vitória da Conquista;2010;Total_rural;5617
+2194;2909109;Coribe;Bacia do Rio Corrente;2010;Total_rural;8166
+2195;2909208;Coronel João Sá;Semi-Árido Nordeste II;2010;Total_rural;10023
+2196;2909307;Correntina;Bacia do Rio Corrente;2010;Total_rural;18645
+2197;2909406;Cotegipe;Bacia do Rio Grande;2010;Total_rural;6988
+2198;2909505;Cravolândia;Vale de Jequiriçá;2010;Total_rural;1861
+2199;2909604;Crisópolis;Litoral Norte e Agreste Baiano;2010;Total_rural;11434
+2200;2909703;Cristópolis;Bacia do Rio Grande;2010;Total_rural;10147
+2201;2909802;Cruz das Almas;Recôncavo;2010;Total_rural;8721
+2202;2909901;Curaçá;Sertão do São Francisco;2010;Total_rural;18449
+2203;2910008;Dário Meira;Médio Rio de Contas;2010;Total_rural;7746
+2204;2910057;Dias D'Ávila;Metropolitana de Salvador;2010;Total_rural;3967
+2205;2910107;Dom Basílio;Sertão Produtivo;2010;Total_rural;9114
+2206;2910206;Dom Macedo Costa;Recôncavo;2010;Total_rural;2113
+2207;2910305;Elísio Medrado;Vale de Jequiriçá;2010;Total_rural;4699
+2208;2910404;Encruzilhada;Vitória da Conquista;2010;Total_rural;18636
+2209;2910503;Entre Rios;Litoral Norte e Agreste Baiano;2010;Total_rural;16032
+2210;2900504;Érico Cardoso;Bacia do Paramirim;2010;Total_rural;8843
+2211;2910602;Esplanada;Litoral Norte e Agreste Baiano;2010;Total_rural;11980
+2212;2910701;Euclides da Cunha;Semi-Árido Nordeste II;2010;Total_rural;28873
+2213;2910727;Eunápolis;Costa do Descobrimento;2010;Total_rural;6783
+2214;2910750;Fátima;Semi-Árido Nordeste II;2010;Total_rural;10736
+2215;2910776;Feira da Mata;Velho Chico;2010;Total_rural;2941
+2216;2910800;Feira de Santana;Portal do Sertão;2010;Total_rural;46007
+2217;2910859;Filadélfia;Piemonte Norte do Itapicuru;2010;Total_rural;7718
+2218;2910909;Firmino Alves;Médio Sudoeste da Bahia;2010;Total_rural;1047
+2219;2911006;Floresta Azul;Litoral Sul;2010;Total_rural;3317
+2220;2911105;Formosa do Rio Preto;Bacia do Rio Grande;2010;Total_rural;8881
+2221;2911204;Gandu;Baixo Sul;2010;Total_rural;5488
+2222;2911253;Gavião;Bacia do Jacuípe;2010;Total_rural;2023
+2223;2911303;Gentio do Ouro;Irecê;2010;Total_rural;5272
+2224;2911402;Glória;Itaparica;2010;Total_rural;12249
+2225;2911501;Gongogi;Médio Rio de Contas;2010;Total_rural;2999
+2226;2911600;Governador Mangabeira;Recôncavo;2010;Total_rural;12401
+2227;2911659;Guajeru;Vitória da Conquista;2010;Total_rural;8335
+2228;2911709;Guanambi;Sertão Produtivo;2010;Total_rural;16268
+2229;2911808;Guaratinga;Costa do Descobrimento;2010;Total_rural;11740
+2230;2911857;Heliópolis;Semi-Árido Nordeste II;2010;Total_rural;7764
+2231;2911907;Iaçu;Piemonte do Paraguaçu;2010;Total_rural;5568
+2232;2912004;Ibiassucê;Sertão Produtivo;2010;Total_rural;5356
+2233;2912103;Ibicaraí;Litoral Sul;2010;Total_rural;6387
+2234;2912202;Ibicoara;Chapada Diamantina;2010;Total_rural;6321
+2235;2912301;Ibicuí;Médio Sudoeste da Bahia;2010;Total_rural;3821
+2236;2912400;Ibipeba;Irecê;2010;Total_rural;6959
+2237;2912509;Ibipitanga;Bacia do Paramirim;2010;Total_rural;9016
+2238;2912608;Ibiquera;Piemonte do Paraguaçu;2010;Total_rural;2405
+2239;2912707;Ibirapitanga;Baixo Sul;2010;Total_rural;16435
+2240;2912806;Ibirapoã;Extremo Sul;2010;Total_rural;3424
+2241;2912905;Ibirataia;Médio Rio de Contas;2010;Total_rural;3201
+2242;2913002;Ibitiara;Chapada Diamantina;2010;Total_rural;12071
+2243;2913101;Ibititá;Irecê;2010;Total_rural;9502
+2244;2913200;Ibotirama;Velho Chico;2010;Total_rural;5923
+2245;2913309;Ichu;Sisal;2010;Total_rural;1890
+2246;2913408;Igaporã;Velho Chico;2010;Total_rural;7341
+2247;2913457;Igrapiúna;Baixo Sul;2010;Total_rural;9068
+2248;2913507;Iguaí;Médio Sudoeste da Bahia;2010;Total_rural;11125
+2249;2913606;Ilhéus;Litoral Sul;2010;Total_rural;28955
+2250;2913705;Inhambupe;Litoral Norte e Agreste Baiano;2010;Total_rural;20671
+2251;2913804;Ipecaetá;Portal do Sertão;2010;Total_rural;12694
+2252;2913903;Ipiaú;Médio Rio de Contas;2010;Total_rural;4006
+2253;2914000;Ipirá;Bacia do Jacuípe;2010;Total_rural;30334
+2254;2914109;Ipupiara;Irecê;2010;Total_rural;3306
+2255;2914208;Irajuba;Vale de Jequiriçá;2010;Total_rural;3729
+2256;2914307;Iramaia;Chapada Diamantina;2010;Total_rural;6586
+2257;2914406;Iraquara;Chapada Diamantina;2010;Total_rural;15844
+2258;2914505;Irará;Portal do Sertão;2010;Total_rural;16220
+2259;2914604;Irecê;Irecê;2010;Total_rural;5162
+2260;2914653;Itabela;Costa do Descobrimento;2010;Total_rural;7006
+2261;2914703;Itaberaba;Piemonte do Paraguaçu;2010;Total_rural;13146
+2262;2914802;Itabuna;Litoral Sul;2010;Total_rural;5024
+2263;2914901;Itacaré;Litoral Sul;2010;Total_rural;10676
+2264;2915007;Itaeté;Chapada Diamantina;2010;Total_rural;8715
+2265;2915106;Itagi;Médio Rio de Contas;2010;Total_rural;2841
+2266;2915205;Itagibá;Médio Rio de Contas;2010;Total_rural;5621
+2267;2915304;Itagimirim;Costa do Descobrimento;2010;Total_rural;1461
+2268;2915353;Itaguaçu da Bahia;Irecê;2010;Total_rural;10611
+2269;2915403;Itaju do Colônia;Litoral Sul;2010;Total_rural;1449
+2270;2915502;Itajuípe;Litoral Sul;2010;Total_rural;4242
+2271;2915601;Itamaraju;Extremo Sul;2010;Total_rural;13284
+2272;2915700;Itamari;Médio Rio de Contas;2010;Total_rural;2064
+2273;2915809;Itambé;Médio Sudoeste da Bahia;2010;Total_rural;3391
+2274;2915908;Itanagra;Litoral Norte e Agreste Baiano;2010;Total_rural;5271
+2275;2916005;Itanhém;Extremo Sul;2010;Total_rural;6010
+2276;2916104;Itaparica;Metropolitana de Salvador;2010;Total_rural;0
+2277;2916203;Itapé;Litoral Sul;2010;Total_rural;3815
+2278;2916302;Itapebi;Costa do Descobrimento;2010;Total_rural;2227
+2279;2916401;Itapetinga;Médio Sudoeste da Bahia;2010;Total_rural;1997
+2280;2916500;Itapicuru;Litoral Norte e Agreste Baiano;2010;Total_rural;25586
+2281;2916609;Itapitanga;Litoral Sul;2010;Total_rural;2616
+2282;2916708;Itaquara;Vale de Jequiriçá;2010;Total_rural;3070
+2283;2916807;Itarantim;Médio Sudoeste da Bahia;2010;Total_rural;3237
+2284;2916856;Itatim;Piemonte do Paraguaçu;2010;Total_rural;4410
+2285;2916906;Itiruçu;Vale de Jequiriçá;2010;Total_rural;3167
+2286;2917003;Itiúba;Sisal;2010;Total_rural;26414
+2287;2917102;Itororó;Médio Sudoeste da Bahia;2010;Total_rural;1814
+2288;2917201;Ituaçu;Sertão Produtivo;2010;Total_rural;11558
+2289;2917300;Ituberá;Baixo Sul;2010;Total_rural;7339
+2290;2917334;Iuiu;Sertão Produtivo;2010;Total_rural;5616
+2291;2917359;Jaborandi;Bacia do Rio Corrente;2010;Total_rural;5933
+2292;2917409;Jacaraci;Vitória da Conquista;2010;Total_rural;8728
+2293;2917508;Jacobina;Piemonte da Diamantina;2010;Total_rural;23379
+2294;2917607;Jaguaquara;Vale de Jequiriçá;2010;Total_rural;12161
+2295;2917706;Jaguarari;Piemonte Norte do Itapicuru;2010;Total_rural;13731
+2296;2917805;Jaguaripe;Baixo Sul;2010;Total_rural;11169
+2297;2917904;Jandaíra;Litoral Norte e Agreste Baiano;2010;Total_rural;4184
+2298;2918001;Jequié;Médio Rio de Contas;2010;Total_rural;12469
+2299;2918100;Jeremoabo;Semi-Árido Nordeste II;2010;Total_rural;20243
+2300;2918209;Jiquiriçá;Vale de Jequiriçá;2010;Total_rural;8537
+2301;2918308;Jitaúna;Médio Rio de Contas;2010;Total_rural;4855
+2302;2918357;João Dourado;Irecê;2010;Total_rural;8980
+2303;2918407;Juazeiro;Sertão do São Francisco;2010;Total_rural;37190
+2304;2918456;Jucuruçu;Extremo Sul;2010;Total_rural;7998
+2305;2918506;Jussara;Irecê;2010;Total_rural;5000
+2306;2918555;Jussari;Litoral Sul;2010;Total_rural;1598
+2307;2918605;Jussiape;Chapada Diamantina;2010;Total_rural;4963
+2308;2918704;Lafayette Coutinho;Vale de Jequiriçá;2010;Total_rural;1797
+2309;2919058;Lagedo do Tabocal;Vale de Jequiriçá;2010;Total_rural;3156
+2310;2918753;Lagoa Real;Sertão Produtivo;2010;Total_rural;11126
+2311;2918803;Laje;Vale de Jequiriçá;2010;Total_rural;16121
+2312;2918902;Lajedão;Extremo Sul;2010;Total_rural;1657
+2313;2919009;Lajedinho;Piemonte do Paraguaçu;2010;Total_rural;2691
+2314;2919108;Lamarão;Sisal;2010;Total_rural;7475
+2315;2919157;Lapão;Irecê;2010;Total_rural;15596
+2316;2919207;Lauro de Freitas;Metropolitana de Salvador;2010;Total_rural;0
+2317;2919306;Lençóis;Chapada Diamantina;2010;Total_rural;2331
+2318;2919405;Licínio de Almeida;Vitória da Conquista;2010;Total_rural;6058
+2319;2919504;Livramento de N. Senhora;Sertão Produtivo;2010;Total_rural;22163
+2320;2919553;Luís Eduardo Magalhães;Bacia do Rio Grande;2010;Total_rural;5224
+2321;2919603;Macajuba;Piemonte do Paraguaçu;2010;Total_rural;4358
+2322;2919702;Macarani;Médio Sudoeste da Bahia;2010;Total_rural;3454
+2323;2919801;Macaúbas;Bacia do Paramirim;2010;Total_rural;31640
+2324;2919900;Macururé;Itaparica;2010;Total_rural;5213
+2325;2919926;Madre de Deus;Metropolitana de Salvador;2010;Total_rural;522
+2326;2919959;Maetinga;Vitória da Conquista;2010;Total_rural;4221
+2327;2920007;Maiquinique;Médio Sudoeste da Bahia;2010;Total_rural;1866
+2328;2920106;Mairi;Bacia do Jacuípe;2010;Total_rural;8211
+2329;2920205;Malhada;Velho Chico;2010;Total_rural;9455
+2330;2920304;Malhada de Pedras;Sertão Produtivo;2010;Total_rural;5234
+2331;2920403;Manoel Vitorino;Médio Rio de Contas;2010;Total_rural;7028
+2332;2920452;Mansidão;Bacia do Rio Grande;2010;Total_rural;7810
+2333;2920502;Maracás;Vale de Jequiriçá;2010;Total_rural;6906
+2334;2920601;Maragogipe;Recôncavo;2010;Total_rural;17722
+2335;2920700;Maraú;Litoral Sul;2010;Total_rural;15540
+2336;2920809;Marcionílio Souza;Chapada Diamantina;2010;Total_rural;5188
+2337;2920908;Mascote;Litoral Sul;2010;Total_rural;2961
+2338;2921005;Mata de São João;Litoral Norte e Agreste Baiano;2010;Total_rural;10358
+2339;2921054;Matina;Velho Chico;2010;Total_rural;7672
+2340;2921104;Medeiros Neto;Extremo Sul;2010;Total_rural;4496
+2341;2921203;Miguel Calmon;Piemonte da Diamantina;2010;Total_rural;10409
+2342;2921302;Milagres;Vale de Jequiriçá;2010;Total_rural;2517
+2343;2921401;Mirangaba;Piemonte da Diamantina;2010;Total_rural;8400
+2344;2921450;Mirante;Vitória da Conquista;2010;Total_rural;8698
+2345;2921500;Monte Santo;Sisal;2010;Total_rural;43493
+2346;2921609;Morpará;Velho Chico;2010;Total_rural;2742
+2347;2921708;Morro do Chapéu;Chapada Diamantina;2010;Total_rural;14897
+2348;2921807;Mortugaba;Vitória da Conquista;2010;Total_rural;6590
+2349;2921906;Mucugê;Chapada Diamantina;2010;Total_rural;6365
+2350;2922003;Mucuri;Extremo Sul;2010;Total_rural;8534
+2351;2922052;Mulungu do Morro;Irecê;2010;Total_rural;6330
+2352;2922102;Mundo Novo;Piemonte do Paraguaçu;2010;Total_rural;10831
+2353;2922201;Muniz Ferreira;Recôncavo;2010;Total_rural;3923
+2354;2922250;Muquém do São Francisco;Velho Chico;2010;Total_rural;8989
+2355;2922300;Muritiba;Recôncavo;2010;Total_rural;10859
+2356;2922409;Mutuípe;Vale de Jequiriçá;2010;Total_rural;11790
+2357;2922508;Nazaré;Recôncavo;2010;Total_rural;4410
+2358;2922607;Nilo Peçanha;Baixo Sul;2010;Total_rural;9425
+2359;2922656;Nordestina;Sisal;2010;Total_rural;8450
+2360;2922706;Nova Canaã;Médio Sudoeste da Bahia;2010;Total_rural;9861
+2361;2922730;Nova Fátima;Bacia do Jacuípe;2010;Total_rural;2528
+2362;2922755;Nova Ibiá;Médio Rio de Contas;2010;Total_rural;3841
+2363;2922805;Nova Itarana;Vale de Jequiriçá;2010;Total_rural;4720
+2364;2922854;Nova Redenção;Chapada Diamantina;2010;Total_rural;2797
+2365;2922904;Nova Soure;Semi-Árido Nordeste II;2010;Total_rural;12406
+2366;2923001;Nova Viçosa;Extremo Sul;2010;Total_rural;5030
+2367;2923035;Novo Horizonte;Chapada Diamantina;2010;Total_rural;7168
+2368;2923050;Novo Triunfo;Semi-Árido Nordeste II;2010;Total_rural;7548
+2369;2923100;Olindina;Litoral Norte e Agreste Baiano;2010;Total_rural;12170
+2370;2923209;Oliveira dos Brejinhos;Velho Chico;2010;Total_rural;15247
+2371;2923308;Ouriçangas;Litoral Norte e Agreste Baiano;2010;Total_rural;5536
+2372;2923357;Ourolândia;Piemonte da Diamantina;2010;Total_rural;10084
+2373;2923407;Palmas de Monte Alto;Sertão Produtivo;2010;Total_rural;10943
+2374;2923506;Palmeiras;Chapada Diamantina;2010;Total_rural;3171
+2375;2923605;Paramirim;Bacia do Paramirim;2010;Total_rural;10972
+2376;2923704;Paratinga;Velho Chico;2010;Total_rural;18599
+2377;2923803;Paripiranga;Semi-Árido Nordeste II;2010;Total_rural;18245
+2378;2923902;Pau Brasil;Litoral Sul;2010;Total_rural;3470
+2379;2924009;Paulo Afonso;Itaparica;2010;Total_rural;14992
+2380;2924058;Pé de Serra;Bacia do Jacuípe;2010;Total_rural;8578
+2381;2924108;Pedrão;Litoral Norte e Agreste Baiano;2010;Total_rural;5160
+2382;2924207;Pedro Alexandre;Semi-Árido Nordeste II;2010;Total_rural;14209
+2383;2924306;Piatã;Chapada Diamantina;2010;Total_rural;10370
+2384;2924405;Pilão Arcado;Sertão do São Francisco;2010;Total_rural;21833
+2385;2924504;Pindaí;Sertão Produtivo;2010;Total_rural;11309
+2386;2924603;Pindobaçu;Piemonte Norte do Itapicuru;2010;Total_rural;8884
+2387;2924652;Pintadas;Bacia do Jacuípe;2010;Total_rural;4502
+2388;2924678;Piraí do Norte;Baixo Sul;2010;Total_rural;6110
+2389;2924702;Piripá;Vitória da Conquista;2010;Total_rural;6588
+2390;2924801;Piritiba;Piemonte do Paraguaçu;2010;Total_rural;7237
+2391;2924900;Planaltino;Vale de Jequiriçá;2010;Total_rural;5182
+2392;2925006;Planalto;Vitória da Conquista;2010;Total_rural;9612
+2393;2925105;Poções;Vitória da Conquista;2010;Total_rural;10042
+2394;2925204;Pojuca;Litoral Norte e Agreste Baiano;2010;Total_rural;4688
+2395;2925253;Ponto Novo;Piemonte Norte do Itapicuru;2010;Total_rural;7337
+2396;2925303;Porto Seguro;Costa do Descobrimento;2010;Total_rural;22851
+2397;2925402;Potiraguá;Médio Sudoeste da Bahia;2010;Total_rural;3206
+2398;2925501;Prado;Extremo Sul;2010;Total_rural;12153
+2399;2925600;Presidente Dutra;Irecê;2010;Total_rural;4694
+2400;2925709;Presidente Jânio Quadros;Vitória da Conquista;2010;Total_rural;9454
+2401;2925758;Presidente Tancredo Neves;Baixo Sul;2010;Total_rural;14277
+2402;2925808;Queimadas;Sisal;2010;Total_rural;12110
+2403;2925907;Quijingue;Sisal;2010;Total_rural;20851
+2404;2925931;Quixabeira;Bacia do Jacuípe;2010;Total_rural;5891
+2405;2925956;Rafael Jambeiro;Piemonte do Paraguaçu;2010;Total_rural;16024
+2406;2926004;Remanso;Sertão do São Francisco;2010;Total_rural;15487
+2407;2926103;Retirolândia;Sisal;2010;Total_rural;5333
+2408;2926202;Riachão das Neves;Bacia do Rio Grande;2010;Total_rural;11193
+2409;2926301;Riachão do Jacuípe;Bacia do Jacuípe;2010;Total_rural;13312
+2410;2926400;Riacho de Santana;Velho Chico;2010;Total_rural;17555
+2411;2926509;Ribeira do Amparo;Semi-Árido Nordeste II;2010;Total_rural;12355
+2412;2926608;Ribeira do Pombal;Semi-Árido Nordeste II;2010;Total_rural;17762
+2413;2926657;Ribeirão do Largo;Vitória da Conquista;2010;Total_rural;3955
+2414;2926707;Rio de Contas;Chapada Diamantina;2010;Total_rural;6698
+2415;2926806;Rio do Antônio;Sertão Produtivo;2010;Total_rural;8822
+2416;2926905;Rio do Pires;Bacia do Paramirim;2010;Total_rural;6651
+2417;2927002;Rio Real;Litoral Norte e Agreste Baiano;2010;Total_rural;13854
+2418;2927101;Rodelas;Itaparica;2010;Total_rural;1235
+2419;2927200;Ruy Barbosa;Piemonte do Paraguaçu;2010;Total_rural;7794
+2420;2927309;Salinas da Margarida;Metropolitana de Salvador;2010;Total_rural;7496
+2421;2927408;Salvador;Metropolitana de Salvador;2010;Total_rural;733
+2422;2927507;Santa Bárbara;Portal do Sertão;2010;Total_rural;10395
+2423;2927606;Santa Brígida;Semi-Árido Nordeste II;2010;Total_rural;9449
+2424;2927705;Santa Cruz Cabrália;Costa do Descobrimento;2010;Total_rural;7262
+2425;2927804;Santa Cruz da Vitória;Médio Sudoeste da Bahia;2010;Total_rural;1597
+2426;2927903;Santa Inês;Vale de Jequiriçá;2010;Total_rural;849
+2427;2928059;Santa Luzia;Litoral Sul;2010;Total_rural;5272
+2428;2928109;Santa Maria da Vitória;Bacia do Rio Corrente;2010;Total_rural;16493
+2429;2928406;Santa Rita de Cássia;Bacia do Rio Grande;2010;Total_rural;11343
+2430;2928505;Santa Terezinha;Piemonte do Paraguaçu;2010;Total_rural;7314
+2431;2928000;Santaluz;Sisal;2010;Total_rural;13043
+2432;2928208;Santana;Bacia do Rio Corrente;2010;Total_rural;11267
+2433;2928307;Santanópolis;Portal do Sertão;2010;Total_rural;7092
+2434;2928604;Santo Amaro;Recôncavo;2010;Total_rural;13034
+2435;2928703;Santo Antônio de Jesus;Recôncavo;2010;Total_rural;11686
+2436;2928802;Santo Estevão;Portal do Sertão;2010;Total_rural;20190
+2437;2928901;São Desidério;Bacia do Rio Grande;2010;Total_rural;19026
+2438;2928950;São Domingos;Sisal;2010;Total_rural;3310
+2439;2929107;São Felipe;Recôncavo;2010;Total_rural;10485
+2440;2929008;São Félix;Recôncavo;2010;Total_rural;4833
+2441;2929057;São Félix do Coribe;Bacia do Rio Corrente;2010;Total_rural;2461
+2442;2929206;São Francisco do Conde;Recôncavo;2010;Total_rural;5792
+2443;2929255;São Gabriel;Irecê;2010;Total_rural;7933
+2444;2929305;São Gonçalo dos Campos;Portal do Sertão;2010;Total_rural;16778
+2445;2929354;São José da Vitória;Litoral Sul;2010;Total_rural;553
+2446;2929370;São José do Jacuípe;Bacia do Jacuípe;2010;Total_rural;3189
+2447;2929404;São Miguel das Matas;Vale de Jequiriçá;2010;Total_rural;7054
+2448;2929503;São Sebastião do Passé;Recôncavo;2010;Total_rural;9041
+2449;2929602;Sapeaçu;Recôncavo;2010;Total_rural;8501
+2450;2929701;Sátiro Dias;Litoral Norte e Agreste Baiano;2010;Total_rural;14632
+2451;2929750;Saubara;Recôncavo;2010;Total_rural;253
+2452;2929800;Saúde;Piemonte da Diamantina;2010;Total_rural;5199
+2453;2929909;Seabra;Chapada Diamantina;2010;Total_rural;21521
+2454;2930006;Sebastião Laranjeiras;Sertão Produtivo;2010;Total_rural;6287
+2455;2930105;Senhor do Bonfim;Piemonte Norte do Itapicuru;2010;Total_rural;16853
+2456;2930204;Sento Sé;Sertão do São Francisco;2010;Total_rural;15749
+2457;2930154;Serra do Ramalho;Velho Chico;2010;Total_rural;25364
+2458;2930303;Serra Dourada;Bacia do Rio Corrente;2010;Total_rural;12110
+2459;2930402;Serra Preta;Bacia do Jacuípe;2010;Total_rural;8481
+2460;2930501;Serrinha;Sisal;2010;Total_rural;29574
+2461;2930600;Serrolândia;Piemonte da Diamantina;2010;Total_rural;5065
+2462;2930709;Simões Filho;Metropolitana de Salvador;2010;Total_rural;12236
+2463;2930758;Sítio do Mato;Velho Chico;2010;Total_rural;5184
+2464;2930766;Sítio do Quinto;Semi-Árido Nordeste II;2010;Total_rural;7420
+2465;2930774;Sobradinho;Sertão do São Francisco;2010;Total_rural;1998
+2466;2930808;Souto Soares;Chapada Diamantina;2010;Total_rural;9860
+2467;2930907;Tabocas do Brejo Velho;Bacia do Rio Corrente;2010;Total_rural;7499
+2468;2931004;Tanhaçu;Sertão Produtivo;2010;Total_rural;11723
+2469;2931053;Tanque Novo;Bacia do Paramirim;2010;Total_rural;8811
+2470;2931103;Tanquinho;Portal do Sertão;2010;Total_rural;2297
+2471;2931202;Taperoá;Baixo Sul;2010;Total_rural;10023
+2472;2931301;Tapiramutá;Piemonte do Paraguaçu;2010;Total_rural;3732
+2473;2931350;Teixeira de Freitas;Extremo Sul;2010;Total_rural;9078
+2474;2931400;Teodoro Sampaio;Portal do Sertão;2010;Total_rural;1554
+2475;2931509;Teofilândia;Sisal;2010;Total_rural;14790
+2476;2931608;Teolândia;Baixo Sul;2010;Total_rural;9768
+2477;2931707;Terra Nova;Portal do Sertão;2010;Total_rural;1315
+2478;2931806;Tremedal;Vitória da Conquista;2010;Total_rural;13090
+2479;2931905;Tucano;Sisal;2010;Total_rural;30460
+2480;2932002;Uauá;Sertão do São Francisco;2010;Total_rural;13533
+2481;2932101;Ubaíra;Vale de Jequiriçá;2010;Total_rural;10928
+2482;2932200;Ubaitaba;Litoral Sul;2010;Total_rural;3093
+2483;2932309;Ubatã;Médio Rio de Contas;2010;Total_rural;7053
+2484;2932408;Uibaí;Irecê;2010;Total_rural;5314
+2485;2932457;Umburanas;Piemonte da Diamantina;2010;Total_rural;9490
+2486;2932507;Una;Litoral Sul;2010;Total_rural;9080
+2487;2932606;Urandi;Sertão Produtivo;2010;Total_rural;10527
+2488;2932705;Uruçuca;Litoral Sul;2010;Total_rural;4058
+2489;2932804;Utinga;Chapada Diamantina;2010;Total_rural;5363
+2490;2932903;Valença;Baixo Sul;2010;Total_rural;24305
+2491;2933000;Valente;Sisal;2010;Total_rural;11073
+2492;2933059;Várzea da Roça;Bacia do Jacuípe;2010;Total_rural;7305
+2493;2933109;Várzea do Poço;Bacia do Jacuípe;2010;Total_rural;2872
+2494;2933158;Várzea Nova;Piemonte da Diamantina;2010;Total_rural;4520
+2495;2933174;Varzedo;Recôncavo;2010;Total_rural;5745
+2496;2933208;Vera Cruz;Metropolitana de Salvador;2010;Total_rural;2323
+2497;2933257;Vereda;Extremo Sul;2010;Total_rural;5421
+2498;2933307;Vitória da Conquista;Vitória da Conquista;2010;Total_rural;32127
+2499;2933406;Wagner;Chapada Diamantina;2010;Total_rural;2501
+2500;2933455;Wanderley;Bacia do Rio Grande;2010;Total_rural;6607
+2501;2933505;Wenceslau Guimarães;Baixo Sul;2010;Total_rural;14678
+2502;2933604;Xique-Xique;Irecê;2010;Total_rural;12995

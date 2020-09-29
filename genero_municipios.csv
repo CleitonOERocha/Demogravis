@@ -1,0 +1,2503 @@
+;Codigo.do.Municipio;Municipios;Territorios.de.Identidade;Ano;genero;total_genero
+1;2900108;Abaíra;Chapada Diamantina;1991;total_homens;4255
+2;2900207;Abaré;Itaparica;1991;total_homens;5589
+3;2900306;Acajutiba;Litoral Norte e Agreste Baiano;1991;total_homens;6380
+4;2900355;Adustina;Semiárido Nordeste II;1991;total_homens;6909
+5;2900405;Água Fria;Portal do Sertão;1991;total_homens;7051
+6;2900603;Aiquara;Médio Rio de Contas;1991;total_homens;3521
+7;2900702;Alagoinhas;Litoral Norte e Agreste Baiano;1991;total_homens;55876
+8;2900801;Alcobaça;Extremo Sul;1991;total_homens;7959
+9;2900900;Almadina;Litoral Sul;1991;total_homens;5165
+10;2901007;Amargosa;Vale do Jiquiriçá;1991;total_homens;13605
+11;2901106;Amélia Rodrigues;Portal do Sertão;1991;total_homens;11235
+12;2901155;América Dourada;Irecê;1991;total_homens;8084
+13;2901205;Anagé;Sudoeste Baiano;1991;total_homens;20852
+14;2901304;Andaraí;Chapada Diamantina;1991;total_homens;7210
+15;2901353;Andorinha;Piemonte Norte do Itapicuru;1991;total_homens;8955
+16;2901403;Angical;Bacia do Rio Grande;1991;total_homens;8432
+17;2901502;Anguera;Portal do Sertão;1991;total_homens;3767
+18;2901601;Antas;Semiárido Nordeste II;1991;total_homens;8553
+19;2901700;Antônio Cardoso;Portal do Sertão;1991;total_homens;5638
+20;2901809;Antônio Gonçalves;Piemonte Norte do Itapicuru;1991;total_homens;7017
+21;2901908;Aporá;Litoral Norte e Agreste Baiano;1991;total_homens;7981
+22;2901957;Apuarema;Médio Rio de Contas;1991;total_homens;3960
+23;2902054;Araçás;Litoral Norte e Agreste Baiano;1991;total_homens;4600
+24;2902005;Aracatu;Sudoeste Baiano;1991;total_homens;7845
+25;2902104;Araci;Sisal;1991;total_homens;22870
+26;2902203;Aramari;Litoral Norte e Agreste Baiano;1991;total_homens;3774
+27;2902252;Arataca;Litoral Sul;1991;total_homens;7091
+28;2902302;Aratuípe;Baixo Sul;1991;total_homens;3997
+29;2902401;Aurelino Leal;Litoral Sul;1991;total_homens;8101
+30;2902500;Baianópolis;Bacia do Rio Grande;1991;total_homens;7032
+31;2902609;Baixa Grande;Bacia do Jacuípe;1991;total_homens;10807
+32;2902658;Banzaê;Semiárido Nordeste II;1991;total_homens;5746
+33;2902708;Barra;Velho Chico;1991;total_homens;20179
+34;2902807;Barra da Estiva;Chapada Diamantina;1991;total_homens;8569
+35;2902906;Barra do Choça;Sudoeste Baiano;1991;total_homens;12536
+36;2903003;Barra do Mendes;Irecê;1991;total_homens;7251
+37;2903102;Barra do Rocha;Médio Rio de Contas;1991;total_homens;5120
+38;2903201;Barreiras;Bacia do Rio Grande;1991;total_homens;46778
+39;2903235;Barro Alto;Irecê;1991;total_homens;6073
+40;2903300;Barro Preto/Lomanto Junior;Litoral Sul;1991;total_homens;5466
+41;2903276;Barrocas;Sisal;1991;total_homens;
+42;2903409;Belmonte;Costa do Descobrimento;1991;total_homens;11191
+43;2903508;Belo Campo;Sudoeste Baiano;1991;total_homens;7200
+44;2903607;Biritinga;Sisal;1991;total_homens;7424
+45;2903706;Boa Nova;Médio Rio de Contas;1991;total_homens;6792
+46;2903805;Boa Vista do Tupim;Piemonte do Paraguaçu;1991;total_homens;8727
+47;2903904;Bom Jesus da Lapa;Velho Chico;1991;total_homens;24069
+48;2903953;Bom Jesus da Serra;Sudoeste Baiano;1991;total_homens;5099
+49;2904001;Boninal;Chapada Diamantina;1991;total_homens;6766
+50;2904050;Bonito;Chapada Diamantina;1991;total_homens;5549
+51;2904100;Boquira;Bacia do Paramirim;1991;total_homens;9443
+52;2904209;Botuporã;Bacia do Paramirim;1991;total_homens;5025
+53;2904308;Brejões;Vale do Jiquiriçá;1991;total_homens;6509
+54;2904407;Brejolândia;Bacia do Rio Corrente;1991;total_homens;5818
+55;2904506;Brotas de Macaúbas;Velho Chico;1991;total_homens;7117
+56;2904605;Brumado;Sertão Produtivo;1991;total_homens;28062
+57;2904704;Buerarema;Litoral Sul;1991;total_homens;10670
+58;2904753;Buritirama;Bacia do Rio Grande;1991;total_homens;6414
+59;2904803;Caatiba;Médio Sudoeste da Bahia;1991;total_homens;4969
+60;2904852;Cabaceiras do Paraguaçu;Recôncavo;1991;total_homens;7086
+61;2904902;Cachoeira;Recôncavo;1991;total_homens;13740
+62;2905008;Caculé;Sertão Produtivo;1991;total_homens;8696
+63;2905107;Caém;Piemonte da Diamantina;1991;total_homens;8577
+64;2905156;Caetanos;Sudoeste Baiano;1991;total_homens;5394
+65;2905206;Caetité;Sertão Produtivo;1991;total_homens;19865
+66;2905305;Cafarnaum;Irecê;1991;total_homens;6908
+67;2905404;Cairu;Baixo Sul;1991;total_homens;8076
+68;2905503;Caldeirão Grande;Piemonte Norte do Itapicuru;1991;total_homens;7778
+69;2905602;Camacan;Litoral Sul;1991;total_homens;18681
+70;2905701;Camaçari;Metropolitano de Salvador;1991;total_homens;57095
+71;2905800;Camamu;Baixo Sul;1991;total_homens;17117
+72;2905909;Campo Alegre de Lourdes;Sertão do São Francisco;1991;total_homens;13048
+73;2906006;Campo Formoso;Piemonte Norte do Itapicuru;1991;total_homens;31102
+74;2906105;Canápolis;Bacia do Rio Corrente;1991;total_homens;4838
+75;2906204;Canarana;Irecê;1991;total_homens;11486
+76;2906303;Canavieiras;Litoral Sul;1991;total_homens;16860
+77;2906402;Candeal;Sisal;1991;total_homens;5276
+78;2906501;Candeias;Metropolitano de Salvador;1991;total_homens;33953
+79;2906600;Candiba;Sertão Produtivo;1991;total_homens;6360
+80;2906709;Cândido Sales;Sudoeste Baiano;1991;total_homens;11873
+81;2906808;Cansanção;Sisal;1991;total_homens;15508
+82;2906824;Canudos;Sertão do São Francisco;1991;total_homens;6820
+83;2906857;Capela do Alto Alegre;Bacia do Jacuípe;1991;total_homens;8550
+84;2906873;Capim Grosso;Piemonte da Diamantina;1991;total_homens;9730
+85;2906899;Caraíbas;Sudoeste Baiano;1991;total_homens;8609
+86;2906907;Caravelas;Extremo Sul;1991;total_homens;10042
+87;2907004;Cardeal da Silva;Litoral Norte e Agreste Baiano;1991;total_homens;3263
+88;2907103;Carinhanha;Velho Chico;1991;total_homens;13047
+89;2907202;Casa Nova;Sertão do São Francisco;1991;total_homens;23738
+90;2907301;Castro Alves;Recôncavo;1991;total_homens;12841
+91;2907400;Catolândia;Bacia do Rio Grande;1991;total_homens;1675
+92;2907509;Catu;Litoral Norte e Agreste Baiano;1991;total_homens;21455
+93;2907558;Caturama;Bacia do Paramirim;1991;total_homens;4786
+94;2907608;Central;Irecê;1991;total_homens;7335
+95;2907707;Chorrochó;Itaparica;1991;total_homens;4616
+96;2907806;Cícero Dantas;Semiárido Nordeste II;1991;total_homens;13161
+97;2907905;Cipó;Semiárido Nordeste II;1991;total_homens;5907
+98;2908002;Coaraci;Litoral Sul;1991;total_homens;15594
+99;2908101;Côcos;Bacia do Rio Corrente;1991;total_homens;8086
+100;2908200;Conceição da Feira;Portal do Sertão;1991;total_homens;7759
+101;2908309;Conceição do Almeida;Recôncavo;1991;total_homens;9182
+102;2908408;Conceição do Coité;Sisal;1991;total_homens;26052
+103;2908507;Conceição do Jacuípe;Portal do Sertão;1991;total_homens;11225
+104;2908606;Conde;Litoral Norte e Agreste Baiano;1991;total_homens;8092
+105;2908705;Condeúba;Sudoeste Baiano;1991;total_homens;8730
+106;2908804;Contendas do Sincorá;Sertão Produtivo;1991;total_homens;2346
+107;2908903;Coração de Maria;Portal do Sertão;1991;total_homens;10765
+108;2909000;Cordeiros;Sudoeste Baiano;1991;total_homens;5351
+109;2909109;Coribe;Bacia do Rio Corrente;1991;total_homens;7231
+110;2909208;Coronel João Sá;Semiárido Nordeste II;1991;total_homens;8741
+111;2909307;Correntina;Bacia do Rio Corrente;1991;total_homens;13904
+112;2909406;Cotegipe;Bacia do Rio Grande;1991;total_homens;6375
+113;2909505;Cravolândia;Vale do Jiquiriçá;1991;total_homens;2338
+114;2909604;Crisópolis;Litoral Norte e Agreste Baiano;1991;total_homens;8435
+115;2909703;Cristópolis;Bacia do Rio Grande;1991;total_homens;6378
+116;2909802;Cruz das Almas;Recôncavo;1991;total_homens;21725
+117;2909901;Curaçá;Sertão do São Francisco;1991;total_homens;12696
+118;2910008;Dário Meira;Médio Rio de Contas;1991;total_homens;6992
+119;2910057;Dias D'Ávila;Metropolitano de Salvador;1991;total_homens;15884
+120;2910107;Dom Basílio;Sertão Produtivo;1991;total_homens;4916
+121;2910206;Dom Macedo Costa;Recôncavo;1991;total_homens;1925
+122;2910305;Elísio Medrado;Vale do Jiquiriçá;1991;total_homens;3839
+123;2910404;Encruzilhada;Sudoeste Baiano;1991;total_homens;11094
+124;2910503;Entre Rios;Litoral Norte e Agreste Baiano;1991;total_homens;13694
+125;2900504;Érico Cardoso;Bacia do Paramirim;1991;total_homens;3626
+126;2910602;Esplanada;Litoral Norte e Agreste Baiano;1991;total_homens;11480
+127;2910701;Euclides da Cunha;Semiárido Nordeste II;1991;total_homens;25859
+128;2910727;Eunápolis;Costa do Descobrimento;1991;total_homens;34806
+129;2910750;Fátima;Semiárido Nordeste II;1991;total_homens;8870
+130;2910776;Feira da Mata;Velho Chico;1991;total_homens;3214
+131;2910800;Feira de Santana;Portal do Sertão;1991;total_homens;193895
+132;2910859;Filadélfia;Piemonte Norte do Itapicuru;1991;total_homens;8571
+133;2910909;Firmino Alves;Médio Sudoeste da Bahia;1991;total_homens;2764
+134;2911006;Floresta Azul;Litoral Sul;1991;total_homens;7062
+135;2911105;Formosa do Rio Preto;Bacia do Rio Grande;1991;total_homens;7828
+136;2911204;Gandu;Baixo Sul;1991;total_homens;13143
+137;2911253;Gavião;Bacia do Jacuípe;1991;total_homens;3580
+138;2911303;Gentio do Ouro;Irecê;1991;total_homens;5731
+139;2911402;Glória;Itaparica;1991;total_homens;6268
+140;2911501;Gongogi;Médio Rio de Contas;1991;total_homens;4617
+141;2911600;Governador Mangabeira;Recôncavo;1991;total_homens;8644
+142;2911659;Guajeru;Sudoeste Baiano;1991;total_homens;4167
+143;2911709;Guanambi;Sertão Produtivo;1991;total_homens;32138
+144;2911808;Guaratinga;Costa do Descobrimento;1991;total_homens;13101
+145;2911857;Heliópolis;Semiárido Nordeste II;1991;total_homens;5729
+146;2911907;Iaçu;Piemonte do Paraguaçu;1991;total_homens;12942
+147;2912004;Ibiassucê;Sertão Produtivo;1991;total_homens;6023
+148;2912103;Ibicaraí;Litoral Sul;1991;total_homens;15150
+149;2912202;Ibicoara;Chapada Diamantina;1991;total_homens;4333
+150;2912301;Ibicuí;Médio Sudoeste da Bahia;1991;total_homens;8125
+151;2912400;Ibipeba;Irecê;1991;total_homens;8974
+152;2912509;Ibipitanga;Bacia do Paramirim;1991;total_homens;6485
+153;2912608;Ibiquera;Piemonte do Paraguaçu;1991;total_homens;2891
+154;2912707;Ibirapitanga;Baixo Sul;1991;total_homens;13746
+155;2912806;Ibirapoã;Extremo Sul;1991;total_homens;4221
+156;2912905;Ibirataia;Médio Rio de Contas;1991;total_homens;11356
+157;2913002;Ibitiara;Chapada Diamantina;1991;total_homens;8360
+158;2913101;Ibititá;Irecê;1991;total_homens;8838
+159;2913200;Ibotirama;Velho Chico;1991;total_homens;11771
+160;2913309;Ichu;Sisal;1991;total_homens;4313
+161;2913408;Igaporã;Velho Chico;1991;total_homens;7021
+162;2913457;Igrapiúna;Baixo Sul;1991;total_homens;6722
+163;2913507;Iguaí;Médio Sudoeste da Bahia;1991;total_homens;11849
+164;2913606;Ilhéus;Litoral Sul;1991;total_homens;112891
+165;2913705;Inhambupe;Litoral Norte e Agreste Baiano;1991;total_homens;12854
+166;2913804;Ipecaetá;Portal do Sertão;1991;total_homens;7978
+167;2913903;Ipiaú;Médio Rio de Contas;1991;total_homens;22415
+168;2914000;Ipirá;Bacia do Jacuípe;1991;total_homens;31003
+169;2914109;Ipupiara;Irecê;1991;total_homens;4059
+170;2914208;Irajuba;Vale do Jiquiriçá;1991;total_homens;3282
+171;2914307;Iramaia;Chapada Diamantina;1991;total_homens;8731
+172;2914406;Iraquara;Chapada Diamantina;1991;total_homens;8442
+173;2914505;Irará;Portal do Sertão;1991;total_homens;11710
+174;2914604;Irecê;Irecê;1991;total_homens;24876
+175;2914653;Itabela;Costa do Descobrimento;1991;total_homens;10670
+176;2914703;Itaberaba;Piemonte do Paraguaçu;1991;total_homens;25899
+177;2914802;Itabuna;Litoral Sul;1991;total_homens;88661
+178;2914901;Itacaré;Litoral Sul;1991;total_homens;9815
+179;2915007;Itaeté;Chapada Diamantina;1991;total_homens;7142
+180;2915106;Itagi;Médio Rio de Contas;1991;total_homens;7330
+181;2915205;Itagibá;Médio Rio de Contas;1991;total_homens;10318
+182;2915304;Itagimirim;Costa do Descobrimento;1991;total_homens;4008
+183;2915353;Itaguaçu da Bahia;Irecê;1991;total_homens;8998
+184;2915403;Itaju do Colônia;Litoral Sul;1991;total_homens;5038
+185;2915502;Itajuípe;Litoral Sul;1991;total_homens;12639
+186;2915601;Itamaraju;Extremo Sul;1991;total_homens;32346
+187;2915700;Itamari;Médio Rio de Contas;1991;total_homens;4639
+188;2915809;Itambé;Médio Sudoeste da Bahia;1991;total_homens;11986
+189;2915908;Itanagra;Litoral Norte e Agreste Baiano;1991;total_homens;2868
+190;2916005;Itanhém;Extremo Sul;1991;total_homens;11846
+191;2916104;Itaparica;Metropolitano de Salvador;1991;total_homens;7392
+192;2916203;Itapé;Litoral Sul;1991;total_homens;7806
+193;2916302;Itapebi;Costa do Descobrimento;1991;total_homens;5783
+194;2916401;Itapetinga;Médio Sudoeste da Bahia;1991;total_homens;26067
+195;2916500;Itapicuru;Litoral Norte e Agreste Baiano;1991;total_homens;12577
+196;2916609;Itapitanga;Litoral Sul;1991;total_homens;5361
+197;2916708;Itaquara;Vale do Jiquiriçá;1991;total_homens;3662
+198;2916807;Itarantim;Médio Sudoeste da Bahia;1991;total_homens;8832
+199;2916856;Itatim;Piemonte do Paraguaçu;1991;total_homens;4963
+200;2916906;Itiruçu;Vale do Jiquiriçá;1991;total_homens;6236
+201;2917003;Itiúba;Sisal;1991;total_homens;17199
+202;2917102;Itororó;Médio Sudoeste da Bahia;1991;total_homens;10316
+203;2917201;Ituaçu;Sertão Produtivo;1991;total_homens;7801
+204;2917300;Ituberá;Baixo Sul;1991;total_homens;10332
+205;2917334;Iuiu;Sertão Produtivo;1991;total_homens;5541
+206;2917359;Jaborandi;Bacia do Rio Corrente;1991;total_homens;5951
+207;2917409;Jacaraci;Sudoeste Baiano;1991;total_homens;6972
+208;2917508;Jacobina;Piemonte da Diamantina;1991;total_homens;37113
+209;2917607;Jaguaquara;Vale do Jiquiriçá;1991;total_homens;19371
+210;2917706;Jaguarari;Piemonte Norte do Itapicuru;1991;total_homens;15632
+211;2917805;Jaguaripe;Baixo Sul;1991;total_homens;7058
+212;2917904;Jandaíra;Litoral Norte e Agreste Baiano;1991;total_homens;4242
+213;2918001;Jequié;Médio Rio de Contas;1991;total_homens;70092
+214;2918100;Jeremoabo;Semiárido Nordeste II;1991;total_homens;19350
+215;2918209;Jiquiriçá;Vale do Jiquiriçá;1991;total_homens;5950
+216;2918308;Jitaúna;Médio Rio de Contas;1991;total_homens;10569
+217;2918357;João Dourado;Irecê;1991;total_homens;9703
+218;2918407;Juazeiro;Sertão do São Francisco;1991;total_homens;63223
+219;2918456;Jucuruçu;Extremo Sul;1991;total_homens;8434
+220;2918506;Jussara;Irecê;1991;total_homens;7150
+221;2918555;Jussari;Litoral Sul;1991;total_homens;4489
+222;2918605;Jussiape;Chapada Diamantina;1991;total_homens;4960
+223;2918704;Lafayette Coutinho;Vale do Jiquiriçá;1991;total_homens;2636
+224;2919058;Lagedo do Tabocal;Vale do Jiquiriçá;1991;total_homens;3356
+225;2918753;Lagoa Real;Sertão Produtivo;1991;total_homens;5657
+226;2918803;Laje;Vale do Jiquiriçá;1991;total_homens;9284
+227;2918902;Lajedão;Extremo Sul;1991;total_homens;1995
+228;2919009;Lajedinho;Piemonte do Paraguaçu;1991;total_homens;3233
+229;2919108;Lamarão;Sisal;1991;total_homens;5115
+230;2919157;Lapão;Irecê;1991;total_homens;10636
+231;2919207;Lauro de Freitas;Metropolitano de Salvador;1991;total_homens;34330
+232;2919306;Lençóis;Chapada Diamantina;1991;total_homens;3763
+233;2919405;Licínio de Almeida;Sudoeste Baiano;1991;total_homens;7120
+234;2919504;Livramento de N. Senhora;Sertão Produtivo;1991;total_homens;17208
+235;2919553;Luís Eduardo Magalhães;Bacia do Rio Grande;1991;total_homens;
+236;2919603;Macajuba;Piemonte do Paraguaçu;1991;total_homens;5209
+237;2919702;Macarani;Médio Sudoeste da Bahia;1991;total_homens;7092
+238;2919801;Macaúbas;Bacia do Paramirim;1991;total_homens;16920
+239;2919900;Macururé;Itaparica;1991;total_homens;3269
+240;2919926;Madre de Deus;Metropolitano de Salvador;1991;total_homens;4656
+241;2919959;Maetinga;Sudoeste Baiano;1991;total_homens;5225
+242;2920007;Maiquinique;Médio Sudoeste da Bahia;1991;total_homens;4052
+243;2920106;Mairi;Bacia do Jacuípe;1991;total_homens;10109
+244;2920205;Malhada;Velho Chico;1991;total_homens;7753
+245;2920304;Malhada de Pedras;Sertão Produtivo;1991;total_homens;3760
+246;2920403;Manoel Vitorino;Médio Rio de Contas;1991;total_homens;8494
+247;2920452;Mansidão;Bacia do Rio Grande;1991;total_homens;5351
+248;2920502;Maracás;Vale do Jiquiriçá;1991;total_homens;13665
+249;2920601;Maragogipe;Recôncavo;1991;total_homens;19412
+250;2920700;Maraú;Litoral Sul;1991;total_homens;9314
+251;2920809;Marcionílio Souza;Chapada Diamantina;1991;total_homens;7116
+252;2920908;Mascote;Litoral Sul;1991;total_homens;10421
+253;2921005;Mata de São João;Litoral Norte e Agreste Baiano;1991;total_homens;15340
+254;2921054;Matina;Velho Chico;1991;total_homens;4558
+255;2921104;Medeiros Neto;Extremo Sul;1991;total_homens;11620
+256;2921203;Miguel Calmon;Piemonte da Diamantina;1991;total_homens;12583
+257;2921302;Milagres;Vale do Jiquiriçá;1991;total_homens;4572
+258;2921401;Mirangaba;Piemonte da Diamantina;1991;total_homens;7227
+259;2921450;Mirante;Sudoeste Baiano;1991;total_homens;4172
+260;2921500;Monte Santo;Sisal;1991;total_homens;25788
+261;2921609;Morpará;Velho Chico;1991;total_homens;3808
+262;2921708;Morro do Chapéu;Chapada Diamantina;1991;total_homens;15915
+263;2921807;Mortugaba;Sudoeste Baiano;1991;total_homens;6340
+264;2921906;Mucugê;Chapada Diamantina;1991;total_homens;5020
+265;2922003;Mucuri;Extremo Sul;1991;total_homens;9181
+266;2922052;Mulungu do Morro;Irecê;1991;total_homens;6800
+267;2922102;Mundo Novo;Piemonte do Paraguaçu;1991;total_homens;15072
+268;2922201;Muniz Ferreira;Recôncavo;1991;total_homens;3209
+269;2922250;Muquém do São Francisco;Velho Chico;1991;total_homens;4309
+270;2922300;Muritiba;Recôncavo;1991;total_homens;11740
+271;2922409;Mutuípe;Vale do Jiquiriçá;1991;total_homens;10138
+272;2922508;Nazaré;Recôncavo;1991;total_homens;12537
+273;2922607;Nilo Peçanha;Baixo Sul;1991;total_homens;6345
+274;2922656;Nordestina;Sisal;1991;total_homens;4815
+275;2922706;Nova Canaã;Médio Sudoeste da Bahia;1991;total_homens;7181
+276;2922730;Nova Fátima;Bacia do Jacuípe;1991;total_homens;5186
+277;2922755;Nova Ibiá;Médio Rio de Contas;1991;total_homens;5424
+278;2922805;Nova Itarana;Vale do Jiquiriçá;1991;total_homens;3317
+279;2922854;Nova Redenção;Chapada Diamantina;1991;total_homens;5123
+280;2922904;Nova Soure;Semiárido Nordeste II;1991;total_homens;12249
+281;2923001;Nova Viçosa;Extremo Sul;1991;total_homens;12969
+282;2923035;Novo Horizonte;Chapada Diamantina;1991;total_homens;5059
+283;2923050;Novo Triunfo;Semiárido Nordeste II;1991;total_homens;5464
+284;2923100;Olindina;Litoral Norte e Agreste Baiano;1991;total_homens;10681
+285;2923209;Oliveira dos Brejinhos;Velho Chico;1991;total_homens;10674
+286;2923308;Ouriçangas;Litoral Norte e Agreste Baiano;1991;total_homens;3571
+287;2923357;Ourolândia;Piemonte da Diamantina;1991;total_homens;6305
+288;2923407;Palmas de Monte Alto;Sertão Produtivo;1991;total_homens;10388
+289;2923506;Palmeiras;Chapada Diamantina;1991;total_homens;3465
+290;2923605;Paramirim;Bacia do Paramirim;1991;total_homens;11220
+291;2923704;Paratinga;Velho Chico;1991;total_homens;12166
+292;2923803;Paripiranga;Semiárido Nordeste II;1991;total_homens;12754
+293;2923902;Pau Brasil;Litoral Sul;1991;total_homens;8420
+294;2924009;Paulo Afonso;Itaparica;1991;total_homens;41846
+295;2924058;Pé de Serra;Bacia do Jacuípe;1991;total_homens;8581
+296;2924108;Pedrão;Litoral Norte e Agreste Baiano;1991;total_homens;3424
+297;2924207;Pedro Alexandre;Semiárido Nordeste II;1991;total_homens;7480
+298;2924306;Piatã;Chapada Diamantina;1991;total_homens;8771
+299;2924405;Pilão Arcado;Sertão do São Francisco;1991;total_homens;15909
+300;2924504;Pindaí;Sertão Produtivo;1991;total_homens;8412
+301;2924603;Pindobaçu;Piemonte Norte do Itapicuru;1991;total_homens;12192
+302;2924652;Pintadas;Bacia do Jacuípe;1991;total_homens;5149
+303;2924678;Piraí do Norte;Baixo Sul;1991;total_homens;7167
+304;2924702;Piripá;Sudoeste Baiano;1991;total_homens;5217
+305;2924801;Piritiba;Piemonte do Paraguaçu;1991;total_homens;11996
+306;2924900;Planaltino;Vale do Jiquiriçá;1991;total_homens;5313
+307;2925006;Planalto;Sudoeste Baiano;1991;total_homens;11698
+308;2925105;Poções;Sudoeste Baiano;1991;total_homens;18612
+309;2925204;Pojuca;Litoral Norte e Agreste Baiano;1991;total_homens;11123
+310;2925253;Ponto Novo;Piemonte Norte do Itapicuru;1991;total_homens;8741
+311;2925303;Porto Seguro;Costa do Descobrimento;1991;total_homens;17732
+312;2925402;Potiraguá;Médio Sudoeste da Bahia;1991;total_homens;5298
+313;2925501;Prado;Extremo Sul;1991;total_homens;11546
+314;2925600;Presidente Dutra;Irecê;1991;total_homens;7034
+315;2925709;Presidente Jânio Quadros;Sudoeste Baiano;1991;total_homens;7126
+316;2925758;Presidente Tancredo Neves;Baixo Sul;1991;total_homens;9625
+317;2925808;Queimadas;Sisal;1991;total_homens;11441
+318;2925907;Quijingue;Sisal;1991;total_homens;12373
+319;2925931;Quixabeira;Bacia do Jacuípe;1991;total_homens;7029
+320;2925956;Rafael Jambeiro;Piemonte do Paraguaçu;1991;total_homens;11033
+321;2926004;Remanso;Sertão do São Francisco;1991;total_homens;17056
+322;2926103;Retirolândia;Sisal;1991;total_homens;5620
+323;2926202;Riachão das Neves;Bacia do Rio Grande;1991;total_homens;10445
+324;2926301;Riachão do Jacuípe;Bacia do Jacuípe;1991;total_homens;18567
+325;2926400;Riacho de Santana;Velho Chico;1991;total_homens;13706
+326;2926509;Ribeira do Amparo;Semiárido Nordeste II;1991;total_homens;7126
+327;2926608;Ribeira do Pombal;Semiárido Nordeste II;1991;total_homens;20848
+328;2926657;Ribeirão do Largo;Sudoeste Baiano;1991;total_homens;5732
+329;2926707;Rio de Contas;Chapada Diamantina;1991;total_homens;6787
+330;2926806;Rio do Antônio;Sertão Produtivo;1991;total_homens;6607
+331;2926905;Rio do Pires;Bacia do Paramirim;1991;total_homens;5835
+332;2927002;Rio Real;Litoral Norte e Agreste Baiano;1991;total_homens;13918
+333;2927101;Rodelas;Itaparica;1991;total_homens;2107
+334;2927200;Ruy Barbosa;Piemonte do Paraguaçu;1991;total_homens;14787
+335;2927309;Salinas da Margarida;Metropolitano de Salvador;1991;total_homens;4404
+336;2927408;Salvador;Metropolitano de Salvador;1991;total_homens;977259
+337;2927507;Santa Bárbara;Portal do Sertão;1991;total_homens;8263
+338;2927606;Santa Brígida;Semiárido Nordeste II;1991;total_homens;6597
+339;2927705;Santa Cruz Cabrália;Costa do Descobrimento;1991;total_homens;3421
+340;2927804;Santa Cruz da Vitória;Médio Sudoeste da Bahia;1991;total_homens;3410
+341;2927903;Santa Inês;Vale do Jiquiriçá;1991;total_homens;4808
+342;2928059;Santa Luzia;Litoral Sul;1991;total_homens;8630
+343;2928109;Santa Maria da Vitória;Bacia do Rio Corrente;1991;total_homens;20674
+344;2928406;Santa Rita de Cássia;Bacia do Rio Grande;1991;total_homens;11861
+345;2928505;Santa Terezinha;Piemonte do Paraguaçu;1991;total_homens;4430
+346;2928000;Santaluz;Sisal;1991;total_homens;15446
+347;2928208;Santana;Bacia do Rio Corrente;1991;total_homens;12496
+348;2928307;Santanópolis;Portal do Sertão;1991;total_homens;4532
+349;2928604;Santo Amaro;Recôncavo;1991;total_homens;26630
+350;2928703;Santo Antônio de Jesus;Recôncavo;1991;total_homens;30566
+351;2928802;Santo Estevão;Portal do Sertão;1991;total_homens;17737
+352;2928901;São Desidério;Bacia do Rio Grande;1991;total_homens;9696
+353;2928950;São Domingos;Sisal;1991;total_homens;5182
+354;2929107;São Felipe;Recôncavo;1991;total_homens;10249
+355;2929008;São Félix;Recôncavo;1991;total_homens;5995
+356;2929057;São Félix do Coribe;Bacia do Rio Corrente;1991;total_homens;6029
+357;2929206;São Francisco do Conde;Recôncavo;1991;total_homens;10196
+358;2929255;São Gabriel;Irecê;1991;total_homens;9224
+359;2929305;São Gonçalo dos Campos;Portal do Sertão;1991;total_homens;11809
+360;2929354;São José da Vitória;Litoral Sul;1991;total_homens;4510
+361;2929370;São José do Jacuípe;Bacia do Jacuípe;1991;total_homens;7130
+362;2929404;São Miguel das Matas;Vale do Jiquiriçá;1991;total_homens;4694
+363;2929503;São Sebastião do Passé;Recôncavo;1991;total_homens;18365
+364;2929602;Sapeaçu;Recôncavo;1991;total_homens;7351
+365;2929701;Sátiro Dias;Litoral Norte e Agreste Baiano;1991;total_homens;6773
+366;2929750;Saubara;Recôncavo;1991;total_homens;3954
+367;2929800;Saúde;Piemonte da Diamantina;1991;total_homens;5633
+368;2929909;Seabra;Chapada Diamantina;1991;total_homens;18839
+369;2930006;Sebastião Laranjeiras;Sertão Produtivo;1991;total_homens;4662
+370;2930105;Senhor do Bonfim;Piemonte Norte do Itapicuru;1991;total_homens;40995
+371;2930204;Sento Sé;Sertão do São Francisco;1991;total_homens;14667
+372;2930154;Serra do Ramalho;Velho Chico;1991;total_homens;17227
+373;2930303;Serra Dourada;Bacia do Rio Corrente;1991;total_homens;9025
+374;2930402;Serra Preta;Bacia do Jacuípe;1991;total_homens;8770
+375;2930501;Serrinha;Sisal;1991;total_homens;37388
+376;2930600;Serrolândia;Piemonte da Diamantina;1991;total_homens;5788
+377;2930709;Simões Filho;Metropolitano de Salvador;1991;total_homens;36461
+378;2930758;Sítio do Mato;Velho Chico;1991;total_homens;4337
+379;2930766;Sítio do Quinto;Semiárido Nordeste II;1991;total_homens;6016
+380;2930774;Sobradinho;Sertão do São Francisco;1991;total_homens;10423
+381;2930808;Souto Soares;Chapada Diamantina;1991;total_homens;9420
+382;2930907;Tabocas do Brejo Velho;Bacia do Rio Corrente;1991;total_homens;5690
+383;2931004;Tanhaçu;Sertão Produtivo;1991;total_homens;9169
+384;2931053;Tanque Novo;Bacia do Paramirim;1991;total_homens;6323
+385;2931103;Tanquinho;Portal do Sertão;1991;total_homens;5175
+386;2931202;Taperoá;Baixo Sul;1991;total_homens;8615
+387;2931301;Tapiramutá;Piemonte do Paraguaçu;1991;total_homens;6904
+388;2931350;Teixeira de Freitas;Extremo Sul;1991;total_homens;42818
+389;2931400;Teodoro Sampaio;Portal do Sertão;1991;total_homens;4752
+390;2931509;Teofilândia;Sisal;1991;total_homens;10975
+391;2931608;Teolândia;Baixo Sul;1991;total_homens;6412
+392;2931707;Terra Nova;Portal do Sertão;1991;total_homens;5948
+393;2931806;Tremedal;Sudoeste Baiano;1991;total_homens;10496
+394;2931905;Tucano;Sisal;1991;total_homens;23394
+395;2932002;Uauá;Sertão do São Francisco;1991;total_homens;12084
+396;2932101;Ubaíra;Vale do Jiquiriçá;1991;total_homens;10615
+397;2932200;Ubaitaba;Litoral Sul;1991;total_homens;10412
+398;2932309;Ubatã;Médio Rio de Contas;1991;total_homens;12969
+399;2932408;Uibaí;Irecê;1991;total_homens;6994
+400;2932457;Umburanas;Piemonte da Diamantina;1991;total_homens;5953
+401;2932507;Una;Litoral Sul;1991;total_homens;12378
+402;2932606;Urandi;Sertão Produtivo;1991;total_homens;8044
+403;2932705;Uruçuca;Litoral Sul;1991;total_homens;16242
+404;2932804;Utinga;Chapada Diamantina;1991;total_homens;8553
+405;2932903;Valença;Baixo Sul;1991;total_homens;33135
+406;2933000;Valente;Sisal;1991;total_homens;8834
+407;2933059;Várzea da Roça;Bacia do Jacuípe;1991;total_homens;6788
+408;2933109;Várzea do Poço;Bacia do Jacuípe;1991;total_homens;4770
+409;2933158;Várzea Nova;Piemonte da Diamantina;1991;total_homens;8747
+410;2933174;Varzedo;Recôncavo;1991;total_homens;4423
+411;2933208;Vera Cruz;Metropolitano de Salvador;1991;total_homens;11246
+412;2933257;Vereda;Extremo Sul;1991;total_homens;4635
+413;2933307;Vitória da Conquista;Sudoeste Baiano;1991;total_homens;109007
+414;2933406;Wagner;Chapada Diamantina;1991;total_homens;3974
+415;2933455;Wanderley;Bacia do Rio Grande;1991;total_homens;7009
+416;2933505;Wenceslau Guimarães;Baixo Sul;1991;total_homens;8906
+417;2933604;Xique-Xique;Irecê;1991;total_homens;19983
+418;2900108;Abaíra;Chapada Diamantina;2000;total_homens;4498
+419;2900207;Abaré;Itaparica;2000;total_homens;6805
+420;2900306;Acajutiba;Litoral Norte e Agreste Baiano;2000;total_homens;7104
+421;2900355;Adustina;Semiárido Nordeste II;2000;total_homens;7255
+422;2900405;Água Fria;Portal do Sertão;2000;total_homens;7414
+423;2900603;Aiquara;Médio Rio de Contas;2000;total_homens;2775
+424;2900702;Alagoinhas;Litoral Norte e Agreste Baiano;2000;total_homens;62068
+425;2900801;Alcobaça;Extremo Sul;2000;total_homens;10677
+426;2900900;Almadina;Litoral Sul;2000;total_homens;4014
+427;2901007;Amargosa;Vale do Jiquiriçá;2000;total_homens;15147
+428;2901106;Amélia Rodrigues;Portal do Sertão;2000;total_homens;11882
+429;2901155;América Dourada;Irecê;2000;total_homens;8165
+430;2901205;Anagé;Sudoeste Baiano;2000;total_homens;15963
+431;2901304;Andaraí;Chapada Diamantina;2000;total_homens;7079
+432;2901353;Andorinha;Piemonte Norte do Itapicuru;2000;total_homens;8183
+433;2901403;Angical;Bacia do Rio Grande;2000;total_homens;7870
+434;2901502;Anguera;Portal do Sertão;2000;total_homens;4297
+435;2901601;Antas;Semiárido Nordeste II;2000;total_homens;7007
+436;2901700;Antônio Cardoso;Portal do Sertão;2000;total_homens;5819
+437;2901809;Antônio Gonçalves;Piemonte Norte do Itapicuru;2000;total_homens;4905
+438;2901908;Aporá;Litoral Norte e Agreste Baiano;2000;total_homens;8544
+439;2901957;Apuarema;Médio Rio de Contas;2000;total_homens;3943
+440;2902054;Araçás;Litoral Norte e Agreste Baiano;2000;total_homens;5565
+441;2902005;Aracatu;Sudoeste Baiano;2000;total_homens;7911
+442;2902104;Araci;Sisal;2000;total_homens;24101
+443;2902203;Aramari;Litoral Norte e Agreste Baiano;2000;total_homens;4617
+444;2902252;Arataca;Litoral Sul;2000;total_homens;6062
+445;2902302;Aratuípe;Baixo Sul;2000;total_homens;4308
+446;2902401;Aurelino Leal;Litoral Sul;2000;total_homens;8681
+447;2902500;Baianópolis;Bacia do Rio Grande;2000;total_homens;6258
+448;2902609;Baixa Grande;Bacia do Jacuípe;2000;total_homens;10222
+449;2902658;Banzaê;Semiárido Nordeste II;2000;total_homens;5666
+450;2902708;Barra;Velho Chico;2000;total_homens;22599
+451;2902807;Barra da Estiva;Chapada Diamantina;2000;total_homens;12279
+452;2902906;Barra do Choça;Sudoeste Baiano;2000;total_homens;20736
+453;2903003;Barra do Mendes;Irecê;2000;total_homens;6779
+454;2903102;Barra do Rocha;Médio Rio de Contas;2000;total_homens;4302
+455;2903201;Barreiras;Bacia do Rio Grande;2000;total_homens;66177
+456;2903235;Barro Alto;Irecê;2000;total_homens;6177
+457;2903300;Barro Preto/Lomanto Junior;Litoral Sul;2000;total_homens;4478
+458;2903276;Barrocas;Sisal;2000;total_homens;
+459;2903409;Belmonte;Costa do Descobrimento;2000;total_homens;10172
+460;2903508;Belo Campo;Sudoeste Baiano;2000;total_homens;9001
+461;2903607;Biritinga;Sisal;2000;total_homens;7537
+462;2903706;Boa Nova;Médio Rio de Contas;2000;total_homens;10515
+463;2903805;Boa Vista do Tupim;Piemonte do Paraguaçu;2000;total_homens;9412
+464;2903904;Bom Jesus da Lapa;Velho Chico;2000;total_homens;27168
+465;2903953;Bom Jesus da Serra;Sudoeste Baiano;2000;total_homens;5347
+466;2904001;Boninal;Chapada Diamantina;2000;total_homens;6105
+467;2904050;Bonito;Chapada Diamantina;2000;total_homens;6551
+468;2904100;Boquira;Bacia do Paramirim;2000;total_homens;10893
+469;2904209;Botuporã;Bacia do Paramirim;2000;total_homens;5756
+470;2904308;Brejões;Vale do Jiquiriçá;2000;total_homens;7655
+471;2904407;Brejolândia;Bacia do Rio Corrente;2000;total_homens;4539
+472;2904506;Brotas de Macaúbas;Velho Chico;2000;total_homens;6579
+473;2904605;Brumado;Sertão Produtivo;2000;total_homens;30427
+474;2904704;Buerarema;Litoral Sul;2000;total_homens;9591
+475;2904753;Buritirama;Bacia do Rio Grande;2000;total_homens;9292
+476;2904803;Caatiba;Médio Sudoeste da Bahia;2000;total_homens;7877
+477;2904852;Cabaceiras do Paraguaçu;Recôncavo;2000;total_homens;7703
+478;2904902;Cachoeira;Recôncavo;2000;total_homens;14885
+479;2905008;Caculé;Sertão Produtivo;2000;total_homens;10168
+480;2905107;Caém;Piemonte da Diamantina;2000;total_homens;6339
+481;2905156;Caetanos;Sudoeste Baiano;2000;total_homens;6756
+482;2905206;Caetité;Sertão Produtivo;2000;total_homens;22269
+483;2905305;Cafarnaum;Irecê;2000;total_homens;8217
+484;2905404;Cairu;Baixo Sul;2000;total_homens;5873
+485;2905503;Caldeirão Grande;Piemonte Norte do Itapicuru;2000;total_homens;5694
+486;2905602;Camacan;Litoral Sul;2000;total_homens;15620
+487;2905701;Camaçari;Metropolitano de Salvador;2000;total_homens;80962
+488;2905800;Camamu;Baixo Sul;2000;total_homens;17452
+489;2905909;Campo Alegre de Lourdes;Sertão do São Francisco;2000;total_homens;13822
+490;2906006;Campo Formoso;Piemonte Norte do Itapicuru;2000;total_homens;31370
+491;2906105;Canápolis;Bacia do Rio Corrente;2000;total_homens;4922
+492;2906204;Canarana;Irecê;2000;total_homens;11005
+493;2906303;Canavieiras;Litoral Sul;2000;total_homens;17947
+494;2906402;Candeal;Sisal;2000;total_homens;5071
+495;2906501;Candeias;Metropolitano de Salvador;2000;total_homens;38026
+496;2906600;Candiba;Sertão Produtivo;2000;total_homens;6170
+497;2906709;Cândido Sales;Sudoeste Baiano;2000;total_homens;14377
+498;2906808;Cansanção;Sisal;2000;total_homens;16049
+499;2906824;Canudos;Sertão do São Francisco;2000;total_homens;6957
+500;2906857;Capela do Alto Alegre;Bacia do Jacuípe;2000;total_homens;6014
+501;2906873;Capim Grosso;Piemonte da Diamantina;2000;total_homens;11793
+502;2906899;Caraíbas;Sudoeste Baiano;2000;total_homens;8728
+503;2906907;Caravelas;Extremo Sul;2000;total_homens;10228
+504;2907004;Cardeal da Silva;Litoral Norte e Agreste Baiano;2000;total_homens;4071
+505;2907103;Carinhanha;Velho Chico;2000;total_homens;14010
+506;2907202;Casa Nova;Sertão do São Francisco;2000;total_homens;28473
+507;2907301;Castro Alves;Recôncavo;2000;total_homens;12437
+508;2907400;Catolândia;Bacia do Rio Grande;2000;total_homens;1608
+509;2907509;Catu;Litoral Norte e Agreste Baiano;2000;total_homens;22794
+510;2907558;Caturama;Bacia do Paramirim;2000;total_homens;4367
+511;2907608;Central;Irecê;2000;total_homens;8471
+512;2907707;Chorrochó;Itaparica;2000;total_homens;5097
+513;2907806;Cícero Dantas;Semiárido Nordeste II;2000;total_homens;15203
+514;2907905;Cipó;Semiárido Nordeste II;2000;total_homens;6969
+515;2908002;Coaraci;Litoral Sul;2000;total_homens;13832
+516;2908101;Côcos;Bacia do Rio Corrente;2000;total_homens;9101
+517;2908200;Conceição da Feira;Portal do Sertão;2000;total_homens;8549
+518;2908309;Conceição do Almeida;Recôncavo;2000;total_homens;9288
+519;2908408;Conceição do Coité;Sisal;2000;total_homens;28209
+520;2908507;Conceição do Jacuípe;Portal do Sertão;2000;total_homens;12851
+521;2908606;Conde;Litoral Norte e Agreste Baiano;2000;total_homens;10210
+522;2908705;Condeúba;Sudoeste Baiano;2000;total_homens;8997
+523;2908804;Contendas do Sincorá;Sertão Produtivo;2000;total_homens;2153
+524;2908903;Coração de Maria;Portal do Sertão;2000;total_homens;11809
+525;2909000;Cordeiros;Sudoeste Baiano;2000;total_homens;4066
+526;2909109;Coribe;Bacia do Rio Corrente;2000;total_homens;7807
+527;2909208;Coronel João Sá;Semiárido Nordeste II;2000;total_homens;9985
+528;2909307;Correntina;Bacia do Rio Corrente;2000;total_homens;15290
+529;2909406;Cotegipe;Bacia do Rio Grande;2000;total_homens;6933
+530;2909505;Cravolândia;Vale do Jiquiriçá;2000;total_homens;2525
+531;2909604;Crisópolis;Litoral Norte e Agreste Baiano;2000;total_homens;9780
+532;2909703;Cristópolis;Bacia do Rio Grande;2000;total_homens;6495
+533;2909802;Cruz das Almas;Recôncavo;2000;total_homens;25229
+534;2909901;Curaçá;Sertão do São Francisco;2000;total_homens;14757
+535;2910008;Dário Meira;Médio Rio de Contas;2000;total_homens;7916
+536;2910057;Dias D'Ávila;Metropolitano de Salvador;2000;total_homens;22484
+537;2910107;Dom Basílio;Sertão Produtivo;2000;total_homens;5399
+538;2910206;Dom Macedo Costa;Recôncavo;2000;total_homens;1836
+539;2910305;Elísio Medrado;Vale do Jiquiriçá;2000;total_homens;3925
+540;2910404;Encruzilhada;Sudoeste Baiano;2000;total_homens;17093
+541;2910503;Entre Rios;Litoral Norte e Agreste Baiano;2000;total_homens;18682
+542;2900504;Érico Cardoso;Bacia do Paramirim;2000;total_homens;6078
+543;2910602;Esplanada;Litoral Norte e Agreste Baiano;2000;total_homens;13597
+544;2910701;Euclides da Cunha;Semiárido Nordeste II;2000;total_homens;27224
+545;2910727;Eunápolis;Costa do Descobrimento;2000;total_homens;41412
+546;2910750;Fátima;Semiárido Nordeste II;2000;total_homens;9248
+547;2910776;Feira da Mata;Velho Chico;2000;total_homens;3193
+548;2910800;Feira de Santana;Portal do Sertão;2000;total_homens;229656
+549;2910859;Filadélfia;Piemonte Norte do Itapicuru;2000;total_homens;8757
+550;2910909;Firmino Alves;Médio Sudoeste da Bahia;2000;total_homens;2650
+551;2911006;Floresta Azul;Litoral Sul;2000;total_homens;5982
+552;2911105;Formosa do Rio Preto;Bacia do Rio Grande;2000;total_homens;9417
+553;2911204;Gandu;Baixo Sul;2000;total_homens;13502
+554;2911253;Gavião;Bacia do Jacuípe;2000;total_homens;2473
+555;2911303;Gentio do Ouro;Irecê;2000;total_homens;5223
+556;2911402;Glória;Itaparica;2000;total_homens;7187
+557;2911501;Gongogi;Médio Rio de Contas;2000;total_homens;5458
+558;2911600;Governador Mangabeira;Recôncavo;2000;total_homens;8415
+559;2911659;Guajeru;Sudoeste Baiano;2000;total_homens;6385
+560;2911709;Guanambi;Sertão Produtivo;2000;total_homens;35128
+561;2911808;Guaratinga;Costa do Descobrimento;2000;total_homens;12849
+562;2911857;Heliópolis;Semiárido Nordeste II;2000;total_homens;6694
+563;2911907;Iaçu;Piemonte do Paraguaçu;2000;total_homens;14282
+564;2912004;Ibiassucê;Sertão Produtivo;2000;total_homens;6617
+565;2912103;Ibicaraí;Litoral Sul;2000;total_homens;14393
+566;2912202;Ibicoara;Chapada Diamantina;2000;total_homens;7382
+567;2912301;Ibicuí;Médio Sudoeste da Bahia;2000;total_homens;7824
+568;2912400;Ibipeba;Irecê;2000;total_homens;7944
+569;2912509;Ibipitanga;Bacia do Paramirim;2000;total_homens;6704
+570;2912608;Ibiquera;Piemonte do Paraguaçu;2000;total_homens;2286
+571;2912707;Ibirapitanga;Baixo Sul;2000;total_homens;11364
+572;2912806;Ibirapoã;Extremo Sul;2000;total_homens;3625
+573;2912905;Ibirataia;Médio Rio de Contas;2000;total_homens;12310
+574;2913002;Ibitiara;Chapada Diamantina;2000;total_homens;7125
+575;2913101;Ibititá;Irecê;2000;total_homens;9174
+576;2913200;Ibotirama;Velho Chico;2000;total_homens;12313
+577;2913309;Ichu;Sisal;2000;total_homens;2783
+578;2913408;Igaporã;Velho Chico;2000;total_homens;7326
+579;2913457;Igrapiúna;Baixo Sul;2000;total_homens;7927
+580;2913507;Iguaí;Médio Sudoeste da Bahia;2000;total_homens;12953
+581;2913606;Ilhéus;Litoral Sul;2000;total_homens;110445
+582;2913705;Inhambupe;Litoral Norte e Agreste Baiano;2000;total_homens;14818
+583;2913804;Ipecaetá;Portal do Sertão;2000;total_homens;9049
+584;2913903;Ipiaú;Médio Rio de Contas;2000;total_homens;21464
+585;2914000;Ipirá;Bacia do Jacuípe;2000;total_homens;30476
+586;2914109;Ipupiara;Irecê;2000;total_homens;4372
+587;2914208;Irajuba;Vale do Jiquiriçá;2000;total_homens;3286
+588;2914307;Iramaia;Chapada Diamantina;2000;total_homens;8960
+589;2914406;Iraquara;Chapada Diamantina;2000;total_homens;9065
+590;2914505;Irará;Portal do Sertão;2000;total_homens;12417
+591;2914604;Irecê;Irecê;2000;total_homens;28203
+592;2914653;Itabela;Costa do Descobrimento;2000;total_homens;13207
+593;2914703;Itaberaba;Piemonte do Paraguaçu;2000;total_homens;28760
+594;2914802;Itabuna;Litoral Sul;2000;total_homens;94385
+595;2914901;Itacaré;Litoral Sul;2000;total_homens;9614
+596;2915007;Itaeté;Chapada Diamantina;2000;total_homens;7102
+597;2915106;Itagi;Médio Rio de Contas;2000;total_homens;7471
+598;2915205;Itagibá;Médio Rio de Contas;2000;total_homens;8900
+599;2915304;Itagimirim;Costa do Descobrimento;2000;total_homens;3959
+600;2915353;Itaguaçu da Bahia;Irecê;2000;total_homens;5936
+601;2915403;Itaju do Colônia;Litoral Sul;2000;total_homens;4373
+602;2915502;Itajuípe;Litoral Sul;2000;total_homens;11403
+603;2915601;Itamaraju;Extremo Sul;2000;total_homens;32318
+604;2915700;Itamari;Médio Rio de Contas;2000;total_homens;4370
+605;2915809;Itambé;Médio Sudoeste da Bahia;2000;total_homens;15244
+606;2915908;Itanagra;Litoral Norte e Agreste Baiano;2000;total_homens;3308
+607;2916005;Itanhém;Extremo Sul;2000;total_homens;10880
+608;2916104;Itaparica;Metropolitano de Salvador;2000;total_homens;9318
+609;2916203;Itapé;Litoral Sul;2000;total_homens;7270
+610;2916302;Itapebi;Costa do Descobrimento;2000;total_homens;5778
+611;2916401;Itapetinga;Médio Sudoeste da Bahia;2000;total_homens;28530
+612;2916500;Itapicuru;Litoral Norte e Agreste Baiano;2000;total_homens;13979
+613;2916609;Itapitanga;Litoral Sul;2000;total_homens;5310
+614;2916708;Itaquara;Vale do Jiquiriçá;2000;total_homens;4011
+615;2916807;Itarantim;Médio Sudoeste da Bahia;2000;total_homens;8718
+616;2916856;Itatim;Piemonte do Paraguaçu;2000;total_homens;6371
+617;2916906;Itiruçu;Vale do Jiquiriçá;2000;total_homens;6663
+618;2917003;Itiúba;Sisal;2000;total_homens;18023
+619;2917102;Itororó;Médio Sudoeste da Bahia;2000;total_homens;10016
+620;2917201;Ituaçu;Sertão Produtivo;2000;total_homens;8552
+621;2917300;Ituberá;Baixo Sul;2000;total_homens;12226
+622;2917334;Iuiu;Sertão Produtivo;2000;total_homens;5444
+623;2917359;Jaborandi;Bacia do Rio Corrente;2000;total_homens;5333
+624;2917409;Jacaraci;Sudoeste Baiano;2000;total_homens;6778
+625;2917508;Jacobina;Piemonte da Diamantina;2000;total_homens;37422
+626;2917607;Jaguaquara;Vale do Jiquiriçá;2000;total_homens;23093
+627;2917706;Jaguarari;Piemonte Norte do Itapicuru;2000;total_homens;13944
+628;2917805;Jaguaripe;Baixo Sul;2000;total_homens;6890
+629;2917904;Jandaíra;Litoral Norte e Agreste Baiano;2000;total_homens;5207
+630;2918001;Jequié;Médio Rio de Contas;2000;total_homens;71899
+631;2918100;Jeremoabo;Semiárido Nordeste II;2000;total_homens;17786
+632;2918209;Jiquiriçá;Vale do Jiquiriçá;2000;total_homens;6992
+633;2918308;Jitaúna;Médio Rio de Contas;2000;total_homens;10738
+634;2918357;João Dourado;Irecê;2000;total_homens;9640
+635;2918407;Juazeiro;Sertão do São Francisco;2000;total_homens;86339
+636;2918456;Jucuruçu;Extremo Sul;2000;total_homens;6555
+637;2918506;Jussara;Irecê;2000;total_homens;7967
+638;2918555;Jussari;Litoral Sul;2000;total_homens;3908
+639;2918605;Jussiape;Chapada Diamantina;2000;total_homens;4847
+640;2918704;Lafayette Coutinho;Vale do Jiquiriçá;2000;total_homens;2141
+641;2919058;Lagedo do Tabocal;Vale do Jiquiriçá;2000;total_homens;4103
+642;2918753;Lagoa Real;Sertão Produtivo;2000;total_homens;6573
+643;2918803;Laje;Vale do Jiquiriçá;2000;total_homens;10028
+644;2918902;Lajedão;Extremo Sul;2000;total_homens;1733
+645;2919009;Lajedinho;Piemonte do Paraguaçu;2000;total_homens;2245
+646;2919108;Lamarão;Sisal;2000;total_homens;4812
+647;2919157;Lapão;Irecê;2000;total_homens;12646
+648;2919207;Lauro de Freitas;Metropolitano de Salvador;2000;total_homens;55529
+649;2919306;Lençóis;Chapada Diamantina;2000;total_homens;4417
+650;2919405;Licínio de Almeida;Sudoeste Baiano;2000;total_homens;6305
+651;2919504;Livramento de N. Senhora;Sertão Produtivo;2000;total_homens;19202
+652;2919553;Luís Eduardo Magalhães;Bacia do Rio Grande;2000;total_homens;
+653;2919603;Macajuba;Piemonte do Paraguaçu;2000;total_homens;5728
+654;2919702;Macarani;Médio Sudoeste da Bahia;2000;total_homens;7388
+655;2919801;Macaúbas;Bacia do Paramirim;2000;total_homens;20816
+656;2919900;Macururé;Itaparica;2000;total_homens;4248
+657;2919926;Madre de Deus;Metropolitano de Salvador;2000;total_homens;5913
+658;2919959;Maetinga;Sudoeste Baiano;2000;total_homens;7001
+659;2920007;Maiquinique;Médio Sudoeste da Bahia;2000;total_homens;3789
+660;2920106;Mairi;Bacia do Jacuípe;2000;total_homens;9918
+661;2920205;Malhada;Velho Chico;2000;total_homens;8003
+662;2920304;Malhada de Pedras;Sertão Produtivo;2000;total_homens;4300
+663;2920403;Manoel Vitorino;Médio Rio de Contas;2000;total_homens;8427
+664;2920452;Mansidão;Bacia do Rio Grande;2000;total_homens;5799
+665;2920502;Maracás;Vale do Jiquiriçá;2000;total_homens;15868
+666;2920601;Maragogipe;Recôncavo;2000;total_homens;20284
+667;2920700;Maraú;Litoral Sul;2000;total_homens;9720
+668;2920809;Marcionílio Souza;Chapada Diamantina;2000;total_homens;5438
+669;2920908;Mascote;Litoral Sul;2000;total_homens;8207
+670;2921005;Mata de São João;Litoral Norte e Agreste Baiano;2000;total_homens;16382
+671;2921054;Matina;Velho Chico;2000;total_homens;5230
+672;2921104;Medeiros Neto;Extremo Sul;2000;total_homens;10701
+673;2921203;Miguel Calmon;Piemonte da Diamantina;2000;total_homens;14222
+674;2921302;Milagres;Vale do Jiquiriçá;2000;total_homens;5965
+675;2921401;Mirangaba;Piemonte da Diamantina;2000;total_homens;7156
+676;2921450;Mirante;Sudoeste Baiano;2000;total_homens;6808
+677;2921500;Monte Santo;Sisal;2000;total_homens;28016
+678;2921609;Morpará;Velho Chico;2000;total_homens;4419
+679;2921708;Morro do Chapéu;Chapada Diamantina;2000;total_homens;17402
+680;2921807;Mortugaba;Sudoeste Baiano;2000;total_homens;6205
+681;2921906;Mucugê;Chapada Diamantina;2000;total_homens;6905
+682;2922003;Mucuri;Extremo Sul;2000;total_homens;14328
+683;2922052;Mulungu do Morro;Irecê;2000;total_homens;7542
+684;2922102;Mundo Novo;Piemonte do Paraguaçu;2000;total_homens;10716
+685;2922201;Muniz Ferreira;Recôncavo;2000;total_homens;3552
+686;2922250;Muquém do São Francisco;Velho Chico;2000;total_homens;4819
+687;2922300;Muritiba;Recôncavo;2000;total_homens;14643
+688;2922409;Mutuípe;Vale do Jiquiriçá;2000;total_homens;10137
+689;2922508;Nazaré;Recôncavo;2000;total_homens;12742
+690;2922607;Nilo Peçanha;Baixo Sul;2000;total_homens;5873
+691;2922656;Nordestina;Sisal;2000;total_homens;6124
+692;2922706;Nova Canaã;Médio Sudoeste da Bahia;2000;total_homens;7952
+693;2922730;Nova Fátima;Bacia do Jacuípe;2000;total_homens;3779
+694;2922755;Nova Ibiá;Médio Rio de Contas;2000;total_homens;3669
+695;2922805;Nova Itarana;Vale do Jiquiriçá;2000;total_homens;3311
+696;2922854;Nova Redenção;Chapada Diamantina;2000;total_homens;4384
+697;2922904;Nova Soure;Semiárido Nordeste II;2000;total_homens;12334
+698;2923001;Nova Viçosa;Extremo Sul;2000;total_homens;16272
+699;2923035;Novo Horizonte;Chapada Diamantina;2000;total_homens;4282
+700;2923050;Novo Triunfo;Semiárido Nordeste II;2000;total_homens;6495
+701;2923100;Olindina;Litoral Norte e Agreste Baiano;2000;total_homens;11967
+702;2923209;Oliveira dos Brejinhos;Velho Chico;2000;total_homens;11120
+703;2923308;Ouriçangas;Litoral Norte e Agreste Baiano;2000;total_homens;3778
+704;2923357;Ourolândia;Piemonte da Diamantina;2000;total_homens;7878
+705;2923407;Palmas de Monte Alto;Sertão Produtivo;2000;total_homens;10232
+706;2923506;Palmeiras;Chapada Diamantina;2000;total_homens;3719
+707;2923605;Paramirim;Bacia do Paramirim;2000;total_homens;9494
+708;2923704;Paratinga;Velho Chico;2000;total_homens;14053
+709;2923803;Paripiranga;Semiárido Nordeste II;2000;total_homens;13129
+710;2923902;Pau Brasil;Litoral Sul;2000;total_homens;6710
+711;2924009;Paulo Afonso;Itaparica;2000;total_homens;46680
+712;2924058;Pé de Serra;Bacia do Jacuípe;2000;total_homens;6863
+713;2924108;Pedrão;Litoral Norte e Agreste Baiano;2000;total_homens;3433
+714;2924207;Pedro Alexandre;Semiárido Nordeste II;2000;total_homens;8666
+715;2924306;Piatã;Chapada Diamantina;2000;total_homens;9228
+716;2924405;Pilão Arcado;Sertão do São Francisco;2000;total_homens;15495
+717;2924504;Pindaí;Sertão Produtivo;2000;total_homens;7883
+718;2924603;Pindobaçu;Piemonte Norte do Itapicuru;2000;total_homens;10886
+719;2924652;Pintadas;Bacia do Jacuípe;2000;total_homens;5487
+720;2924678;Piraí do Norte;Baixo Sul;2000;total_homens;5450
+721;2924702;Piripá;Sudoeste Baiano;2000;total_homens;7734
+722;2924801;Piritiba;Piemonte do Paraguaçu;2000;total_homens;9500
+723;2924900;Planaltino;Vale do Jiquiriçá;2000;total_homens;4139
+724;2925006;Planalto;Sudoeste Baiano;2000;total_homens;10892
+725;2925105;Poções;Sudoeste Baiano;2000;total_homens;21890
+726;2925204;Pojuca;Litoral Norte e Agreste Baiano;2000;total_homens;12864
+727;2925253;Ponto Novo;Piemonte Norte do Itapicuru;2000;total_homens;8580
+728;2925303;Porto Seguro;Costa do Descobrimento;2000;total_homens;48704
+729;2925402;Potiraguá;Médio Sudoeste da Bahia;2000;total_homens;7418
+730;2925501;Prado;Extremo Sul;2000;total_homens;13588
+731;2925600;Presidente Dutra;Irecê;2000;total_homens;7085
+732;2925709;Presidente Jânio Quadros;Sudoeste Baiano;2000;total_homens;8711
+733;2925758;Presidente Tancredo Neves;Baixo Sul;2000;total_homens;10103
+734;2925808;Queimadas;Sisal;2000;total_homens;12347
+735;2925907;Quijingue;Sisal;2000;total_homens;13752
+736;2925931;Quixabeira;Bacia do Jacuípe;2000;total_homens;4821
+737;2925956;Rafael Jambeiro;Piemonte do Paraguaçu;2000;total_homens;11117
+738;2926004;Remanso;Sertão do São Francisco;2000;total_homens;18200
+739;2926103;Retirolândia;Sisal;2000;total_homens;5429
+740;2926202;Riachão das Neves;Bacia do Rio Grande;2000;total_homens;11372
+741;2926301;Riachão do Jacuípe;Bacia do Jacuípe;2000;total_homens;15666
+742;2926400;Riacho de Santana;Velho Chico;2000;total_homens;14490
+743;2926509;Ribeira do Amparo;Semiárido Nordeste II;2000;total_homens;7169
+744;2926608;Ribeira do Pombal;Semiárido Nordeste II;2000;total_homens;22923
+745;2926657;Ribeirão do Largo;Sudoeste Baiano;2000;total_homens;8166
+746;2926707;Rio de Contas;Chapada Diamantina;2000;total_homens;6697
+747;2926806;Rio do Antônio;Sertão Produtivo;2000;total_homens;7398
+748;2926905;Rio do Pires;Bacia do Paramirim;2000;total_homens;5945
+749;2927002;Rio Real;Litoral Norte e Agreste Baiano;2000;total_homens;16807
+750;2927101;Rodelas;Itaparica;2000;total_homens;3104
+751;2927200;Ruy Barbosa;Piemonte do Paraguaçu;2000;total_homens;14267
+752;2927309;Salinas da Margarida;Metropolitano de Salvador;2000;total_homens;5109
+753;2927408;Salvador;Metropolitano de Salvador;2000;total_homens;1150252
+754;2927507;Santa Bárbara;Portal do Sertão;2000;total_homens;8812
+755;2927606;Santa Brígida;Semiárido Nordeste II;2000;total_homens;8506
+756;2927705;Santa Cruz Cabrália;Costa do Descobrimento;2000;total_homens;12541
+757;2927804;Santa Cruz da Vitória;Médio Sudoeste da Bahia;2000;total_homens;3623
+758;2927903;Santa Inês;Vale do Jiquiriçá;2000;total_homens;5438
+759;2928059;Santa Luzia;Litoral Sul;2000;total_homens;8247
+760;2928109;Santa Maria da Vitória;Bacia do Rio Corrente;2000;total_homens;20848
+761;2928406;Santa Rita de Cássia;Bacia do Rio Grande;2000;total_homens;12308
+762;2928505;Santa Terezinha;Piemonte do Paraguaçu;2000;total_homens;4409
+763;2928000;Santaluz;Sisal;2000;total_homens;15495
+764;2928208;Santana;Bacia do Rio Corrente;2000;total_homens;12371
+765;2928307;Santanópolis;Portal do Sertão;2000;total_homens;4284
+766;2928604;Santo Amaro;Recôncavo;2000;total_homens;28646
+767;2928703;Santo Antônio de Jesus;Recôncavo;2000;total_homens;36932
+768;2928802;Santo Estevão;Portal do Sertão;2000;total_homens;19843
+769;2928901;São Desidério;Bacia do Rio Grande;2000;total_homens;9865
+770;2928950;São Domingos;Sisal;2000;total_homens;4269
+771;2929107;São Felipe;Recôncavo;2000;total_homens;10196
+772;2929008;São Félix;Recôncavo;2000;total_homens;6671
+773;2929057;São Félix do Coribe;Bacia do Rio Corrente;2000;total_homens;5961
+774;2929206;São Francisco do Conde;Recôncavo;2000;total_homens;13055
+775;2929255;São Gabriel;Irecê;2000;total_homens;9497
+776;2929305;São Gonçalo dos Campos;Portal do Sertão;2000;total_homens;12984
+777;2929354;São José da Vitória;Litoral Sul;2000;total_homens;3201
+778;2929370;São José do Jacuípe;Bacia do Jacuípe;2000;total_homens;4604
+779;2929404;São Miguel das Matas;Vale do Jiquiriçá;2000;total_homens;5062
+780;2929503;São Sebastião do Passé;Recôncavo;2000;total_homens;19922
+781;2929602;Sapeaçu;Recôncavo;2000;total_homens;7997
+782;2929701;Sátiro Dias;Litoral Norte e Agreste Baiano;2000;total_homens;8734
+783;2929750;Saubara;Recôncavo;2000;total_homens;5113
+784;2929800;Saúde;Piemonte da Diamantina;2000;total_homens;5725
+785;2929909;Seabra;Chapada Diamantina;2000;total_homens;19681
+786;2930006;Sebastião Laranjeiras;Sertão Produtivo;2000;total_homens;4741
+787;2930105;Senhor do Bonfim;Piemonte Norte do Itapicuru;2000;total_homens;32889
+788;2930204;Sento Sé;Sertão do São Francisco;2000;total_homens;16777
+789;2930154;Serra do Ramalho;Velho Chico;2000;total_homens;17000
+790;2930303;Serra Dourada;Bacia do Rio Corrente;2000;total_homens;9322
+791;2930402;Serra Preta;Bacia do Jacuípe;2000;total_homens;8833
+792;2930501;Serrinha;Sisal;2000;total_homens;41171
+793;2930600;Serrolândia;Piemonte da Diamantina;2000;total_homens;6310
+794;2930709;Simões Filho;Metropolitano de Salvador;2000;total_homens;46731
+795;2930758;Sítio do Mato;Velho Chico;2000;total_homens;6088
+796;2930766;Sítio do Quinto;Semiárido Nordeste II;2000;total_homens;8306
+797;2930774;Sobradinho;Sertão do São Francisco;2000;total_homens;10527
+798;2930808;Souto Soares;Chapada Diamantina;2000;total_homens;7570
+799;2930907;Tabocas do Brejo Velho;Bacia do Rio Corrente;2000;total_homens;6533
+800;2931004;Tanhaçu;Sertão Produtivo;2000;total_homens;10163
+801;2931053;Tanque Novo;Bacia do Paramirim;2000;total_homens;7966
+802;2931103;Tanquinho;Portal do Sertão;2000;total_homens;3692
+803;2931202;Taperoá;Baixo Sul;2000;total_homens;8149
+804;2931301;Tapiramutá;Piemonte do Paraguaçu;2000;total_homens;8642
+805;2931350;Teixeira de Freitas;Extremo Sul;2000;total_homens;53189
+806;2931400;Teodoro Sampaio;Portal do Sertão;2000;total_homens;4393
+807;2931509;Teofilândia;Sisal;2000;total_homens;10404
+808;2931608;Teolândia;Baixo Sul;2000;total_homens;6447
+809;2931707;Terra Nova;Portal do Sertão;2000;total_homens;6291
+810;2931806;Tremedal;Sudoeste Baiano;2000;total_homens;10616
+811;2931905;Tucano;Sisal;2000;total_homens;25711
+812;2932002;Uauá;Sertão do São Francisco;2000;total_homens;13132
+813;2932101;Ubaíra;Vale do Jiquiriçá;2000;total_homens;10479
+814;2932200;Ubaitaba;Litoral Sul;2000;total_homens;11787
+815;2932309;Ubatã;Médio Rio de Contas;2000;total_homens;10974
+816;2932408;Uibaí;Irecê;2000;total_homens;6998
+817;2932457;Umburanas;Piemonte da Diamantina;2000;total_homens;7395
+818;2932507;Una;Litoral Sul;2000;total_homens;16597
+819;2932606;Urandi;Sertão Produtivo;2000;total_homens;8149
+820;2932705;Uruçuca;Litoral Sul;2000;total_homens;10351
+821;2932804;Utinga;Chapada Diamantina;2000;total_homens;8446
+822;2932903;Valença;Baixo Sul;2000;total_homens;38473
+823;2933000;Valente;Sisal;2000;total_homens;9498
+824;2933059;Várzea da Roça;Bacia do Jacuípe;2000;total_homens;6931
+825;2933109;Várzea do Poço;Bacia do Jacuípe;2000;total_homens;3770
+826;2933158;Várzea Nova;Piemonte da Diamantina;2000;total_homens;7220
+827;2933174;Varzedo;Recôncavo;2000;total_homens;4363
+828;2933208;Vera Cruz;Metropolitano de Salvador;2000;total_homens;15055
+829;2933257;Vereda;Extremo Sul;2000;total_homens;3952
+830;2933307;Vitória da Conquista;Sudoeste Baiano;2000;total_homens;127636
+831;2933406;Wagner;Chapada Diamantina;2000;total_homens;4535
+832;2933455;Wanderley;Bacia do Rio Grande;2000;total_homens;6963
+833;2933505;Wenceslau Guimarães;Baixo Sul;2000;total_homens;12380
+834;2933604;Xique-Xique;Irecê;2000;total_homens;22253
+835;2900108;Abaíra;Chapada Diamantina;2010;total_homens;4082
+836;2900207;Abaré;Itaparica;2010;total_homens;8564
+837;2900306;Acajutiba;Litoral Norte e Agreste Baiano;2010;total_homens;7208
+838;2900355;Adustina;Semiárido Nordeste II;2010;total_homens;7907
+839;2900405;Água Fria;Portal do Sertão;2010;total_homens;7903
+840;2900603;Aiquara;Médio Rio de Contas;2010;total_homens;2351
+841;2900702;Alagoinhas;Litoral Norte e Agreste Baiano;2010;total_homens;67212
+842;2900801;Alcobaça;Extremo Sul;2010;total_homens;10815
+843;2900900;Almadina;Litoral Sul;2010;total_homens;3200
+844;2901007;Amargosa;Vale do Jiquiriçá;2010;total_homens;16647
+845;2901106;Amélia Rodrigues;Portal do Sertão;2010;total_homens;12283
+846;2901155;América Dourada;Irecê;2010;total_homens;8073
+847;2901205;Anagé;Sudoeste Baiano;2010;total_homens;12892
+848;2901304;Andaraí;Chapada Diamantina;2010;total_homens;7181
+849;2901353;Andorinha;Piemonte Norte do Itapicuru;2010;total_homens;7328
+850;2901403;Angical;Bacia do Rio Grande;2010;total_homens;7460
+851;2901502;Anguera;Portal do Sertão;2010;total_homens;5083
+852;2901601;Antas;Semiárido Nordeste II;2010;total_homens;8581
+853;2901700;Antônio Cardoso;Portal do Sertão;2010;total_homens;5734
+854;2901809;Antônio Gonçalves;Piemonte Norte do Itapicuru;2010;total_homens;5573
+855;2901908;Aporá;Litoral Norte e Agreste Baiano;2010;total_homens;8961
+856;2901957;Apuarema;Médio Rio de Contas;2010;total_homens;3794
+857;2902054;Araçás;Litoral Norte e Agreste Baiano;2010;total_homens;5828
+858;2902005;Aracatu;Sudoeste Baiano;2010;total_homens;7052
+859;2902104;Araci;Sisal;2010;total_homens;25940
+860;2902203;Aramari;Litoral Norte e Agreste Baiano;2010;total_homens;4999
+861;2902252;Arataca;Litoral Sul;2010;total_homens;5502
+862;2902302;Aratuípe;Baixo Sul;2010;total_homens;4376
+863;2902401;Aurelino Leal;Litoral Sul;2010;total_homens;6833
+864;2902500;Baianópolis;Bacia do Rio Grande;2010;total_homens;7162
+865;2902609;Baixa Grande;Bacia do Jacuípe;2010;total_homens;9966
+866;2902658;Banzaê;Semiárido Nordeste II;2010;total_homens;5993
+867;2902708;Barra;Velho Chico;2010;total_homens;25160
+868;2902807;Barra da Estiva;Chapada Diamantina;2010;total_homens;10648
+869;2902906;Barra do Choça;Sudoeste Baiano;2010;total_homens;17553
+870;2903003;Barra do Mendes;Irecê;2010;total_homens;7012
+871;2903102;Barra do Rocha;Médio Rio de Contas;2010;total_homens;3337
+872;2903201;Barreiras;Bacia do Rio Grande;2010;total_homens;67913
+873;2903235;Barro Alto;Irecê;2010;total_homens;6909
+874;2903300;Barro Preto/Lomanto Junior;Litoral Sul;2010;total_homens;3306
+875;2903276;Barrocas;Sisal;2010;total_homens;7218
+876;2903409;Belmonte;Costa do Descobrimento;2010;total_homens;11159
+877;2903508;Belo Campo;Sudoeste Baiano;2010;total_homens;8120
+878;2903607;Biritinga;Sisal;2010;total_homens;7553
+879;2903706;Boa Nova;Médio Rio de Contas;2010;total_homens;7824
+880;2903805;Boa Vista do Tupim;Piemonte do Paraguaçu;2010;total_homens;9134
+881;2903904;Bom Jesus da Lapa;Velho Chico;2010;total_homens;31676
+882;2903953;Bom Jesus da Serra;Sudoeste Baiano;2010;total_homens;5191
+883;2904001;Boninal;Chapada Diamantina;2010;total_homens;6702
+884;2904050;Bonito;Chapada Diamantina;2010;total_homens;7521
+885;2904100;Boquira;Bacia do Paramirim;2010;total_homens;10856
+886;2904209;Botuporã;Bacia do Paramirim;2010;total_homens;5608
+887;2904308;Brejões;Vale do Jiquiriçá;2010;total_homens;7114
+888;2904407;Brejolândia;Bacia do Rio Corrente;2010;total_homens;5798
+889;2904506;Brotas de Macaúbas;Velho Chico;2010;total_homens;5472
+890;2904605;Brumado;Sertão Produtivo;2010;total_homens;31747
+891;2904704;Buerarema;Litoral Sul;2010;total_homens;9307
+892;2904753;Buritirama;Bacia do Rio Grande;2010;total_homens;10202
+893;2904803;Caatiba;Médio Sudoeste da Bahia;2010;total_homens;5992
+894;2904852;Cabaceiras do Paraguaçu;Recôncavo;2010;total_homens;8549
+895;2904902;Cachoeira;Recôncavo;2010;total_homens;15453
+896;2905008;Caculé;Sertão Produtivo;2010;total_homens;11137
+897;2905107;Caém;Piemonte da Diamantina;2010;total_homens;5140
+898;2905156;Caetanos;Sudoeste Baiano;2010;total_homens;7054
+899;2905206;Caetité;Sertão Produtivo;2010;total_homens;23419
+900;2905305;Cafarnaum;Irecê;2010;total_homens;8764
+901;2905404;Cairu;Baixo Sul;2010;total_homens;7841
+902;2905503;Caldeirão Grande;Piemonte Norte do Itapicuru;2010;total_homens;6152
+903;2905602;Camacan;Litoral Sul;2010;total_homens;15734
+904;2905701;Camaçari;Metropolitano de Salvador;2010;total_homens;120704
+905;2905800;Camamu;Baixo Sul;2010;total_homens;17899
+906;2905909;Campo Alegre de Lourdes;Sertão do São Francisco;2010;total_homens;14142
+907;2906006;Campo Formoso;Piemonte Norte do Itapicuru;2010;total_homens;33464
+908;2906105;Canápolis;Bacia do Rio Corrente;2010;total_homens;4808
+909;2906204;Canarana;Irecê;2010;total_homens;12126
+910;2906303;Canavieiras;Litoral Sul;2010;total_homens;16089
+911;2906402;Candeal;Sisal;2010;total_homens;4499
+912;2906501;Candeias;Metropolitano de Salvador;2010;total_homens;40314
+913;2906600;Candiba;Sertão Produtivo;2010;total_homens;6815
+914;2906709;Cândido Sales;Sudoeste Baiano;2010;total_homens;14032
+915;2906808;Cansanção;Sisal;2010;total_homens;16560
+916;2906824;Canudos;Sertão do São Francisco;2010;total_homens;7997
+917;2906857;Capela do Alto Alegre;Bacia do Jacuípe;2010;total_homens;5808
+918;2906873;Capim Grosso;Piemonte da Diamantina;2010;total_homens;12998
+919;2906899;Caraíbas;Sudoeste Baiano;2010;total_homens;5216
+920;2906907;Caravelas;Extremo Sul;2010;total_homens;10873
+921;2907004;Cardeal da Silva;Litoral Norte e Agreste Baiano;2010;total_homens;4502
+922;2907103;Carinhanha;Velho Chico;2010;total_homens;14523
+923;2907202;Casa Nova;Sertão do São Francisco;2010;total_homens;33091
+924;2907301;Castro Alves;Recôncavo;2010;total_homens;12268
+925;2907400;Catolândia;Bacia do Rio Grande;2010;total_homens;1354
+926;2907509;Catu;Litoral Norte e Agreste Baiano;2010;total_homens;24816
+927;2907558;Caturama;Bacia do Paramirim;2010;total_homens;4543
+928;2907608;Central;Irecê;2010;total_homens;8689
+929;2907707;Chorrochó;Itaparica;2010;total_homens;5442
+930;2907806;Cícero Dantas;Semiárido Nordeste II;2010;total_homens;15860
+931;2907905;Cipó;Semiárido Nordeste II;2010;total_homens;7678
+932;2908002;Coaraci;Litoral Sul;2010;total_homens;10274
+933;2908101;Côcos;Bacia do Rio Corrente;2010;total_homens;9303
+934;2908200;Conceição da Feira;Portal do Sertão;2010;total_homens;9922
+935;2908309;Conceição do Almeida;Recôncavo;2010;total_homens;8704
+936;2908408;Conceição do Coité;Sisal;2010;total_homens;30707
+937;2908507;Conceição do Jacuípe;Portal do Sertão;2010;total_homens;14559
+938;2908606;Conde;Litoral Norte e Agreste Baiano;2010;total_homens;11834
+939;2908705;Condeúba;Sudoeste Baiano;2010;total_homens;8270
+940;2908804;Contendas do Sincorá;Sertão Produtivo;2010;total_homens;2380
+941;2908903;Coração de Maria;Portal do Sertão;2010;total_homens;10841
+942;2909000;Cordeiros;Sudoeste Baiano;2010;total_homens;4048
+943;2909109;Coribe;Bacia do Rio Corrente;2010;total_homens;7199
+944;2909208;Coronel João Sá;Semiárido Nordeste II;2010;total_homens;8796
+945;2909307;Correntina;Bacia do Rio Corrente;2010;total_homens;15763
+946;2909406;Cotegipe;Bacia do Rio Grande;2010;total_homens;7115
+947;2909505;Cravolândia;Vale do Jiquiriçá;2010;total_homens;2557
+948;2909604;Crisópolis;Litoral Norte e Agreste Baiano;2010;total_homens;10236
+949;2909703;Cristópolis;Bacia do Rio Grande;2010;total_homens;6869
+950;2909802;Cruz das Almas;Recôncavo;2010;total_homens;27682
+951;2909901;Curaçá;Sertão do São Francisco;2010;total_homens;16467
+952;2910008;Dário Meira;Médio Rio de Contas;2010;total_homens;6726
+953;2910057;Dias D'Ávila;Metropolitano de Salvador;2010;total_homens;32818
+954;2910107;Dom Basílio;Sertão Produtivo;2010;total_homens;5870
+955;2910206;Dom Macedo Costa;Recôncavo;2010;total_homens;1897
+956;2910305;Elísio Medrado;Vale do Jiquiriçá;2010;total_homens;3957
+957;2910404;Encruzilhada;Sudoeste Baiano;2010;total_homens;12376
+958;2910503;Entre Rios;Litoral Norte e Agreste Baiano;2010;total_homens;19631
+959;2900504;Érico Cardoso;Bacia do Paramirim;2010;total_homens;5422
+960;2910602;Esplanada;Litoral Norte e Agreste Baiano;2010;total_homens;16334
+961;2910701;Euclides da Cunha;Semiárido Nordeste II;2010;total_homens;28319
+962;2910727;Eunápolis;Costa do Descobrimento;2010;total_homens;49396
+963;2910750;Fátima;Semiárido Nordeste II;2010;total_homens;8949
+964;2910776;Feira da Mata;Velho Chico;2010;total_homens;3197
+965;2910800;Feira de Santana;Portal do Sertão;2010;total_homens;263999
+966;2910859;Filadélfia;Piemonte Norte do Itapicuru;2010;total_homens;8437
+967;2910909;Firmino Alves;Médio Sudoeste da Bahia;2010;total_homens;2732
+968;2911006;Floresta Azul;Litoral Sul;2010;total_homens;5438
+969;2911105;Formosa do Rio Preto;Bacia do Rio Grande;2010;total_homens;11660
+970;2911204;Gandu;Baixo Sul;2010;total_homens;15103
+971;2911253;Gavião;Bacia do Jacuípe;2010;total_homens;2356
+972;2911303;Gentio do Ouro;Irecê;2010;total_homens;5448
+973;2911402;Glória;Itaparica;2010;total_homens;7539
+974;2911501;Gongogi;Médio Rio de Contas;2010;total_homens;4235
+975;2911600;Governador Mangabeira;Recôncavo;2010;total_homens;9497
+976;2911659;Guajeru;Sudoeste Baiano;2010;total_homens;5242
+977;2911709;Guanambi;Sertão Produtivo;2010;total_homens;38481
+978;2911808;Guaratinga;Costa do Descobrimento;2010;total_homens;11618
+979;2911857;Heliópolis;Semiárido Nordeste II;2010;total_homens;6666
+980;2911907;Iaçu;Piemonte do Paraguaçu;2010;total_homens;12631
+981;2912004;Ibiassucê;Sertão Produtivo;2010;total_homens;5097
+982;2912103;Ibicaraí;Litoral Sul;2010;total_homens;11888
+983;2912202;Ibicoara;Chapada Diamantina;2010;total_homens;8754
+984;2912301;Ibicuí;Médio Sudoeste da Bahia;2010;total_homens;8063
+985;2912400;Ibipeba;Irecê;2010;total_homens;8758
+986;2912509;Ibipitanga;Bacia do Paramirim;2010;total_homens;7048
+987;2912608;Ibiquera;Piemonte do Paraguaçu;2010;total_homens;2529
+988;2912707;Ibirapitanga;Baixo Sul;2010;total_homens;11534
+989;2912806;Ibirapoã;Extremo Sul;2010;total_homens;4098
+990;2912905;Ibirataia;Médio Rio de Contas;2010;total_homens;9440
+991;2913002;Ibitiara;Chapada Diamantina;2010;total_homens;7695
+992;2913101;Ibititá;Irecê;2010;total_homens;9058
+993;2913200;Ibotirama;Velho Chico;2010;total_homens;12802
+994;2913309;Ichu;Sisal;2010;total_homens;2588
+995;2913408;Igaporã;Velho Chico;2010;total_homens;7643
+996;2913457;Igrapiúna;Baixo Sul;2010;total_homens;7042
+997;2913507;Iguaí;Médio Sudoeste da Bahia;2010;total_homens;13123
+998;2913606;Ilhéus;Litoral Sul;2010;total_homens;89440
+999;2913705;Inhambupe;Litoral Norte e Agreste Baiano;2010;total_homens;18028
+1000;2913804;Ipecaetá;Portal do Sertão;2010;total_homens;7586
+1001;2913903;Ipiaú;Médio Rio de Contas;2010;total_homens;21831
+1002;2914000;Ipirá;Bacia do Jacuípe;2010;total_homens;29076
+1003;2914109;Ipupiara;Irecê;2010;total_homens;4741
+1004;2914208;Irajuba;Vale do Jiquiriçá;2010;total_homens;3506
+1005;2914307;Iramaia;Chapada Diamantina;2010;total_homens;6167
+1006;2914406;Iraquara;Chapada Diamantina;2010;total_homens;11244
+1007;2914505;Irará;Portal do Sertão;2010;total_homens;13297
+1008;2914604;Irecê;Irecê;2010;total_homens;32018
+1009;2914653;Itabela;Costa do Descobrimento;2010;total_homens;14481
+1010;2914703;Itaberaba;Piemonte do Paraguaçu;2010;total_homens;29935
+1011;2914802;Itabuna;Litoral Sul;2010;total_homens;96936
+1012;2914901;Itacaré;Litoral Sul;2010;total_homens;12697
+1013;2915007;Itaeté;Chapada Diamantina;2010;total_homens;7513
+1014;2915106;Itagi;Médio Rio de Contas;2010;total_homens;6588
+1015;2915205;Itagibá;Médio Rio de Contas;2010;total_homens;7804
+1016;2915304;Itagimirim;Costa do Descobrimento;2010;total_homens;3556
+1017;2915353;Itaguaçu da Bahia;Irecê;2010;total_homens;6959
+1018;2915403;Itaju do Colônia;Litoral Sul;2010;total_homens;3699
+1019;2915502;Itajuípe;Litoral Sul;2010;total_homens;10452
+1020;2915601;Itamaraju;Extremo Sul;2010;total_homens;31460
+1021;2915700;Itamari;Médio Rio de Contas;2010;total_homens;4036
+1022;2915809;Itambé;Médio Sudoeste da Bahia;2010;total_homens;11583
+1023;2915908;Itanagra;Litoral Norte e Agreste Baiano;2010;total_homens;3885
+1024;2916005;Itanhém;Extremo Sul;2010;total_homens;10295
+1025;2916104;Itaparica;Metropolitano de Salvador;2010;total_homens;10166
+1026;2916203;Itapé;Litoral Sul;2010;total_homens;5608
+1027;2916302;Itapebi;Costa do Descobrimento;2010;total_homens;5260
+1028;2916401;Itapetinga;Médio Sudoeste da Bahia;2010;total_homens;33449
+1029;2916500;Itapicuru;Litoral Norte e Agreste Baiano;2010;total_homens;16467
+1030;2916609;Itapitanga;Litoral Sul;2010;total_homens;5178
+1031;2916708;Itaquara;Vale do Jiquiriçá;2010;total_homens;3842
+1032;2916807;Itarantim;Médio Sudoeste da Bahia;2010;total_homens;9523
+1033;2916856;Itatim;Piemonte do Paraguaçu;2010;total_homens;7252
+1034;2916906;Itiruçu;Vale do Jiquiriçá;2010;total_homens;6241
+1035;2917003;Itiúba;Sisal;2010;total_homens;18317
+1036;2917102;Itororó;Médio Sudoeste da Bahia;2010;total_homens;9990
+1037;2917201;Ituaçu;Sertão Produtivo;2010;total_homens;9031
+1038;2917300;Ituberá;Baixo Sul;2010;total_homens;13388
+1039;2917334;Iuiu;Sertão Produtivo;2010;total_homens;5646
+1040;2917359;Jaborandi;Bacia do Rio Corrente;2010;total_homens;4660
+1041;2917409;Jacaraci;Sudoeste Baiano;2010;total_homens;6926
+1042;2917508;Jacobina;Piemonte da Diamantina;2010;total_homens;38328
+1043;2917607;Jaguaquara;Vale do Jiquiriçá;2010;total_homens;25042
+1044;2917706;Jaguarari;Piemonte Norte do Itapicuru;2010;total_homens;15438
+1045;2917805;Jaguaripe;Baixo Sul;2010;total_homens;8449
+1046;2917904;Jandaíra;Litoral Norte e Agreste Baiano;2010;total_homens;5309
+1047;2918001;Jequié;Médio Rio de Contas;2010;total_homens;73612
+1048;2918100;Jeremoabo;Semiárido Nordeste II;2010;total_homens;19018
+1049;2918209;Jiquiriçá;Vale do Jiquiriçá;2010;total_homens;7155
+1050;2918308;Jitaúna;Médio Rio de Contas;2010;total_homens;7124
+1051;2918357;João Dourado;Irecê;2010;total_homens;11383
+1052;2918407;Juazeiro;Sertão do São Francisco;2010;total_homens;97085
+1053;2918456;Jucuruçu;Extremo Sul;2010;total_homens;5399
+1054;2918506;Jussara;Irecê;2010;total_homens;7812
+1055;2918555;Jussari;Litoral Sul;2010;total_homens;3280
+1056;2918605;Jussiape;Chapada Diamantina;2010;total_homens;3907
+1057;2918704;Lafayette Coutinho;Vale do Jiquiriçá;2010;total_homens;2030
+1058;2919058;Lagedo do Tabocal;Vale do Jiquiriçá;2010;total_homens;4187
+1059;2918753;Lagoa Real;Sertão Produtivo;2010;total_homens;7200
+1060;2918803;Laje;Vale do Jiquiriçá;2010;total_homens;11286
+1061;2918902;Lajedão;Extremo Sul;2010;total_homens;1837
+1062;2919009;Lajedinho;Piemonte do Paraguaçu;2010;total_homens;2045
+1063;2919108;Lamarão;Sisal;2010;total_homens;4761
+1064;2919157;Lapão;Irecê;2010;total_homens;13083
+1065;2919207;Lauro de Freitas;Metropolitano de Salvador;2010;total_homens;79276
+1066;2919306;Lençóis;Chapada Diamantina;2010;total_homens;5210
+1067;2919405;Licínio de Almeida;Sudoeste Baiano;2010;total_homens;6276
+1068;2919504;Livramento de N. Senhora;Sertão Produtivo;2010;total_homens;21492
+1069;2919553;Luís Eduardo Magalhães;Bacia do Rio Grande;2010;total_homens;31056
+1070;2919603;Macajuba;Piemonte do Paraguaçu;2010;total_homens;5520
+1071;2919702;Macarani;Médio Sudoeste da Bahia;2010;total_homens;8583
+1072;2919801;Macaúbas;Bacia do Paramirim;2010;total_homens;23541
+1073;2919900;Macururé;Itaparica;2010;total_homens;4001
+1074;2919926;Madre de Deus;Metropolitano de Salvador;2010;total_homens;8377
+1075;2919959;Maetinga;Sudoeste Baiano;2010;total_homens;3581
+1076;2920007;Maiquinique;Médio Sudoeste da Bahia;2010;total_homens;4544
+1077;2920106;Mairi;Bacia do Jacuípe;2010;total_homens;9555
+1078;2920205;Malhada;Velho Chico;2010;total_homens;8285
+1079;2920304;Malhada de Pedras;Sertão Produtivo;2010;total_homens;4322
+1080;2920403;Manoel Vitorino;Médio Rio de Contas;2010;total_homens;7338
+1081;2920452;Mansidão;Bacia do Rio Grande;2010;total_homens;6585
+1082;2920502;Maracás;Vale do Jiquiriçá;2010;total_homens;12204
+1083;2920601;Maragogipe;Recôncavo;2010;total_homens;21516
+1084;2920700;Maraú;Litoral Sul;2010;total_homens;10076
+1085;2920809;Marcionílio Souza;Chapada Diamantina;2010;total_homens;5298
+1086;2920908;Mascote;Litoral Sul;2010;total_homens;7551
+1087;2921005;Mata de São João;Litoral Norte e Agreste Baiano;2010;total_homens;19879
+1088;2921054;Matina;Velho Chico;2010;total_homens;5674
+1089;2921104;Medeiros Neto;Extremo Sul;2010;total_homens;11049
+1090;2921203;Miguel Calmon;Piemonte da Diamantina;2010;total_homens;13197
+1091;2921302;Milagres;Vale do Jiquiriçá;2010;total_homens;5003
+1092;2921401;Mirangaba;Piemonte da Diamantina;2010;total_homens;8176
+1093;2921450;Mirante;Sudoeste Baiano;2010;total_homens;5393
+1094;2921500;Monte Santo;Sisal;2010;total_homens;26586
+1095;2921609;Morpará;Velho Chico;2010;total_homens;4241
+1096;2921708;Morro do Chapéu;Chapada Diamantina;2010;total_homens;17688
+1097;2921807;Mortugaba;Sudoeste Baiano;2010;total_homens;6227
+1098;2921906;Mucugê;Chapada Diamantina;2010;total_homens;5228
+1099;2922003;Mucuri;Extremo Sul;2010;total_homens;18186
+1100;2922052;Mulungu do Morro;Irecê;2010;total_homens;6175
+1101;2922102;Mundo Novo;Piemonte do Paraguaçu;2010;total_homens;12365
+1102;2922201;Muniz Ferreira;Recôncavo;2010;total_homens;3681
+1103;2922250;Muquém do São Francisco;Velho Chico;2010;total_homens;5449
+1104;2922300;Muritiba;Recôncavo;2010;total_homens;13726
+1105;2922409;Mutuípe;Vale do Jiquiriçá;2010;total_homens;10597
+1106;2922508;Nazaré;Recôncavo;2010;total_homens;13225
+1107;2922607;Nilo Peçanha;Baixo Sul;2010;total_homens;6464
+1108;2922656;Nordestina;Sisal;2010;total_homens;6407
+1109;2922706;Nova Canaã;Médio Sudoeste da Bahia;2010;total_homens;8571
+1110;2922730;Nova Fátima;Bacia do Jacuípe;2010;total_homens;3793
+1111;2922755;Nova Ibiá;Médio Rio de Contas;2010;total_homens;3492
+1112;2922805;Nova Itarana;Vale do Jiquiriçá;2010;total_homens;3771
+1113;2922854;Nova Redenção;Chapada Diamantina;2010;total_homens;4069
+1114;2922904;Nova Soure;Semiárido Nordeste II;2010;total_homens;12130
+1115;2923001;Nova Viçosa;Extremo Sul;2010;total_homens;19418
+1116;2923035;Novo Horizonte;Chapada Diamantina;2010;total_homens;5502
+1117;2923050;Novo Triunfo;Semiárido Nordeste II;2010;total_homens;7533
+1118;2923100;Olindina;Litoral Norte e Agreste Baiano;2010;total_homens;12290
+1119;2923209;Oliveira dos Brejinhos;Velho Chico;2010;total_homens;11131
+1120;2923308;Ouriçangas;Litoral Norte e Agreste Baiano;2010;total_homens;4217
+1121;2923357;Ourolândia;Piemonte da Diamantina;2010;total_homens;8362
+1122;2923407;Palmas de Monte Alto;Sertão Produtivo;2010;total_homens;10599
+1123;2923506;Palmeiras;Chapada Diamantina;2010;total_homens;4174
+1124;2923605;Paramirim;Bacia do Paramirim;2010;total_homens;10565
+1125;2923704;Paratinga;Velho Chico;2010;total_homens;14930
+1126;2923803;Paripiranga;Semiárido Nordeste II;2010;total_homens;13670
+1127;2923902;Pau Brasil;Litoral Sul;2010;total_homens;5495
+1128;2924009;Paulo Afonso;Itaparica;2010;total_homens;51970
+1129;2924058;Pé de Serra;Bacia do Jacuípe;2010;total_homens;6817
+1130;2924108;Pedrão;Litoral Norte e Agreste Baiano;2010;total_homens;3394
+1131;2924207;Pedro Alexandre;Semiárido Nordeste II;2010;total_homens;8683
+1132;2924306;Piatã;Chapada Diamantina;2010;total_homens;8734
+1133;2924405;Pilão Arcado;Sertão do São Francisco;2010;total_homens;16683
+1134;2924504;Pindaí;Sertão Produtivo;2010;total_homens;8017
+1135;2924603;Pindobaçu;Piemonte Norte do Itapicuru;2010;total_homens;10329
+1136;2924652;Pintadas;Bacia do Jacuípe;2010;total_homens;5198
+1137;2924678;Piraí do Norte;Baixo Sul;2010;total_homens;5194
+1138;2924702;Piripá;Sudoeste Baiano;2010;total_homens;6440
+1139;2924801;Piritiba;Piemonte do Paraguaçu;2010;total_homens;11287
+1140;2924900;Planaltino;Vale do Jiquiriçá;2010;total_homens;4574
+1141;2925006;Planalto;Sudoeste Baiano;2010;total_homens;12092
+1142;2925105;Poções;Sudoeste Baiano;2010;total_homens;21762
+1143;2925204;Pojuca;Litoral Norte e Agreste Baiano;2010;total_homens;16078
+1144;2925253;Ponto Novo;Piemonte Norte do Itapicuru;2010;total_homens;7924
+1145;2925303;Porto Seguro;Costa do Descobrimento;2010;total_homens;63489
+1146;2925402;Potiraguá;Médio Sudoeste da Bahia;2010;total_homens;5066
+1147;2925501;Prado;Extremo Sul;2010;total_homens;13990
+1148;2925600;Presidente Dutra;Irecê;2010;total_homens;6992
+1149;2925709;Presidente Jânio Quadros;Sudoeste Baiano;2010;total_homens;6978
+1150;2925758;Presidente Tancredo Neves;Baixo Sul;2010;total_homens;12212
+1151;2925808;Queimadas;Sisal;2010;total_homens;12285
+1152;2925907;Quijingue;Sisal;2010;total_homens;14011
+1153;2925931;Quixabeira;Bacia do Jacuípe;2010;total_homens;4879
+1154;2925956;Rafael Jambeiro;Piemonte do Paraguaçu;2010;total_homens;11136
+1155;2926004;Remanso;Sertão do São Francisco;2010;total_homens;19451
+1156;2926103;Retirolândia;Sisal;2010;total_homens;6025
+1157;2926202;Riachão das Neves;Bacia do Rio Grande;2010;total_homens;11440
+1158;2926301;Riachão do Jacuípe;Bacia do Jacuípe;2010;total_homens;16169
+1159;2926400;Riacho de Santana;Velho Chico;2010;total_homens;15594
+1160;2926509;Ribeira do Amparo;Semiárido Nordeste II;2010;total_homens;7234
+1161;2926608;Ribeira do Pombal;Semiárido Nordeste II;2010;total_homens;23376
+1162;2926657;Ribeirão do Largo;Sudoeste Baiano;2010;total_homens;4474
+1163;2926707;Rio de Contas;Chapada Diamantina;2010;total_homens;6233
+1164;2926806;Rio do Antônio;Sertão Produtivo;2010;total_homens;7441
+1165;2926905;Rio do Pires;Bacia do Paramirim;2010;total_homens;5928
+1166;2927002;Rio Real;Litoral Norte e Agreste Baiano;2010;total_homens;18654
+1167;2927101;Rodelas;Itaparica;2010;total_homens;3835
+1168;2927200;Ruy Barbosa;Piemonte do Paraguaçu;2010;total_homens;14549
+1169;2927309;Salinas da Margarida;Metropolitano de Salvador;2010;total_homens;6554
+1170;2927408;Salvador;Metropolitano de Salvador;2010;total_homens;1248897
+1171;2927507;Santa Bárbara;Portal do Sertão;2010;total_homens;9300
+1172;2927606;Santa Brígida;Semiárido Nordeste II;2010;total_homens;7715
+1173;2927705;Santa Cruz Cabrália;Costa do Descobrimento;2010;total_homens;13331
+1174;2927804;Santa Cruz da Vitória;Médio Sudoeste da Bahia;2010;total_homens;3422
+1175;2927903;Santa Inês;Vale do Jiquiriçá;2010;total_homens;5135
+1176;2928059;Santa Luzia;Litoral Sul;2010;total_homens;7051
+1177;2928109;Santa Maria da Vitória;Bacia do Rio Corrente;2010;total_homens;20337
+1178;2928406;Santa Rita de Cássia;Bacia do Rio Grande;2010;total_homens;13572
+1179;2928505;Santa Terezinha;Piemonte do Paraguaçu;2010;total_homens;4822
+1180;2928000;Santaluz;Sisal;2010;total_homens;16620
+1181;2928208;Santana;Bacia do Rio Corrente;2010;total_homens;12551
+1182;2928307;Santanópolis;Portal do Sertão;2010;total_homens;4246
+1183;2928604;Santo Amaro;Recôncavo;2010;total_homens;27755
+1184;2928703;Santo Antônio de Jesus;Recôncavo;2010;total_homens;42965
+1185;2928802;Santo Estevão;Portal do Sertão;2010;total_homens;22906
+1186;2928901;São Desidério;Bacia do Rio Grande;2010;total_homens;14530
+1187;2928950;São Domingos;Sisal;2010;total_homens;4591
+1188;2929107;São Felipe;Recôncavo;2010;total_homens;10083
+1189;2929008;São Félix;Recôncavo;2010;total_homens;6882
+1190;2929057;São Félix do Coribe;Bacia do Rio Corrente;2010;total_homens;6536
+1191;2929206;São Francisco do Conde;Recôncavo;2010;total_homens;16203
+1192;2929255;São Gabriel;Irecê;2010;total_homens;9449
+1193;2929305;São Gonçalo dos Campos;Portal do Sertão;2010;total_homens;16019
+1194;2929354;São José da Vitória;Litoral Sul;2010;total_homens;2902
+1195;2929370;São José do Jacuípe;Bacia do Jacuípe;2010;total_homens;5094
+1196;2929404;São Miguel das Matas;Vale do Jiquiriçá;2010;total_homens;5278
+1197;2929503;São Sebastião do Passé;Recôncavo;2010;total_homens;20708
+1198;2929602;Sapeaçu;Recôncavo;2010;total_homens;7978
+1199;2929701;Sátiro Dias;Litoral Norte e Agreste Baiano;2010;total_homens;9567
+1200;2929750;Saubara;Recôncavo;2010;total_homens;5482
+1201;2929800;Saúde;Piemonte da Diamantina;2010;total_homens;5933
+1202;2929909;Seabra;Chapada Diamantina;2010;total_homens;20685
+1203;2930006;Sebastião Laranjeiras;Sertão Produtivo;2010;total_homens;5254
+1204;2930105;Senhor do Bonfim;Piemonte Norte do Itapicuru;2010;total_homens;36020
+1205;2930204;Sento Sé;Sertão do São Francisco;2010;total_homens;19277
+1206;2930154;Serra do Ramalho;Velho Chico;2010;total_homens;16377
+1207;2930303;Serra Dourada;Bacia do Rio Corrente;2010;total_homens;9243
+1208;2930402;Serra Preta;Bacia do Jacuípe;2010;total_homens;7587
+1209;2930501;Serrinha;Sisal;2010;total_homens;37680
+1210;2930600;Serrolândia;Piemonte da Diamantina;2010;total_homens;6040
+1211;2930709;Simões Filho;Metropolitano de Salvador;2010;total_homens;58013
+1212;2930758;Sítio do Mato;Velho Chico;2010;total_homens;6265
+1213;2930766;Sítio do Quinto;Semiárido Nordeste II;2010;total_homens;6282
+1214;2930774;Sobradinho;Sertão do São Francisco;2010;total_homens;10799
+1215;2930808;Souto Soares;Chapada Diamantina;2010;total_homens;8053
+1216;2930907;Tabocas do Brejo Velho;Bacia do Rio Corrente;2010;total_homens;5939
+1217;2931004;Tanhaçu;Sertão Produtivo;2010;total_homens;10071
+1218;2931053;Tanque Novo;Bacia do Paramirim;2010;total_homens;8126
+1219;2931103;Tanquinho;Portal do Sertão;2010;total_homens;3977
+1220;2931202;Taperoá;Baixo Sul;2010;total_homens;9586
+1221;2931301;Tapiramutá;Piemonte do Paraguaçu;2010;total_homens;8337
+1222;2931350;Teixeira de Freitas;Extremo Sul;2010;total_homens;68077
+1223;2931400;Teodoro Sampaio;Portal do Sertão;2010;total_homens;3856
+1224;2931509;Teofilândia;Sisal;2010;total_homens;10801
+1225;2931608;Teolândia;Baixo Sul;2010;total_homens;7725
+1226;2931707;Terra Nova;Portal do Sertão;2010;total_homens;6221
+1227;2931806;Tremedal;Sudoeste Baiano;2010;total_homens;8532
+1228;2931905;Tucano;Sisal;2010;total_homens;26254
+1229;2932002;Uauá;Sertão do São Francisco;2010;total_homens;12218
+1230;2932101;Ubaíra;Vale do Jiquiriçá;2010;total_homens;10035
+1231;2932200;Ubaitaba;Litoral Sul;2010;total_homens;10100
+1232;2932309;Ubatã;Médio Rio de Contas;2010;total_homens;12488
+1233;2932408;Uibaí;Irecê;2010;total_homens;6968
+1234;2932457;Umburanas;Piemonte da Diamantina;2010;total_homens;8777
+1235;2932507;Una;Litoral Sul;2010;total_homens;12557
+1236;2932606;Urandi;Sertão Produtivo;2010;total_homens;8331
+1237;2932705;Uruçuca;Litoral Sul;2010;total_homens;9857
+1238;2932804;Utinga;Chapada Diamantina;2010;total_homens;8936
+1239;2932903;Valença;Baixo Sul;2010;total_homens;43531
+1240;2933000;Valente;Sisal;2010;total_homens;12152
+1241;2933059;Várzea da Roça;Bacia do Jacuípe;2010;total_homens;6984
+1242;2933109;Várzea do Poço;Bacia do Jacuípe;2010;total_homens;4355
+1243;2933158;Várzea Nova;Piemonte da Diamantina;2010;total_homens;6622
+1244;2933174;Varzedo;Recôncavo;2010;total_homens;4534
+1245;2933208;Vera Cruz;Metropolitano de Salvador;2010;total_homens;18722
+1246;2933257;Vereda;Extremo Sul;2010;total_homens;3564
+1247;2933307;Vitória da Conquista;Sudoeste Baiano;2010;total_homens;147879
+1248;2933406;Wagner;Chapada Diamantina;2010;total_homens;4498
+1249;2933455;Wanderley;Bacia do Rio Grande;2010;total_homens;6496
+1250;2933505;Wenceslau Guimarães;Baixo Sul;2010;total_homens;11475
+1251;2933604;Xique-Xique;Irecê;2010;total_homens;22509
+1252;2900108;Abaíra;Chapada Diamantina;1991;total_mulheres;4499
+1253;2900207;Abaré;Itaparica;1991;total_mulheres;5860
+1254;2900306;Acajutiba;Litoral Norte e Agreste Baiano;1991;total_mulheres;6514
+1255;2900355;Adustina;Semiárido Nordeste II;1991;total_mulheres;6805
+1256;2900405;Água Fria;Portal do Sertão;1991;total_mulheres;7094
+1257;2900603;Aiquara;Médio Rio de Contas;1991;total_mulheres;3091
+1258;2900702;Alagoinhas;Litoral Norte e Agreste Baiano;1991;total_mulheres;61018
+1259;2900801;Alcobaça;Extremo Sul;1991;total_mulheres;7451
+1260;2900900;Almadina;Litoral Sul;1991;total_mulheres;4839
+1261;2901007;Amargosa;Vale do Jiquiriçá;1991;total_mulheres;14421
+1262;2901106;Amélia Rodrigues;Portal do Sertão;1991;total_mulheres;11544
+1263;2901155;América Dourada;Irecê;1991;total_mulheres;7881
+1264;2901205;Anagé;Sudoeste Baiano;1991;total_mulheres;20692
+1265;2901304;Andaraí;Chapada Diamantina;1991;total_mulheres;7075
+1266;2901353;Andorinha;Piemonte Norte do Itapicuru;1991;total_mulheres;8215
+1267;2901403;Angical;Bacia do Rio Grande;1991;total_mulheres;7620
+1268;2901502;Anguera;Portal do Sertão;1991;total_mulheres;4092
+1269;2901601;Antas;Semiárido Nordeste II;1991;total_mulheres;8551
+1270;2901700;Antônio Cardoso;Portal do Sertão;1991;total_mulheres;5690
+1271;2901809;Antônio Gonçalves;Piemonte Norte do Itapicuru;1991;total_mulheres;7065
+1272;2901908;Aporá;Litoral Norte e Agreste Baiano;1991;total_mulheres;7761
+1273;2901957;Apuarema;Médio Rio de Contas;1991;total_mulheres;3687
+1274;2902054;Araçás;Litoral Norte e Agreste Baiano;1991;total_mulheres;4340
+1275;2902005;Aracatu;Sudoeste Baiano;1991;total_mulheres;7619
+1276;2902104;Araci;Sisal;1991;total_mulheres;22471
+1277;2902203;Aramari;Litoral Norte e Agreste Baiano;1991;total_mulheres;3862
+1278;2902252;Arataca;Litoral Sul;1991;total_mulheres;6503
+1279;2902302;Aratuípe;Baixo Sul;1991;total_mulheres;3814
+1280;2902401;Aurelino Leal;Litoral Sul;1991;total_mulheres;7636
+1281;2902500;Baianópolis;Bacia do Rio Grande;1991;total_mulheres;6791
+1282;2902609;Baixa Grande;Bacia do Jacuípe;1991;total_mulheres;10827
+1283;2902658;Banzaê;Semiárido Nordeste II;1991;total_mulheres;5743
+1284;2902708;Barra;Velho Chico;1991;total_mulheres;19627
+1285;2902807;Barra da Estiva;Chapada Diamantina;1991;total_mulheres;8677
+1286;2902906;Barra do Choça;Sudoeste Baiano;1991;total_mulheres;12308
+1287;2903003;Barra do Mendes;Irecê;1991;total_mulheres;7218
+1288;2903102;Barra do Rocha;Médio Rio de Contas;1991;total_mulheres;4570
+1289;2903201;Barreiras;Bacia do Rio Grande;1991;total_mulheres;45862
+1290;2903235;Barro Alto;Irecê;1991;total_mulheres;5986
+1291;2903300;Barro Preto/Lomanto Junior;Litoral Sul;1991;total_mulheres;5135
+1292;2903276;Barrocas;Sisal;1991;total_mulheres;
+1293;2903409;Belmonte;Costa do Descobrimento;1991;total_mulheres;10879
+1294;2903508;Belo Campo;Sudoeste Baiano;1991;total_mulheres;7101
+1295;2903607;Biritinga;Sisal;1991;total_mulheres;7196
+1296;2903706;Boa Nova;Médio Rio de Contas;1991;total_mulheres;6713
+1297;2903805;Boa Vista do Tupim;Piemonte do Paraguaçu;1991;total_mulheres;8433
+1298;2903904;Bom Jesus da Lapa;Velho Chico;1991;total_mulheres;24841
+1299;2903953;Bom Jesus da Serra;Sudoeste Baiano;1991;total_mulheres;5127
+1300;2904001;Boninal;Chapada Diamantina;1991;total_mulheres;6877
+1301;2904050;Bonito;Chapada Diamantina;1991;total_mulheres;5536
+1302;2904100;Boquira;Bacia do Paramirim;1991;total_mulheres;10001
+1303;2904209;Botuporã;Bacia do Paramirim;1991;total_mulheres;5229
+1304;2904308;Brejões;Vale do Jiquiriçá;1991;total_mulheres;6532
+1305;2904407;Brejolândia;Bacia do Rio Corrente;1991;total_mulheres;5450
+1306;2904506;Brotas de Macaúbas;Velho Chico;1991;total_mulheres;7146
+1307;2904605;Brumado;Sertão Produtivo;1991;total_mulheres;29114
+1308;2904704;Buerarema;Litoral Sul;1991;total_mulheres;10169
+1309;2904753;Buritirama;Bacia do Rio Grande;1991;total_mulheres;6125
+1310;2904803;Caatiba;Médio Sudoeste da Bahia;1991;total_mulheres;4738
+1311;2904852;Cabaceiras do Paraguaçu;Recôncavo;1991;total_mulheres;7437
+1312;2904902;Cachoeira;Recôncavo;1991;total_mulheres;14550
+1313;2905008;Caculé;Sertão Produtivo;1991;total_mulheres;9116
+1314;2905107;Caém;Piemonte da Diamantina;1991;total_mulheres;8539
+1315;2905156;Caetanos;Sudoeste Baiano;1991;total_mulheres;5261
+1316;2905206;Caetité;Sertão Produtivo;1991;total_mulheres;20515
+1317;2905305;Cafarnaum;Irecê;1991;total_mulheres;6796
+1318;2905404;Cairu;Baixo Sul;1991;total_mulheres;7141
+1319;2905503;Caldeirão Grande;Piemonte Norte do Itapicuru;1991;total_mulheres;8037
+1320;2905602;Camacan;Litoral Sul;1991;total_mulheres;18342
+1321;2905701;Camaçari;Metropolitano de Salvador;1991;total_mulheres;56544
+1322;2905800;Camamu;Baixo Sul;1991;total_mulheres;15733
+1323;2905909;Campo Alegre de Lourdes;Sertão do São Francisco;1991;total_mulheres;13077
+1324;2906006;Campo Formoso;Piemonte Norte do Itapicuru;1991;total_mulheres;31002
+1325;2906105;Canápolis;Bacia do Rio Corrente;1991;total_mulheres;4637
+1326;2906204;Canarana;Irecê;1991;total_mulheres;11103
+1327;2906303;Canavieiras;Litoral Sul;1991;total_mulheres;16159
+1328;2906402;Candeal;Sisal;1991;total_mulheres;5452
+1329;2906501;Candeias;Metropolitano de Salvador;1991;total_mulheres;33988
+1330;2906600;Candiba;Sertão Produtivo;1991;total_mulheres;6250
+1331;2906709;Cândido Sales;Sudoeste Baiano;1991;total_mulheres;11695
+1332;2906808;Cansanção;Sisal;1991;total_mulheres;15395
+1333;2906824;Canudos;Sertão do São Francisco;1991;total_mulheres;6942
+1334;2906857;Capela do Alto Alegre;Bacia do Jacuípe;1991;total_mulheres;8592
+1335;2906873;Capim Grosso;Piemonte da Diamantina;1991;total_mulheres;9929
+1336;2906899;Caraíbas;Sudoeste Baiano;1991;total_mulheres;8479
+1337;2906907;Caravelas;Extremo Sul;1991;total_mulheres;9721
+1338;2907004;Cardeal da Silva;Litoral Norte e Agreste Baiano;1991;total_mulheres;3137
+1339;2907103;Carinhanha;Velho Chico;1991;total_mulheres;12518
+1340;2907202;Casa Nova;Sertão do São Francisco;1991;total_mulheres;23100
+1341;2907301;Castro Alves;Recôncavo;1991;total_mulheres;13932
+1342;2907400;Catolândia;Bacia do Rio Grande;1991;total_mulheres;1599
+1343;2907509;Catu;Litoral Norte e Agreste Baiano;1991;total_mulheres;21975
+1344;2907558;Caturama;Bacia do Paramirim;1991;total_mulheres;4928
+1345;2907608;Central;Irecê;1991;total_mulheres;7361
+1346;2907707;Chorrochó;Itaparica;1991;total_mulheres;4987
+1347;2907806;Cícero Dantas;Semiárido Nordeste II;1991;total_mulheres;14040
+1348;2907905;Cipó;Semiárido Nordeste II;1991;total_mulheres;6366
+1349;2908002;Coaraci;Litoral Sul;1991;total_mulheres;15470
+1350;2908101;Côcos;Bacia do Rio Corrente;1991;total_mulheres;7897
+1351;2908200;Conceição da Feira;Portal do Sertão;1991;total_mulheres;8308
+1352;2908309;Conceição do Almeida;Recôncavo;1991;total_mulheres;9360
+1353;2908408;Conceição do Coité;Sisal;1991;total_mulheres;26286
+1354;2908507;Conceição do Jacuípe;Portal do Sertão;1991;total_mulheres;11680
+1355;2908606;Conde;Litoral Norte e Agreste Baiano;1991;total_mulheres;8057
+1356;2908705;Condeúba;Sudoeste Baiano;1991;total_mulheres;9168
+1357;2908804;Contendas do Sincorá;Sertão Produtivo;1991;total_mulheres;2417
+1358;2908903;Coração de Maria;Portal do Sertão;1991;total_mulheres;11172
+1359;2909000;Cordeiros;Sudoeste Baiano;1991;total_mulheres;5313
+1360;2909109;Coribe;Bacia do Rio Corrente;1991;total_mulheres;6936
+1361;2909208;Coronel João Sá;Semiárido Nordeste II;1991;total_mulheres;8392
+1362;2909307;Correntina;Bacia do Rio Corrente;1991;total_mulheres;14101
+1363;2909406;Cotegipe;Bacia do Rio Grande;1991;total_mulheres;6105
+1364;2909505;Cravolândia;Vale do Jiquiriçá;1991;total_mulheres;2382
+1365;2909604;Crisópolis;Litoral Norte e Agreste Baiano;1991;total_mulheres;8343
+1366;2909703;Cristópolis;Bacia do Rio Grande;1991;total_mulheres;6273
+1367;2909802;Cruz das Almas;Recôncavo;1991;total_mulheres;24133
+1368;2909901;Curaçá;Sertão do São Francisco;1991;total_mulheres;12199
+1369;2910008;Dário Meira;Médio Rio de Contas;1991;total_mulheres;6515
+1370;2910057;Dias D'Ávila;Metropolitano de Salvador;1991;total_mulheres;15376
+1371;2910107;Dom Basílio;Sertão Produtivo;1991;total_mulheres;4814
+1372;2910206;Dom Macedo Costa;Recôncavo;1991;total_mulheres;1979
+1373;2910305;Elísio Medrado;Vale do Jiquiriçá;1991;total_mulheres;4000
+1374;2910404;Encruzilhada;Sudoeste Baiano;1991;total_mulheres;10268
+1375;2910503;Entre Rios;Litoral Norte e Agreste Baiano;1991;total_mulheres;14024
+1376;2900504;Érico Cardoso;Bacia do Paramirim;1991;total_mulheres;3681
+1377;2910602;Esplanada;Litoral Norte e Agreste Baiano;1991;total_mulheres;11725
+1378;2910701;Euclides da Cunha;Semiárido Nordeste II;1991;total_mulheres;25953
+1379;2910727;Eunápolis;Costa do Descobrimento;1991;total_mulheres;35739
+1380;2910750;Fátima;Semiárido Nordeste II;1991;total_mulheres;8813
+1381;2910776;Feira da Mata;Velho Chico;1991;total_mulheres;3129
+1382;2910800;Feira de Santana;Portal do Sertão;1991;total_mulheres;212552
+1383;2910859;Filadélfia;Piemonte Norte do Itapicuru;1991;total_mulheres;8423
+1384;2910909;Firmino Alves;Médio Sudoeste da Bahia;1991;total_mulheres;2759
+1385;2911006;Floresta Azul;Litoral Sul;1991;total_mulheres;6878
+1386;2911105;Formosa do Rio Preto;Bacia do Rio Grande;1991;total_mulheres;7590
+1387;2911204;Gandu;Baixo Sul;1991;total_mulheres;13318
+1388;2911253;Gavião;Bacia do Jacuípe;1991;total_mulheres;3538
+1389;2911303;Gentio do Ouro;Irecê;1991;total_mulheres;5362
+1390;2911402;Glória;Itaparica;1991;total_mulheres;6547
+1391;2911501;Gongogi;Médio Rio de Contas;1991;total_mulheres;4334
+1392;2911600;Governador Mangabeira;Recôncavo;1991;total_mulheres;9215
+1393;2911659;Guajeru;Sudoeste Baiano;1991;total_mulheres;4367
+1394;2911709;Guanambi;Sertão Produtivo;1991;total_mulheres;33454
+1395;2911808;Guaratinga;Costa do Descobrimento;1991;total_mulheres;12340
+1396;2911857;Heliópolis;Semiárido Nordeste II;1991;total_mulheres;5647
+1397;2911907;Iaçu;Piemonte do Paraguaçu;1991;total_mulheres;13123
+1398;2912004;Ibiassucê;Sertão Produtivo;1991;total_mulheres;5875
+1399;2912103;Ibicaraí;Litoral Sul;1991;total_mulheres;15410
+1400;2912202;Ibicoara;Chapada Diamantina;1991;total_mulheres;4393
+1401;2912301;Ibicuí;Médio Sudoeste da Bahia;1991;total_mulheres;7511
+1402;2912400;Ibipeba;Irecê;1991;total_mulheres;8475
+1403;2912509;Ibipitanga;Bacia do Paramirim;1991;total_mulheres;6760
+1404;2912608;Ibiquera;Piemonte do Paraguaçu;1991;total_mulheres;2947
+1405;2912707;Ibirapitanga;Baixo Sul;1991;total_mulheres;13038
+1406;2912806;Ibirapoã;Extremo Sul;1991;total_mulheres;4069
+1407;2912905;Ibirataia;Médio Rio de Contas;1991;total_mulheres;11338
+1408;2913002;Ibitiara;Chapada Diamantina;1991;total_mulheres;8648
+1409;2913101;Ibititá;Irecê;1991;total_mulheres;8447
+1410;2913200;Ibotirama;Velho Chico;1991;total_mulheres;11499
+1411;2913309;Ichu;Sisal;1991;total_mulheres;4283
+1412;2913408;Igaporã;Velho Chico;1991;total_mulheres;6931
+1413;2913457;Igrapiúna;Baixo Sul;1991;total_mulheres;5973
+1414;2913507;Iguaí;Médio Sudoeste da Bahia;1991;total_mulheres;11135
+1415;2913606;Ilhéus;Litoral Sul;1991;total_mulheres;110859
+1416;2913705;Inhambupe;Litoral Norte e Agreste Baiano;1991;total_mulheres;12923
+1417;2913804;Ipecaetá;Portal do Sertão;1991;total_mulheres;8398
+1418;2913903;Ipiaú;Médio Rio de Contas;1991;total_mulheres;22830
+1419;2914000;Ipirá;Bacia do Jacuípe;1991;total_mulheres;31669
+1420;2914109;Ipupiara;Irecê;1991;total_mulheres;3975
+1421;2914208;Irajuba;Vale do Jiquiriçá;1991;total_mulheres;3072
+1422;2914307;Iramaia;Chapada Diamantina;1991;total_mulheres;8468
+1423;2914406;Iraquara;Chapada Diamantina;1991;total_mulheres;8564
+1424;2914505;Irará;Portal do Sertão;1991;total_mulheres;12159
+1425;2914604;Irecê;Irecê;1991;total_mulheres;26032
+1426;2914653;Itabela;Costa do Descobrimento;1991;total_mulheres;10178
+1427;2914703;Itaberaba;Piemonte do Paraguaçu;1991;total_mulheres;27843
+1428;2914802;Itabuna;Litoral Sul;1991;total_mulheres;96616
+1429;2914901;Itacaré;Litoral Sul;1991;total_mulheres;8616
+1430;2915007;Itaeté;Chapada Diamantina;1991;total_mulheres;7154
+1431;2915106;Itagi;Médio Rio de Contas;1991;total_mulheres;7224
+1432;2915205;Itagibá;Médio Rio de Contas;1991;total_mulheres;9598
+1433;2915304;Itagimirim;Costa do Descobrimento;1991;total_mulheres;3879
+1434;2915353;Itaguaçu da Bahia;Irecê;1991;total_mulheres;8343
+1435;2915403;Itaju do Colônia;Litoral Sul;1991;total_mulheres;4735
+1436;2915502;Itajuípe;Litoral Sul;1991;total_mulheres;12292
+1437;2915601;Itamaraju;Extremo Sul;1991;total_mulheres;31962
+1438;2915700;Itamari;Médio Rio de Contas;1991;total_mulheres;4192
+1439;2915809;Itambé;Médio Sudoeste da Bahia;1991;total_mulheres;11915
+1440;2915908;Itanagra;Litoral Norte e Agreste Baiano;1991;total_mulheres;2685
+1441;2916005;Itanhém;Extremo Sul;1991;total_mulheres;11379
+1442;2916104;Itaparica;Metropolitano de Salvador;1991;total_mulheres;7663
+1443;2916203;Itapé;Litoral Sul;1991;total_mulheres;7838
+1444;2916302;Itapebi;Costa do Descobrimento;1991;total_mulheres;5295
+1445;2916401;Itapetinga;Médio Sudoeste da Bahia;1991;total_mulheres;27409
+1446;2916500;Itapicuru;Litoral Norte e Agreste Baiano;1991;total_mulheres;12274
+1447;2916609;Itapitanga;Litoral Sul;1991;total_mulheres;5113
+1448;2916708;Itaquara;Vale do Jiquiriçá;1991;total_mulheres;3518
+1449;2916807;Itarantim;Médio Sudoeste da Bahia;1991;total_mulheres;8384
+1450;2916856;Itatim;Piemonte do Paraguaçu;1991;total_mulheres;5076
+1451;2916906;Itiruçu;Vale do Jiquiriçá;1991;total_mulheres;6386
+1452;2917003;Itiúba;Sisal;1991;total_mulheres;17204
+1453;2917102;Itororó;Médio Sudoeste da Bahia;1991;total_mulheres;10194
+1454;2917201;Ituaçu;Sertão Produtivo;1991;total_mulheres;8294
+1455;2917300;Ituberá;Baixo Sul;1991;total_mulheres;10221
+1456;2917334;Iuiu;Sertão Produtivo;1991;total_mulheres;5300
+1457;2917359;Jaborandi;Bacia do Rio Corrente;1991;total_mulheres;5741
+1458;2917409;Jacaraci;Sudoeste Baiano;1991;total_mulheres;6967
+1459;2917508;Jacobina;Piemonte da Diamantina;1991;total_mulheres;39405
+1460;2917607;Jaguaquara;Vale do Jiquiriçá;1991;total_mulheres;20001
+1461;2917706;Jaguarari;Piemonte Norte do Itapicuru;1991;total_mulheres;15509
+1462;2917805;Jaguaripe;Baixo Sul;1991;total_mulheres;6782
+1463;2917904;Jandaíra;Litoral Norte e Agreste Baiano;1991;total_mulheres;3983
+1464;2918001;Jequié;Médio Rio de Contas;1991;total_mulheres;74680
+1465;2918100;Jeremoabo;Semiárido Nordeste II;1991;total_mulheres;19099
+1466;2918209;Jiquiriçá;Vale do Jiquiriçá;1991;total_mulheres;5813
+1467;2918308;Jitaúna;Médio Rio de Contas;1991;total_mulheres;10262
+1468;2918357;João Dourado;Irecê;1991;total_mulheres;9508
+1469;2918407;Juazeiro;Sertão do São Francisco;1991;total_mulheres;65544
+1470;2918456;Jucuruçu;Extremo Sul;1991;total_mulheres;7578
+1471;2918506;Jussara;Irecê;1991;total_mulheres;6852
+1472;2918555;Jussari;Litoral Sul;1991;total_mulheres;3981
+1473;2918605;Jussiape;Chapada Diamantina;1991;total_mulheres;5269
+1474;2918704;Lafayette Coutinho;Vale do Jiquiriçá;1991;total_mulheres;2489
+1475;2919058;Lagedo do Tabocal;Vale do Jiquiriçá;1991;total_mulheres;3120
+1476;2918753;Lagoa Real;Sertão Produtivo;1991;total_mulheres;5321
+1477;2918803;Laje;Vale do Jiquiriçá;1991;total_mulheres;9035
+1478;2918902;Lajedão;Extremo Sul;1991;total_mulheres;1823
+1479;2919009;Lajedinho;Piemonte do Paraguaçu;1991;total_mulheres;2992
+1480;2919108;Lamarão;Sisal;1991;total_mulheres;5160
+1481;2919157;Lapão;Irecê;1991;total_mulheres;10277
+1482;2919207;Lauro de Freitas;Metropolitano de Salvador;1991;total_mulheres;34940
+1483;2919306;Lençóis;Chapada Diamantina;1991;total_mulheres;3821
+1484;2919405;Licínio de Almeida;Sudoeste Baiano;1991;total_mulheres;6969
+1485;2919504;Livramento de N. Senhora;Sertão Produtivo;1991;total_mulheres;17137
+1486;2919553;Luís Eduardo Magalhães;Bacia do Rio Grande;1991;total_mulheres;
+1487;2919603;Macajuba;Piemonte do Paraguaçu;1991;total_mulheres;5270
+1488;2919702;Macarani;Médio Sudoeste da Bahia;1991;total_mulheres;6965
+1489;2919801;Macaúbas;Bacia do Paramirim;1991;total_mulheres;17638
+1490;2919900;Macururé;Itaparica;1991;total_mulheres;3501
+1491;2919926;Madre de Deus;Metropolitano de Salvador;1991;total_mulheres;4527
+1492;2919959;Maetinga;Sudoeste Baiano;1991;total_mulheres;5174
+1493;2920007;Maiquinique;Médio Sudoeste da Bahia;1991;total_mulheres;3781
+1494;2920106;Mairi;Bacia do Jacuípe;1991;total_mulheres;10660
+1495;2920205;Malhada;Velho Chico;1991;total_mulheres;7457
+1496;2920304;Malhada de Pedras;Sertão Produtivo;1991;total_mulheres;3519
+1497;2920403;Manoel Vitorino;Médio Rio de Contas;1991;total_mulheres;8531
+1498;2920452;Mansidão;Bacia do Rio Grande;1991;total_mulheres;4939
+1499;2920502;Maracás;Vale do Jiquiriçá;1991;total_mulheres;13489
+1500;2920601;Maragogipe;Recôncavo;1991;total_mulheres;19399
+1501;2920700;Maraú;Litoral Sul;1991;total_mulheres;8182
+1502;2920809;Marcionílio Souza;Chapada Diamantina;1991;total_mulheres;6545
+1503;2920908;Mascote;Litoral Sul;1991;total_mulheres;9757
+1504;2921005;Mata de São João;Litoral Norte e Agreste Baiano;1991;total_mulheres;15195
+1505;2921054;Matina;Velho Chico;1991;total_mulheres;4441
+1506;2921104;Medeiros Neto;Extremo Sul;1991;total_mulheres;11439
+1507;2921203;Miguel Calmon;Piemonte da Diamantina;1991;total_mulheres;12677
+1508;2921302;Milagres;Vale do Jiquiriçá;1991;total_mulheres;4726
+1509;2921401;Mirangaba;Piemonte da Diamantina;1991;total_mulheres;7424
+1510;2921450;Mirante;Sudoeste Baiano;1991;total_mulheres;4017
+1511;2921500;Monte Santo;Sisal;1991;total_mulheres;25492
+1512;2921609;Morpará;Velho Chico;1991;total_mulheres;3603
+1513;2921708;Morro do Chapéu;Chapada Diamantina;1991;total_mulheres;15851
+1514;2921807;Mortugaba;Sudoeste Baiano;1991;total_mulheres;6567
+1515;2921906;Mucugê;Chapada Diamantina;1991;total_mulheres;5314
+1516;2922003;Mucuri;Extremo Sul;1991;total_mulheres;8425
+1517;2922052;Mulungu do Morro;Irecê;1991;total_mulheres;6941
+1518;2922102;Mundo Novo;Piemonte do Paraguaçu;1991;total_mulheres;15782
+1519;2922201;Muniz Ferreira;Recôncavo;1991;total_mulheres;3071
+1520;2922250;Muquém do São Francisco;Velho Chico;1991;total_mulheres;3948
+1521;2922300;Muritiba;Recôncavo;1991;total_mulheres;12794
+1522;2922409;Mutuípe;Vale do Jiquiriçá;1991;total_mulheres;10353
+1523;2922508;Nazaré;Recôncavo;1991;total_mulheres;13417
+1524;2922607;Nilo Peçanha;Baixo Sul;1991;total_mulheres;5945
+1525;2922656;Nordestina;Sisal;1991;total_mulheres;4500
+1526;2922706;Nova Canaã;Médio Sudoeste da Bahia;1991;total_mulheres;6634
+1527;2922730;Nova Fátima;Bacia do Jacuípe;1991;total_mulheres;5259
+1528;2922755;Nova Ibiá;Médio Rio de Contas;1991;total_mulheres;5078
+1529;2922805;Nova Itarana;Vale do Jiquiriçá;1991;total_mulheres;3319
+1530;2922854;Nova Redenção;Chapada Diamantina;1991;total_mulheres;5195
+1531;2922904;Nova Soure;Semiárido Nordeste II;1991;total_mulheres;12425
+1532;2923001;Nova Viçosa;Extremo Sul;1991;total_mulheres;12601
+1533;2923035;Novo Horizonte;Chapada Diamantina;1991;total_mulheres;5125
+1534;2923050;Novo Triunfo;Semiárido Nordeste II;1991;total_mulheres;5616
+1535;2923100;Olindina;Litoral Norte e Agreste Baiano;1991;total_mulheres;10781
+1536;2923209;Oliveira dos Brejinhos;Velho Chico;1991;total_mulheres;10431
+1537;2923308;Ouriçangas;Litoral Norte e Agreste Baiano;1991;total_mulheres;3472
+1538;2923357;Ourolândia;Piemonte da Diamantina;1991;total_mulheres;5930
+1539;2923407;Palmas de Monte Alto;Sertão Produtivo;1991;total_mulheres;10089
+1540;2923506;Palmeiras;Chapada Diamantina;1991;total_mulheres;3677
+1541;2923605;Paramirim;Bacia do Paramirim;1991;total_mulheres;11357
+1542;2923704;Paratinga;Velho Chico;1991;total_mulheres;12015
+1543;2923803;Paripiranga;Semiárido Nordeste II;1991;total_mulheres;13273
+1544;2923902;Pau Brasil;Litoral Sul;1991;total_mulheres;7759
+1545;2924009;Paulo Afonso;Itaparica;1991;total_mulheres;44773
+1546;2924058;Pé de Serra;Bacia do Jacuípe;1991;total_mulheres;8467
+1547;2924108;Pedrão;Litoral Norte e Agreste Baiano;1991;total_mulheres;3389
+1548;2924207;Pedro Alexandre;Semiárido Nordeste II;1991;total_mulheres;7321
+1549;2924306;Piatã;Chapada Diamantina;1991;total_mulheres;9537
+1550;2924405;Pilão Arcado;Sertão do São Francisco;1991;total_mulheres;16040
+1551;2924504;Pindaí;Sertão Produtivo;1991;total_mulheres;8163
+1552;2924603;Pindobaçu;Piemonte Norte do Itapicuru;1991;total_mulheres;11855
+1553;2924652;Pintadas;Bacia do Jacuípe;1991;total_mulheres;5256
+1554;2924678;Piraí do Norte;Baixo Sul;1991;total_mulheres;6592
+1555;2924702;Piripá;Sudoeste Baiano;1991;total_mulheres;5199
+1556;2924801;Piritiba;Piemonte do Paraguaçu;1991;total_mulheres;12180
+1557;2924900;Planaltino;Vale do Jiquiriçá;1991;total_mulheres;5019
+1558;2925006;Planalto;Sudoeste Baiano;1991;total_mulheres;11828
+1559;2925105;Poções;Sudoeste Baiano;1991;total_mulheres;19222
+1560;2925204;Pojuca;Litoral Norte e Agreste Baiano;1991;total_mulheres;11362
+1561;2925253;Ponto Novo;Piemonte Norte do Itapicuru;1991;total_mulheres;8430
+1562;2925303;Porto Seguro;Costa do Descobrimento;1991;total_mulheres;16929
+1563;2925402;Potiraguá;Médio Sudoeste da Bahia;1991;total_mulheres;5091
+1564;2925501;Prado;Extremo Sul;1991;total_mulheres;11086
+1565;2925600;Presidente Dutra;Irecê;1991;total_mulheres;6799
+1566;2925709;Presidente Jânio Quadros;Sudoeste Baiano;1991;total_mulheres;6999
+1567;2925758;Presidente Tancredo Neves;Baixo Sul;1991;total_mulheres;8910
+1568;2925808;Queimadas;Sisal;1991;total_mulheres;11721
+1569;2925907;Quijingue;Sisal;1991;total_mulheres;11585
+1570;2925931;Quixabeira;Bacia do Jacuípe;1991;total_mulheres;6898
+1571;2925956;Rafael Jambeiro;Piemonte do Paraguaçu;1991;total_mulheres;11539
+1572;2926004;Remanso;Sertão do São Francisco;1991;total_mulheres;17325
+1573;2926103;Retirolândia;Sisal;1991;total_mulheres;5680
+1574;2926202;Riachão das Neves;Bacia do Rio Grande;1991;total_mulheres;9837
+1575;2926301;Riachão do Jacuípe;Bacia do Jacuípe;1991;total_mulheres;19043
+1576;2926400;Riacho de Santana;Velho Chico;1991;total_mulheres;13553
+1577;2926509;Ribeira do Amparo;Semiárido Nordeste II;1991;total_mulheres;6816
+1578;2926608;Ribeira do Pombal;Semiárido Nordeste II;1991;total_mulheres;21661
+1579;2926657;Ribeirão do Largo;Sudoeste Baiano;1991;total_mulheres;5198
+1580;2926707;Rio de Contas;Chapada Diamantina;1991;total_mulheres;7281
+1581;2926806;Rio do Antônio;Sertão Produtivo;1991;total_mulheres;6715
+1582;2926905;Rio do Pires;Bacia do Paramirim;1991;total_mulheres;6266
+1583;2927002;Rio Real;Litoral Norte e Agreste Baiano;1991;total_mulheres;13865
+1584;2927101;Rodelas;Itaparica;1991;total_mulheres;2191
+1585;2927200;Ruy Barbosa;Piemonte do Paraguaçu;1991;total_mulheres;15265
+1586;2927309;Salinas da Margarida;Metropolitano de Salvador;1991;total_mulheres;4487
+1587;2927408;Salvador;Metropolitano de Salvador;1991;total_mulheres;1098014
+1588;2927507;Santa Bárbara;Portal do Sertão;1991;total_mulheres;8505
+1589;2927606;Santa Brígida;Semiárido Nordeste II;1991;total_mulheres;6693
+1590;2927705;Santa Cruz Cabrália;Costa do Descobrimento;1991;total_mulheres;3114
+1591;2927804;Santa Cruz da Vitória;Médio Sudoeste da Bahia;1991;total_mulheres;3243
+1592;2927903;Santa Inês;Vale do Jiquiriçá;1991;total_mulheres;5240
+1593;2928059;Santa Luzia;Litoral Sul;1991;total_mulheres;7689
+1594;2928109;Santa Maria da Vitória;Bacia do Rio Corrente;1991;total_mulheres;20854
+1595;2928406;Santa Rita de Cássia;Bacia do Rio Grande;1991;total_mulheres;11379
+1596;2928505;Santa Terezinha;Piemonte do Paraguaçu;1991;total_mulheres;4430
+1597;2928000;Santaluz;Sisal;1991;total_mulheres;15188
+1598;2928208;Santana;Bacia do Rio Corrente;1991;total_mulheres;12173
+1599;2928307;Santanópolis;Portal do Sertão;1991;total_mulheres;4798
+1600;2928604;Santo Amaro;Recôncavo;1991;total_mulheres;27530
+1601;2928703;Santo Antônio de Jesus;Recôncavo;1991;total_mulheres;33765
+1602;2928802;Santo Estevão;Portal do Sertão;1991;total_mulheres;19270
+1603;2928901;São Desidério;Bacia do Rio Grande;1991;total_mulheres;9281
+1604;2928950;São Domingos;Sisal;1991;total_mulheres;5094
+1605;2929107;São Felipe;Recôncavo;1991;total_mulheres;9858
+1606;2929008;São Félix;Recôncavo;1991;total_mulheres;6187
+1607;2929057;São Félix do Coribe;Bacia do Rio Corrente;1991;total_mulheres;5887
+1608;2929206;São Francisco do Conde;Recôncavo;1991;total_mulheres;10042
+1609;2929255;São Gabriel;Irecê;1991;total_mulheres;8660
+1610;2929305;São Gonçalo dos Campos;Portal do Sertão;1991;total_mulheres;12479
+1611;2929354;São José da Vitória;Litoral Sul;1991;total_mulheres;4258
+1612;2929370;São José do Jacuípe;Bacia do Jacuípe;1991;total_mulheres;6970
+1613;2929404;São Miguel das Matas;Vale do Jiquiriçá;1991;total_mulheres;4617
+1614;2929503;São Sebastião do Passé;Recôncavo;1991;total_mulheres;18460
+1615;2929602;Sapeaçu;Recôncavo;1991;total_mulheres;7841
+1616;2929701;Sátiro Dias;Litoral Norte e Agreste Baiano;1991;total_mulheres;6906
+1617;2929750;Saubara;Recôncavo;1991;total_mulheres;4062
+1618;2929800;Saúde;Piemonte da Diamantina;1991;total_mulheres;5756
+1619;2929909;Seabra;Chapada Diamantina;1991;total_mulheres;19020
+1620;2930006;Sebastião Laranjeiras;Sertão Produtivo;1991;total_mulheres;4428
+1621;2930105;Senhor do Bonfim;Piemonte Norte do Itapicuru;1991;total_mulheres;42426
+1622;2930204;Sento Sé;Sertão do São Francisco;1991;total_mulheres;13720
+1623;2930154;Serra do Ramalho;Velho Chico;1991;total_mulheres;15937
+1624;2930303;Serra Dourada;Bacia do Rio Corrente;1991;total_mulheres;8448
+1625;2930402;Serra Preta;Bacia do Jacuípe;1991;total_mulheres;8886
+1626;2930501;Serrinha;Sisal;1991;total_mulheres;38625
+1627;2930600;Serrolândia;Piemonte da Diamantina;1991;total_mulheres;6024
+1628;2930709;Simões Filho;Metropolitano de Salvador;1991;total_mulheres;36065
+1629;2930758;Sítio do Mato;Velho Chico;1991;total_mulheres;4362
+1630;2930766;Sítio do Quinto;Semiárido Nordeste II;1991;total_mulheres;6034
+1631;2930774;Sobradinho;Sertão do São Francisco;1991;total_mulheres;10785
+1632;2930808;Souto Soares;Chapada Diamantina;1991;total_mulheres;8936
+1633;2930907;Tabocas do Brejo Velho;Bacia do Rio Corrente;1991;total_mulheres;5591
+1634;2931004;Tanhaçu;Sertão Produtivo;1991;total_mulheres;9141
+1635;2931053;Tanque Novo;Bacia do Paramirim;1991;total_mulheres;6338
+1636;2931103;Tanquinho;Portal do Sertão;1991;total_mulheres;5105
+1637;2931202;Taperoá;Baixo Sul;1991;total_mulheres;8431
+1638;2931301;Tapiramutá;Piemonte do Paraguaçu;1991;total_mulheres;6787
+1639;2931350;Teixeira de Freitas;Extremo Sul;1991;total_mulheres;42729
+1640;2931400;Teodoro Sampaio;Portal do Sertão;1991;total_mulheres;4849
+1641;2931509;Teofilândia;Sisal;1991;total_mulheres;10595
+1642;2931608;Teolândia;Baixo Sul;1991;total_mulheres;6021
+1643;2931707;Terra Nova;Portal do Sertão;1991;total_mulheres;6290
+1644;2931806;Tremedal;Sudoeste Baiano;1991;total_mulheres;10371
+1645;2931905;Tucano;Sisal;1991;total_mulheres;23224
+1646;2932002;Uauá;Sertão do São Francisco;1991;total_mulheres;12259
+1647;2932101;Ubaíra;Vale do Jiquiriçá;1991;total_mulheres;10194
+1648;2932200;Ubaitaba;Litoral Sul;1991;total_mulheres;10650
+1649;2932309;Ubatã;Médio Rio de Contas;1991;total_mulheres;12931
+1650;2932408;Uibaí;Irecê;1991;total_mulheres;6622
+1651;2932457;Umburanas;Piemonte da Diamantina;1991;total_mulheres;5587
+1652;2932507;Una;Litoral Sul;1991;total_mulheres;11379
+1653;2932606;Urandi;Sertão Produtivo;1991;total_mulheres;7930
+1654;2932705;Uruçuca;Litoral Sul;1991;total_mulheres;14521
+1655;2932804;Utinga;Chapada Diamantina;1991;total_mulheres;8495
+1656;2932903;Valença;Baixo Sul;1991;total_mulheres;33796
+1657;2933000;Valente;Sisal;1991;total_mulheres;8996
+1658;2933059;Várzea da Roça;Bacia do Jacuípe;1991;total_mulheres;6660
+1659;2933109;Várzea do Poço;Bacia do Jacuípe;1991;total_mulheres;4863
+1660;2933158;Várzea Nova;Piemonte da Diamantina;1991;total_mulheres;8397
+1661;2933174;Varzedo;Recôncavo;1991;total_mulheres;4239
+1662;2933208;Vera Cruz;Metropolitano de Salvador;1991;total_mulheres;10890
+1663;2933257;Vereda;Extremo Sul;1991;total_mulheres;4279
+1664;2933307;Vitória da Conquista;Sudoeste Baiano;1991;total_mulheres;116084
+1665;2933406;Wagner;Chapada Diamantina;1991;total_mulheres;3860
+1666;2933455;Wanderley;Bacia do Rio Grande;1991;total_mulheres;6628
+1667;2933505;Wenceslau Guimarães;Baixo Sul;1991;total_mulheres;8348
+1668;2933604;Xique-Xique;Irecê;1991;total_mulheres;20390
+1669;2900108;Abaíra;Chapada Diamantina;2000;total_mulheres;4569
+1670;2900207;Abaré;Itaparica;2000;total_mulheres;6843
+1671;2900306;Acajutiba;Litoral Norte e Agreste Baiano;2000;total_mulheres;7218
+1672;2900355;Adustina;Semiárido Nordeste II;2000;total_mulheres;7047
+1673;2900405;Água Fria;Portal do Sertão;2000;total_mulheres;7304
+1674;2900603;Aiquara;Médio Rio de Contas;2000;total_mulheres;2540
+1675;2900702;Alagoinhas;Litoral Norte e Agreste Baiano;2000;total_mulheres;68027
+1676;2900801;Alcobaça;Extremo Sul;2000;total_mulheres;10223
+1677;2900900;Almadina;Litoral Sul;2000;total_mulheres;3848
+1678;2901007;Amargosa;Vale do Jiquiriçá;2000;total_mulheres;15961
+1679;2901106;Amélia Rodrigues;Portal do Sertão;2000;total_mulheres;12252
+1680;2901155;América Dourada;Irecê;2000;total_mulheres;7794
+1681;2901205;Anagé;Sudoeste Baiano;2000;total_mulheres;15097
+1682;2901304;Andaraí;Chapada Diamantina;2000;total_mulheres;6805
+1683;2901353;Andorinha;Piemonte Norte do Itapicuru;2000;total_mulheres;7591
+1684;2901403;Angical;Bacia do Rio Grande;2000;total_mulheres;6831
+1685;2901502;Anguera;Portal do Sertão;2000;total_mulheres;4537
+1686;2901601;Antas;Semiárido Nordeste II;2000;total_mulheres;7052
+1687;2901700;Antônio Cardoso;Portal do Sertão;2000;total_mulheres;5801
+1688;2901809;Antônio Gonçalves;Piemonte Norte do Itapicuru;2000;total_mulheres;4811
+1689;2901908;Aporá;Litoral Norte e Agreste Baiano;2000;total_mulheres;8225
+1690;2901957;Apuarema;Médio Rio de Contas;2000;total_mulheres;3500
+1691;2902054;Araçás;Litoral Norte e Agreste Baiano;2000;total_mulheres;5438
+1692;2902005;Aracatu;Sudoeste Baiano;2000;total_mulheres;7580
+1693;2902104;Araci;Sisal;2000;total_mulheres;23483
+1694;2902203;Aramari;Litoral Norte e Agreste Baiano;2000;total_mulheres;4641
+1695;2902252;Arataca;Litoral Sul;2000;total_mulheres;5156
+1696;2902302;Aratuípe;Baixo Sul;2000;total_mulheres;4073
+1697;2902401;Aurelino Leal;Litoral Sul;2000;total_mulheres;8468
+1698;2902500;Baianópolis;Bacia do Rio Grande;2000;total_mulheres;5921
+1699;2902609;Baixa Grande;Bacia do Jacuípe;2000;total_mulheres;10219
+1700;2902658;Banzaê;Semiárido Nordeste II;2000;total_mulheres;5490
+1701;2902708;Barra;Velho Chico;2000;total_mulheres;21604
+1702;2902807;Barra da Estiva;Chapada Diamantina;2000;total_mulheres;12161
+1703;2902906;Barra do Choça;Sudoeste Baiano;2000;total_mulheres;20082
+1704;2903003;Barra do Mendes;Irecê;2000;total_mulheres;6831
+1705;2903102;Barra do Rocha;Médio Rio de Contas;2000;total_mulheres;3772
+1706;2903201;Barreiras;Bacia do Rio Grande;2000;total_mulheres;65672
+1707;2903235;Barro Alto;Irecê;2000;total_mulheres;5921
+1708;2903300;Barro Preto/Lomanto Junior;Litoral Sul;2000;total_mulheres;4124
+1709;2903276;Barrocas;Sisal;2000;total_mulheres;
+1710;2903409;Belmonte;Costa do Descobrimento;2000;total_mulheres;9860
+1711;2903508;Belo Campo;Sudoeste Baiano;2000;total_mulheres;8654
+1712;2903607;Biritinga;Sisal;2000;total_mulheres;7104
+1713;2903706;Boa Nova;Médio Rio de Contas;2000;total_mulheres;10029
+1714;2903805;Boa Vista do Tupim;Piemonte do Paraguaçu;2000;total_mulheres;8996
+1715;2903904;Bom Jesus da Lapa;Velho Chico;2000;total_mulheres;27253
+1716;2903953;Bom Jesus da Serra;Sudoeste Baiano;2000;total_mulheres;5155
+1717;2904001;Boninal;Chapada Diamantina;2000;total_mulheres;6356
+1718;2904050;Bonito;Chapada Diamantina;2000;total_mulheres;6351
+1719;2904100;Boquira;Bacia do Paramirim;2000;total_mulheres;11228
+1720;2904209;Botuporã;Bacia do Paramirim;2000;total_mulheres;5766
+1721;2904308;Brejões;Vale do Jiquiriçá;2000;total_mulheres;7689
+1722;2904407;Brejolândia;Bacia do Rio Corrente;2000;total_mulheres;4223
+1723;2904506;Brotas de Macaúbas;Velho Chico;2000;total_mulheres;6424
+1724;2904605;Brumado;Sertão Produtivo;2000;total_mulheres;31243
+1725;2904704;Buerarema;Litoral Sul;2000;total_mulheres;9527
+1726;2904753;Buritirama;Bacia do Rio Grande;2000;total_mulheres;8505
+1727;2904803;Caatiba;Médio Sudoeste da Bahia;2000;total_mulheres;7631
+1728;2904852;Cabaceiras do Paraguaçu;Recôncavo;2000;total_mulheres;7844
+1729;2904902;Cachoeira;Recôncavo;2000;total_mulheres;15531
+1730;2905008;Caculé;Sertão Produtivo;2000;total_mulheres;10171
+1731;2905107;Caém;Piemonte da Diamantina;2000;total_mulheres;6224
+1732;2905156;Caetanos;Sudoeste Baiano;2000;total_mulheres;6320
+1733;2905206;Caetité;Sertão Produtivo;2000;total_mulheres;22821
+1734;2905305;Cafarnaum;Irecê;2000;total_mulheres;7842
+1735;2905404;Cairu;Baixo Sul;2000;total_mulheres;5537
+1736;2905503;Caldeirão Grande;Piemonte Norte do Itapicuru;2000;total_mulheres;5701
+1737;2905602;Camacan;Litoral Sul;2000;total_mulheres;15435
+1738;2905701;Camaçari;Metropolitano de Salvador;2000;total_mulheres;80765
+1739;2905800;Camamu;Baixo Sul;2000;total_mulheres;16209
+1740;2905909;Campo Alegre de Lourdes;Sertão do São Francisco;2000;total_mulheres;13785
+1741;2906006;Campo Formoso;Piemonte Norte do Itapicuru;2000;total_mulheres;30572
+1742;2906105;Canápolis;Bacia do Rio Corrente;2000;total_mulheres;4821
+1743;2906204;Canarana;Irecê;2000;total_mulheres;10660
+1744;2906303;Canavieiras;Litoral Sul;2000;total_mulheres;17375
+1745;2906402;Candeal;Sisal;2000;total_mulheres;5050
+1746;2906501;Candeias;Metropolitano de Salvador;2000;total_mulheres;38757
+1747;2906600;Candiba;Sertão Produtivo;2000;total_mulheres;5954
+1748;2906709;Cândido Sales;Sudoeste Baiano;2000;total_mulheres;14139
+1749;2906808;Cansanção;Sisal;2000;total_mulheres;15898
+1750;2906824;Canudos;Sertão do São Francisco;2000;total_mulheres;6804
+1751;2906857;Capela do Alto Alegre;Bacia do Jacuípe;2000;total_mulheres;5884
+1752;2906873;Capim Grosso;Piemonte da Diamantina;2000;total_mulheres;12115
+1753;2906899;Caraíbas;Sudoeste Baiano;2000;total_mulheres;8436
+1754;2906907;Caravelas;Extremo Sul;2000;total_mulheres;9875
+1755;2907004;Cardeal da Silva;Litoral Norte e Agreste Baiano;2000;total_mulheres;3963
+1756;2907103;Carinhanha;Velho Chico;2000;total_mulheres;13262
+1757;2907202;Casa Nova;Sertão do São Francisco;2000;total_mulheres;27257
+1758;2907301;Castro Alves;Recôncavo;2000;total_mulheres;13124
+1759;2907400;Catolândia;Bacia do Rio Grande;2000;total_mulheres;1484
+1760;2907509;Catu;Litoral Norte e Agreste Baiano;2000;total_mulheres;23937
+1761;2907558;Caturama;Bacia do Paramirim;2000;total_mulheres;4273
+1762;2907608;Central;Irecê;2000;total_mulheres;8321
+1763;2907707;Chorrochó;Itaparica;2000;total_mulheres;5074
+1764;2907806;Cícero Dantas;Semiárido Nordeste II;2000;total_mulheres;15731
+1765;2907905;Cipó;Semiárido Nordeste II;2000;total_mulheres;7316
+1766;2908002;Coaraci;Litoral Sul;2000;total_mulheres;14020
+1767;2908101;Côcos;Bacia do Rio Corrente;2000;total_mulheres;8510
+1768;2908200;Conceição da Feira;Portal do Sertão;2000;total_mulheres;8965
+1769;2908309;Conceição do Almeida;Recôncavo;2000;total_mulheres;9624
+1770;2908408;Conceição do Coité;Sisal;2000;total_mulheres;28108
+1771;2908507;Conceição do Jacuípe;Portal do Sertão;2000;total_mulheres;13343
+1772;2908606;Conde;Litoral Norte e Agreste Baiano;2000;total_mulheres;10216
+1773;2908705;Condeúba;Sudoeste Baiano;2000;total_mulheres;9050
+1774;2908804;Contendas do Sincorá;Sertão Produtivo;2000;total_mulheres;2111
+1775;2908903;Coração de Maria;Portal do Sertão;2000;total_mulheres;12009
+1776;2909000;Cordeiros;Sudoeste Baiano;2000;total_mulheres;4127
+1777;2909109;Coribe;Bacia do Rio Corrente;2000;total_mulheres;7341
+1778;2909208;Coronel João Sá;Semiárido Nordeste II;2000;total_mulheres;9680
+1779;2909307;Correntina;Bacia do Rio Corrente;2000;total_mulheres;15293
+1780;2909406;Cotegipe;Bacia do Rio Grande;2000;total_mulheres;6441
+1781;2909505;Cravolândia;Vale do Jiquiriçá;2000;total_mulheres;2476
+1782;2909604;Crisópolis;Litoral Norte e Agreste Baiano;2000;total_mulheres;9257
+1783;2909703;Cristópolis;Bacia do Rio Grande;2000;total_mulheres;6167
+1784;2909802;Cruz das Almas;Recôncavo;2000;total_mulheres;27820
+1785;2909901;Curaçá;Sertão do São Francisco;2000;total_mulheres;14084
+1786;2910008;Dário Meira;Médio Rio de Contas;2000;total_mulheres;7306
+1787;2910057;Dias D'Ávila;Metropolitano de Salvador;2000;total_mulheres;22849
+1788;2910107;Dom Basílio;Sertão Produtivo;2000;total_mulheres;5028
+1789;2910206;Dom Macedo Costa;Recôncavo;2000;total_mulheres;1912
+1790;2910305;Elísio Medrado;Vale do Jiquiriçá;2000;total_mulheres;3935
+1791;2910404;Encruzilhada;Sudoeste Baiano;2000;total_mulheres;15831
+1792;2910503;Entre Rios;Litoral Norte e Agreste Baiano;2000;total_mulheres;18831
+1793;2900504;Érico Cardoso;Bacia do Paramirim;2000;total_mulheres;6082
+1794;2910602;Esplanada;Litoral Norte e Agreste Baiano;2000;total_mulheres;13633
+1795;2910701;Euclides da Cunha;Semiárido Nordeste II;2000;total_mulheres;26661
+1796;2910727;Eunápolis;Costa do Descobrimento;2000;total_mulheres;42708
+1797;2910750;Fátima;Semiárido Nordeste II;2000;total_mulheres;9050
+1798;2910776;Feira da Mata;Velho Chico;2000;total_mulheres;3042
+1799;2910800;Feira de Santana;Portal do Sertão;2000;total_mulheres;251293
+1800;2910859;Filadélfia;Piemonte Norte do Itapicuru;2000;total_mulheres;8437
+1801;2910909;Firmino Alves;Médio Sudoeste da Bahia;2000;total_mulheres;2520
+1802;2911006;Floresta Azul;Litoral Sul;2000;total_mulheres;5632
+1803;2911105;Formosa do Rio Preto;Bacia do Rio Grande;2000;total_mulheres;8871
+1804;2911204;Gandu;Baixo Sul;2000;total_mulheres;13658
+1805;2911253;Gavião;Bacia do Jacuípe;2000;total_mulheres;2319
+1806;2911303;Gentio do Ouro;Irecê;2000;total_mulheres;4950
+1807;2911402;Glória;Itaparica;2000;total_mulheres;7372
+1808;2911501;Gongogi;Médio Rio de Contas;2000;total_mulheres;5064
+1809;2911600;Governador Mangabeira;Recôncavo;2000;total_mulheres;8750
+1810;2911659;Guajeru;Sudoeste Baiano;2000;total_mulheres;6451
+1811;2911709;Guanambi;Sertão Produtivo;2000;total_mulheres;36600
+1812;2911808;Guaratinga;Costa do Descobrimento;2000;total_mulheres;11470
+1813;2911857;Heliópolis;Semiárido Nordeste II;2000;total_mulheres;6414
+1814;2911907;Iaçu;Piemonte do Paraguaçu;2000;total_mulheres;14219
+1815;2912004;Ibiassucê;Sertão Produtivo;2000;total_mulheres;6211
+1816;2912103;Ibicaraí;Litoral Sul;2000;total_mulheres;14468
+1817;2912202;Ibicoara;Chapada Diamantina;2000;total_mulheres;7071
+1818;2912301;Ibicuí;Médio Sudoeste da Bahia;2000;total_mulheres;7305
+1819;2912400;Ibipeba;Irecê;2000;total_mulheres;7418
+1820;2912509;Ibipitanga;Bacia do Paramirim;2000;total_mulheres;6715
+1821;2912608;Ibiquera;Piemonte do Paraguaçu;2000;total_mulheres;2209
+1822;2912707;Ibirapitanga;Baixo Sul;2000;total_mulheres;10813
+1823;2912806;Ibirapoã;Extremo Sul;2000;total_mulheres;3471
+1824;2912905;Ibirataia;Médio Rio de Contas;2000;total_mulheres;12431
+1825;2913002;Ibitiara;Chapada Diamantina;2000;total_mulheres;7318
+1826;2913101;Ibititá;Irecê;2000;total_mulheres;8731
+1827;2913200;Ibotirama;Velho Chico;2000;total_mulheres;11836
+1828;2913309;Ichu;Sisal;2000;total_mulheres;2810
+1829;2913408;Igaporã;Velho Chico;2000;total_mulheres;7231
+1830;2913457;Igrapiúna;Baixo Sul;2000;total_mulheres;7033
+1831;2913507;Iguaí;Médio Sudoeste da Bahia;2000;total_mulheres;12181
+1832;2913606;Ilhéus;Litoral Sul;2000;total_mulheres;111682
+1833;2913705;Inhambupe;Litoral Norte e Agreste Baiano;2000;total_mulheres;14771
+1834;2913804;Ipecaetá;Portal do Sertão;2000;total_mulheres;9334
+1835;2913903;Ipiaú;Médio Rio de Contas;2000;total_mulheres;22157
+1836;2914000;Ipirá;Bacia do Jacuípe;2000;total_mulheres;31270
+1837;2914109;Ipupiara;Irecê;2000;total_mulheres;4169
+1838;2914208;Irajuba;Vale do Jiquiriçá;2000;total_mulheres;3076
+1839;2914307;Iramaia;Chapada Diamantina;2000;total_mulheres;8593
+1840;2914406;Iraquara;Chapada Diamantina;2000;total_mulheres;9269
+1841;2914505;Irará;Portal do Sertão;2000;total_mulheres;12746
+1842;2914604;Irecê;Irecê;2000;total_mulheres;29233
+1843;2914653;Itabela;Costa do Descobrimento;2000;total_mulheres;12539
+1844;2914703;Itaberaba;Piemonte do Paraguaçu;2000;total_mulheres;30183
+1845;2914802;Itabuna;Litoral Sul;2000;total_mulheres;102290
+1846;2914901;Itacaré;Litoral Sul;2000;total_mulheres;8506
+1847;2915007;Itaeté;Chapada Diamantina;2000;total_mulheres;6904
+1848;2915106;Itagi;Médio Rio de Contas;2000;total_mulheres;7158
+1849;2915205;Itagibá;Médio Rio de Contas;2000;total_mulheres;8291
+1850;2915304;Itagimirim;Costa do Descobrimento;2000;total_mulheres;3769
+1851;2915353;Itaguaçu da Bahia;Irecê;2000;total_mulheres;5373
+1852;2915403;Itaju do Colônia;Litoral Sul;2000;total_mulheres;4207
+1853;2915502;Itajuípe;Litoral Sul;2000;total_mulheres;11108
+1854;2915601;Itamaraju;Extremo Sul;2000;total_mulheres;31826
+1855;2915700;Itamari;Médio Rio de Contas;2000;total_mulheres;3977
+1856;2915809;Itambé;Médio Sudoeste da Bahia;2000;total_mulheres;15606
+1857;2915908;Itanagra;Litoral Norte e Agreste Baiano;2000;total_mulheres;3062
+1858;2916005;Itanhém;Extremo Sul;2000;total_mulheres;10454
+1859;2916104;Itaparica;Metropolitano de Salvador;2000;total_mulheres;9627
+1860;2916203;Itapé;Litoral Sul;2000;total_mulheres;7369
+1861;2916302;Itapebi;Costa do Descobrimento;2000;total_mulheres;5348
+1862;2916401;Itapetinga;Médio Sudoeste da Bahia;2000;total_mulheres;29401
+1863;2916500;Itapicuru;Litoral Norte e Agreste Baiano;2000;total_mulheres;13336
+1864;2916609;Itapitanga;Litoral Sul;2000;total_mulheres;5072
+1865;2916708;Itaquara;Vale do Jiquiriçá;2000;total_mulheres;3850
+1866;2916807;Itarantim;Médio Sudoeste da Bahia;2000;total_mulheres;8205
+1867;2916856;Itatim;Piemonte do Paraguaçu;2000;total_mulheres;6329
+1868;2916906;Itiruçu;Vale do Jiquiriçá;2000;total_mulheres;6922
+1869;2917003;Itiúba;Sisal;2000;total_mulheres;17520
+1870;2917102;Itororó;Médio Sudoeste da Bahia;2000;total_mulheres;9783
+1871;2917201;Ituaçu;Sertão Produtivo;2000;total_mulheres;8716
+1872;2917300;Ituberá;Baixo Sul;2000;total_mulheres;11907
+1873;2917334;Iuiu;Sertão Produtivo;2000;total_mulheres;5045
+1874;2917359;Jaborandi;Bacia do Rio Corrente;2000;total_mulheres;4955
+1875;2917409;Jacaraci;Sudoeste Baiano;2000;total_mulheres;6742
+1876;2917508;Jacobina;Piemonte da Diamantina;2000;total_mulheres;39070
+1877;2917607;Jaguaquara;Vale do Jiquiriçá;2000;total_mulheres;23528
+1878;2917706;Jaguarari;Piemonte Norte do Itapicuru;2000;total_mulheres;13468
+1879;2917805;Jaguaripe;Baixo Sul;2000;total_mulheres;6532
+1880;2917904;Jandaíra;Litoral Norte e Agreste Baiano;2000;total_mulheres;4820
+1881;2918001;Jequié;Médio Rio de Contas;2000;total_mulheres;75303
+1882;2918100;Jeremoabo;Semiárido Nordeste II;2000;total_mulheres;17130
+1883;2918209;Jiquiriçá;Vale do Jiquiriçá;2000;total_mulheres;6646
+1884;2918308;Jitaúna;Médio Rio de Contas;2000;total_mulheres;10318
+1885;2918357;João Dourado;Irecê;2000;total_mulheres;9327
+1886;2918407;Juazeiro;Sertão do São Francisco;2000;total_mulheres;88228
+1887;2918456;Jucuruçu;Extremo Sul;2000;total_mulheres;5822
+1888;2918506;Jussara;Irecê;2000;total_mulheres;7372
+1889;2918555;Jussari;Litoral Sul;2000;total_mulheres;3648
+1890;2918605;Jussiape;Chapada Diamantina;2000;total_mulheres;5204
+1891;2918704;Lafayette Coutinho;Vale do Jiquiriçá;2000;total_mulheres;1961
+1892;2919058;Lagedo do Tabocal;Vale do Jiquiriçá;2000;total_mulheres;3997
+1893;2918753;Lagoa Real;Sertão Produtivo;2000;total_mulheres;6192
+1894;2918803;Laje;Vale do Jiquiriçá;2000;total_mulheres;9573
+1895;2918902;Lajedão;Extremo Sul;2000;total_mulheres;1676
+1896;2919009;Lajedinho;Piemonte do Paraguaçu;2000;total_mulheres;2107
+1897;2919108;Lamarão;Sisal;2000;total_mulheres;4711
+1898;2919157;Lapão;Irecê;2000;total_mulheres;12081
+1899;2919207;Lauro de Freitas;Metropolitano de Salvador;2000;total_mulheres;58014
+1900;2919306;Lençóis;Chapada Diamantina;2000;total_mulheres;4493
+1901;2919405;Licínio de Almeida;Sudoeste Baiano;2000;total_mulheres;6044
+1902;2919504;Livramento de N. Senhora;Sertão Produtivo;2000;total_mulheres;18823
+1903;2919553;Luís Eduardo Magalhães;Bacia do Rio Grande;2000;total_mulheres;
+1904;2919603;Macajuba;Piemonte do Paraguaçu;2000;total_mulheres;5746
+1905;2919702;Macarani;Médio Sudoeste da Bahia;2000;total_mulheres;7206
+1906;2919801;Macaúbas;Bacia do Paramirim;2000;total_mulheres;20990
+1907;2919900;Macururé;Itaparica;2000;total_mulheres;4364
+1908;2919926;Madre de Deus;Metropolitano de Salvador;2000;total_mulheres;6123
+1909;2919959;Maetinga;Sudoeste Baiano;2000;total_mulheres;6685
+1910;2920007;Maiquinique;Médio Sudoeste da Bahia;2000;total_mulheres;3537
+1911;2920106;Mairi;Bacia do Jacuípe;2000;total_mulheres;10167
+1912;2920205;Malhada;Velho Chico;2000;total_mulheres;7611
+1913;2920304;Malhada de Pedras;Sertão Produtivo;2000;total_mulheres;4126
+1914;2920403;Manoel Vitorino;Médio Rio de Contas;2000;total_mulheres;8277
+1915;2920452;Mansidão;Bacia do Rio Grande;2000;total_mulheres;5247
+1916;2920502;Maracás;Vale do Jiquiriçá;2000;total_mulheres;15815
+1917;2920601;Maragogipe;Recôncavo;2000;total_mulheres;20030
+1918;2920700;Maraú;Litoral Sul;2000;total_mulheres;8646
+1919;2920809;Marcionílio Souza;Chapada Diamantina;2000;total_mulheres;5337
+1920;2920908;Mascote;Litoral Sul;2000;total_mulheres;7886
+1921;2921005;Mata de São João;Litoral Norte e Agreste Baiano;2000;total_mulheres;16186
+1922;2921054;Matina;Velho Chico;2000;total_mulheres;5012
+1923;2921104;Medeiros Neto;Extremo Sul;2000;total_mulheres;10534
+1924;2921203;Miguel Calmon;Piemonte da Diamantina;2000;total_mulheres;14045
+1925;2921302;Milagres;Vale do Jiquiriçá;2000;total_mulheres;6102
+1926;2921401;Mirangaba;Piemonte da Diamantina;2000;total_mulheres;7105
+1927;2921450;Mirante;Sudoeste Baiano;2000;total_mulheres;6858
+1928;2921500;Monte Santo;Sisal;2000;total_mulheres;26536
+1929;2921609;Morpará;Velho Chico;2000;total_mulheres;4178
+1930;2921708;Morro do Chapéu;Chapada Diamantina;2000;total_mulheres;17092
+1931;2921807;Mortugaba;Sudoeste Baiano;2000;total_mulheres;6393
+1932;2921906;Mucugê;Chapada Diamantina;2000;total_mulheres;6777
+1933;2922003;Mucuri;Extremo Sul;2000;total_mulheres;13734
+1934;2922052;Mulungu do Morro;Irecê;2000;total_mulheres;7577
+1935;2922102;Mundo Novo;Piemonte do Paraguaçu;2000;total_mulheres;10557
+1936;2922201;Muniz Ferreira;Recôncavo;2000;total_mulheres;3389
+1937;2922250;Muquém do São Francisco;Velho Chico;2000;total_mulheres;4233
+1938;2922300;Muritiba;Recôncavo;2000;total_mulheres;16001
+1939;2922409;Mutuípe;Vale do Jiquiriçá;2000;total_mulheres;10325
+1940;2922508;Nazaré;Recôncavo;2000;total_mulheres;13623
+1941;2922607;Nilo Peçanha;Baixo Sul;2000;total_mulheres;5340
+1942;2922656;Nordestina;Sisal;2000;total_mulheres;5676
+1943;2922706;Nova Canaã;Médio Sudoeste da Bahia;2000;total_mulheres;7414
+1944;2922730;Nova Fátima;Bacia do Jacuípe;2000;total_mulheres;3757
+1945;2922755;Nova Ibiá;Médio Rio de Contas;2000;total_mulheres;3497
+1946;2922805;Nova Itarana;Vale do Jiquiriçá;2000;total_mulheres;3281
+1947;2922854;Nova Redenção;Chapada Diamantina;2000;total_mulheres;4252
+1948;2922904;Nova Soure;Semiárido Nordeste II;2000;total_mulheres;12071
+1949;2923001;Nova Viçosa;Extremo Sul;2000;total_mulheres;15804
+1950;2923035;Novo Horizonte;Chapada Diamantina;2000;total_mulheres;4220
+1951;2923050;Novo Triunfo;Semiárido Nordeste II;2000;total_mulheres;7104
+1952;2923100;Olindina;Litoral Norte e Agreste Baiano;2000;total_mulheres;11942
+1953;2923209;Oliveira dos Brejinhos;Velho Chico;2000;total_mulheres;10550
+1954;2923308;Ouriçangas;Litoral Norte e Agreste Baiano;2000;total_mulheres;3747
+1955;2923357;Ourolândia;Piemonte da Diamantina;2000;total_mulheres;7478
+1956;2923407;Palmas de Monte Alto;Sertão Produtivo;2000;total_mulheres;9867
+1957;2923506;Palmeiras;Chapada Diamantina;2000;total_mulheres;3799
+1958;2923605;Paramirim;Bacia do Paramirim;2000;total_mulheres;9427
+1959;2923704;Paratinga;Velho Chico;2000;total_mulheres;13626
+1960;2923803;Paripiranga;Semiárido Nordeste II;2000;total_mulheres;13462
+1961;2923902;Pau Brasil;Litoral Sul;2000;total_mulheres;6338
+1962;2924009;Paulo Afonso;Itaparica;2000;total_mulheres;49819
+1963;2924058;Pé de Serra;Bacia do Jacuípe;2000;total_mulheres;6668
+1964;2924108;Pedrão;Litoral Norte e Agreste Baiano;2000;total_mulheres;3331
+1965;2924207;Pedro Alexandre;Semiárido Nordeste II;2000;total_mulheres;8287
+1966;2924306;Piatã;Chapada Diamantina;2000;total_mulheres;9749
+1967;2924405;Pilão Arcado;Sertão do São Francisco;2000;total_mulheres;15218
+1968;2924504;Pindaí;Sertão Produtivo;2000;total_mulheres;7611
+1969;2924603;Pindobaçu;Piemonte Norte do Itapicuru;2000;total_mulheres;9983
+1970;2924652;Pintadas;Bacia do Jacuípe;2000;total_mulheres;5440
+1971;2924678;Piraí do Norte;Baixo Sul;2000;total_mulheres;4975
+1972;2924702;Piripá;Sudoeste Baiano;2000;total_mulheres;8394
+1973;2924801;Piritiba;Piemonte do Paraguaçu;2000;total_mulheres;9537
+1974;2924900;Planaltino;Vale do Jiquiriçá;2000;total_mulheres;3824
+1975;2925006;Planalto;Sudoeste Baiano;2000;total_mulheres;10815
+1976;2925105;Poções;Sudoeste Baiano;2000;total_mulheres;22323
+1977;2925204;Pojuca;Litoral Norte e Agreste Baiano;2000;total_mulheres;13339
+1978;2925253;Ponto Novo;Piemonte Norte do Itapicuru;2000;total_mulheres;8607
+1979;2925303;Porto Seguro;Costa do Descobrimento;2000;total_mulheres;47017
+1980;2925402;Potiraguá;Médio Sudoeste da Bahia;2000;total_mulheres;7161
+1981;2925501;Prado;Extremo Sul;2000;total_mulheres;12910
+1982;2925600;Presidente Dutra;Irecê;2000;total_mulheres;6645
+1983;2925709;Presidente Jânio Quadros;Sudoeste Baiano;2000;total_mulheres;8334
+1984;2925758;Presidente Tancredo Neves;Baixo Sul;2000;total_mulheres;9301
+1985;2925808;Queimadas;Sisal;2000;total_mulheres;12266
+1986;2925907;Quijingue;Sisal;2000;total_mulheres;12624
+1987;2925931;Quixabeira;Bacia do Jacuípe;2000;total_mulheres;4645
+1988;2925956;Rafael Jambeiro;Piemonte do Paraguaçu;2000;total_mulheres;11483
+1989;2926004;Remanso;Sertão do São Francisco;2000;total_mulheres;18057
+1990;2926103;Retirolândia;Sisal;2000;total_mulheres;5462
+1991;2926202;Riachão das Neves;Bacia do Rio Grande;2000;total_mulheres;10545
+1992;2926301;Riachão do Jacuípe;Bacia do Jacuípe;2000;total_mulheres;15967
+1993;2926400;Riacho de Santana;Velho Chico;2000;total_mulheres;14153
+1994;2926509;Ribeira do Amparo;Semiárido Nordeste II;2000;total_mulheres;6734
+1995;2926608;Ribeira do Pombal;Semiárido Nordeste II;2000;total_mulheres;23347
+1996;2926657;Ribeirão do Largo;Sudoeste Baiano;2000;total_mulheres;7137
+1997;2926707;Rio de Contas;Chapada Diamantina;2000;total_mulheres;7238
+1998;2926806;Rio do Antônio;Sertão Produtivo;2000;total_mulheres;7239
+1999;2926905;Rio do Pires;Bacia do Paramirim;2000;total_mulheres;6065
+2000;2927002;Rio Real;Litoral Norte e Agreste Baiano;2000;total_mulheres;16453
+2001;2927101;Rodelas;Itaparica;2000;total_mulheres;3156
+2002;2927200;Ruy Barbosa;Piemonte do Paraguaçu;2000;total_mulheres;14759
+2003;2927309;Salinas da Margarida;Metropolitano de Salvador;2000;total_mulheres;5268
+2004;2927408;Salvador;Metropolitano de Salvador;2000;total_mulheres;1292855
+2005;2927507;Santa Bárbara;Portal do Sertão;2000;total_mulheres;9121
+2006;2927606;Santa Brígida;Semiárido Nordeste II;2000;total_mulheres;8397
+2007;2927705;Santa Cruz Cabrália;Costa do Descobrimento;2000;total_mulheres;11347
+2008;2927804;Santa Cruz da Vitória;Médio Sudoeste da Bahia;2000;total_mulheres;3402
+2009;2927903;Santa Inês;Vale do Jiquiriçá;2000;total_mulheres;5589
+2010;2928059;Santa Luzia;Litoral Sul;2000;total_mulheres;7256
+2011;2928109;Santa Maria da Vitória;Bacia do Rio Corrente;2000;total_mulheres;20413
+2012;2928406;Santa Rita de Cássia;Bacia do Rio Grande;2000;total_mulheres;11718
+2013;2928505;Santa Terezinha;Piemonte do Paraguaçu;2000;total_mulheres;4287
+2014;2928000;Santaluz;Sisal;2000;total_mulheres;15460
+2015;2928208;Santana;Bacia do Rio Corrente;2000;total_mulheres;11768
+2016;2928307;Santanópolis;Portal do Sertão;2000;total_mulheres;4360
+2017;2928604;Santo Amaro;Recôncavo;2000;total_mulheres;29768
+2018;2928703;Santo Antônio de Jesus;Recôncavo;2000;total_mulheres;40436
+2019;2928802;Santo Estevão;Portal do Sertão;2000;total_mulheres;21302
+2020;2928901;São Desidério;Bacia do Rio Grande;2000;total_mulheres;9141
+2021;2928950;São Domingos;Sisal;2000;total_mulheres;4257
+2022;2929107;São Felipe;Recôncavo;2000;total_mulheres;10032
+2023;2929008;São Félix;Recôncavo;2000;total_mulheres;7028
+2024;2929057;São Félix do Coribe;Bacia do Rio Corrente;2000;total_mulheres;5797
+2025;2929206;São Francisco do Conde;Recôncavo;2000;total_mulheres;13227
+2026;2929255;São Gabriel;Irecê;2000;total_mulheres;8915
+2027;2929305;São Gonçalo dos Campos;Portal do Sertão;2000;total_mulheres;14016
+2028;2929354;São José da Vitória;Litoral Sul;2000;total_mulheres;3009
+2029;2929370;São José do Jacuípe;Bacia do Jacuípe;2000;total_mulheres;4629
+2030;2929404;São Miguel das Matas;Vale do Jiquiriçá;2000;total_mulheres;4958
+2031;2929503;São Sebastião do Passé;Recôncavo;2000;total_mulheres;20038
+2032;2929602;Sapeaçu;Recôncavo;2000;total_mulheres;8453
+2033;2929701;Sátiro Dias;Litoral Norte e Agreste Baiano;2000;total_mulheres;8517
+2034;2929750;Saubara;Recôncavo;2000;total_mulheres;5080
+2035;2929800;Saúde;Piemonte da Diamantina;2000;total_mulheres;5763
+2036;2929909;Seabra;Chapada Diamantina;2000;total_mulheres;19741
+2037;2930006;Sebastião Laranjeiras;Sertão Produtivo;2000;total_mulheres;4542
+2038;2930105;Senhor do Bonfim;Piemonte Norte do Itapicuru;2000;total_mulheres;34834
+2039;2930204;Sento Sé;Sertão do São Francisco;2000;total_mulheres;15684
+2040;2930154;Serra do Ramalho;Velho Chico;2000;total_mulheres;15600
+2041;2930303;Serra Dourada;Bacia do Rio Corrente;2000;total_mulheres;8693
+2042;2930402;Serra Preta;Bacia do Jacuípe;2000;total_mulheres;8893
+2043;2930501;Serrinha;Sisal;2000;total_mulheres;42035
+2044;2930600;Serrolândia;Piemonte da Diamantina;2000;total_mulheres;6306
+2045;2930709;Simões Filho;Metropolitano de Salvador;2000;total_mulheres;47335
+2046;2930758;Sítio do Mato;Velho Chico;2000;total_mulheres;5664
+2047;2930766;Sítio do Quinto;Semiárido Nordeste II;2000;total_mulheres;8725
+2048;2930774;Sobradinho;Sertão do São Francisco;2000;total_mulheres;10798
+2049;2930808;Souto Soares;Chapada Diamantina;2000;total_mulheres;7225
+2050;2930907;Tabocas do Brejo Velho;Bacia do Rio Corrente;2000;total_mulheres;6086
+2051;2931004;Tanhaçu;Sertão Produtivo;2000;total_mulheres;9881
+2052;2931053;Tanque Novo;Bacia do Paramirim;2000;total_mulheres;7805
+2053;2931103;Tanquinho;Portal do Sertão;2000;total_mulheres;3768
+2054;2931202;Taperoá;Baixo Sul;2000;total_mulheres;7784
+2055;2931301;Tapiramutá;Piemonte do Paraguaçu;2000;total_mulheres;8419
+2056;2931350;Teixeira de Freitas;Extremo Sul;2000;total_mulheres;54297
+2057;2931400;Teodoro Sampaio;Portal do Sertão;2000;total_mulheres;4491
+2058;2931509;Teofilândia;Sisal;2000;total_mulheres;10028
+2059;2931608;Teolândia;Baixo Sul;2000;total_mulheres;6125
+2060;2931707;Terra Nova;Portal do Sertão;2000;total_mulheres;6584
+2061;2931806;Tremedal;Sudoeste Baiano;2000;total_mulheres;10584
+2062;2931905;Tucano;Sisal;2000;total_mulheres;25237
+2063;2932002;Uauá;Sertão do São Francisco;2000;total_mulheres;12861
+2064;2932101;Ubaíra;Vale do Jiquiriçá;2000;total_mulheres;10116
+2065;2932200;Ubaitaba;Litoral Sul;2000;total_mulheres;12067
+2066;2932309;Ubatã;Médio Rio de Contas;2000;total_mulheres;10829
+2067;2932408;Uibaí;Irecê;2000;total_mulheres;6616
+2068;2932457;Umburanas;Piemonte da Diamantina;2000;total_mulheres;6745
+2069;2932507;Una;Litoral Sul;2000;total_mulheres;14664
+2070;2932606;Urandi;Sertão Produtivo;2000;total_mulheres;7927
+2071;2932705;Uruçuca;Litoral Sul;2000;total_mulheres;9972
+2072;2932804;Utinga;Chapada Diamantina;2000;total_mulheres;8443
+2073;2932903;Valença;Baixo Sul;2000;total_mulheres;39036
+2074;2933000;Valente;Sisal;2000;total_mulheres;9647
+2075;2933059;Várzea da Roça;Bacia do Jacuípe;2000;total_mulheres;6702
+2076;2933109;Várzea do Poço;Bacia do Jacuípe;2000;total_mulheres;3745
+2077;2933158;Várzea Nova;Piemonte da Diamantina;2000;total_mulheres;6934
+2078;2933174;Varzedo;Recôncavo;2000;total_mulheres;4310
+2079;2933208;Vera Cruz;Metropolitano de Salvador;2000;total_mulheres;14695
+2080;2933257;Vereda;Extremo Sul;2000;total_mulheres;3498
+2081;2933307;Vitória da Conquista;Sudoeste Baiano;2000;total_mulheres;134858
+2082;2933406;Wagner;Chapada Diamantina;2000;total_mulheres;4441
+2083;2933455;Wanderley;Bacia do Rio Grande;2000;total_mulheres;6686
+2084;2933505;Wenceslau Guimarães;Baixo Sul;2000;total_mulheres;11546
+2085;2933604;Xique-Xique;Irecê;2000;total_mulheres;22465
+2086;2900108;Abaíra;Chapada Diamantina;2010;total_mulheres;4234
+2087;2900207;Abaré;Itaparica;2010;total_mulheres;8500
+2088;2900306;Acajutiba;Litoral Norte e Agreste Baiano;2010;total_mulheres;7445
+2089;2900355;Adustina;Semiárido Nordeste II;2010;total_mulheres;7795
+2090;2900405;Água Fria;Portal do Sertão;2010;total_mulheres;7828
+2091;2900603;Aiquara;Médio Rio de Contas;2010;total_mulheres;2251
+2092;2900702;Alagoinhas;Litoral Norte e Agreste Baiano;2010;total_mulheres;74737
+2093;2900801;Alcobaça;Extremo Sul;2010;total_mulheres;10456
+2094;2900900;Almadina;Litoral Sul;2010;total_mulheres;3157
+2095;2901007;Amargosa;Vale do Jiquiriçá;2010;total_mulheres;17704
+2096;2901106;Amélia Rodrigues;Portal do Sertão;2010;total_mulheres;12907
+2097;2901155;América Dourada;Irecê;2010;total_mulheres;7888
+2098;2901205;Anagé;Sudoeste Baiano;2010;total_mulheres;12624
+2099;2901304;Andaraí;Chapada Diamantina;2010;total_mulheres;6779
+2100;2901353;Andorinha;Piemonte Norte do Itapicuru;2010;total_mulheres;7086
+2101;2901403;Angical;Bacia do Rio Grande;2010;total_mulheres;6613
+2102;2901502;Anguera;Portal do Sertão;2010;total_mulheres;5159
+2103;2901601;Antas;Semiárido Nordeste II;2010;total_mulheres;8491
+2104;2901700;Antônio Cardoso;Portal do Sertão;2010;total_mulheres;5820
+2105;2901809;Antônio Gonçalves;Piemonte Norte do Itapicuru;2010;total_mulheres;5442
+2106;2901908;Aporá;Litoral Norte e Agreste Baiano;2010;total_mulheres;8770
+2107;2901957;Apuarema;Médio Rio de Contas;2010;total_mulheres;3665
+2108;2902054;Araçás;Litoral Norte e Agreste Baiano;2010;total_mulheres;5733
+2109;2902005;Aracatu;Sudoeste Baiano;2010;total_mulheres;6691
+2110;2902104;Araci;Sisal;2010;total_mulheres;25711
+2111;2902203;Aramari;Litoral Norte e Agreste Baiano;2010;total_mulheres;5037
+2112;2902252;Arataca;Litoral Sul;2010;total_mulheres;4890
+2113;2902302;Aratuípe;Baixo Sul;2010;total_mulheres;4223
+2114;2902401;Aurelino Leal;Litoral Sul;2010;total_mulheres;6762
+2115;2902500;Baianópolis;Bacia do Rio Grande;2010;total_mulheres;6688
+2116;2902609;Baixa Grande;Bacia do Jacuípe;2010;total_mulheres;10094
+2117;2902658;Banzaê;Semiárido Nordeste II;2010;total_mulheres;5821
+2118;2902708;Barra;Velho Chico;2010;total_mulheres;24165
+2119;2902807;Barra da Estiva;Chapada Diamantina;2010;total_mulheres;10539
+2120;2902906;Barra do Choça;Sudoeste Baiano;2010;total_mulheres;17235
+2121;2903003;Barra do Mendes;Irecê;2010;total_mulheres;6975
+2122;2903102;Barra do Rocha;Médio Rio de Contas;2010;total_mulheres;2976
+2123;2903201;Barreiras;Bacia do Rio Grande;2010;total_mulheres;69514
+2124;2903235;Barro Alto;Irecê;2010;total_mulheres;6703
+2125;2903300;Barro Preto/Lomanto Junior;Litoral Sul;2010;total_mulheres;3147
+2126;2903276;Barrocas;Sisal;2010;total_mulheres;6973
+2127;2903409;Belmonte;Costa do Descobrimento;2010;total_mulheres;10639
+2128;2903508;Belo Campo;Sudoeste Baiano;2010;total_mulheres;7901
+2129;2903607;Biritinga;Sisal;2010;total_mulheres;7283
+2130;2903706;Boa Nova;Médio Rio de Contas;2010;total_mulheres;7587
+2131;2903805;Boa Vista do Tupim;Piemonte do Paraguaçu;2010;total_mulheres;8857
+2132;2903904;Bom Jesus da Lapa;Velho Chico;2010;total_mulheres;31804
+2133;2903953;Bom Jesus da Serra;Sudoeste Baiano;2010;total_mulheres;4922
+2134;2904001;Boninal;Chapada Diamantina;2010;total_mulheres;6993
+2135;2904050;Bonito;Chapada Diamantina;2010;total_mulheres;7313
+2136;2904100;Boquira;Bacia do Paramirim;2010;total_mulheres;11181
+2137;2904209;Botuporã;Bacia do Paramirim;2010;total_mulheres;5546
+2138;2904308;Brejões;Vale do Jiquiriçá;2010;total_mulheres;7168
+2139;2904407;Brejolândia;Bacia do Rio Corrente;2010;total_mulheres;5279
+2140;2904506;Brotas de Macaúbas;Velho Chico;2010;total_mulheres;5245
+2141;2904605;Brumado;Sertão Produtivo;2010;total_mulheres;32855
+2142;2904704;Buerarema;Litoral Sul;2010;total_mulheres;9298
+2143;2904753;Buritirama;Bacia do Rio Grande;2010;total_mulheres;9398
+2144;2904803;Caatiba;Médio Sudoeste da Bahia;2010;total_mulheres;5428
+2145;2904852;Cabaceiras do Paraguaçu;Recôncavo;2010;total_mulheres;8778
+2146;2904902;Cachoeira;Recôncavo;2010;total_mulheres;16573
+2147;2905008;Caculé;Sertão Produtivo;2010;total_mulheres;11099
+2148;2905107;Caém;Piemonte da Diamantina;2010;total_mulheres;5228
+2149;2905156;Caetanos;Sudoeste Baiano;2010;total_mulheres;6585
+2150;2905206;Caetité;Sertão Produtivo;2010;total_mulheres;24096
+2151;2905305;Cafarnaum;Irecê;2010;total_mulheres;8445
+2152;2905404;Cairu;Baixo Sul;2010;total_mulheres;7533
+2153;2905503;Caldeirão Grande;Piemonte Norte do Itapicuru;2010;total_mulheres;6339
+2154;2905602;Camacan;Litoral Sul;2010;total_mulheres;15738
+2155;2905701;Camaçari;Metropolitano de Salvador;2010;total_mulheres;122266
+2156;2905800;Camamu;Baixo Sul;2010;total_mulheres;17281
+2157;2905909;Campo Alegre de Lourdes;Sertão do São Francisco;2010;total_mulheres;13948
+2158;2906006;Campo Formoso;Piemonte Norte do Itapicuru;2010;total_mulheres;33152
+2159;2906105;Canápolis;Bacia do Rio Corrente;2010;total_mulheres;4602
+2160;2906204;Canarana;Irecê;2010;total_mulheres;11941
+2161;2906303;Canavieiras;Litoral Sul;2010;total_mulheres;16247
+2162;2906402;Candeal;Sisal;2010;total_mulheres;4396
+2163;2906501;Candeias;Metropolitano de Salvador;2010;total_mulheres;42844
+2164;2906600;Candiba;Sertão Produtivo;2010;total_mulheres;6395
+2165;2906709;Cândido Sales;Sudoeste Baiano;2010;total_mulheres;13886
+2166;2906808;Cansanção;Sisal;2010;total_mulheres;16348
+2167;2906824;Canudos;Sertão do São Francisco;2010;total_mulheres;7735
+2168;2906857;Capela do Alto Alegre;Bacia do Jacuípe;2010;total_mulheres;5719
+2169;2906873;Capim Grosso;Piemonte da Diamantina;2010;total_mulheres;13579
+2170;2906899;Caraíbas;Sudoeste Baiano;2010;total_mulheres;5006
+2171;2906907;Caravelas;Extremo Sul;2010;total_mulheres;10541
+2172;2907004;Cardeal da Silva;Litoral Norte e Agreste Baiano;2010;total_mulheres;4397
+2173;2907103;Carinhanha;Velho Chico;2010;total_mulheres;13857
+2174;2907202;Casa Nova;Sertão do São Francisco;2010;total_mulheres;31849
+2175;2907301;Castro Alves;Recôncavo;2010;total_mulheres;13140
+2176;2907400;Catolândia;Bacia do Rio Grande;2010;total_mulheres;1258
+2177;2907509;Catu;Litoral Norte e Agreste Baiano;2010;total_mulheres;26261
+2178;2907558;Caturama;Bacia do Paramirim;2010;total_mulheres;4300
+2179;2907608;Central;Irecê;2010;total_mulheres;8324
+2180;2907707;Chorrochó;Itaparica;2010;total_mulheres;5292
+2181;2907806;Cícero Dantas;Semiárido Nordeste II;2010;total_mulheres;16440
+2182;2907905;Cipó;Semiárido Nordeste II;2010;total_mulheres;8077
+2183;2908002;Coaraci;Litoral Sul;2010;total_mulheres;10690
+2184;2908101;Côcos;Bacia do Rio Corrente;2010;total_mulheres;8850
+2185;2908200;Conceição da Feira;Portal do Sertão;2010;total_mulheres;10469
+2186;2908309;Conceição do Almeida;Recôncavo;2010;total_mulheres;9185
+2187;2908408;Conceição do Coité;Sisal;2010;total_mulheres;31333
+2188;2908507;Conceição do Jacuípe;Portal do Sertão;2010;total_mulheres;15564
+2189;2908606;Conde;Litoral Norte e Agreste Baiano;2010;total_mulheres;11786
+2190;2908705;Condeúba;Sudoeste Baiano;2010;total_mulheres;8628
+2191;2908804;Contendas do Sincorá;Sertão Produtivo;2010;total_mulheres;2283
+2192;2908903;Coração de Maria;Portal do Sertão;2010;total_mulheres;11560
+2193;2909000;Cordeiros;Sudoeste Baiano;2010;total_mulheres;4120
+2194;2909109;Coribe;Bacia do Rio Corrente;2010;total_mulheres;7108
+2195;2909208;Coronel João Sá;Semiárido Nordeste II;2010;total_mulheres;8270
+2196;2909307;Correntina;Bacia do Rio Corrente;2010;total_mulheres;15486
+2197;2909406;Cotegipe;Bacia do Rio Grande;2010;total_mulheres;6521
+2198;2909505;Cravolândia;Vale do Jiquiriçá;2010;total_mulheres;2484
+2199;2909604;Crisópolis;Litoral Norte e Agreste Baiano;2010;total_mulheres;9810
+2200;2909703;Cristópolis;Bacia do Rio Grande;2010;total_mulheres;6411
+2201;2909802;Cruz das Almas;Recôncavo;2010;total_mulheres;30924
+2202;2909901;Curaçá;Sertão do São Francisco;2010;total_mulheres;15701
+2203;2910008;Dário Meira;Médio Rio de Contas;2010;total_mulheres;6110
+2204;2910057;Dias D'Ávila;Metropolitano de Salvador;2010;total_mulheres;33622
+2205;2910107;Dom Basílio;Sertão Produtivo;2010;total_mulheres;5485
+2206;2910206;Dom Macedo Costa;Recôncavo;2010;total_mulheres;1977
+2207;2910305;Elísio Medrado;Vale do Jiquiriçá;2010;total_mulheres;3990
+2208;2910404;Encruzilhada;Sudoeste Baiano;2010;total_mulheres;11390
+2209;2910503;Entre Rios;Litoral Norte e Agreste Baiano;2010;total_mulheres;20241
+2210;2900504;Érico Cardoso;Bacia do Paramirim;2010;total_mulheres;5437
+2211;2910602;Esplanada;Litoral Norte e Agreste Baiano;2010;total_mulheres;16468
+2212;2910701;Euclides da Cunha;Semiárido Nordeste II;2010;total_mulheres;27970
+2213;2910727;Eunápolis;Costa do Descobrimento;2010;total_mulheres;50800
+2214;2910750;Fátima;Semiárido Nordeste II;2010;total_mulheres;8703
+2215;2910776;Feira da Mata;Velho Chico;2010;total_mulheres;2987
+2216;2910800;Feira de Santana;Portal do Sertão;2010;total_mulheres;292643
+2217;2910859;Filadélfia;Piemonte Norte do Itapicuru;2010;total_mulheres;8303
+2218;2910909;Firmino Alves;Médio Sudoeste da Bahia;2010;total_mulheres;2652
+2219;2911006;Floresta Azul;Litoral Sul;2010;total_mulheres;5222
+2220;2911105;Formosa do Rio Preto;Bacia do Rio Grande;2010;total_mulheres;10868
+2221;2911204;Gandu;Baixo Sul;2010;total_mulheres;15233
+2222;2911253;Gavião;Bacia do Jacuípe;2010;total_mulheres;2205
+2223;2911303;Gentio do Ouro;Irecê;2010;total_mulheres;5174
+2224;2911402;Glória;Itaparica;2010;total_mulheres;7537
+2225;2911501;Gongogi;Médio Rio de Contas;2010;total_mulheres;4122
+2226;2911600;Governador Mangabeira;Recôncavo;2010;total_mulheres;10321
+2227;2911659;Guajeru;Sudoeste Baiano;2010;total_mulheres;5170
+2228;2911709;Guanambi;Sertão Produtivo;2010;total_mulheres;40352
+2229;2911808;Guaratinga;Costa do Descobrimento;2010;total_mulheres;10547
+2230;2911857;Heliópolis;Semiárido Nordeste II;2010;total_mulheres;6526
+2231;2911907;Iaçu;Piemonte do Paraguaçu;2010;total_mulheres;13105
+2232;2912004;Ibiassucê;Sertão Produtivo;2010;total_mulheres;4965
+2233;2912103;Ibicaraí;Litoral Sul;2010;total_mulheres;12384
+2234;2912202;Ibicoara;Chapada Diamantina;2010;total_mulheres;8528
+2235;2912301;Ibicuí;Médio Sudoeste da Bahia;2010;total_mulheres;7722
+2236;2912400;Ibipeba;Irecê;2010;total_mulheres;8250
+2237;2912509;Ibipitanga;Bacia do Paramirim;2010;total_mulheres;7123
+2238;2912608;Ibiquera;Piemonte do Paraguaçu;2010;total_mulheres;2337
+2239;2912707;Ibirapitanga;Baixo Sul;2010;total_mulheres;11064
+2240;2912806;Ibirapoã;Extremo Sul;2010;total_mulheres;3858
+2241;2912905;Ibirataia;Médio Rio de Contas;2010;total_mulheres;9503
+2242;2913002;Ibitiara;Chapada Diamantina;2010;total_mulheres;7813
+2243;2913101;Ibititá;Irecê;2010;total_mulheres;8782
+2244;2913200;Ibotirama;Velho Chico;2010;total_mulheres;12622
+2245;2913309;Ichu;Sisal;2010;total_mulheres;2667
+2246;2913408;Igaporã;Velho Chico;2010;total_mulheres;7562
+2247;2913457;Igrapiúna;Baixo Sul;2010;total_mulheres;6301
+2248;2913507;Iguaí;Médio Sudoeste da Bahia;2010;total_mulheres;12582
+2249;2913606;Ilhéus;Litoral Sul;2010;total_mulheres;94796
+2250;2913705;Inhambupe;Litoral Norte e Agreste Baiano;2010;total_mulheres;18278
+2251;2913804;Ipecaetá;Portal do Sertão;2010;total_mulheres;7745
+2252;2913903;Ipiaú;Médio Rio de Contas;2010;total_mulheres;22559
+2253;2914000;Ipirá;Bacia do Jacuípe;2010;total_mulheres;30267
+2254;2914109;Ipupiara;Irecê;2010;total_mulheres;4544
+2255;2914208;Irajuba;Vale do Jiquiriçá;2010;total_mulheres;3496
+2256;2914307;Iramaia;Chapada Diamantina;2010;total_mulheres;5823
+2257;2914406;Iraquara;Chapada Diamantina;2010;total_mulheres;11357
+2258;2914505;Irará;Portal do Sertão;2010;total_mulheres;14169
+2259;2914604;Irecê;Irecê;2010;total_mulheres;34163
+2260;2914653;Itabela;Costa do Descobrimento;2010;total_mulheres;13909
+2261;2914703;Itaberaba;Piemonte do Paraguaçu;2010;total_mulheres;31696
+2262;2914802;Itabuna;Litoral Sul;2010;total_mulheres;107731
+2263;2914901;Itacaré;Litoral Sul;2010;total_mulheres;11621
+2264;2915007;Itaeté;Chapada Diamantina;2010;total_mulheres;7411
+2265;2915106;Itagi;Médio Rio de Contas;2010;total_mulheres;6463
+2266;2915205;Itagibá;Médio Rio de Contas;2010;total_mulheres;7389
+2267;2915304;Itagimirim;Costa do Descobrimento;2010;total_mulheres;3554
+2268;2915353;Itaguaçu da Bahia;Irecê;2010;total_mulheres;6250
+2269;2915403;Itaju do Colônia;Litoral Sul;2010;total_mulheres;3610
+2270;2915502;Itajuípe;Litoral Sul;2010;total_mulheres;10629
+2271;2915601;Itamaraju;Extremo Sul;2010;total_mulheres;31609
+2272;2915700;Itamari;Médio Rio de Contas;2010;total_mulheres;3867
+2273;2915809;Itambé;Médio Sudoeste da Bahia;2010;total_mulheres;11506
+2274;2915908;Itanagra;Litoral Norte e Agreste Baiano;2010;total_mulheres;3713
+2275;2916005;Itanhém;Extremo Sul;2010;total_mulheres;9921
+2276;2916104;Itaparica;Metropolitano de Salvador;2010;total_mulheres;10559
+2277;2916203;Itapé;Litoral Sul;2010;total_mulheres;5387
+2278;2916302;Itapebi;Costa do Descobrimento;2010;total_mulheres;5235
+2279;2916401;Itapetinga;Médio Sudoeste da Bahia;2010;total_mulheres;34824
+2280;2916500;Itapicuru;Litoral Norte e Agreste Baiano;2010;total_mulheres;15794
+2281;2916609;Itapitanga;Litoral Sul;2010;total_mulheres;5029
+2282;2916708;Itaquara;Vale do Jiquiriçá;2010;total_mulheres;3836
+2283;2916807;Itarantim;Médio Sudoeste da Bahia;2010;total_mulheres;9016
+2284;2916856;Itatim;Piemonte do Paraguaçu;2010;total_mulheres;7270
+2285;2916906;Itiruçu;Vale do Jiquiriçá;2010;total_mulheres;6452
+2286;2917003;Itiúba;Sisal;2010;total_mulheres;17796
+2287;2917102;Itororó;Médio Sudoeste da Bahia;2010;total_mulheres;9924
+2288;2917201;Ituaçu;Sertão Produtivo;2010;total_mulheres;9096
+2289;2917300;Ituberá;Baixo Sul;2010;total_mulheres;13203
+2290;2917334;Iuiu;Sertão Produtivo;2010;total_mulheres;5254
+2291;2917359;Jaborandi;Bacia do Rio Corrente;2010;total_mulheres;4313
+2292;2917409;Jacaraci;Sudoeste Baiano;2010;total_mulheres;6725
+2293;2917508;Jacobina;Piemonte da Diamantina;2010;total_mulheres;40919
+2294;2917607;Jaguaquara;Vale do Jiquiriçá;2010;total_mulheres;25969
+2295;2917706;Jaguarari;Piemonte Norte do Itapicuru;2010;total_mulheres;14905
+2296;2917805;Jaguaripe;Baixo Sul;2010;total_mulheres;8018
+2297;2917904;Jandaíra;Litoral Norte e Agreste Baiano;2010;total_mulheres;5022
+2298;2918001;Jequié;Médio Rio de Contas;2010;total_mulheres;78283
+2299;2918100;Jeremoabo;Semiárido Nordeste II;2010;total_mulheres;18662
+2300;2918209;Jiquiriçá;Vale do Jiquiriçá;2010;total_mulheres;6963
+2301;2918308;Jitaúna;Médio Rio de Contas;2010;total_mulheres;6991
+2302;2918357;João Dourado;Irecê;2010;total_mulheres;11166
+2303;2918407;Juazeiro;Sertão do São Francisco;2010;total_mulheres;100880
+2304;2918456;Jucuruçu;Extremo Sul;2010;total_mulheres;4891
+2305;2918506;Jussara;Irecê;2010;total_mulheres;7240
+2306;2918555;Jussari;Litoral Sul;2010;total_mulheres;3194
+2307;2918605;Jussiape;Chapada Diamantina;2010;total_mulheres;4124
+2308;2918704;Lafayette Coutinho;Vale do Jiquiriçá;2010;total_mulheres;1871
+2309;2919058;Lagedo do Tabocal;Vale do Jiquiriçá;2010;total_mulheres;4118
+2310;2918753;Lagoa Real;Sertão Produtivo;2010;total_mulheres;6734
+2311;2918803;Laje;Vale do Jiquiriçá;2010;total_mulheres;10915
+2312;2918902;Lajedão;Extremo Sul;2010;total_mulheres;1896
+2313;2919009;Lajedinho;Piemonte do Paraguaçu;2010;total_mulheres;1891
+2314;2919108;Lamarão;Sisal;2010;total_mulheres;4799
+2315;2919157;Lapão;Irecê;2010;total_mulheres;12563
+2316;2919207;Lauro de Freitas;Metropolitano de Salvador;2010;total_mulheres;84173
+2317;2919306;Lençóis;Chapada Diamantina;2010;total_mulheres;5158
+2318;2919405;Licínio de Almeida;Sudoeste Baiano;2010;total_mulheres;6035
+2319;2919504;Livramento de N. Senhora;Sertão Produtivo;2010;total_mulheres;21201
+2320;2919553;Luís Eduardo Magalhães;Bacia do Rio Grande;2010;total_mulheres;29049
+2321;2919603;Macajuba;Piemonte do Paraguaçu;2010;total_mulheres;5709
+2322;2919702;Macarani;Médio Sudoeste da Bahia;2010;total_mulheres;8510
+2323;2919801;Macaúbas;Bacia do Paramirim;2010;total_mulheres;23510
+2324;2919900;Macururé;Itaparica;2010;total_mulheres;4072
+2325;2919926;Madre de Deus;Metropolitano de Salvador;2010;total_mulheres;8999
+2326;2919959;Maetinga;Sudoeste Baiano;2010;total_mulheres;3457
+2327;2920007;Maiquinique;Médio Sudoeste da Bahia;2010;total_mulheres;4238
+2328;2920106;Mairi;Bacia do Jacuípe;2010;total_mulheres;9771
+2329;2920205;Malhada;Velho Chico;2010;total_mulheres;7729
+2330;2920304;Malhada de Pedras;Sertão Produtivo;2010;total_mulheres;4146
+2331;2920403;Manoel Vitorino;Médio Rio de Contas;2010;total_mulheres;7049
+2332;2920452;Mansidão;Bacia do Rio Grande;2010;total_mulheres;6007
+2333;2920502;Maracás;Vale do Jiquiriçá;2010;total_mulheres;12409
+2334;2920601;Maragogipe;Recôncavo;2010;total_mulheres;21299
+2335;2920700;Maraú;Litoral Sul;2010;total_mulheres;9025
+2336;2920809;Marcionílio Souza;Chapada Diamantina;2010;total_mulheres;5202
+2337;2920908;Mascote;Litoral Sul;2010;total_mulheres;7089
+2338;2921005;Mata de São João;Litoral Norte e Agreste Baiano;2010;total_mulheres;20304
+2339;2921054;Matina;Velho Chico;2010;total_mulheres;5471
+2340;2921104;Medeiros Neto;Extremo Sul;2010;total_mulheres;10511
+2341;2921203;Miguel Calmon;Piemonte da Diamantina;2010;total_mulheres;13278
+2342;2921302;Milagres;Vale do Jiquiriçá;2010;total_mulheres;5303
+2343;2921401;Mirangaba;Piemonte da Diamantina;2010;total_mulheres;8103
+2344;2921450;Mirante;Sudoeste Baiano;2010;total_mulheres;5114
+2345;2921500;Monte Santo;Sisal;2010;total_mulheres;25752
+2346;2921609;Morpará;Velho Chico;2010;total_mulheres;4039
+2347;2921708;Morro do Chapéu;Chapada Diamantina;2010;total_mulheres;17476
+2348;2921807;Mortugaba;Sudoeste Baiano;2010;total_mulheres;6250
+2349;2921906;Mucugê;Chapada Diamantina;2010;total_mulheres;5317
+2350;2922003;Mucuri;Extremo Sul;2010;total_mulheres;17840
+2351;2922052;Mulungu do Morro;Irecê;2010;total_mulheres;6074
+2352;2922102;Mundo Novo;Piemonte do Paraguaçu;2010;total_mulheres;12030
+2353;2922201;Muniz Ferreira;Recôncavo;2010;total_mulheres;3636
+2354;2922250;Muquém do São Francisco;Velho Chico;2010;total_mulheres;4823
+2355;2922300;Muritiba;Recôncavo;2010;total_mulheres;15173
+2356;2922409;Mutuípe;Vale do Jiquiriçá;2010;total_mulheres;10852
+2357;2922508;Nazaré;Recôncavo;2010;total_mulheres;14049
+2358;2922607;Nilo Peçanha;Baixo Sul;2010;total_mulheres;6066
+2359;2922656;Nordestina;Sisal;2010;total_mulheres;5964
+2360;2922706;Nova Canaã;Médio Sudoeste da Bahia;2010;total_mulheres;8142
+2361;2922730;Nova Fátima;Bacia do Jacuípe;2010;total_mulheres;3809
+2362;2922755;Nova Ibiá;Médio Rio de Contas;2010;total_mulheres;3156
+2363;2922805;Nova Itarana;Vale do Jiquiriçá;2010;total_mulheres;3664
+2364;2922854;Nova Redenção;Chapada Diamantina;2010;total_mulheres;3965
+2365;2922904;Nova Soure;Semiárido Nordeste II;2010;total_mulheres;12006
+2366;2923001;Nova Viçosa;Extremo Sul;2010;total_mulheres;19138
+2367;2923035;Novo Horizonte;Chapada Diamantina;2010;total_mulheres;5171
+2368;2923050;Novo Triunfo;Semiárido Nordeste II;2010;total_mulheres;7518
+2369;2923100;Olindina;Litoral Norte e Agreste Baiano;2010;total_mulheres;12653
+2370;2923209;Oliveira dos Brejinhos;Velho Chico;2010;total_mulheres;10700
+2371;2923308;Ouriçangas;Litoral Norte e Agreste Baiano;2010;total_mulheres;4081
+2372;2923357;Ourolândia;Piemonte da Diamantina;2010;total_mulheres;8063
+2373;2923407;Palmas de Monte Alto;Sertão Produtivo;2010;total_mulheres;10176
+2374;2923506;Palmeiras;Chapada Diamantina;2010;total_mulheres;4236
+2375;2923605;Paramirim;Bacia do Paramirim;2010;total_mulheres;10436
+2376;2923704;Paratinga;Velho Chico;2010;total_mulheres;14574
+2377;2923803;Paripiranga;Semiárido Nordeste II;2010;total_mulheres;14108
+2378;2923902;Pau Brasil;Litoral Sul;2010;total_mulheres;5357
+2379;2924009;Paulo Afonso;Itaparica;2010;total_mulheres;56426
+2380;2924058;Pé de Serra;Bacia do Jacuípe;2010;total_mulheres;6935
+2381;2924108;Pedrão;Litoral Norte e Agreste Baiano;2010;total_mulheres;3482
+2382;2924207;Pedro Alexandre;Semiárido Nordeste II;2010;total_mulheres;8312
+2383;2924306;Piatã;Chapada Diamantina;2010;total_mulheres;9248
+2384;2924405;Pilão Arcado;Sertão do São Francisco;2010;total_mulheres;16177
+2385;2924504;Pindaí;Sertão Produtivo;2010;total_mulheres;7611
+2386;2924603;Pindobaçu;Piemonte Norte do Itapicuru;2010;total_mulheres;9792
+2387;2924652;Pintadas;Bacia do Jacuípe;2010;total_mulheres;5144
+2388;2924678;Piraí do Norte;Baixo Sul;2010;total_mulheres;4605
+2389;2924702;Piripá;Sudoeste Baiano;2010;total_mulheres;6343
+2390;2924801;Piritiba;Piemonte do Paraguaçu;2010;total_mulheres;11112
+2391;2924900;Planaltino;Vale do Jiquiriçá;2010;total_mulheres;4248
+2392;2925006;Planalto;Sudoeste Baiano;2010;total_mulheres;12389
+2393;2925105;Poções;Sudoeste Baiano;2010;total_mulheres;22939
+2394;2925204;Pojuca;Litoral Norte e Agreste Baiano;2010;total_mulheres;16988
+2395;2925253;Ponto Novo;Piemonte Norte do Itapicuru;2010;total_mulheres;7818
+2396;2925303;Porto Seguro;Costa do Descobrimento;2010;total_mulheres;63440
+2397;2925402;Potiraguá;Médio Sudoeste da Bahia;2010;total_mulheres;4744
+2398;2925501;Prado;Extremo Sul;2010;total_mulheres;13637
+2399;2925600;Presidente Dutra;Irecê;2010;total_mulheres;6758
+2400;2925709;Presidente Jânio Quadros;Sudoeste Baiano;2010;total_mulheres;6674
+2401;2925758;Presidente Tancredo Neves;Baixo Sul;2010;total_mulheres;11634
+2402;2925808;Queimadas;Sisal;2010;total_mulheres;12317
+2403;2925907;Quijingue;Sisal;2010;total_mulheres;13217
+2404;2925931;Quixabeira;Bacia do Jacuípe;2010;total_mulheres;4675
+2405;2925956;Rafael Jambeiro;Piemonte do Paraguaçu;2010;total_mulheres;11738
+2406;2926004;Remanso;Sertão do São Francisco;2010;total_mulheres;19506
+2407;2926103;Retirolândia;Sisal;2010;total_mulheres;6030
+2408;2926202;Riachão das Neves;Bacia do Rio Grande;2010;total_mulheres;10497
+2409;2926301;Riachão do Jacuípe;Bacia do Jacuípe;2010;total_mulheres;17003
+2410;2926400;Riacho de Santana;Velho Chico;2010;total_mulheres;15052
+2411;2926509;Ribeira do Amparo;Semiárido Nordeste II;2010;total_mulheres;7042
+2412;2926608;Ribeira do Pombal;Semiárido Nordeste II;2010;total_mulheres;24142
+2413;2926657;Ribeirão do Largo;Sudoeste Baiano;2010;total_mulheres;4128
+2414;2926707;Rio de Contas;Chapada Diamantina;2010;total_mulheres;6774
+2415;2926806;Rio do Antônio;Sertão Produtivo;2010;total_mulheres;7374
+2416;2926905;Rio do Pires;Bacia do Paramirim;2010;total_mulheres;5990
+2417;2927002;Rio Real;Litoral Norte e Agreste Baiano;2010;total_mulheres;18510
+2418;2927101;Rodelas;Itaparica;2010;total_mulheres;3940
+2419;2927200;Ruy Barbosa;Piemonte do Paraguaçu;2010;total_mulheres;15338
+2420;2927309;Salinas da Margarida;Metropolitano de Salvador;2010;total_mulheres;6902
+2421;2927408;Salvador;Metropolitano de Salvador;2010;total_mulheres;1426759
+2422;2927507;Santa Bárbara;Portal do Sertão;2010;total_mulheres;9764
+2423;2927606;Santa Brígida;Semiárido Nordeste II;2010;total_mulheres;7345
+2424;2927705;Santa Cruz Cabrália;Costa do Descobrimento;2010;total_mulheres;12933
+2425;2927804;Santa Cruz da Vitória;Médio Sudoeste da Bahia;2010;total_mulheres;3251
+2426;2927903;Santa Inês;Vale do Jiquiriçá;2010;total_mulheres;5228
+2427;2928059;Santa Luzia;Litoral Sul;2010;total_mulheres;6293
+2428;2928109;Santa Maria da Vitória;Bacia do Rio Corrente;2010;total_mulheres;19972
+2429;2928406;Santa Rita de Cássia;Bacia do Rio Grande;2010;total_mulheres;12678
+2430;2928505;Santa Terezinha;Piemonte do Paraguaçu;2010;total_mulheres;4826
+2431;2928000;Santaluz;Sisal;2010;total_mulheres;17218
+2432;2928208;Santana;Bacia do Rio Corrente;2010;total_mulheres;12199
+2433;2928307;Santanópolis;Portal do Sertão;2010;total_mulheres;4530
+2434;2928604;Santo Amaro;Recôncavo;2010;total_mulheres;30045
+2435;2928703;Santo Antônio de Jesus;Recôncavo;2010;total_mulheres;48020
+2436;2928802;Santo Estevão;Portal do Sertão;2010;total_mulheres;24974
+2437;2928901;São Desidério;Bacia do Rio Grande;2010;total_mulheres;13129
+2438;2928950;São Domingos;Sisal;2010;total_mulheres;4635
+2439;2929107;São Felipe;Recôncavo;2010;total_mulheres;10222
+2440;2929008;São Félix;Recôncavo;2010;total_mulheres;7216
+2441;2929057;São Félix do Coribe;Bacia do Rio Corrente;2010;total_mulheres;6512
+2442;2929206;São Francisco do Conde;Recôncavo;2010;total_mulheres;16980
+2443;2929255;São Gabriel;Irecê;2010;total_mulheres;8978
+2444;2929305;São Gonçalo dos Campos;Portal do Sertão;2010;total_mulheres;17264
+2445;2929354;São José da Vitória;Litoral Sul;2010;total_mulheres;2813
+2446;2929370;São José do Jacuípe;Bacia do Jacuípe;2010;total_mulheres;5086
+2447;2929404;São Miguel das Matas;Vale do Jiquiriçá;2010;total_mulheres;5136
+2448;2929503;São Sebastião do Passé;Recôncavo;2010;total_mulheres;21445
+2449;2929602;Sapeaçu;Recôncavo;2010;total_mulheres;8607
+2450;2929701;Sátiro Dias;Litoral Norte e Agreste Baiano;2010;total_mulheres;9397
+2451;2929750;Saubara;Recôncavo;2010;total_mulheres;5719
+2452;2929800;Saúde;Piemonte da Diamantina;2010;total_mulheres;5912
+2453;2929909;Seabra;Chapada Diamantina;2010;total_mulheres;21113
+2454;2930006;Sebastião Laranjeiras;Sertão Produtivo;2010;total_mulheres;5117
+2455;2930105;Senhor do Bonfim;Piemonte Norte do Itapicuru;2010;total_mulheres;38399
+2456;2930204;Sento Sé;Sertão do São Francisco;2010;total_mulheres;18148
+2457;2930154;Serra do Ramalho;Velho Chico;2010;total_mulheres;15261
+2458;2930303;Serra Dourada;Bacia do Rio Corrente;2010;total_mulheres;8869
+2459;2930402;Serra Preta;Bacia do Jacuípe;2010;total_mulheres;7814
+2460;2930501;Serrinha;Sisal;2010;total_mulheres;39082
+2461;2930600;Serrolândia;Piemonte da Diamantina;2010;total_mulheres;6304
+2462;2930709;Simões Filho;Metropolitano de Salvador;2010;total_mulheres;60034
+2463;2930758;Sítio do Mato;Velho Chico;2010;total_mulheres;5785
+2464;2930766;Sítio do Quinto;Semiárido Nordeste II;2010;total_mulheres;6310
+2465;2930774;Sobradinho;Sertão do São Francisco;2010;total_mulheres;11201
+2466;2930808;Souto Soares;Chapada Diamantina;2010;total_mulheres;7846
+2467;2930907;Tabocas do Brejo Velho;Bacia do Rio Corrente;2010;total_mulheres;5492
+2468;2931004;Tanhaçu;Sertão Produtivo;2010;total_mulheres;9942
+2469;2931053;Tanque Novo;Bacia do Paramirim;2010;total_mulheres;8002
+2470;2931103;Tanquinho;Portal do Sertão;2010;total_mulheres;4031
+2471;2931202;Taperoá;Baixo Sul;2010;total_mulheres;9162
+2472;2931301;Tapiramutá;Piemonte do Paraguaçu;2010;total_mulheres;8179
+2473;2931350;Teixeira de Freitas;Extremo Sul;2010;total_mulheres;70264
+2474;2931400;Teodoro Sampaio;Portal do Sertão;2010;total_mulheres;4039
+2475;2931509;Teofilândia;Sisal;2010;total_mulheres;10681
+2476;2931608;Teolândia;Baixo Sul;2010;total_mulheres;7111
+2477;2931707;Terra Nova;Portal do Sertão;2010;total_mulheres;6582
+2478;2931806;Tremedal;Sudoeste Baiano;2010;total_mulheres;8497
+2479;2931905;Tucano;Sisal;2010;total_mulheres;26164
+2480;2932002;Uauá;Sertão do São Francisco;2010;total_mulheres;12076
+2481;2932101;Ubaíra;Vale do Jiquiriçá;2010;total_mulheres;9715
+2482;2932200;Ubaitaba;Litoral Sul;2010;total_mulheres;10591
+2483;2932309;Ubatã;Médio Rio de Contas;2010;total_mulheres;12516
+2484;2932408;Uibaí;Irecê;2010;total_mulheres;6657
+2485;2932457;Umburanas;Piemonte da Diamantina;2010;total_mulheres;8223
+2486;2932507;Una;Litoral Sul;2010;total_mulheres;11553
+2487;2932606;Urandi;Sertão Produtivo;2010;total_mulheres;8135
+2488;2932705;Uruçuca;Litoral Sul;2010;total_mulheres;9980
+2489;2932804;Utinga;Chapada Diamantina;2010;total_mulheres;9237
+2490;2932903;Valença;Baixo Sul;2010;total_mulheres;45142
+2491;2933000;Valente;Sisal;2010;total_mulheres;12408
+2492;2933059;Várzea da Roça;Bacia do Jacuípe;2010;total_mulheres;6802
+2493;2933109;Várzea do Poço;Bacia do Jacuípe;2010;total_mulheres;4306
+2494;2933158;Várzea Nova;Piemonte da Diamantina;2010;total_mulheres;6451
+2495;2933174;Varzedo;Recôncavo;2010;total_mulheres;4575
+2496;2933208;Vera Cruz;Metropolitano de Salvador;2010;total_mulheres;18845
+2497;2933257;Vereda;Extremo Sul;2010;total_mulheres;3236
+2498;2933307;Vitória da Conquista;Sudoeste Baiano;2010;total_mulheres;158987
+2499;2933406;Wagner;Chapada Diamantina;2010;total_mulheres;4485
+2500;2933455;Wanderley;Bacia do Rio Grande;2010;total_mulheres;5989
+2501;2933505;Wenceslau Guimarães;Baixo Sul;2010;total_mulheres;10714
+2502;2933604;Xique-Xique;Irecê;2010;total_mulheres;23027

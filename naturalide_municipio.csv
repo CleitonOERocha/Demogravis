@@ -1,0 +1,2495 @@
+;Codigo.do.Municipio;Municipios;Territorios.de.Identidade;Ano;local_natural;total_natural
+1;2900108;Abaíra;Chapada Diamantina;1991;natural.do.mun;7896
+2;2900207;Abaré;Itaparica;1991;natural.do.mun;9995
+3;2900306;Acajutiba;Litoral Norte e Agreste Baiano;1991;natural.do.mun;11087
+4;2900355;Adustina;Semiárido Nordeste II;1991;natural.do.mun;11839
+5;2900405;Água Fria;Portal do Sertão;1991;natural.do.mun;13253
+6;2900603;Aiquara;Médio Rio de Contas;1991;natural.do.mun;4530
+7;2900702;Alagoinhas;Litoral Norte e Agreste Baiano;1991;natural.do.mun;82397
+8;2900801;Alcobaça;Extremo Sul;1991;natural.do.mun;13185
+9;2900900;Almadina;Litoral Sul;1991;natural.do.mun;6856
+10;2901007;Amargosa;Vale do Jiquiriçá;1991;natural.do.mun;23897
+11;2901106;Amélia Rodrigues;Portal do Sertão;1991;natural.do.mun;17581
+12;2901155;América Dourada;Irecê;1991;natural.do.mun;11486
+13;2901205;Anagé;Sudoeste Baiano;1991;natural.do.mun;40371
+14;2901304;Andaraí;Chapada Diamantina;1991;natural.do.mun;12955
+15;2901353;Andorinha;Piemonte Norte do Itapicuru;1991;natural.do.mun;15098
+16;2901403;Angical;Bacia do Rio Grande;1991;natural.do.mun;13390
+17;2901502;Anguera;Portal do Sertão;1991;natural.do.mun;6649
+18;2901601;Antas;Semiárido Nordeste II;1991;natural.do.mun;15495
+19;2901700;Antônio Cardoso;Portal do Sertão;1991;natural.do.mun;11113
+20;2901809;Antônio Gonçalves;Piemonte Norte do Itapicuru;1991;natural.do.mun;11014
+21;2901908;Aporá;Litoral Norte e Agreste Baiano;1991;natural.do.mun;13876
+22;2901957;Apuarema;Médio Rio de Contas;1991;natural.do.mun;6662
+23;2902054;Araçás;Litoral Norte e Agreste Baiano;1991;natural.do.mun;7881
+24;2902005;Aracatu;Sudoeste Baiano;1991;natural.do.mun;14908
+25;2902104;Araci;Sisal;1991;natural.do.mun;41084
+26;2902203;Aramari;Litoral Norte e Agreste Baiano;1991;natural.do.mun;6481
+27;2902252;Arataca;Litoral Sul;1991;natural.do.mun;8691
+28;2902302;Aratuípe;Baixo Sul;1991;natural.do.mun;6629
+29;2902401;Aurelino Leal;Litoral Sul;1991;natural.do.mun;9750
+30;2902500;Baianópolis;Bacia do Rio Grande;1991;natural.do.mun;12643
+31;2902609;Baixa Grande;Bacia do Jacuípe;1991;natural.do.mun;20716
+32;2902658;Banzaê;Semiárido Nordeste II;1991;natural.do.mun;11120
+33;2902708;Barra;Velho Chico;1991;natural.do.mun;36246
+34;2902807;Barra da Estiva;Chapada Diamantina;1991;natural.do.mun;15302
+35;2902906;Barra do Choça;Sudoeste Baiano;1991;natural.do.mun;16613
+36;2903003;Barra do Mendes;Irecê;1991;natural.do.mun;12474
+37;2903102;Barra do Rocha;Médio Rio de Contas;1991;natural.do.mun;7192
+38;2903201;Barreiras;Bacia do Rio Grande;1991;natural.do.mun;47777
+39;2903235;Barro Alto;Irecê;1991;natural.do.mun;9171
+40;2903300;Barro Preto/Lomanto Junior;Litoral Sul;1991;natural.do.mun;7542
+41;2903409;Belmonte;Costa do Descobrimento;1991;natural.do.mun;17964
+42;2903508;Belo Campo;Sudoeste Baiano;1991;natural.do.mun;10700
+43;2903607;Biritinga;Sisal;1991;natural.do.mun;13504
+44;2903706;Boa Nova;Médio Rio de Contas;1991;natural.do.mun;12780
+45;2903805;Boa Vista do Tupim;Piemonte do Paraguaçu;1991;natural.do.mun;15467
+46;2903904;Bom Jesus da Lapa;Velho Chico;1991;natural.do.mun;35044
+47;2903953;Bom Jesus da Serra;Sudoeste Baiano;1991;natural.do.mun;9432
+48;2904001;Boninal;Chapada Diamantina;1991;natural.do.mun;12881
+49;2904050;Bonito;Chapada Diamantina;1991;natural.do.mun;6637
+50;2904100;Boquira;Bacia do Paramirim;1991;natural.do.mun;18152
+51;2904209;Botuporã;Bacia do Paramirim;1991;natural.do.mun;9806
+52;2904308;Brejões;Vale do Jiquiriçá;1991;natural.do.mun;11276
+53;2904407;Brejolândia;Bacia do Rio Corrente;1991;natural.do.mun;10495
+54;2904506;Brotas de Macaúbas;Velho Chico;1991;natural.do.mun;13491
+55;2904605;Brumado;Sertão Produtivo;1991;natural.do.mun;45032
+56;2904704;Buerarema;Litoral Sul;1991;natural.do.mun;13947
+57;2904753;Buritirama;Bacia do Rio Grande;1991;natural.do.mun;12150
+58;2904803;Caatiba;Médio Sudoeste da Bahia;1991;natural.do.mun;8592
+59;2904852;Cabaceiras do Paraguaçu;Recôncavo;1991;natural.do.mun;13980
+60;2904902;Cachoeira;Recôncavo;1991;natural.do.mun;23573
+61;2905008;Caculé;Sertão Produtivo;1991;natural.do.mun;15077
+62;2905107;Caém;Piemonte da Diamantina;1991;natural.do.mun;15015
+63;2905156;Caetanos;Sudoeste Baiano;1991;natural.do.mun;10253
+64;2905206;Caetité;Sertão Produtivo;1991;natural.do.mun;36619
+65;2905305;Cafarnaum;Irecê;1991;natural.do.mun;11447
+66;2905404;Cairu;Baixo Sul;1991;natural.do.mun;13695
+67;2905503;Caldeirão Grande;Piemonte Norte do Itapicuru;1991;natural.do.mun;14346
+68;2905602;Camacan;Litoral Sul;1991;natural.do.mun;21096
+69;2905701;Camaçari;Metropolitano de Salvador;1991;natural.do.mun;52544
+70;2905800;Camamu;Baixo Sul;1991;natural.do.mun;27745
+71;2905909;Campo Alegre de Lourdes;Sertão do São Francisco;1991;natural.do.mun;23701
+72;2906006;Campo Formoso;Piemonte Norte do Itapicuru;1991;natural.do.mun;56744
+73;2906105;Canápolis;Bacia do Rio Corrente;1991;natural.do.mun;9122
+74;2906204;Canarana;Irecê;1991;natural.do.mun;17180
+75;2906303;Canavieiras;Litoral Sul;1991;natural.do.mun;28223
+76;2906402;Candeal;Sisal;1991;natural.do.mun;9974
+77;2906501;Candeias;Metropolitano de Salvador;1991;natural.do.mun;47978
+78;2906600;Candiba;Sertão Produtivo;1991;natural.do.mun;11438
+79;2906709;Cândido Sales;Sudoeste Baiano;1991;natural.do.mun;19332
+80;2906808;Cansanção;Sisal;1991;natural.do.mun;27792
+81;2906824;Canudos;Sertão do São Francisco;1991;natural.do.mun;11653
+82;2906857;Capela do Alto Alegre;Bacia do Jacuípe;1991;natural.do.mun;16467
+83;2906873;Capim Grosso;Bacia do Jacuípe;1991;natural.do.mun;14187
+84;2906899;Caraíbas;Sudoeste Baiano;1991;natural.do.mun;16019
+85;2906907;Caravelas;Extremo Sul;1991;natural.do.mun;17236
+86;2907004;Cardeal da Silva;Litoral Norte e Agreste Baiano;1991;natural.do.mun;4904
+87;2907103;Carinhanha;Velho Chico;1991;natural.do.mun;19877
+88;2907202;Casa Nova;Sertão do São Francisco;1991;natural.do.mun;40967
+89;2907301;Castro Alves;Recôncavo;1991;natural.do.mun;24052
+90;2907400;Catolândia;Bacia do Rio Grande;1991;natural.do.mun;2903
+91;2907509;Catu;Litoral Norte e Agreste Baiano;1991;natural.do.mun;35523
+92;2907558;Caturama;Bacia do Paramirim;1991;natural.do.mun;8847
+93;2907608;Central;Irecê;1991;natural.do.mun;12096
+94;2907707;Chorrochó;Itaparica;1991;natural.do.mun;9019
+95;2907806;Cícero Dantas;Semiárido Nordeste II;1991;natural.do.mun;23512
+96;2907905;Cipó;Semiárido Nordeste II;1991;natural.do.mun;9539
+97;2908002;Coaraci;Litoral Sul;1991;natural.do.mun;25052
+98;2908101;Côcos;Bacia do Rio Corrente;1991;natural.do.mun;15292
+99;2908200;Conceição da Feira;Portal do Sertão;1991;natural.do.mun;13885
+100;2908309;Conceição do Almeida;Recôncavo;1991;natural.do.mun;16289
+101;2908408;Conceição do Coité;Sisal;1991;natural.do.mun;47019
+102;2908507;Conceição do Jacuípe;Portal do Sertão;1991;natural.do.mun;16892
+103;2908606;Conde;Litoral Norte e Agreste Baiano;1991;natural.do.mun;15428
+104;2908705;Condeúba;Sudoeste Baiano;1991;natural.do.mun;16235
+105;2908804;Contendas do Sincorá;Sertão Produtivo;1991;natural.do.mun;3939
+106;2908903;Coração de Maria;Portal do Sertão;1991;natural.do.mun;20662
+107;2909000;Cordeiros;Sudoeste Baiano;1991;natural.do.mun;9479
+108;2909109;Coribe;Bacia do Rio Corrente;1991;natural.do.mun;13095
+109;2909208;Coronel João Sá;Semiárido Nordeste II;1991;natural.do.mun;16365
+110;2909307;Correntina;Bacia do Rio Corrente;1991;natural.do.mun;24473
+111;2909406;Cotegipe;Bacia do Rio Grande;1991;natural.do.mun;10753
+112;2909505;Cravolândia;Vale do Jiquiriçá;1991;natural.do.mun;3992
+113;2909604;Crisópolis;Litoral Norte e Agreste Baiano;1991;natural.do.mun;15281
+114;2909703;Cristópolis;Bacia do Rio Grande;1991;natural.do.mun;11016
+115;2909802;Cruz das Almas;Recôncavo;1991;natural.do.mun;35698
+116;2909901;Curaçá;Sertão do São Francisco;1991;natural.do.mun;21835
+117;2910008;Dário Meira;Médio Rio de Contas;1991;natural.do.mun;10731
+118;2910057;Dias d'Ávila;Metropolitano de Salvador;1991;natural.do.mun;11456
+119;2910107;Dom Basílio;Sertão Produtivo;1991;natural.do.mun;9390
+120;2910206;Dom Macedo Costa;Recôncavo;1991;natural.do.mun;3432
+121;2910305;Elísio Medrado;Vale do Jiquiriçá;1991;natural.do.mun;6517
+122;2910404;Encruzilhada;Sudoeste Baiano;1991;natural.do.mun;20043
+123;2910503;Entre Rios;Litoral Norte e Agreste Baiano;1991;natural.do.mun;21951
+124;2900504;Érico Cardoso;Bacia do Paramirim;1991;natural.do.mun;7087
+125;2910602;Esplanada;Litoral Norte e Agreste Baiano;1991;natural.do.mun;17345
+126;2910701;Euclides da Cunha;Semiárido Nordeste II;1991;natural.do.mun;45852
+127;2910727;Eunápolis;Costa do Descobrimento;1991;natural.do.mun;33067
+128;2910750;Fátima;Semiárido Nordeste II;1991;natural.do.mun;16106
+129;2910776;Feira da Mata;Velho Chico;1991;natural.do.mun;5511
+130;2910800;Feira de Santana;Portal do Sertão;1991;natural.do.mun;263556
+131;2910859;Filadélfia;Piemonte Norte do Itapicuru;1991;natural.do.mun;13775
+132;2910909;Firmino Alves;Médio Sudoeste da Bahia;1991;natural.do.mun;3571
+133;2911006;Floresta Azul;Litoral Sul;1991;natural.do.mun;10490
+134;2911105;Formosa do Rio Preto;Bacia do Rio Grande;1991;natural.do.mun;13633
+135;2911204;Gandu;Baixo Sul;1991;natural.do.mun;17931
+136;2911253;Gavião;Bacia do Jacuípe;1991;natural.do.mun;6710
+137;2911303;Gentio do Ouro;Irecê;1991;natural.do.mun;10345
+138;2911402;Glória;Itaparica;1991;natural.do.mun;11371
+139;2911501;Gongogi;Médio Rio de Contas;1991;natural.do.mun;5208
+140;2911600;Governador Mangabeira;Recôncavo;1991;natural.do.mun;14857
+141;2911659;Guajeru;Sudoeste Baiano;1991;natural.do.mun;8204
+142;2911709;Guanambi;Sertão Produtivo;1991;natural.do.mun;48305
+143;2911808;Guaratinga;Costa do Descobrimento;1991;natural.do.mun;19234
+144;2911857;Heliópolis;Semiárido Nordeste II;1991;natural.do.mun;10964
+145;2911907;Iaçu;Piemonte do Paraguaçu;1991;natural.do.mun;19331
+146;2912004;Ibiassucê;Sertão Produtivo;1991;natural.do.mun;11468
+147;2912103;Ibicaraí;Litoral Sul;1991;natural.do.mun;20450
+148;2912202;Ibicoara;Chapada Diamantina;1991;natural.do.mun;7069
+149;2912301;Ibicuí;Médio Sudoeste da Bahia;1991;natural.do.mun;13186
+150;2912400;Ibipeba;Irecê;1991;natural.do.mun;14979
+151;2912509;Ibipitanga;Bacia do Paramirim;1991;natural.do.mun;12440
+152;2912608;Ibiquera;Piemonte do Paraguaçu;1991;natural.do.mun;5068
+153;2912707;Ibirapitanga;Baixo Sul;1991;natural.do.mun;20153
+154;2912806;Ibirapoã;Extremo Sul;1991;natural.do.mun;4496
+155;2912905;Ibirataia;Médio Rio de Contas;1991;natural.do.mun;16839
+156;2913002;Ibitiara;Chapada Diamantina;1991;natural.do.mun;16681
+157;2913101;Ibititá;Irecê;1991;natural.do.mun;13884
+158;2913200;Ibotirama;Velho Chico;1991;natural.do.mun;14479
+159;2913309;Ichu;Sisal;1991;natural.do.mun;7987
+160;2913408;Igaporã;Velho Chico;1991;natural.do.mun;12484
+161;2913457;Igrapiúna;Baixo Sul;1991;natural.do.mun;10913
+162;2913507;Iguaí;Médio Sudoeste da Bahia;1991;natural.do.mun;18205
+163;2913606;Ilhéus;Litoral Sul;1991;natural.do.mun;178702
+164;2913705;Inhambupe;Litoral Norte e Agreste Baiano;1991;natural.do.mun;22862
+165;2913804;Ipecaetá;Portal do Sertão;1991;natural.do.mun;15583
+166;2913903;Ipiaú;Médio Rio de Contas;1991;natural.do.mun;28742
+167;2914000;Ipirá;Bacia do Jacuípe;1991;natural.do.mun;58650
+168;2914109;Ipupiara;Irecê;1991;natural.do.mun;6770
+169;2914208;Irajuba;Vale do Jiquiriçá;1991;natural.do.mun;5669
+170;2914307;Iramaia;Chapada Diamantina;1991;natural.do.mun;15884
+171;2914406;Iraquara;Chapada Diamantina;1991;natural.do.mun;15184
+172;2914505;Irará;Portal do Sertão;1991;natural.do.mun;21896
+173;2914604;Irecê;Irecê;1991;natural.do.mun;26612
+174;2914653;Itabela;Costa do Descobrimento;1991;natural.do.mun;11235
+175;2914703;Itaberaba;Piemonte do Paraguaçu;1991;natural.do.mun;36834
+176;2914802;Itabuna;Litoral Sul;1991;natural.do.mun;114441
+177;2914901;Itacaré;Litoral Sul;1991;natural.do.mun;13923
+178;2915007;Itaeté;Chapada Diamantina;1991;natural.do.mun;12841
+179;2915106;Itagi;Médio Rio de Contas;1991;natural.do.mun;11818
+180;2915205;Itagibá;Médio Rio de Contas;1991;natural.do.mun;16260
+181;2915304;Itagimirim;Costa do Descobrimento;1991;natural.do.mun;4478
+182;2915353;Itaguaçu da Bahia;Irecê;1991;natural.do.mun;15586
+183;2915403;Itaju do Colônia;Litoral Sul;1991;natural.do.mun;7078
+184;2915502;Itajuípe;Litoral Sul;1991;natural.do.mun;18498
+185;2915601;Itamaraju;Extremo Sul;1991;natural.do.mun;43087
+186;2915700;Itamari;Médio Rio de Contas;1991;natural.do.mun;6250
+187;2915809;Itambé;Médio Sudoeste da Bahia;1991;natural.do.mun;17111
+188;2915908;Itanagra;Litoral Norte e Agreste Baiano;1991;natural.do.mun;4480
+189;2916005;Itanhém;Extremo Sul;1991;natural.do.mun;16638
+190;2916104;Itaparica;Metropolitano de Salvador;1991;natural.do.mun;10863
+191;2916203;Itapé;Litoral Sul;1991;natural.do.mun;15053
+192;2916302;Itapebi;Costa do Descobrimento;1991;natural.do.mun;9690
+193;2916401;Itapetinga;Médio Sudoeste da Bahia;1991;natural.do.mun;34074
+194;2916500;Itapicuru;Litoral Norte e Agreste Baiano;1991;natural.do.mun;23513
+195;2916609;Itapitanga;Litoral Sul;1991;natural.do.mun;7998
+196;2916708;Itaquara;Vale do Jiquiriçá;1991;natural.do.mun;5955
+197;2916807;Itarantim;Médio Sudoeste da Bahia;1991;natural.do.mun;13361
+198;2916856;Itatim;Piemonte do Paraguaçu;1991;natural.do.mun;8642
+199;2916906;Itiruçu;Vale do Jiquiriçá;1991;natural.do.mun;9632
+200;2917003;Itiúba;Sisal;1991;natural.do.mun;31180
+201;2917102;Itororó;Médio Sudoeste da Bahia;1991;natural.do.mun;14003
+202;2917201;Ituaçu;Sertão Produtivo;1991;natural.do.mun;14319
+203;2917300;Ituberá;Baixo Sul;1991;natural.do.mun;15906
+204;2917334;Iuiu;Sertão Produtivo;1991;natural.do.mun;8787
+205;2917359;Jaborandi;Bacia do Rio Corrente;1991;natural.do.mun;11010
+206;2917409;Jacaraci;Sudoeste Baiano;1991;natural.do.mun;13578
+207;2917508;Jacobina;Piemonte da Diamantina;1991;natural.do.mun;62214
+208;2917607;Jaguaquara;Vale do Jiquiriçá;1991;natural.do.mun;31242
+209;2917706;Jaguarari;Piemonte Norte do Itapicuru;1991;natural.do.mun;25471
+210;2917805;Jaguaripe;Baixo Sul;1991;natural.do.mun;13027
+211;2917904;Jandaíra;Litoral Norte e Agreste Baiano;1991;natural.do.mun;6946
+212;2918001;Jequié;Médio Rio de Contas;1991;natural.do.mun;114094
+213;2918100;Jeremoabo;Semiárido Nordeste II;1991;natural.do.mun;32402
+214;2918209;Jiquiriçá;Vale do Jiquiriçá;1991;natural.do.mun;9379
+215;2918308;Jitaúna;Médio Rio de Contas;1991;natural.do.mun;18567
+216;2918357;João Dourado;Irecê;1991;natural.do.mun;11665
+217;2918407;Juazeiro;Sertão do São Francisco;1991;natural.do.mun;79047
+218;2918456;Jucuruçu;Extremo Sul;1991;natural.do.mun;11602
+219;2918506;Jussara;Irecê;1991;natural.do.mun;9952
+220;2918555;Jussari;Litoral Sul;1991;natural.do.mun;5773
+221;2918605;Jussiape;Chapada Diamantina;1991;natural.do.mun;9552
+222;2918704;Lafayette Coutinho;Vale do Jiquiriçá;1991;natural.do.mun;4416
+223;2919058;Lagedo do Tabocal;Vale do Jiquiriçá;1991;natural.do.mun;4305
+224;2918753;Lagoa Real;Sertão Produtivo;1991;natural.do.mun;10825
+225;2918803;Laje;Vale do Jiquiriçá;1991;natural.do.mun;16273
+226;2918902;Lajedão;Extremo Sul;1991;natural.do.mun;2155
+227;2919009;Lajedinho;Piemonte do Paraguaçu;1991;natural.do.mun;5808
+228;2919108;Lamarão;Sisal;1991;natural.do.mun;9600
+229;2919157;Lapão;Irecê;1991;natural.do.mun;15130
+230;2919207;Lauro de Freitas;Metropolitano de Salvador;1991;natural.do.mun;27617
+231;2919306;Lençóis;Chapada Diamantina;1991;natural.do.mun;5852
+232;2919405;Licínio de Almeida;Sudoeste Baiano;1991;natural.do.mun;12398
+233;2919504;Livramento de N. Senhora;Sertão Produtivo;1991;natural.do.mun;30008
+234;2919603;Macajuba;Piemonte do Paraguaçu;1991;natural.do.mun;8924
+235;2919702;Macarani;Médio Sudoeste da Bahia;1991;natural.do.mun;12768
+236;2919801;Macaúbas;Bacia do Paramirim;1991;natural.do.mun;33235
+237;2919900;Macururé;Itaparica;1991;natural.do.mun;6531
+238;2919926;Madre de Deus;Metropolitano de Salvador;1991;natural.do.mun;6372
+239;2919959;Maetinga;Sudoeste Baiano;1991;natural.do.mun;9727
+240;2920007;Maiquinique;Médio Sudoeste da Bahia;1991;natural.do.mun;5759
+241;2920106;Mairi;Bacia do Jacuípe;1991;natural.do.mun;18697
+242;2920205;Malhada;Velho Chico;1991;natural.do.mun;13796
+243;2920304;Malhada de Pedras;Sertão Produtivo;1991;natural.do.mun;6907
+244;2920403;Manoel Vitorino;Médio Rio de Contas;1991;natural.do.mun;15559
+245;2920452;Mansidão;Bacia do Rio Grande;1991;natural.do.mun;9804
+246;2920502;Maracás;Vale do Jiquiriçá;1991;natural.do.mun;23939
+247;2920601;Maragogipe;Recôncavo;1991;natural.do.mun;36583
+248;2920700;Maraú;Litoral Sul;1991;natural.do.mun;14104
+249;2920809;Marcionílio Souza;Chapada Diamantina;1991;natural.do.mun;8972
+250;2920908;Mascote;Litoral Sul;1991;natural.do.mun;14319
+251;2921005;Mata de São João;Metropolitano de Salvador;1991;natural.do.mun;22834
+252;2921054;Matina;Velho Chico;1991;natural.do.mun;8491
+253;2921104;Medeiros Neto;Extremo Sul;1991;natural.do.mun;13727
+254;2921203;Miguel Calmon;Piemonte da Diamantina;1991;natural.do.mun;22443
+255;2921302;Milagres;Vale do Jiquiriçá;1991;natural.do.mun;6855
+256;2921401;Mirangaba;Piemonte da Diamantina;1991;natural.do.mun;14073
+257;2921450;Mirante;Sudoeste Baiano;1991;natural.do.mun;8055
+258;2921500;Monte Santo;Sisal;1991;natural.do.mun;49635
+259;2921609;Morpará;Velho Chico;1991;natural.do.mun;5808
+260;2921708;Morro do Chapéu;Chapada Diamantina;1991;natural.do.mun;24389
+261;2921807;Mortugaba;Sudoeste Baiano;1991;natural.do.mun;10659
+262;2921906;Mucugê;Chapada Diamantina;1991;natural.do.mun;9511
+263;2922003;Mucuri;Extremo Sul;1991;natural.do.mun;11801
+264;2922052;Mulungu do Morro;Irecê;1991;natural.do.mun;12994
+265;2922102;Mundo Novo;Piemonte do Paraguaçu;1991;natural.do.mun;28492
+266;2922201;Muniz Ferreira;Recôncavo;1991;natural.do.mun;4616
+267;2922250;Muquém do São Francisco;Velho Chico;1991;natural.do.mun;5637
+268;2922300;Muritiba;Recôncavo;1991;natural.do.mun;20243
+269;2922409;Mutuípe;Vale do Jiquiriçá;1991;natural.do.mun;15924
+270;2922508;Nazaré;Recôncavo;1991;natural.do.mun;20008
+271;2922607;Nilo Peçanha;Baixo Sul;1991;natural.do.mun;11223
+272;2922656;Nordestina;Sisal;1991;natural.do.mun;8593
+273;2922706;Nova Canaã;Médio Sudoeste da Bahia;1991;natural.do.mun;11360
+274;2922730;Nova Fátima;Bacia do Jacuípe;1991;natural.do.mun;9168
+275;2922755;Nova Ibiá;Médio Rio de Contas;1991;natural.do.mun;7891
+276;2922805;Nova Itarana;Vale do Jiquiriçá;1991;natural.do.mun;5000
+277;2922854;Nova Redenção;Chapada Diamantina;1991;natural.do.mun;7817
+278;2922904;Nova Soure;Semiárido Nordeste II;1991;natural.do.mun;22157
+279;2923001;Nova Viçosa;Extremo Sul;1991;natural.do.mun;15917
+280;2923035;Novo Horizonte;Chapada Diamantina;1991;natural.do.mun;9576
+281;2923050;Novo Triunfo;Semiárido Nordeste II;1991;natural.do.mun;10844
+282;2923100;Olindina;Litoral Norte e Agreste Baiano;1991;natural.do.mun;17265
+283;2923209;Oliveira dos Brejinhos;Velho Chico;1991;natural.do.mun;19404
+284;2923308;Ouriçangas;Litoral Norte e Agreste Baiano;1991;natural.do.mun;6697
+285;2923357;Ourolândia;Piemonte da Diamantina;1991;natural.do.mun;9314
+286;2923407;Palmas de Monte Alto;Sertão Produtivo;1991;natural.do.mun;17758
+287;2923506;Palmeiras;Chapada Diamantina;1991;natural.do.mun;5763
+288;2923605;Paramirim;Bacia do Paramirim;1991;natural.do.mun;21525
+289;2923704;Paratinga;Velho Chico;1991;natural.do.mun;23297
+290;2923803;Paripiranga;Semiárido Nordeste II;1991;natural.do.mun;24432
+291;2923902;Pau Brasil;Litoral Sul;1991;natural.do.mun;11060
+292;2924009;Paulo Afonso;Itaparica;1991;natural.do.mun;47773
+293;2924058;Pé de Serra;Bacia do Jacuípe;1991;natural.do.mun;16022
+294;2924108;Pedrão;Litoral Norte e Agreste Baiano;1991;natural.do.mun;6586
+295;2924207;Pedro Alexandre;Semiárido Nordeste II;1991;natural.do.mun;13756
+296;2924306;Piatã;Chapada Diamantina;1991;natural.do.mun;17907
+297;2924405;Pilão Arcado;Sertão do São Francisco;1991;natural.do.mun;31266
+298;2924504;Pindaí;Sertão Produtivo;1991;natural.do.mun;15495
+299;2924603;Pindobaçu;Piemonte Norte do Itapicuru;1991;natural.do.mun;20880
+300;2924652;Pintadas;Bacia do Jacuípe;1991;natural.do.mun;9605
+301;2924678;Piraí do Norte;Baixo Sul;1991;natural.do.mun;11718
+302;2924702;Piripá;Sudoeste Baiano;1991;natural.do.mun;9596
+303;2924801;Piritiba;Piemonte do Paraguaçu;1991;natural.do.mun;20129
+304;2924900;Planaltino;Vale do Jiquiriçá;1991;natural.do.mun;9519
+305;2925006;Planalto;Sudoeste Baiano;1991;natural.do.mun;19542
+306;2925105;Poções;Sudoeste Baiano;1991;natural.do.mun;28817
+307;2925204;Pojuca;Metropolitano de Salvador;1991;natural.do.mun;15624
+308;2925253;Ponto Novo;Piemonte Norte do Itapicuru;1991;natural.do.mun;14382
+309;2925303;Porto Seguro;Costa do Descobrimento;1991;natural.do.mun;22526
+310;2925402;Potiraguá;Médio Sudoeste da Bahia;1991;natural.do.mun;7499
+311;2925501;Prado;Extremo Sul;1991;natural.do.mun;15053
+312;2925600;Presidente Dutra;Irecê;1991;natural.do.mun;10604
+313;2925709;Presidente Jânio Quadros;Sudoeste Baiano;1991;natural.do.mun;13344
+314;2925758;Presidente Tancredo Neves;Baixo Sul;1991;natural.do.mun;14865
+315;2925808;Queimadas;Sisal;1991;natural.do.mun;20115
+316;2925907;Quijingue;Sisal;1991;natural.do.mun;21714
+317;2925931;Quixabeira;Bacia do Jacuípe;1991;natural.do.mun;11240
+318;2925956;Rafael Jambeiro;Piemonte do Paraguaçu;1991;natural.do.mun;20315
+319;2926004;Remanso;Sertão do São Francisco;1991;natural.do.mun;29551
+320;2926103;Retirolândia;Sisal;1991;natural.do.mun;9818
+321;2926202;Riachão das Neves;Bacia do Rio Grande;1991;natural.do.mun;16780
+322;2926301;Riachão do Jacuípe;Bacia do Jacuípe;1991;natural.do.mun;34144
+323;2926400;Riacho de Santana;Velho Chico;1991;natural.do.mun;25851
+324;2926509;Ribeira do Amparo;Semiárido Nordeste II;1991;natural.do.mun;13012
+325;2926608;Ribeira do Pombal;Semiárido Nordeste II;1991;natural.do.mun;33880
+326;2926657;Ribeirão do Largo;Sudoeste Baiano;1991;natural.do.mun;9871
+327;2926707;Rio de Contas;Chapada Diamantina;1991;natural.do.mun;13124
+328;2926806;Rio do Antônio;Sertão Produtivo;1991;natural.do.mun;12435
+329;2926905;Rio do Pires;Bacia do Paramirim;1991;natural.do.mun;11558
+330;2927002;Rio Real;Litoral Norte e Agreste Baiano;1991;natural.do.mun;20687
+331;2927101;Rodelas;Itaparica;1991;natural.do.mun;3461
+332;2927200;Ruy Barbosa;Piemonte do Paraguaçu;1991;natural.do.mun;27118
+333;2927309;Salinas da Margarida;Recôncavo;1991;natural.do.mun;7513
+334;2927408;Salvador;Metropolitano de Salvador;1991;natural.do.mun;1428452
+335;2927507;Santa Bárbara;Portal do Sertão;1991;natural.do.mun;15125
+336;2927606;Santa Brígida;Semiárido Nordeste II;1991;natural.do.mun;9632
+337;2927705;Santa Cruz Cabrália;Costa do Descobrimento;1991;natural.do.mun;4542
+338;2927804;Santa Cruz da Vitória;Médio Sudoeste da Bahia;1991;natural.do.mun;4534
+339;2927903;Santa Inês;Vale do Jiquiriçá;1991;natural.do.mun;8506
+340;2928059;Santa Luzia;Litoral Sul;1991;natural.do.mun;10575
+341;2928109;Santa Maria da Vitória;Bacia do Rio Corrente;1991;natural.do.mun;34192
+342;2928406;Santa Rita de Cássia;Bacia do Rio Grande;1991;natural.do.mun;21078
+343;2928505;Santa Terezinha;Piemonte do Paraguaçu;1991;natural.do.mun;8170
+344;2928000;Santaluz;Sisal;1991;natural.do.mun;25153
+345;2928208;Santana;Bacia do Rio Corrente;1991;natural.do.mun;21331
+346;2928307;Santanópolis;Portal do Sertão;1991;natural.do.mun;9047
+347;2928604;Santo Amaro;Recôncavo;1991;natural.do.mun;44338
+348;2928703;Santo Antônio de Jesus;Recôncavo;1991;natural.do.mun;46028
+349;2928802;Santo Estevão;Portal do Sertão;1991;natural.do.mun;31301
+350;2928901;São Desidério;Bacia do Rio Grande;1991;natural.do.mun;17238
+351;2928950;São Domingos;Sisal;1991;natural.do.mun;8035
+352;2929107;São Felipe;Recôncavo;1991;natural.do.mun;19036
+353;2929008;São Félix;Recôncavo;1991;natural.do.mun;10294
+354;2929057;São Félix do Coribe;Bacia do Rio Corrente;1991;natural.do.mun;7613
+355;2929206;São Francisco do Conde;Metropolitano de Salvador;1991;natural.do.mun;16573
+356;2929255;São Gabriel;Irecê;1991;natural.do.mun;13781
+357;2929305;São Gonçalo dos Campos;Portal do Sertão;1991;natural.do.mun;21526
+358;2929354;São José da Vitória;Litoral Sul;1991;natural.do.mun;6678
+359;2929370;São José do Jacuípe;Bacia do Jacuípe;1991;natural.do.mun;11641
+360;2929404;São Miguel das Matas;Vale do Jiquiriçá;1991;natural.do.mun;8111
+361;2929503;São Sebastião do Passé;Metropolitano de Salvador;1991;natural.do.mun;30671
+362;2929602;Sapeaçu;Recôncavo;1991;natural.do.mun;12275
+363;2929701;Sátiro Dias;Litoral Norte e Agreste Baiano;1991;natural.do.mun;12789
+364;2929750;Saubara;Recôncavo;1991;natural.do.mun;7484
+365;2929800;Saúde;Piemonte da Diamantina;1991;natural.do.mun;9509
+366;2929909;Seabra;Chapada Diamantina;1991;natural.do.mun;32671
+367;2930006;Sebastião Laranjeiras;Sertão Produtivo;1991;natural.do.mun;6939
+368;2930105;Senhor do Bonfim;Piemonte Norte do Itapicuru;1991;natural.do.mun;66931
+369;2930204;Sento Sé;Sertão do São Francisco;1991;natural.do.mun;24506
+370;2930154;Serra do Ramalho;Velho Chico;1991;natural.do.mun;15437
+371;2930303;Serra Dourada;Bacia do Rio Corrente;1991;natural.do.mun;16448
+372;2930402;Serra Preta;Bacia do Jacuípe;1991;natural.do.mun;17035
+373;2930501;Serrinha;Sisal;1991;natural.do.mun;64807
+374;2930600;Serrolândia;Piemonte da Diamantina;1991;natural.do.mun;9057
+375;2930709;Simões Filho;Metropolitano de Salvador;1991;natural.do.mun;34664
+376;2930758;Sítio do Mato;Velho Chico;1991;natural.do.mun;7500
+377;2930766;Sítio do Quinto;Semiárido Nordeste II;1991;natural.do.mun;10163
+378;2930774;Sobradinho;Sertão do São Francisco;1991;natural.do.mun;7691
+379;2930808;Souto Soares;Chapada Diamantina;1991;natural.do.mun;16586
+380;2930907;Tabocas do Brejo Velho;Bacia do Rio Corrente;1991;natural.do.mun;10641
+381;2931004;Tanhaçu;Sertão Produtivo;1991;natural.do.mun;17072
+382;2931053;Tanque Novo;Sertão Produtivo;1991;natural.do.mun;11961
+383;2931103;Tanquinho;Portal do Sertão;1991;natural.do.mun;9166
+384;2931202;Taperoá;Baixo Sul;1991;natural.do.mun;15732
+385;2931301;Tapiramutá;Piemonte do Paraguaçu;1991;natural.do.mun;11069
+386;2931350;Teixeira de Freitas;Extremo Sul;1991;natural.do.mun;32721
+387;2931400;Teodoro Sampaio;Portal do Sertão;1991;natural.do.mun;8461
+388;2931509;Teofilândia;Sisal;1991;natural.do.mun;20181
+389;2931608;Teolândia;Baixo Sul;1991;natural.do.mun;9483
+390;2931707;Terra Nova;Portal do Sertão;1991;natural.do.mun;11273
+391;2931806;Tremedal;Sudoeste Baiano;1991;natural.do.mun;20050
+392;2931905;Tucano;Sisal;1991;natural.do.mun;42847
+393;2932002;Uauá;Sertão do São Francisco;1991;natural.do.mun;22967
+394;2932101;Ubaíra;Vale do Jiquiriçá;1991;natural.do.mun;18542
+395;2932200;Ubaitaba;Litoral Sul;1991;natural.do.mun;13247
+396;2932309;Ubatã;Médio Rio de Contas;1991;natural.do.mun;16082
+397;2932408;Uibaí;Irecê;1991;natural.do.mun;10048
+398;2932457;Umburanas;Piemonte da Diamantina;1991;natural.do.mun;10084
+399;2932507;Una;Litoral Sul;1991;natural.do.mun;15214
+400;2932606;Urandi;Sertão Produtivo;1991;natural.do.mun;14524
+401;2932705;Uruçuca;Litoral Sul;1991;natural.do.mun;24613
+402;2932804;Utinga;Chapada Diamantina;1991;natural.do.mun;13006
+403;2932903;Valença;Baixo Sul;1991;natural.do.mun;53010
+404;2933000;Valente;Sisal;1991;natural.do.mun;16522
+405;2933059;Várzea da Roça;Bacia do Jacuípe;1991;natural.do.mun;11850
+406;2933109;Várzea do Poço;Bacia do Jacuípe;1991;natural.do.mun;8707
+407;2933158;Várzea Nova;Piemonte da Diamantina;1991;natural.do.mun;13060
+408;2933174;Varzedo;Recôncavo;1991;natural.do.mun;7557
+409;2933208;Vera Cruz;Metropolitano de Salvador;1991;natural.do.mun;16465
+410;2933257;Vereda;Extremo Sul;1991;natural.do.mun;6101
+411;2933307;Vitória da Conquista;Sudoeste Baiano;1991;natural.do.mun;147629
+412;2933406;Wagner;Chapada Diamantina;1991;natural.do.mun;4299
+413;2933455;Wanderley;Bacia do Rio Grande;1991;natural.do.mun;11175
+414;2933505;Wenceslau Guimarães;Baixo Sul;1991;natural.do.mun;14878
+415;2933604;Xique-Xique;Irecê;1991;natural.do.mun;29460
+416;2900108;Abaíra;Chapada Diamantina;2000;natural.do.mun;8017
+417;2900207;Abaré;Itaparica;2000;natural.do.mun;10881
+418;2900306;Acajutiba;Litoral Norte e Agreste Baiano;2000;natural.do.mun;10819
+419;2900355;Adustina;Semiárido Nordeste II;2000;natural.do.mun;11615
+420;2900405;Água Fria;Portal do Sertão;2000;natural.do.mun;12963
+421;2900603;Aiquara;Médio Rio de Contas;2000;natural.do.mun;3733
+422;2900702;Alagoinhas;Litoral Norte e Agreste Baiano;2000;natural.do.mun;93136
+423;2900801;Alcobaça;Extremo Sul;2000;natural.do.mun;14510
+424;2900900;Almadina;Litoral Sul;2000;natural.do.mun;4684
+425;2901007;Amargosa;Vale do Jiquiriçá;2000;natural.do.mun;24630
+426;2901106;Amélia Rodrigues;Portal do Sertão;2000;natural.do.mun;18498
+427;2901155;América Dourada;Irecê;2000;natural.do.mun;12533
+428;2901205;Anagé;Sudoeste Baiano;2000;natural.do.mun;29146
+429;2901304;Andaraí;Chapada Diamantina;2000;natural.do.mun;11040
+430;2901353;Andorinha;Piemonte Norte do Itapicuru;2000;natural.do.mun;12492
+431;2901403;Angical;Bacia do Rio Grande;2000;natural.do.mun;12395
+432;2901502;Anguera;Portal do Sertão;2000;natural.do.mun;7638
+433;2901601;Antas;Semiárido Nordeste II;2000;natural.do.mun;12074
+434;2901700;Antônio Cardoso;Portal do Sertão;2000;natural.do.mun;10959
+435;2901809;Antônio Gonçalves;Piemonte Norte do Itapicuru;2000;natural.do.mun;7157
+436;2901908;Aporá;Litoral Norte e Agreste Baiano;2000;natural.do.mun;13850
+437;2901957;Apuarema;Médio Rio de Contas;2000;natural.do.mun;5251
+438;2902054;Araçás;Litoral Norte e Agreste Baiano;2000;natural.do.mun;8605
+439;2902005;Aracatu;Sudoeste Baiano;2000;natural.do.mun;14727
+440;2902104;Araci;Sisal;2000;natural.do.mun;40956
+441;2902203;Aramari;Litoral Norte e Agreste Baiano;2000;natural.do.mun;8005
+442;2902252;Arataca;Litoral Sul;2000;natural.do.mun;6636
+443;2902302;Aratuípe;Baixo Sul;2000;natural.do.mun;7081
+444;2902401;Aurelino Leal;Litoral Sul;2000;natural.do.mun;12156
+445;2902500;Baianópolis;Bacia do Rio Grande;2000;natural.do.mun;11001
+446;2902609;Baixa Grande;Bacia do Jacuípe;2000;natural.do.mun;18526
+447;2902658;Banzaê;Semiárido Nordeste II;2000;natural.do.mun;10104
+448;2902708;Barra;Velho Chico;2000;natural.do.mun;40225
+449;2902807;Barra da Estiva;Chapada Diamantina;2000;natural.do.mun;21887
+450;2902906;Barra do Choça;Sudoeste Baiano;2000;natural.do.mun;29972
+451;2903003;Barra do Mendes;Irecê;2000;natural.do.mun;11225
+452;2903102;Barra do Rocha;Médio Rio de Contas;2000;natural.do.mun;5444
+453;2903201;Barreiras;Bacia do Rio Grande;2000;natural.do.mun;61780
+454;2903235;Barro Alto;Irecê;2000;natural.do.mun;9827
+455;2903300;Barro Preto/Lomanto Junior;Litoral Sul;2000;natural.do.mun;6191
+456;2903409;Belmonte;Costa do Descobrimento;2000;natural.do.mun;16391
+457;2903508;Belo Campo;Sudoeste Baiano;2000;natural.do.mun;13827
+458;2903607;Biritinga;Sisal;2000;natural.do.mun;12950
+459;2903706;Boa Nova;Médio Rio de Contas;2000;natural.do.mun;18104
+460;2903805;Boa Vista do Tupim;Piemonte do Paraguaçu;2000;natural.do.mun;14768
+461;2903904;Bom Jesus da Lapa;Velho Chico;2000;natural.do.mun;39691
+462;2903953;Bom Jesus da Serra;Sudoeste Baiano;2000;natural.do.mun;9347
+463;2904001;Boninal;Chapada Diamantina;2000;natural.do.mun;10875
+464;2904050;Bonito;Chapada Diamantina;2000;natural.do.mun;8171
+465;2904100;Boquira;Bacia do Paramirim;2000;natural.do.mun;20278
+466;2904209;Botuporã;Bacia do Paramirim;2000;natural.do.mun;10793
+467;2904308;Brejões;Vale do Jiquiriçá;2000;natural.do.mun;12112
+468;2904407;Brejolândia;Bacia do Rio Corrente;2000;natural.do.mun;7499
+469;2904506;Brotas de Macaúbas;Velho Chico;2000;natural.do.mun;12201
+470;2904605;Brumado;Sertão Produtivo;2000;natural.do.mun;49073
+471;2904704;Buerarema;Litoral Sul;2000;natural.do.mun;13768
+472;2904753;Buritirama;Bacia do Rio Grande;2000;natural.do.mun;16376
+473;2904803;Caatiba;Médio Sudoeste da Bahia;2000;natural.do.mun;14191
+474;2904852;Cabaceiras do Paraguaçu;Recôncavo;2000;natural.do.mun;13684
+475;2904902;Cachoeira;Recôncavo;2000;natural.do.mun;24678
+476;2905008;Caculé;Sertão Produtivo;2000;natural.do.mun;16573
+477;2905107;Caém;Piemonte da Diamantina;2000;natural.do.mun;10408
+478;2905156;Caetanos;Sudoeste Baiano;2000;natural.do.mun;12590
+479;2905206;Caetité;Sertão Produtivo;2000;natural.do.mun;40793
+480;2905305;Cafarnaum;Irecê;2000;natural.do.mun;12228
+481;2905404;Cairu;Baixo Sul;2000;natural.do.mun;9685
+482;2905503;Caldeirão Grande;Piemonte Norte do Itapicuru;2000;natural.do.mun;9714
+483;2905602;Camacan;Litoral Sul;2000;natural.do.mun;20009
+484;2905701;Camaçari;Metropolitano de Salvador;2000;natural.do.mun;80628
+485;2905800;Camamu;Baixo Sul;2000;natural.do.mun;28386
+486;2905909;Campo Alegre de Lourdes;Sertão do São Francisco;2000;natural.do.mun;24925
+487;2906006;Campo Formoso;Piemonte Norte do Itapicuru;2000;natural.do.mun;55192
+488;2906105;Canápolis;Bacia do Rio Corrente;2000;natural.do.mun;9266
+489;2906204;Canarana;Irecê;2000;natural.do.mun;15983
+490;2906303;Canavieiras;Litoral Sul;2000;natural.do.mun;27183
+491;2906402;Candeal;Sisal;2000;natural.do.mun;9136
+492;2906501;Candeias;Metropolitano de Salvador;2000;natural.do.mun;52083
+493;2906600;Candiba;Sertão Produtivo;2000;natural.do.mun;10666
+494;2906709;Cândido Sales;Sudoeste Baiano;2000;natural.do.mun;22484
+495;2906808;Cansanção;Sisal;2000;natural.do.mun;27755
+496;2906824;Canudos;Sertão do São Francisco;2000;natural.do.mun;10327
+497;2906857;Capela do Alto Alegre;Bacia do Jacuípe;2000;natural.do.mun;10040
+498;2906873;Capim Grosso;Bacia do Jacuípe;2000;natural.do.mun;14386
+499;2906899;Caraíbas;Sudoeste Baiano;2000;natural.do.mun;15537
+500;2906907;Caravelas;Extremo Sul;2000;natural.do.mun;14513
+501;2907004;Cardeal da Silva;Litoral Norte e Agreste Baiano;2000;natural.do.mun;6056
+502;2907103;Carinhanha;Velho Chico;2000;natural.do.mun;22790
+503;2907202;Casa Nova;Sertão do São Francisco;2000;natural.do.mun;46445
+504;2907301;Castro Alves;Recôncavo;2000;natural.do.mun;22461
+505;2907400;Catolândia;Bacia do Rio Grande;2000;natural.do.mun;2528
+506;2907509;Catu;Litoral Norte e Agreste Baiano;2000;natural.do.mun;38110
+507;2907558;Caturama;Bacia do Paramirim;2000;natural.do.mun;8463
+508;2907608;Central;Irecê;2000;natural.do.mun;13606
+509;2907707;Chorrochó;Itaparica;2000;natural.do.mun;9329
+510;2907806;Cícero Dantas;Semiárido Nordeste II;2000;natural.do.mun;26036
+511;2907905;Cipó;Semiárido Nordeste II;2000;natural.do.mun;10732
+512;2908002;Coaraci;Litoral Sul;2000;natural.do.mun;20882
+513;2908101;Côcos;Bacia do Rio Corrente;2000;natural.do.mun;15819
+514;2908200;Conceição da Feira;Portal do Sertão;2000;natural.do.mun;14254
+515;2908309;Conceição do Almeida;Recôncavo;2000;natural.do.mun;15411
+516;2908408;Conceição do Coité;Sisal;2000;natural.do.mun;49279
+517;2908507;Conceição do Jacuípe;Portal do Sertão;2000;natural.do.mun;18952
+518;2908606;Conde;Litoral Norte e Agreste Baiano;2000;natural.do.mun;17893
+519;2908705;Condeúba;Sudoeste Baiano;2000;natural.do.mun;16186
+520;2908804;Contendas do Sincorá;Sertão Produtivo;2000;natural.do.mun;3325
+521;2908903;Coração de Maria;Portal do Sertão;2000;natural.do.mun;21385
+522;2909000;Cordeiros;Sudoeste Baiano;2000;natural.do.mun;6924
+523;2909109;Coribe;Bacia do Rio Corrente;2000;natural.do.mun;12814
+524;2909208;Coronel João Sá;Semiárido Nordeste II;2000;natural.do.mun;18071
+525;2909307;Correntina;Bacia do Rio Corrente;2000;natural.do.mun;25269
+526;2909406;Cotegipe;Bacia do Rio Grande;2000;natural.do.mun;10935
+527;2909505;Cravolândia;Vale do Jiquiriçá;2000;natural.do.mun;3966
+528;2909604;Crisópolis;Litoral Norte e Agreste Baiano;2000;natural.do.mun;16147
+529;2909703;Cristópolis;Bacia do Rio Grande;2000;natural.do.mun;10990
+530;2909802;Cruz das Almas;Recôncavo;2000;natural.do.mun;40486
+531;2909901;Curaçá;Sertão do São Francisco;2000;natural.do.mun;24478
+532;2910008;Dário Meira;Médio Rio de Contas;2000;natural.do.mun;13061
+533;2910057;Dias d'Ávila;Metropolitano de Salvador;2000;natural.do.mun;16961
+534;2910107;Dom Basílio;Sertão Produtivo;2000;natural.do.mun;9654
+535;2910206;Dom Macedo Costa;Recôncavo;2000;natural.do.mun;3040
+536;2910305;Elísio Medrado;Vale do Jiquiriçá;2000;natural.do.mun;6442
+537;2910404;Encruzilhada;Sudoeste Baiano;2000;natural.do.mun;26626
+538;2910503;Entre Rios;Litoral Norte e Agreste Baiano;2000;natural.do.mun;26918
+539;2900504;Érico Cardoso;Bacia do Paramirim;2000;natural.do.mun;12007
+540;2910602;Esplanada;Litoral Norte e Agreste Baiano;2000;natural.do.mun;20604
+541;2910701;Euclides da Cunha;Semiárido Nordeste II;2000;natural.do.mun;43480
+542;2910727;Eunápolis;Costa do Descobrimento;2000;natural.do.mun;44380
+543;2910750;Fátima;Semiárido Nordeste II;2000;natural.do.mun;15392
+544;2910776;Feira da Mata;Velho Chico;2000;natural.do.mun;5318
+545;2910800;Feira de Santana;Portal do Sertão;2000;natural.do.mun;316514
+546;2910859;Filadélfia;Piemonte Norte do Itapicuru;2000;natural.do.mun;13886
+547;2910909;Firmino Alves;Médio Sudoeste da Bahia;2000;natural.do.mun;2971
+548;2911006;Floresta Azul;Litoral Sul;2000;natural.do.mun;8724
+549;2911105;Formosa do Rio Preto;Bacia do Rio Grande;2000;natural.do.mun;15083
+550;2911204;Gandu;Baixo Sul;2000;natural.do.mun;18953
+551;2911253;Gavião;Bacia do Jacuípe;2000;natural.do.mun;3969
+552;2911303;Gentio do Ouro;Irecê;2000;natural.do.mun;9163
+553;2911402;Glória;Itaparica;2000;natural.do.mun;13180
+554;2911501;Gongogi;Médio Rio de Contas;2000;natural.do.mun;7239
+555;2911600;Governador Mangabeira;Recôncavo;2000;natural.do.mun;13366
+556;2911659;Guajeru;Sudoeste Baiano;2000;natural.do.mun;12123
+557;2911709;Guanambi;Sertão Produtivo;2000;natural.do.mun;52397
+558;2911808;Guaratinga;Costa do Descobrimento;2000;natural.do.mun;20046
+559;2911857;Heliópolis;Semiárido Nordeste II;2000;natural.do.mun;11407
+560;2911907;Iaçu;Piemonte do Paraguaçu;2000;natural.do.mun;21182
+561;2912004;Ibiassucê;Sertão Produtivo;2000;natural.do.mun;12103
+562;2912103;Ibicaraí;Litoral Sul;2000;natural.do.mun;21422
+563;2912202;Ibicoara;Chapada Diamantina;2000;natural.do.mun;11255
+564;2912301;Ibicuí;Médio Sudoeste da Bahia;2000;natural.do.mun;10608
+565;2912400;Ibipeba;Irecê;2000;natural.do.mun;11736
+566;2912509;Ibipitanga;Bacia do Paramirim;2000;natural.do.mun;11902
+567;2912608;Ibiquera;Piemonte do Paraguaçu;2000;natural.do.mun;3845
+568;2912707;Ibirapitanga;Baixo Sul;2000;natural.do.mun;14836
+569;2912806;Ibirapoã;Extremo Sul;2000;natural.do.mun;4600
+570;2912905;Ibirataia;Médio Rio de Contas;2000;natural.do.mun;18894
+571;2913002;Ibitiara;Chapada Diamantina;2000;natural.do.mun;13298
+572;2913101;Ibititá;Irecê;2000;natural.do.mun;13610
+573;2913200;Ibotirama;Velho Chico;2000;natural.do.mun;15040
+574;2913309;Ichu;Sisal;2000;natural.do.mun;4582
+575;2913408;Igaporã;Velho Chico;2000;natural.do.mun;12703
+576;2913457;Igrapiúna;Baixo Sul;2000;natural.do.mun;12100
+577;2913507;Iguaí;Médio Sudoeste da Bahia;2000;natural.do.mun;20602
+578;2913606;Ilhéus;Litoral Sul;2000;natural.do.mun;163273
+579;2913705;Inhambupe;Litoral Norte e Agreste Baiano;2000;natural.do.mun;25057
+580;2913804;Ipecaetá;Portal do Sertão;2000;natural.do.mun;17783
+581;2913903;Ipiaú;Médio Rio de Contas;2000;natural.do.mun;29092
+582;2914000;Ipirá;Bacia do Jacuípe;2000;natural.do.mun;55504
+583;2914109;Ipupiara;Irecê;2000;natural.do.mun;7231
+584;2914208;Irajuba;Vale do Jiquiriçá;2000;natural.do.mun;5032
+585;2914307;Iramaia;Chapada Diamantina;2000;natural.do.mun;15405
+586;2914406;Iraquara;Chapada Diamantina;2000;natural.do.mun;15458
+587;2914505;Irará;Portal do Sertão;2000;natural.do.mun;22169
+588;2914604;Irecê;Irecê;2000;natural.do.mun;31261
+589;2914653;Itabela;Costa do Descobrimento;2000;natural.do.mun;13940
+590;2914703;Itaberaba;Piemonte do Paraguaçu;2000;natural.do.mun;40633
+591;2914802;Itabuna;Litoral Sul;2000;natural.do.mun;126601
+592;2914901;Itacaré;Litoral Sul;2000;natural.do.mun;12466
+593;2915007;Itaeté;Chapada Diamantina;2000;natural.do.mun;11647
+594;2915106;Itagi;Médio Rio de Contas;2000;natural.do.mun;12447
+595;2915205;Itagibá;Médio Rio de Contas;2000;natural.do.mun;12176
+596;2915304;Itagimirim;Costa do Descobrimento;2000;natural.do.mun;4821
+597;2915353;Itaguaçu da Bahia;Irecê;2000;natural.do.mun;7620
+598;2915403;Itaju do Colônia;Litoral Sul;2000;natural.do.mun;5127
+599;2915502;Itajuípe;Litoral Sul;2000;natural.do.mun;15509
+600;2915601;Itamaraju;Extremo Sul;2000;natural.do.mun;42203
+601;2915700;Itamari;Médio Rio de Contas;2000;natural.do.mun;5641
+602;2915809;Itambé;Médio Sudoeste da Bahia;2000;natural.do.mun;26189
+603;2915908;Itanagra;Litoral Norte e Agreste Baiano;2000;natural.do.mun;4840
+604;2916005;Itanhém;Extremo Sul;2000;natural.do.mun;14821
+605;2916104;Itaparica;Metropolitano de Salvador;2000;natural.do.mun;13066
+606;2916203;Itapé;Litoral Sul;2000;natural.do.mun;12093
+607;2916302;Itapebi;Costa do Descobrimento;2000;natural.do.mun;7567
+608;2916401;Itapetinga;Médio Sudoeste da Bahia;2000;natural.do.mun;37362
+609;2916500;Itapicuru;Litoral Norte e Agreste Baiano;2000;natural.do.mun;22893
+610;2916609;Itapitanga;Litoral Sul;2000;natural.do.mun;9188
+611;2916708;Itaquara;Vale do Jiquiriçá;2000;natural.do.mun;6497
+612;2916807;Itarantim;Médio Sudoeste da Bahia;2000;natural.do.mun;14003
+613;2916856;Itatim;Piemonte do Paraguaçu;2000;natural.do.mun;10167
+614;2916906;Itiruçu;Vale do Jiquiriçá;2000;natural.do.mun;10614
+615;2917003;Itiúba;Sisal;2000;natural.do.mun;31161
+616;2917102;Itororó;Médio Sudoeste da Bahia;2000;natural.do.mun;12668
+617;2917201;Ituaçu;Sertão Produtivo;2000;natural.do.mun;15576
+618;2917300;Ituberá;Baixo Sul;2000;natural.do.mun;17339
+619;2917334;Iuiu;Sertão Produtivo;2000;natural.do.mun;8785
+620;2917359;Jaborandi;Bacia do Rio Corrente;2000;natural.do.mun;9143
+621;2917409;Jacaraci;Sudoeste Baiano;2000;natural.do.mun;12343
+622;2917508;Jacobina;Piemonte da Diamantina;2000;natural.do.mun;54197
+623;2917607;Jaguaquara;Vale do Jiquiriçá;2000;natural.do.mun;32350
+624;2917706;Jaguarari;Piemonte Norte do Itapicuru;2000;natural.do.mun;21789
+625;2917805;Jaguaripe;Baixo Sul;2000;natural.do.mun;11054
+626;2917904;Jandaíra;Litoral Norte e Agreste Baiano;2000;natural.do.mun;8318
+627;2918001;Jequié;Médio Rio de Contas;2000;natural.do.mun;107420
+628;2918100;Jeremoabo;Semiárido Nordeste II;2000;natural.do.mun;28331
+629;2918209;Jiquiriçá;Vale do Jiquiriçá;2000;natural.do.mun;11061
+630;2918308;Jitaúna;Médio Rio de Contas;2000;natural.do.mun;17604
+631;2918357;João Dourado;Irecê;2000;natural.do.mun;12811
+632;2918407;Juazeiro;Sertão do São Francisco;2000;natural.do.mun;107292
+633;2918456;Jucuruçu;Extremo Sul;2000;natural.do.mun;9011
+634;2918506;Jussara;Irecê;2000;natural.do.mun;11825
+635;2918555;Jussari;Litoral Sul;2000;natural.do.mun;4831
+636;2918605;Jussiape;Chapada Diamantina;2000;natural.do.mun;9858
+637;2918704;Lafayette Coutinho;Vale do Jiquiriçá;2000;natural.do.mun;3482
+638;2919058;LaGedo do Tabocal;Vale do Jiquiriçá;2000;natural.do.mun;5847
+639;2918753;Lagoa Real;Sertão Produtivo;2000;natural.do.mun;11801
+640;2918803;Laje;Vale do Jiquiriçá;2000;natural.do.mun;15701
+641;2918902;Lajedão;Extremo Sul;2000;natural.do.mun;1831
+642;2919009;Lajedinho;Piemonte do Paraguaçu;2000;natural.do.mun;3403
+643;2919108;Lamarão;Sisal;2000;natural.do.mun;8614
+644;2919157;Lapão;Irecê;2000;natural.do.mun;17260
+645;2919207;Lauro de Freitas;Metropolitano de Salvador;2000;natural.do.mun;43458
+646;2919306;Lençóis;Chapada Diamantina;2000;natural.do.mun;6175
+647;2919405;Licínio de Almeida;Sudoeste Baiano;2000;natural.do.mun;10458
+648;2919504;Livramento de N. Senhora;Sertão Produtivo;2000;natural.do.mun;32256
+649;2919603;Macajuba;Piemonte do Paraguaçu;2000;natural.do.mun;9225
+650;2919702;Macarani;Médio Sudoeste da Bahia;2000;natural.do.mun;11505
+651;2919801;Macaúbas;Bacia do Paramirim;2000;natural.do.mun;38574
+652;2919900;Macururé;Itaparica;2000;natural.do.mun;7986
+653;2919926;Madre de Deus;Metropolitano de Salvador;2000;natural.do.mun;8554
+654;2919959;Maetinga;Sudoeste Baiano;2000;natural.do.mun;12445
+655;2920007;Maiquinique;Médio Sudoeste da Bahia;2000;natural.do.mun;5252
+656;2920106;Mairi;Bacia do Jacuípe;2000;natural.do.mun;17799
+657;2920205;Malhada;Velho Chico;2000;natural.do.mun;13141
+658;2920304;Malhada de Pedras;Sertão Produtivo;2000;natural.do.mun;7560
+659;2920403;Manoel Vitorino;Médio Rio de Contas;2000;natural.do.mun;14802
+660;2920452;Mansidão;Bacia do Rio Grande;2000;natural.do.mun;10166
+661;2920502;Maracás;Vale do Jiquiriçá;2000;natural.do.mun;27430
+662;2920601;Maragogipe;Recôncavo;2000;natural.do.mun;38792
+663;2920700;Maraú;Litoral Sul;2000;natural.do.mun;16516
+664;2920809;Marcionílio Souza;Chapada Diamantina;2000;natural.do.mun;7761
+665;2920908;Mascote;Litoral Sul;2000;natural.do.mun;9980
+666;2921005;Mata de São João;Metropolitano de Salvador;2000;natural.do.mun;24473
+667;2921054;Matina;Velho Chico;2000;natural.do.mun;9492
+668;2921104;Medeiros Neto;Extremo Sul;2000;natural.do.mun;14081
+669;2921203;Miguel Calmon;Piemonte da Diamantina;2000;natural.do.mun;24147
+670;2921302;Milagres;Vale do Jiquiriçá;2000;natural.do.mun;9605
+671;2921401;Mirangaba;Piemonte da Diamantina;2000;natural.do.mun;12374
+672;2921450;Mirante;Sudoeste Baiano;2000;natural.do.mun;12244
+673;2921500;Monte Santo;Sisal;2000;natural.do.mun;53455
+674;2921609;Morpará;Velho Chico;2000;natural.do.mun;6215
+675;2921708;Morro do Chapéu;Chapada Diamantina;2000;natural.do.mun;25242
+676;2921807;Mortugaba;Sudoeste Baiano;2000;natural.do.mun;10207
+677;2921906;Mucugê;Chapada Diamantina;2000;natural.do.mun;11333
+678;2922003;Mucuri;Extremo Sul;2000;natural.do.mun;13452
+679;2922052;Mulungu do Morro;Irecê;2000;natural.do.mun;13754
+680;2922102;Mundo Novo;Piemonte do Paraguaçu;2000;natural.do.mun;17729
+681;2922201;Muniz Ferreira;Recôncavo;2000;natural.do.mun;5603
+682;2922250;Muquém do São Francisco;Velho Chico;2000;natural.do.mun;6588
+683;2922300;Muritiba;Recôncavo;2000;natural.do.mun;25254
+684;2922409;Mutuípe;Vale do Jiquiriçá;2000;natural.do.mun;16616
+685;2922508;Nazaré;Recôncavo;2000;natural.do.mun;20323
+686;2922607;Nilo Peçanha;Baixo Sul;2000;natural.do.mun;8910
+687;2922656;Nordestina;Sisal;2000;natural.do.mun;10432
+688;2922706;Nova Canaã;Médio Sudoeste da Bahia;2000;natural.do.mun;12619
+689;2922730;Nova Fátima;Bacia do Jacuípe;2000;natural.do.mun;5592
+690;2922755;Nova Ibiá;Médio Rio de Contas;2000;natural.do.mun;5318
+691;2922805;Nova Itarana;Vale do Jiquiriçá;2000;natural.do.mun;5132
+692;2922854;Nova Redenção;Chapada Diamantina;2000;natural.do.mun;6624
+693;2922904;Nova Soure;Semiárido Nordeste II;2000;natural.do.mun;20869
+694;2923001;Nova Viçosa;Extremo Sul;2000;natural.do.mun;19459
+695;2923035;Novo Horizonte;Chapada Diamantina;2000;natural.do.mun;7961
+696;2923050;Novo Triunfo;Semiárido Nordeste II;2000;natural.do.mun;13177
+697;2923100;Olindina;Litoral Norte e Agreste Baiano;2000;natural.do.mun;18862
+698;2923209;Oliveira dos Brejinhos;Velho Chico;2000;natural.do.mun;19136
+699;2923308;Ouriçangas;Litoral Norte e Agreste Baiano;2000;natural.do.mun;6515
+700;2923357;Ourolândia;Piemonte da Diamantina;2000;natural.do.mun;10654
+701;2923407;Palmas de Monte Alto;Sertão Produtivo;2000;natural.do.mun;17122
+702;2923506;Palmeiras;Chapada Diamantina;2000;natural.do.mun;6358
+703;2923605;Paramirim;Bacia do Paramirim;2000;natural.do.mun;15929
+704;2923704;Paratinga;Velho Chico;2000;natural.do.mun;24974
+705;2923803;Paripiranga;Semiárido Nordeste II;2000;natural.do.mun;24242
+706;2923902;Pau Brasil;Litoral Sul;2000;natural.do.mun;9182
+707;2924009;Paulo Afonso;Itaparica;2000;natural.do.mun;56840
+708;2924058;Pé de Serra;Bacia do Jacuípe;2000;natural.do.mun;11714
+709;2924108;Pedrão;Litoral Norte e Agreste Baiano;2000;natural.do.mun;6463
+710;2924207;Pedro Alexandre;Semiárido Nordeste II;2000;natural.do.mun;16162
+711;2924306;Piatã;Chapada Diamantina;2000;natural.do.mun;17239
+712;2924405;Pilão Arcado;Sertão do São Francisco;2000;natural.do.mun;28282
+713;2924504;Pindaí;Sertão Produtivo;2000;natural.do.mun;14253
+714;2924603;Pindobaçu;Piemonte Norte do Itapicuru;2000;natural.do.mun;13580
+715;2924652;Pintadas;Bacia do Jacuípe;2000;natural.do.mun;9521
+716;2924678;Piraí do Norte;Baixo Sul;2000;natural.do.mun;10033
+717;2924702;Piripá;Sudoeste Baiano;2000;natural.do.mun;13450
+718;2924801;Piritiba;Piemonte do Paraguaçu;2000;natural.do.mun;14912
+719;2924900;Planaltino;Vale do Jiquiriçá;2000;natural.do.mun;6802
+720;2925006;Planalto;Sudoeste Baiano;2000;natural.do.mun;16298
+721;2925105;Poções;Sudoeste Baiano;2000;natural.do.mun;29039
+722;2925204;Pojuca;Metropolitano de Salvador;2000;natural.do.mun;19600
+723;2925253;Ponto Novo;Piemonte Norte do Itapicuru;2000;natural.do.mun;12041
+724;2925303;Porto Seguro;Costa do Descobrimento;2000;natural.do.mun;37831
+725;2925402;Potiraguá;Médio Sudoeste da Bahia;2000;natural.do.mun;11698
+726;2925501;Prado;Extremo Sul;2000;natural.do.mun;16874
+727;2925600;Presidente Dutra;Irecê;2000;natural.do.mun;10732
+728;2925709;Presidente Jânio Quadros;Sudoeste Baiano;2000;natural.do.mun;15923
+729;2925758;Presidente Tancredo Neves;Baixo Sul;2000;natural.do.mun;15193
+730;2925808;Queimadas;Sisal;2000;natural.do.mun;18675
+731;2925907;Quijingue;Sisal;2000;natural.do.mun;24195
+732;2925931;Quixabeira;Bacia do Jacuípe;2000;natural.do.mun;6776
+733;2925956;Rafael Jambeiro;Piemonte do Paraguaçu;2000;natural.do.mun;20100
+734;2926004;Remanso;Sertão do São Francisco;2000;natural.do.mun;29946
+735;2926103;Retirolândia;Sisal;2000;natural.do.mun;9118
+736;2926202;Riachão das Neves;Bacia do Rio Grande;2000;natural.do.mun;18533
+737;2926301;Riachão do Jacuípe;Bacia do Jacuípe;2000;natural.do.mun;27119
+738;2926400;Riacho de Santana;Velho Chico;2000;natural.do.mun;26505
+739;2926509;Ribeira do Amparo;Semiárido Nordeste II;2000;natural.do.mun;12317
+740;2926608;Ribeira do Pombal;Semiárido Nordeste II;2000;natural.do.mun;36774
+741;2926657;Ribeirão do Largo;Sudoeste Baiano;2000;natural.do.mun;12620
+742;2926707;Rio de Contas;Chapada Diamantina;2000;natural.do.mun;12414
+743;2926806;Rio do Antônio;Sertão Produtivo;2000;natural.do.mun;13620
+744;2926905;Rio do Pires;Bacia do Paramirim;2000;natural.do.mun;11141
+745;2927002;Rio Real;Litoral Norte e Agreste Baiano;2000;natural.do.mun;24762
+746;2927101;Rodelas;Itaparica;2000;natural.do.mun;3943
+747;2927200;Ruy Barbosa;Piemonte do Paraguaçu;2000;natural.do.mun;24190
+748;2927309;Salinas da Margarida;Recôncavo;2000;natural.do.mun;8585
+749;2927408;Salvador;Metropolitano de Salvador;2000;natural.do.mun;1689981
+750;2927507;Santa Bárbara;Portal do Sertão;2000;natural.do.mun;15701
+751;2927606;Santa Brígida;Semiárido Nordeste II;2000;natural.do.mun;12140
+752;2927705;Santa Cruz Cabrália;Costa do Descobrimento;2000;natural.do.mun;10339
+753;2927804;Santa Cruz da Vitória;Médio Sudoeste da Bahia;2000;natural.do.mun;5265
+754;2927903;Santa Inês;Vale do Jiquiriçá;2000;natural.do.mun;7316
+755;2928059;Santa Luzia;Litoral Sul;2000;natural.do.mun;11049
+756;2928109;Santa Maria da Vitória;Bacia do Rio Corrente;2000;natural.do.mun;31424
+757;2928406;Santa Rita de Cássia;Bacia do Rio Grande;2000;natural.do.mun;21151
+758;2928505;Santa Terezinha;Piemonte do Paraguaçu;2000;natural.do.mun;7584
+759;2928000;Santaluz;Sisal;2000;natural.do.mun;25045
+760;2928208;Santana;Bacia do Rio Corrente;2000;natural.do.mun;20828
+761;2928307;Santanópolis;Portal do Sertão;2000;natural.do.mun;7980
+762;2928604;Santo Amaro;Recôncavo;2000;natural.do.mun;47799
+763;2928703;Santo Antônio de Jesus;Recôncavo;2000;natural.do.mun;53571
+764;2928802;Santo Estevão;Portal do Sertão;2000;natural.do.mun;33291
+765;2928901;São Desidério;Bacia do Rio Grande;2000;natural.do.mun;16219
+766;2928950;São Domingos;Sisal;2000;natural.do.mun;6797
+767;2929107;São Felipe;Recôncavo;2000;natural.do.mun;17463
+768;2929008;São Félix;Recôncavo;2000;natural.do.mun;11549
+769;2929057;São Félix do Coribe;Bacia do Rio Corrente;2000;natural.do.mun;7587
+770;2929206;São Francisco do Conde;Metropolitano de Salvador;2000;natural.do.mun;20119
+771;2929255;São Gabriel;Irecê;2000;natural.do.mun;15061
+772;2929305;São Gonçalo dos Campos;Portal do Sertão;2000;natural.do.mun;22189
+773;2929354;São José da Vitória;Litoral Sul;2000;natural.do.mun;3398
+774;2929370;São José do Jacuípe;Bacia do Jacuípe;2000;natural.do.mun;6770
+775;2929404;São Miguel das Matas;Vale do Jiquiriçá;2000;natural.do.mun;8295
+776;2929503;São Sebastião do Passé;Metropolitano de Salvador;2000;natural.do.mun;31873
+777;2929602;Sapeaçu;Recôncavo;2000;natural.do.mun;13089
+778;2929701;Sátiro Dias;Litoral Norte e Agreste Baiano;2000;natural.do.mun;15227
+779;2929750;Saubara;Recôncavo;2000;natural.do.mun;8164
+780;2929800;Saúde;Piemonte da Diamantina;2000;natural.do.mun;8855
+781;2929909;Seabra;Chapada Diamantina;2000;natural.do.mun;31434
+782;2930006;Sebastião Laranjeiras;Sertão Produtivo;2000;natural.do.mun;6761
+783;2930105;Senhor do Bonfim;Piemonte Norte do Itapicuru;2000;natural.do.mun;48821
+784;2930204;Sento Sé;Sertão do São Francisco;2000;natural.do.mun;28265
+785;2930154;Serra do Ramalho;Velho Chico;2000;natural.do.mun;17450
+786;2930303;Serra Dourada;Bacia do Rio Corrente;2000;natural.do.mun;15908
+787;2930402;Serra Preta;Bacia do Jacuípe;2000;natural.do.mun;15870
+788;2930501;Serrinha;Sisal;2000;natural.do.mun;69546
+789;2930600;Serrolândia;Piemonte da Diamantina;2000;natural.do.mun;9745
+790;2930709;Simões Filho;Metropolitano de Salvador;2000;natural.do.mun;48037
+791;2930758;Sítio do Mato;Velho Chico;2000;natural.do.mun;8174
+792;2930766;Sítio do Quinto;Semiárido Nordeste II;2000;natural.do.mun;14276
+793;2930774;Sobradinho;Sertão do São Francisco;2000;natural.do.mun;10479
+794;2930808;Souto Soares;Chapada Diamantina;2000;natural.do.mun;12915
+795;2930907;Tabocas do Brejo Velho;Bacia do Rio Corrente;2000;natural.do.mun;10791
+796;2931004;Tanhaçu;Sertão Produtivo;2000;natural.do.mun;18175
+797;2931053;Tanque Novo;Sertão Produtivo;2000;natural.do.mun;14069
+798;2931103;Tanquinho;Portal do Sertão;2000;natural.do.mun;6430
+799;2931202;Taperoá;Baixo Sul;2000;natural.do.mun;13578
+800;2931301;Tapiramutá;Piemonte do Paraguaçu;2000;natural.do.mun;12912
+801;2931350;Teixeira de Freitas;Extremo Sul;2000;natural.do.mun;46659
+802;2931400;Teodoro Sampaio;Portal do Sertão;2000;natural.do.mun;7485
+803;2931509;Teofilândia;Sisal;2000;natural.do.mun;18066
+804;2931608;Teolândia;Baixo Sul;2000;natural.do.mun;10504
+805;2931707;Terra Nova;Portal do Sertão;2000;natural.do.mun;11197
+806;2931806;Tremedal;Sudoeste Baiano;2000;natural.do.mun;18823
+807;2931905;Tucano;Sisal;2000;natural.do.mun;44905
+808;2932002;Uauá;Sertão do São Francisco;2000;natural.do.mun;24231
+809;2932101;Ubaíra;Vale do Jiquiriçá;2000;natural.do.mun;18433
+810;2932200;Ubaitaba;Litoral Sul;2000;natural.do.mun;13408
+811;2932309;Ubatã;Médio Rio de Contas;2000;natural.do.mun;15383
+812;2932408;Uibaí;Irecê;2000;natural.do.mun;10799
+813;2932457;Umburanas;Piemonte da Diamantina;2000;natural.do.mun;12047
+814;2932507;Una;Litoral Sul;2000;natural.do.mun;21981
+815;2932606;Urandi;Sertão Produtivo;2000;natural.do.mun;13590
+816;2932705;Uruçuca;Litoral Sul;2000;natural.do.mun;15632
+817;2932804;Utinga;Chapada Diamantina;2000;natural.do.mun;11812
+818;2932903;Valença;Baixo Sul;2000;natural.do.mun;57650
+819;2933000;Valente;Sisal;2000;natural.do.mun;15604
+820;2933059;Várzea da Roça;Bacia do Jacuípe;2000;natural.do.mun;11485
+821;2933109;Várzea do Poço;Bacia do Jacuípe;2000;natural.do.mun;5991
+822;2933158;Várzea Nova;Piemonte da Diamantina;2000;natural.do.mun;9744
+823;2933174;Varzedo;Recôncavo;2000;natural.do.mun;7560
+824;2933208;Vera Cruz;Metropolitano de Salvador;2000;natural.do.mun;19180
+825;2933257;Vereda;Extremo Sul;2000;natural.do.mun;4672
+826;2933307;Vitória da Conquista;Sudoeste Baiano;2000;natural.do.mun;178935
+827;2933406;Wagner;Chapada Diamantina;2000;natural.do.mun;5481
+828;2933455;Wanderley;Bacia do Rio Grande;2000;natural.do.mun;11882
+829;2933505;Wenceslau Guimarães;Baixo Sul;2000;natural.do.mun;19602
+830;2933604;Xique-Xique;Irecê;2000;natural.do.mun;35095
+831;2900108;Abaíra;Chapada Diamantina;2010;natural.do.mun;6685
+832;2900207;Abaré;Itaparica;2010;natural.do.mun;12343
+833;2900306;Acajutiba;Litoral Norte e Agreste Baiano;2010;natural.do.mun;10655
+834;2900355;Adustina;Semiárido Nordeste II;2010;natural.do.mun;12447
+835;2900405;Água Fria;Portal do Sertão;2010;natural.do.mun;12460
+836;2900603;Aiquara;Médio Rio de Contas;2010;natural.do.mun;2963
+837;2900702;Alagoinhas;Litoral Norte e Agreste Baiano;2010;natural.do.mun;102831
+838;2900801;Alcobaça;Extremo Sul;2010;natural.do.mun;14104
+839;2900900;Almadina;Litoral Sul;2010;natural.do.mun;4282
+840;2901007;Amargosa;Vale do Jiquiriçá;2010;natural.do.mun;25817
+841;2901106;Amélia Rodrigues;Portal do Sertão;2010;natural.do.mun;18242
+842;2901155;América Dourada;Irecê;2010;natural.do.mun;12365
+843;2901205;Anagé;Sudoeste Baiano;2010;natural.do.mun;21370
+844;2901304;Andaraí;Chapada Diamantina;2010;natural.do.mun;10395
+845;2901353;Andorinha;Piemonte Norte do Itapicuru;2010;natural.do.mun;10635
+846;2901403;Angical;Bacia do Rio Grande;2010;natural.do.mun;11346
+847;2901502;Anguera;Portal do Sertão;2010;natural.do.mun;8841
+848;2901601;Antas;Semiárido Nordeste II;2010;natural.do.mun;15134
+849;2901700;Antônio Cardoso;Portal do Sertão;2010;natural.do.mun;10683
+850;2901809;Antônio Gonçalves;Piemonte Norte do Itapicuru;2010;natural.do.mun;8089
+851;2901908;Aporá;Litoral Norte e Agreste Baiano;2010;natural.do.mun;14427
+852;2901957;Apuarema;Médio Rio de Contas;2010;natural.do.mun;5051
+853;2902054;Araçás;Litoral Norte e Agreste Baiano;2010;natural.do.mun;9141
+854;2902005;Aracatu;Sudoeste Baiano;2010;natural.do.mun;12196
+855;2902104;Araci;Sisal;2010;natural.do.mun;43499
+856;2902203;Aramari;Litoral Norte e Agreste Baiano;2010;natural.do.mun;8400
+857;2902252;Arataca;Litoral Sul;2010;natural.do.mun;5989
+858;2902302;Aratuípe;Baixo Sul;2010;natural.do.mun;6574
+859;2902401;Aurelino Leal;Litoral Sul;2010;natural.do.mun;8804
+860;2902500;Baianópolis;Bacia do Rio Grande;2010;natural.do.mun;11258
+861;2902609;Baixa Grande;Bacia do Jacuípe;2010;natural.do.mun;16794
+862;2902658;Banzaê;Semiárido Nordeste II;2010;natural.do.mun;10618
+863;2902708;Barra;Velho Chico;2010;natural.do.mun;42017
+864;2902807;Barra da Estiva;Chapada Diamantina;2010;natural.do.mun;17124
+865;2902906;Barra do Choça;Sudoeste Baiano;2010;natural.do.mun;21913
+866;2903003;Barra do Mendes;Irecê;2010;natural.do.mun;11611
+867;2903102;Barra do Rocha;Médio Rio de Contas;2010;natural.do.mun;4288
+868;2903201;Barreiras;Bacia do Rio Grande;2010;natural.do.mun;75441
+869;2903235;Barro Alto;Irecê;2010;natural.do.mun;10420
+870;2903300;Barro Preto/Lomanto Junior;Litoral Sul;2010;natural.do.mun;4656
+871;2903276;Barrocas;Sisal;2010;natural.do.mun;12386
+872;2903409;Belmonte;Costa do Descobrimento;2010;natural.do.mun;16315
+873;2903508;Belo Campo;Sudoeste Baiano;2010;natural.do.mun;11480
+874;2903607;Biritinga;Sisal;2010;natural.do.mun;12624
+875;2903706;Boa Nova;Médio Rio de Contas;2010;natural.do.mun;12641
+876;2903805;Boa Vista do Tupim;Piemonte do Paraguaçu;2010;natural.do.mun;14174
+877;2903904;Bom Jesus da Lapa;Velho Chico;2010;natural.do.mun;45142
+878;2903953;Bom Jesus da Serra;Sudoeste Baiano;2010;natural.do.mun;8503
+879;2904001;Boninal;Chapada Diamantina;2010;natural.do.mun;11593
+880;2904050;Bonito;Chapada Diamantina;2010;natural.do.mun;8611
+881;2904100;Boquira;Bacia do Paramirim;2010;natural.do.mun;19676
+882;2904209;Botuporã;Bacia do Paramirim;2010;natural.do.mun;10039
+883;2904308;Brejões;Vale do Jiquiriçá;2010;natural.do.mun;10528
+884;2904407;Brejolândia;Bacia do Rio Corrente;2010;natural.do.mun;9084
+885;2904506;Brotas de Macaúbas;Velho Chico;2010;natural.do.mun;9676
+886;2904605;Brumado;Sertão Produtivo;2010;natural.do.mun;51987
+887;2904704;Buerarema;Litoral Sul;2010;natural.do.mun;14188
+888;2904753;Buritirama;Bacia do Rio Grande;2010;natural.do.mun;16054
+889;2904803;Caatiba;Médio Sudoeste da Bahia;2010;natural.do.mun;9659
+890;2904852;Cabaceiras do Paraguaçu;Recôncavo;2010;natural.do.mun;14957
+891;2904902;Cachoeira;Recôncavo;2010;natural.do.mun;23547
+892;2905008;Caculé;Sertão Produtivo;2010;natural.do.mun;17280
+893;2905107;Caém;Piemonte da Diamantina;2010;natural.do.mun;7464
+894;2905156;Caetanos;Sudoeste Baiano;2010;natural.do.mun;12423
+895;2905206;Caetité;Sertão Produtivo;2010;natural.do.mun;40509
+896;2905305;Cafarnaum;Irecê;2010;natural.do.mun;13376
+897;2905404;Cairu;Baixo Sul;2010;natural.do.mun;9479
+898;2905503;Caldeirão Grande;Piemonte Norte do Itapicuru;2010;natural.do.mun;10296
+899;2905602;Camacan;Litoral Sul;2010;natural.do.mun;19820
+900;2905701;Camaçari;Metropolitano de Salvador;2010;natural.do.mun;101858
+901;2905800;Camamu;Baixo Sul;2010;natural.do.mun;26198
+902;2905909;Campo Alegre de Lourdes;Sertão do São Francisco;2010;natural.do.mun;23694
+903;2906006;Campo Formoso;Piemonte Norte do Itapicuru;2010;natural.do.mun;57363
+904;2906105;Canápolis;Bacia do Rio Corrente;2010;natural.do.mun;8564
+905;2906204;Canarana;Irecê;2010;natural.do.mun;18101
+906;2906303;Canavieiras;Litoral Sul;2010;natural.do.mun;24339
+907;2906402;Candeal;Sisal;2010;natural.do.mun;7964
+908;2906501;Candeias;Metropolitano de Salvador;2010;natural.do.mun;52432
+909;2906600;Candiba;Sertão Produtivo;2010;natural.do.mun;11338
+910;2906709;Cândido Sales;Sudoeste Baiano;2010;natural.do.mun;20607
+911;2906808;Cansanção;Sisal;2010;natural.do.mun;26950
+912;2906824;Canudos;Sertão do São Francisco;2010;natural.do.mun;10812
+913;2906857;Capela do Alto Alegre;Bacia do Jacuípe;2010;natural.do.mun;8800
+914;2906873;Capim Grosso;Bacia do Jacuípe;2010;natural.do.mun;14529
+915;2906899;Caraíbas;Sudoeste Baiano;2010;natural.do.mun;8069
+916;2906907;Caravelas;Extremo Sul;2010;natural.do.mun;15451
+917;2907004;Cardeal da Silva;Litoral Norte e Agreste Baiano;2010;natural.do.mun;6177
+918;2907103;Carinhanha;Velho Chico;2010;natural.do.mun;23607
+919;2907202;Casa Nova;Sertão do São Francisco;2010;natural.do.mun;49615
+920;2907301;Castro Alves;Recôncavo;2010;natural.do.mun;21808
+921;2907400;Catolândia;Bacia do Rio Grande;2010;natural.do.mun;1746
+922;2907509;Catu;Litoral Norte e Agreste Baiano;2010;natural.do.mun;39886
+923;2907558;Caturama;Bacia do Paramirim;2010;natural.do.mun;8307
+924;2907608;Central;Irecê;2010;natural.do.mun;13573
+925;2907707;Chorrochó;Itaparica;2010;natural.do.mun;9466
+926;2907806;Cícero Dantas;Semiárido Nordeste II;2010;natural.do.mun;27382
+927;2907905;Cipó;Semiárido Nordeste II;2010;natural.do.mun;11906
+928;2908002;Coaraci;Litoral Sul;2010;natural.do.mun;14694
+929;2908101;Côcos;Bacia do Rio Corrente;2010;natural.do.mun;15603
+930;2908200;Conceição da Feira;Portal do Sertão;2010;natural.do.mun;15957
+931;2908309;Conceição do Almeida;Recôncavo;2010;natural.do.mun;15158
+932;2908408;Conceição do Coité;Sisal;2010;natural.do.mun;52629
+933;2908507;Conceição do Jacuípe;Portal do Sertão;2010;natural.do.mun;19642
+934;2908606;Conde;Litoral Norte e Agreste Baiano;2010;natural.do.mun;19172
+935;2908705;Condeúba;Sudoeste Baiano;2010;natural.do.mun;14652
+936;2908804;Contendas do Sincorá;Sertão Produtivo;2010;natural.do.mun;3241
+937;2908903;Coração de Maria;Portal do Sertão;2010;natural.do.mun;20221
+938;2909000;Cordeiros;Sudoeste Baiano;2010;natural.do.mun;6937
+939;2909109;Coribe;Bacia do Rio Corrente;2010;natural.do.mun;10714
+940;2909208;Coronel João Sá;Semiárido Nordeste II;2010;natural.do.mun;13745
+941;2909307;Correntina;Bacia do Rio Corrente;2010;natural.do.mun;24517
+942;2909406;Cotegipe;Bacia do Rio Grande;2010;natural.do.mun;11090
+943;2909505;Cravolândia;Vale do Jiquiriçá;2010;natural.do.mun;3668
+944;2909604;Crisópolis;Litoral Norte e Agreste Baiano;2010;natural.do.mun;17324
+945;2909703;Cristópolis;Bacia do Rio Grande;2010;natural.do.mun;10479
+946;2909802;Cruz das Almas;Recôncavo;2010;natural.do.mun;42176
+947;2909901;Curaçá;Sertão do São Francisco;2010;natural.do.mun;25679
+948;2910008;Dário Meira;Médio Rio de Contas;2010;natural.do.mun;10013
+949;2910057;Dias d'Ávila;Metropolitano de Salvador;2010;natural.do.mun;19774
+950;2910107;Dom Basílio;Sertão Produtivo;2010;natural.do.mun;10258
+951;2910206;Dom Macedo Costa;Recôncavo;2010;natural.do.mun;3028
+952;2910305;Elísio Medrado;Vale do Jiquiriçá;2010;natural.do.mun;6498
+953;2910404;Encruzilhada;Sudoeste Baiano;2010;natural.do.mun;16486
+954;2910503;Entre Rios;Litoral Norte e Agreste Baiano;2010;natural.do.mun;29513
+955;2900504;Érico Cardoso;Bacia do Paramirim;2010;natural.do.mun;10272
+956;2910602;Esplanada;Litoral Norte e Agreste Baiano;2010;natural.do.mun;23181
+957;2910701;Euclides da Cunha;Semiárido Nordeste II;2010;natural.do.mun;46531
+958;2910727;Eunápolis;Costa do Descobrimento;2010;natural.do.mun;52816
+959;2910750;Fátima;Semiárido Nordeste II;2010;natural.do.mun;14167
+960;2910776;Feira da Mata;Velho Chico;2010;natural.do.mun;5305
+961;2910800;Feira de Santana;Portal do Sertão;2010;natural.do.mun;371443
+962;2910859;Filadélfia;Piemonte Norte do Itapicuru;2010;natural.do.mun;11821
+963;2910909;Firmino Alves;Médio Sudoeste da Bahia;2010;natural.do.mun;3353
+964;2911006;Floresta Azul;Litoral Sul;2010;natural.do.mun;8251
+965;2911105;Formosa do Rio Preto;Bacia do Rio Grande;2010;natural.do.mun;17408
+966;2911204;Gandu;Baixo Sul;2010;natural.do.mun;19816
+967;2911253;Gavião;Bacia do Jacuípe;2010;natural.do.mun;3678
+968;2911303;Gentio do Ouro;Irecê;2010;natural.do.mun;8613
+969;2911402;Glória;Itaparica;2010;natural.do.mun;10803
+970;2911501;Gongogi;Médio Rio de Contas;2010;natural.do.mun;5097
+971;2911600;Governador Mangabeira;Recôncavo;2010;natural.do.mun;14155
+972;2911659;Guajeru;Sudoeste Baiano;2010;natural.do.mun;9436
+973;2911709;Guanambi;Sertão Produtivo;2010;natural.do.mun;57266
+974;2911808;Guaratinga;Costa do Descobrimento;2010;natural.do.mun;15931
+975;2911857;Heliópolis;Semiárido Nordeste II;2010;natural.do.mun;10801
+976;2911907;Iaçu;Piemonte do Paraguaçu;2010;natural.do.mun;18555
+977;2912004;Ibiassucê;Sertão Produtivo;2010;natural.do.mun;8783
+978;2912103;Ibicaraí;Litoral Sul;2010;natural.do.mun;17028
+979;2912202;Ibicoara;Chapada Diamantina;2010;natural.do.mun;8879
+980;2912301;Ibicuí;Médio Sudoeste da Bahia;2010;natural.do.mun;11161
+981;2912400;Ibipeba;Irecê;2010;natural.do.mun;13539
+982;2912509;Ibipitanga;Bacia do Paramirim;2010;natural.do.mun;11545
+983;2912608;Ibiquera;Piemonte do Paraguaçu;2010;natural.do.mun;3746
+984;2912707;Ibirapitanga;Baixo Sul;2010;natural.do.mun;14332
+985;2912806;Ibirapoã;Extremo Sul;2010;natural.do.mun;4547
+986;2912905;Ibirataia;Médio Rio de Contas;2010;natural.do.mun;13765
+987;2913002;Ibitiara;Chapada Diamantina;2010;natural.do.mun;14152
+988;2913101;Ibititá;Irecê;2010;natural.do.mun;14034
+989;2913200;Ibotirama;Velho Chico;2010;natural.do.mun;16615
+990;2913309;Ichu;Sisal;2010;natural.do.mun;4169
+991;2913408;Igaporã;Velho Chico;2010;natural.do.mun;12608
+992;2913457;Igrapiúna;Baixo Sul;2010;natural.do.mun;9122
+993;2913507;Iguaí;Médio Sudoeste da Bahia;2010;natural.do.mun;20867
+994;2913606;Ilhéus;Litoral Sul;2010;natural.do.mun;121771
+995;2913705;Inhambupe;Litoral Norte e Agreste Baiano;2010;natural.do.mun;29135
+996;2913804;Ipecaetá;Portal do Sertão;2010;natural.do.mun;14197
+997;2913903;Ipiaú;Médio Rio de Contas;2010;natural.do.mun;28323
+998;2914000;Ipirá;Bacia do Jacuípe;2010;natural.do.mun;53270
+999;2914109;Ipupiara;Irecê;2010;natural.do.mun;7441
+1000;2914208;Irajuba;Vale do Jiquiriçá;2010;natural.do.mun;5521
+1001;2914307;Iramaia;Chapada Diamantina;2010;natural.do.mun;9541
+1002;2914406;Iraquara;Chapada Diamantina;2010;natural.do.mun;19254
+1003;2914505;Irará;Portal do Sertão;2010;natural.do.mun;22655
+1004;2914604;Irecê;Irecê;2010;natural.do.mun;38066
+1005;2914653;Itabela;Costa do Descobrimento;2010;natural.do.mun;15281
+1006;2914703;Itaberaba;Piemonte do Paraguaçu;2010;natural.do.mun;43273
+1007;2914802;Itabuna;Litoral Sul;2010;natural.do.mun;130704
+1008;2914901;Itacaré;Litoral Sul;2010;natural.do.mun;15075
+1009;2915007;Itaeté;Chapada Diamantina;2010;natural.do.mun;10600
+1010;2915106;Itagi;Médio Rio de Contas;2010;natural.do.mun;10170
+1011;2915205;Itagibá;Médio Rio de Contas;2010;natural.do.mun;10814
+1012;2915304;Itagimirim;Costa do Descobrimento;2010;natural.do.mun;3617
+1013;2915353;Itaguaçu da Bahia;Irecê;2010;natural.do.mun;8679
+1014;2915403;Itaju do Colônia;Litoral Sul;2010;natural.do.mun;4284
+1015;2915502;Itajuípe;Litoral Sul;2010;natural.do.mun;13147
+1016;2915601;Itamaraju;Extremo Sul;2010;natural.do.mun;41201
+1017;2915700;Itamari;Médio Rio de Contas;2010;natural.do.mun;5448
+1018;2915809;Itambé;Médio Sudoeste da Bahia;2010;natural.do.mun;18546
+1019;2915908;Itanagra;Litoral Norte e Agreste Baiano;2010;natural.do.mun;4941
+1020;2916005;Itanhém;Extremo Sul;2010;natural.do.mun;14376
+1021;2916104;Itaparica;Metropolitano de Salvador;2010;natural.do.mun;12966
+1022;2916203;Itapé;Litoral Sul;2010;natural.do.mun;7927
+1023;2916302;Itapebi;Costa do Descobrimento;2010;natural.do.mun;6096
+1024;2916401;Itapetinga;Médio Sudoeste da Bahia;2010;natural.do.mun;44762
+1025;2916500;Itapicuru;Litoral Norte e Agreste Baiano;2010;natural.do.mun;25428
+1026;2916609;Itapitanga;Litoral Sul;2010;natural.do.mun;8489
+1027;2916708;Itaquara;Vale do Jiquiriçá;2010;natural.do.mun;5934
+1028;2916807;Itarantim;Médio Sudoeste da Bahia;2010;natural.do.mun;12736
+1029;2916856;Itatim;Piemonte do Paraguaçu;2010;natural.do.mun;11268
+1030;2916906;Itiruçu;Vale do Jiquiriçá;2010;natural.do.mun;8930
+1031;2917003;Itiúba;Sisal;2010;natural.do.mun;31852
+1032;2917102;Itororó;Médio Sudoeste da Bahia;2010;natural.do.mun;12886
+1033;2917201;Ituaçu;Sertão Produtivo;2010;natural.do.mun;15699
+1034;2917300;Ituberá;Baixo Sul;2010;natural.do.mun;17601
+1035;2917334;Iuiu;Sertão Produtivo;2010;natural.do.mun;8787
+1036;2917359;Jaborandi;Bacia do Rio Corrente;2010;natural.do.mun;6502
+1037;2917409;Jacaraci;Sudoeste Baiano;2010;natural.do.mun;11984
+1038;2917508;Jacobina;Piemonte da Diamantina;2010;natural.do.mun;57136
+1039;2917607;Jaguaquara;Vale do Jiquiriçá;2010;natural.do.mun;38956
+1040;2917706;Jaguarari;Piemonte Norte do Itapicuru;2010;natural.do.mun;21637
+1041;2917805;Jaguaripe;Baixo Sul;2010;natural.do.mun;12864
+1042;2917904;Jandaíra;Litoral Norte e Agreste Baiano;2010;natural.do.mun;8400
+1043;2918001;Jequié;Médio Rio de Contas;2010;natural.do.mun;111461
+1044;2918100;Jeremoabo;Semiárido Nordeste II;2010;natural.do.mun;29724
+1045;2918209;Jiquiriçá;Vale do Jiquiriçá;2010;natural.do.mun;11104
+1046;2918308;Jitaúna;Médio Rio de Contas;2010;natural.do.mun;9739
+1047;2918357;João Dourado;Irecê;2010;natural.do.mun;14244
+1048;2918407;Juazeiro;Sertão do São Francisco;2010;natural.do.mun;127891
+1049;2918456;Jucuruçu;Extremo Sul;2010;natural.do.mun;7706
+1050;2918506;Jussara;Irecê;2010;natural.do.mun;10215
+1051;2918555;Jussari;Litoral Sul;2010;natural.do.mun;4424
+1052;2918605;Jussiape;Chapada Diamantina;2010;natural.do.mun;7080
+1053;2918704;Lafayette Coutinho;Vale do Jiquiriçá;2010;natural.do.mun;2864
+1054;2919058;LaGedo do Tabocal;Vale do Jiquiriçá;2010;natural.do.mun;5425
+1055;2918753;Lagoa Real;Sertão Produtivo;2010;natural.do.mun;12187
+1056;2918803;Laje;Vale do Jiquiriçá;2010;natural.do.mun;17210
+1057;2918902;Lajedão;Extremo Sul;2010;natural.do.mun;2198
+1058;2919009;Lajedinho;Piemonte do Paraguaçu;2010;natural.do.mun;3399
+1059;2919108;Lamarão;Sisal;2010;natural.do.mun;8427
+1060;2919157;Lapão;Irecê;2010;natural.do.mun;18088
+1061;2919207;Lauro de Freitas;Metropolitano de Salvador;2010;natural.do.mun;56845
+1062;2919306;Lençóis;Chapada Diamantina;2010;natural.do.mun;6849
+1063;2919405;Licínio de Almeida;Sudoeste Baiano;2010;natural.do.mun;10100
+1064;2919504;Livramento de N. Senhora;Sertão Produtivo;2010;natural.do.mun;34404
+1065;2919553;Luís Eduardo Magalhães;Bacia do Rio Grande;2010;natural.do.mun;9125
+1066;2919603;Macajuba;Piemonte do Paraguaçu;2010;natural.do.mun;9055
+1067;2919702;Macarani;Médio Sudoeste da Bahia;2010;natural.do.mun;12975
+1068;2919801;Macaúbas;Bacia do Paramirim;2010;natural.do.mun;41999
+1069;2919900;Macururé;Itaparica;2010;natural.do.mun;7039
+1070;2919926;Madre de Deus;Metropolitano de Salvador;2010;natural.do.mun;8487
+1071;2919959;Maetinga;Sudoeste Baiano;2010;natural.do.mun;5983
+1072;2920007;Maiquinique;Médio Sudoeste da Bahia;2010;natural.do.mun;5622
+1073;2920106;Mairi;Bacia do Jacuípe;2010;natural.do.mun;16453
+1074;2920205;Malhada;Velho Chico;2010;natural.do.mun;13276
+1075;2920304;Malhada de Pedras;Sertão Produtivo;2010;natural.do.mun;7221
+1076;2920403;Manoel Vitorino;Médio Rio de Contas;2010;natural.do.mun;12073
+1077;2920452;Mansidão;Bacia do Rio Grande;2010;natural.do.mun;10968
+1078;2920502;Maracás;Vale do Jiquiriçá;2010;natural.do.mun;19566
+1079;2920601;Maragogipe;Recôncavo;2010;natural.do.mun;37904
+1080;2920700;Maraú;Litoral Sul;2010;natural.do.mun;12735
+1081;2920809;Marcionílio Souza;Chapada Diamantina;2010;natural.do.mun;6971
+1082;2920908;Mascote;Litoral Sul;2010;natural.do.mun;7562
+1083;2921005;Mata de São João;Metropolitano de Salvador;2010;natural.do.mun;24536
+1084;2921054;Matina;Velho Chico;2010;natural.do.mun;9985
+1085;2921104;Medeiros Neto;Extremo Sul;2010;natural.do.mun;12220
+1086;2921203;Miguel Calmon;Piemonte da Diamantina;2010;natural.do.mun;21243
+1087;2921302;Milagres;Vale do Jiquiriçá;2010;natural.do.mun;7362
+1088;2921401;Mirangaba;Piemonte da Diamantina;2010;natural.do.mun;13795
+1089;2921450;Mirante;Sudoeste Baiano;2010;natural.do.mun;9329
+1090;2921500;Monte Santo;Sisal;2010;natural.do.mun;47282
+1091;2921609;Morpará;Velho Chico;2010;natural.do.mun;5802
+1092;2921708;Morro do Chapéu;Chapada Diamantina;2010;natural.do.mun;26662
+1093;2921807;Mortugaba;Sudoeste Baiano;2010;natural.do.mun;9632
+1094;2921906;Mucugê;Chapada Diamantina;2010;natural.do.mun;7762
+1095;2922003;Mucuri;Extremo Sul;2010;natural.do.mun;16953
+1096;2922052;Mulungu do Morro;Irecê;2010;natural.do.mun;9739
+1097;2922102;Mundo Novo;Piemonte do Paraguaçu;2010;natural.do.mun;20995
+1098;2922201;Muniz Ferreira;Recôncavo;2010;natural.do.mun;5643
+1099;2922250;Muquém do São Francisco;Velho Chico;2010;natural.do.mun;7142
+1100;2922300;Muritiba;Recôncavo;2010;natural.do.mun;18197
+1101;2922409;Mutuípe;Vale do Jiquiriçá;2010;natural.do.mun;17749
+1102;2922508;Nazaré;Recôncavo;2010;natural.do.mun;21410
+1103;2922607;Nilo Peçanha;Baixo Sul;2010;natural.do.mun;8732
+1104;2922656;Nordestina;Sisal;2010;natural.do.mun;10426
+1105;2922706;Nova Canaã;Médio Sudoeste da Bahia;2010;natural.do.mun;13243
+1106;2922730;Nova Fátima;Bacia do Jacuípe;2010;natural.do.mun;5232
+1107;2922755;Nova Ibiá;Médio Rio de Contas;2010;natural.do.mun;3951
+1108;2922805;Nova Itarana;Vale do Jiquiriçá;2010;natural.do.mun;5528
+1109;2922854;Nova Redenção;Chapada Diamantina;2010;natural.do.mun;6187
+1110;2922904;Nova Soure;Semiárido Nordeste II;2010;natural.do.mun;20692
+1111;2923001;Nova Viçosa;Extremo Sul;2010;natural.do.mun;21284
+1112;2923035;Novo Horizonte;Chapada Diamantina;2010;natural.do.mun;8707
+1113;2923050;Novo Triunfo;Semiárido Nordeste II;2010;natural.do.mun;14476
+1114;2923100;Olindina;Litoral Norte e Agreste Baiano;2010;natural.do.mun;20319
+1115;2923209;Oliveira dos Brejinhos;Velho Chico;2010;natural.do.mun;18709
+1116;2923308;Ouriçangas;Litoral Norte e Agreste Baiano;2010;natural.do.mun;6931
+1117;2923357;Ourolândia;Piemonte da Diamantina;2010;natural.do.mun;10950
+1118;2923407;Palmas de Monte Alto;Sertão Produtivo;2010;natural.do.mun;16737
+1119;2923506;Palmeiras;Chapada Diamantina;2010;natural.do.mun;6581
+1120;2923605;Paramirim;Bacia do Paramirim;2010;natural.do.mun;17554
+1121;2923704;Paratinga;Velho Chico;2010;natural.do.mun;25343
+1122;2923803;Paripiranga;Semiárido Nordeste II;2010;natural.do.mun;24768
+1123;2923902;Pau Brasil;Litoral Sul;2010;natural.do.mun;7759
+1124;2924009;Paulo Afonso;Itaparica;2010;natural.do.mun;63634
+1125;2924058;Pé de Serra;Bacia do Jacuípe;2010;natural.do.mun;11602
+1126;2924108;Pedrão;Litoral Norte e Agreste Baiano;2010;natural.do.mun;6051
+1127;2924207;Pedro Alexandre;Semiárido Nordeste II;2010;natural.do.mun;15042
+1128;2924306;Piatã;Chapada Diamantina;2010;natural.do.mun;15652
+1129;2924405;Pilão Arcado;Sertão do São Francisco;2010;natural.do.mun;28510
+1130;2924504;Pindaí;Sertão Produtivo;2010;natural.do.mun;13929
+1131;2924603;Pindobaçu;Piemonte Norte do Itapicuru;2010;natural.do.mun;12895
+1132;2924652;Pintadas;Bacia do Jacuípe;2010;natural.do.mun;8013
+1133;2924678;Piraí do Norte;Baixo Sul;2010;natural.do.mun;7089
+1134;2924702;Piripá;Sudoeste Baiano;2010;natural.do.mun;10888
+1135;2924801;Piritiba;Piemonte do Paraguaçu;2010;natural.do.mun;17611
+1136;2924900;Planaltino;Vale do Jiquiriçá;2010;natural.do.mun;7232
+1137;2925006;Planalto;Sudoeste Baiano;2010;natural.do.mun;18062
+1138;2925105;Poções;Sudoeste Baiano;2010;natural.do.mun;29913
+1139;2925204;Pojuca;Metropolitano de Salvador;2010;natural.do.mun;23479
+1140;2925253;Ponto Novo;Piemonte Norte do Itapicuru;2010;natural.do.mun;8224
+1141;2925303;Porto Seguro;Costa do Descobrimento;2010;natural.do.mun;49826
+1142;2925402;Potiraguá;Médio Sudoeste da Bahia;2010;natural.do.mun;6738
+1143;2925501;Prado;Extremo Sul;2010;natural.do.mun;16152
+1144;2925600;Presidente Dutra;Irecê;2010;natural.do.mun;10924
+1145;2925709;Presidente Jânio Quadros;Sudoeste Baiano;2010;natural.do.mun;11830
+1146;2925758;Presidente Tancredo Neves;Baixo Sul;2010;natural.do.mun;16907
+1147;2925808;Queimadas;Sisal;2010;natural.do.mun;18065
+1148;2925907;Quijingue;Sisal;2010;natural.do.mun;23827
+1149;2925931;Quixabeira;Bacia do Jacuípe;2010;natural.do.mun;7233
+1150;2925956;Rafael Jambeiro;Piemonte do Paraguaçu;2010;natural.do.mun;20183
+1151;2926004;Remanso;Sertão do São Francisco;2010;natural.do.mun;32353
+1152;2926103;Retirolândia;Sisal;2010;natural.do.mun;9602
+1153;2926202;Riachão das Neves;Bacia do Rio Grande;2010;natural.do.mun;16431
+1154;2926301;Riachão do Jacuípe;Bacia do Jacuípe;2010;natural.do.mun;27426
+1155;2926400;Riacho de Santana;Velho Chico;2010;natural.do.mun;27690
+1156;2926509;Ribeira do Amparo;Semiárido Nordeste II;2010;natural.do.mun;11964
+1157;2926608;Ribeira do Pombal;Semiárido Nordeste II;2010;natural.do.mun;36638
+1158;2926657;Ribeirão do Largo;Sudoeste Baiano;2010;natural.do.mun;6258
+1159;2926707;Rio de Contas;Chapada Diamantina;2010;natural.do.mun;11736
+1160;2926806;Rio do Antônio;Sertão Produtivo;2010;natural.do.mun;13237
+1161;2926905;Rio do Pires;Bacia do Paramirim;2010;natural.do.mun;10195
+1162;2927002;Rio Real;Litoral Norte e Agreste Baiano;2010;natural.do.mun;25565
+1163;2927101;Rodelas;Itaparica;2010;natural.do.mun;4403
+1164;2927200;Ruy Barbosa;Piemonte do Paraguaçu;2010;natural.do.mun;24400
+1165;2927309;Salinas da Margarida;Recôncavo;2010;natural.do.mun;10102
+1166;2927408;Salvador;Metropolitano de Salvador;2010;natural.do.mun;1934376
+1167;2927507;Santa Bárbara;Portal do Sertão;2010;natural.do.mun;15719
+1168;2927606;Santa Brígida;Semiárido Nordeste II;2010;natural.do.mun;9547
+1169;2927705;Santa Cruz Cabrália;Costa do Descobrimento;2010;natural.do.mun;11142
+1170;2927804;Santa Cruz da Vitória;Médio Sudoeste da Bahia;2010;natural.do.mun;5134
+1171;2927903;Santa Inês;Vale do Jiquiriçá;2010;natural.do.mun;7117
+1172;2928059;Santa Luzia;Litoral Sul;2010;natural.do.mun;9468
+1173;2928109;Santa Maria da Vitória;Bacia do Rio Corrente;2010;natural.do.mun;29548
+1174;2928406;Santa Rita de Cássia;Bacia do Rio Grande;2010;natural.do.mun;22168
+1175;2928505;Santa Terezinha;Piemonte do Paraguaçu;2010;natural.do.mun;7042
+1176;2928000;Santaluz;Sisal;2010;natural.do.mun;27704
+1177;2928208;Santana;Bacia do Rio Corrente;2010;natural.do.mun;21100
+1178;2928307;Santanópolis;Portal do Sertão;2010;natural.do.mun;7428
+1179;2928604;Santo Amaro;Recôncavo;2010;natural.do.mun;45946
+1180;2928703;Santo Antônio de Jesus;Recôncavo;2010;natural.do.mun;60013
+1181;2928802;Santo Estevão;Portal do Sertão;2010;natural.do.mun;36873
+1182;2928901;São Desidério;Bacia do Rio Grande;2010;natural.do.mun;21025
+1183;2928950;São Domingos;Sisal;2010;natural.do.mun;7109
+1184;2929107;São Felipe;Recôncavo;2010;natural.do.mun;17408
+1185;2929008;São Félix;Recôncavo;2010;natural.do.mun;10832
+1186;2929057;São Félix do Coribe;Bacia do Rio Corrente;2010;natural.do.mun;7422
+1187;2929206;São Francisco do Conde;Metropolitano de Salvador;2010;natural.do.mun;22301
+1188;2929255;São Gabriel;Irecê;2010;natural.do.mun;14029
+1189;2929305;São Gonçalo dos Campos;Portal do Sertão;2010;natural.do.mun;25957
+1190;2929354;São José da Vitória;Litoral Sul;2010;natural.do.mun;2949
+1191;2929370;São José do Jacuípe;Bacia do Jacuípe;2010;natural.do.mun;7020
+1192;2929404;São Miguel das Matas;Vale do Jiquiriçá;2010;natural.do.mun;8510
+1193;2929503;São Sebastião do Passé;Metropolitano de Salvador;2010;natural.do.mun;32041
+1194;2929602;Sapeaçu;Recôncavo;2010;natural.do.mun;12826
+1195;2929701;Sátiro Dias;Litoral Norte e Agreste Baiano;2010;natural.do.mun;16485
+1196;2929750;Saubara;Recôncavo;2010;natural.do.mun;7631
+1197;2929800;Saúde;Piemonte da Diamantina;2010;natural.do.mun;8710
+1198;2929909;Seabra;Chapada Diamantina;2010;natural.do.mun;33050
+1199;2930006;Sebastião Laranjeiras;Sertão Produtivo;2010;natural.do.mun;7481
+1200;2930105;Senhor do Bonfim;Piemonte Norte do Itapicuru;2010;natural.do.mun;53659
+1201;2930204;Sento Sé;Sertão do São Francisco;2010;natural.do.mun;30566
+1202;2930154;Serra do Ramalho;Velho Chico;2010;natural.do.mun;16618
+1203;2930303;Serra Dourada;Bacia do Rio Corrente;2010;natural.do.mun;15560
+1204;2930402;Serra Preta;Bacia do Jacuípe;2010;natural.do.mun;13143
+1205;2930501;Serrinha;Sisal;2010;natural.do.mun;60321
+1206;2930600;Serrolândia;Piemonte da Diamantina;2010;natural.do.mun;8971
+1207;2930709;Simões Filho;Metropolitano de Salvador;2010;natural.do.mun;54448
+1208;2930758;Sítio do Mato;Velho Chico;2010;natural.do.mun;8765
+1209;2930766;Sítio do Quinto;Semiárido Nordeste II;2010;natural.do.mun;9373
+1210;2930774;Sobradinho;Sertão do São Francisco;2010;natural.do.mun;9088
+1211;2930808;Souto Soares;Chapada Diamantina;2010;natural.do.mun;13263
+1212;2930907;Tabocas do Brejo Velho;Bacia do Rio Corrente;2010;natural.do.mun;10015
+1213;2931004;Tanhaçu;Sertão Produtivo;2010;natural.do.mun;16208
+1214;2931053;Tanque Novo;Sertão Produtivo;2010;natural.do.mun;13927
+1215;2931103;Tanquinho;Portal do Sertão;2010;natural.do.mun;6692
+1216;2931202;Taperoá;Baixo Sul;2010;natural.do.mun;15169
+1217;2931301;Tapiramutá;Piemonte do Paraguaçu;2010;natural.do.mun;12953
+1218;2931350;Teixeira de Freitas;Extremo Sul;2010;natural.do.mun;62212
+1219;2931400;Teodoro Sampaio;Portal do Sertão;2010;natural.do.mun;6377
+1220;2931509;Teofilândia;Sisal;2010;natural.do.mun;17895
+1221;2931608;Teolândia;Baixo Sul;2010;natural.do.mun;12265
+1222;2931707;Terra Nova;Portal do Sertão;2010;natural.do.mun;10443
+1223;2931806;Tremedal;Sudoeste Baiano;2010;natural.do.mun;14612
+1224;2931905;Tucano;Sisal;2010;natural.do.mun;43942
+1225;2932002;Uauá;Sertão do São Francisco;2010;natural.do.mun;20940
+1226;2932101;Ubaíra;Vale do Jiquiriçá;2010;natural.do.mun;15397
+1227;2932200;Ubaitaba;Litoral Sul;2010;natural.do.mun;12343
+1228;2932309;Ubatã;Médio Rio de Contas;2010;natural.do.mun;18754
+1229;2932408;Uibaí;Irecê;2010;natural.do.mun;10287
+1230;2932457;Umburanas;Piemonte da Diamantina;2010;natural.do.mun;15063
+1231;2932507;Una;Litoral Sul;2010;natural.do.mun;13574
+1232;2932606;Urandi;Sertão Produtivo;2010;natural.do.mun;13298
+1233;2932705;Uruçuca;Litoral Sul;2010;natural.do.mun;12673
+1234;2932804;Utinga;Chapada Diamantina;2010;natural.do.mun;12378
+1235;2932903;Valença;Baixo Sul;2010;natural.do.mun;68729
+1236;2933000;Valente;Sisal;2010;natural.do.mun;20491
+1237;2933059;Várzea da Roça;Bacia do Jacuípe;2010;natural.do.mun;11224
+1238;2933109;Várzea do Poço;Bacia do Jacuípe;2010;natural.do.mun;6195
+1239;2933158;Várzea Nova;Piemonte da Diamantina;2010;natural.do.mun;8459
+1240;2933174;Varzedo;Recôncavo;2010;natural.do.mun;6976
+1241;2933208;Vera Cruz;Metropolitano de Salvador;2010;natural.do.mun;20917
+1242;2933257;Vereda;Extremo Sul;2010;natural.do.mun;3643
+1243;2933307;Vitória da Conquista;Sudoeste Baiano;2010;natural.do.mun;209323
+1244;2933406;Wagner;Chapada Diamantina;2010;natural.do.mun;5242
+1245;2933455;Wanderley;Bacia do Rio Grande;2010;natural.do.mun;9415
+1246;2933505;Wenceslau Guimarães;Baixo Sul;2010;natural.do.mun;16483
+1247;2933604;Xique-Xique;Irecê;2010;natural.do.mun;35375
+1248;2900108;Abaíra;Chapada Diamantina;1991;não_natural_mun;858
+1249;2900207;Abaré;Itaparica;1991;não_natural_mun;1454
+1250;2900306;Acajutiba;Litoral Norte e Agreste Baiano;1991;não_natural_mun;1807
+1251;2900355;Adustina;Semiárido Nordeste II;1991;não_natural_mun;1875
+1252;2900405;Água Fria;Portal do Sertão;1991;não_natural_mun;892
+1253;2900603;Aiquara;Médio Rio de Contas;1991;não_natural_mun;2082
+1254;2900702;Alagoinhas;Litoral Norte e Agreste Baiano;1991;não_natural_mun;34497
+1255;2900801;Alcobaça;Extremo Sul;1991;não_natural_mun;2225
+1256;2900900;Almadina;Litoral Sul;1991;não_natural_mun;3148
+1257;2901007;Amargosa;Vale do Jiquiriçá;1991;não_natural_mun;4129
+1258;2901106;Amélia Rodrigues;Portal do Sertão;1991;não_natural_mun;5198
+1259;2901155;América Dourada;Irecê;1991;não_natural_mun;4480
+1260;2901205;Anagé;Sudoeste Baiano;1991;não_natural_mun;1173
+1261;2901304;Andaraí;Chapada Diamantina;1991;não_natural_mun;1330
+1262;2901353;Andorinha;Piemonte Norte do Itapicuru;1991;não_natural_mun;2072
+1263;2901403;Angical;Bacia do Rio Grande;1991;não_natural_mun;2662
+1264;2901502;Anguera;Portal do Sertão;1991;não_natural_mun;1210
+1265;2901601;Antas;Semiárido Nordeste II;1991;não_natural_mun;1609
+1266;2901700;Antônio Cardoso;Portal do Sertão;1991;não_natural_mun;215
+1267;2901809;Antônio Gonçalves;Piemonte Norte do Itapicuru;1991;não_natural_mun;3068
+1268;2901908;Aporá;Litoral Norte e Agreste Baiano;1991;não_natural_mun;1866
+1269;2901957;Apuarema;Médio Rio de Contas;1991;não_natural_mun;985
+1270;2902054;Araçás;Litoral Norte e Agreste Baiano;1991;não_natural_mun;1059
+1271;2902005;Aracatu;Sudoeste Baiano;1991;não_natural_mun;556
+1272;2902104;Araci;Sisal;1991;não_natural_mun;4426
+1273;2902203;Aramari;Litoral Norte e Agreste Baiano;1991;não_natural_mun;1155
+1274;2902252;Arataca;Litoral Sul;1991;não_natural_mun;4903
+1275;2902302;Aratuípe;Baixo Sul;1991;não_natural_mun;1182
+1276;2902401;Aurelino Leal;Litoral Sul;1991;não_natural_mun;5987
+1277;2902500;Baianópolis;Bacia do Rio Grande;1991;não_natural_mun;1180
+1278;2902609;Baixa Grande;Bacia do Jacuípe;1991;não_natural_mun;918
+1279;2902658;Banzaê;Semiárido Nordeste II;1991;não_natural_mun;369
+1280;2902708;Barra;Velho Chico;1991;não_natural_mun;3561
+1281;2902807;Barra da Estiva;Chapada Diamantina;1991;não_natural_mun;1944
+1282;2902906;Barra do Choça;Sudoeste Baiano;1991;não_natural_mun;8231
+1283;2903003;Barra do Mendes;Irecê;1991;não_natural_mun;1995
+1284;2903102;Barra do Rocha;Médio Rio de Contas;1991;não_natural_mun;2498
+1285;2903201;Barreiras;Bacia do Rio Grande;1991;não_natural_mun;44863
+1286;2903235;Barro Alto;Irecê;1991;não_natural_mun;2888
+1287;2903300;Barro Preto/Lomanto Junior;Litoral Sul;1991;não_natural_mun;2672
+1288;2903409;Belmonte;Costa do Descobrimento;1991;não_natural_mun;4106
+1289;2903508;Belo Campo;Sudoeste Baiano;1991;não_natural_mun;3601
+1290;2903607;Biritinga;Sisal;1991;não_natural_mun;1116
+1291;2903706;Boa Nova;Médio Rio de Contas;1991;não_natural_mun;725
+1292;2903805;Boa Vista do Tupim;Piemonte do Paraguaçu;1991;não_natural_mun;1693
+1293;2903904;Bom Jesus da Lapa;Velho Chico;1991;não_natural_mun;13866
+1294;2903953;Bom Jesus da Serra;Sudoeste Baiano;1991;não_natural_mun;794
+1295;2904001;Boninal;Chapada Diamantina;1991;não_natural_mun;762
+1296;2904050;Bonito;Chapada Diamantina;1991;não_natural_mun;4448
+1297;2904100;Boquira;Bacia do Paramirim;1991;não_natural_mun;1292
+1298;2904209;Botuporã;Bacia do Paramirim;1991;não_natural_mun;448
+1299;2904308;Brejões;Vale do Jiquiriçá;1991;não_natural_mun;1765
+1300;2904407;Brejolândia;Bacia do Rio Corrente;1991;não_natural_mun;773
+1301;2904506;Brotas de Macaúbas;Velho Chico;1991;não_natural_mun;772
+1302;2904605;Brumado;Sertão Produtivo;1991;não_natural_mun;12144
+1303;2904704;Buerarema;Litoral Sul;1991;não_natural_mun;6892
+1304;2904753;Buritirama;Bacia do Rio Grande;1991;não_natural_mun;389
+1305;2904803;Caatiba;Médio Sudoeste da Bahia;1991;não_natural_mun;1115
+1306;2904852;Cabaceiras do Paraguaçu;Recôncavo;1991;não_natural_mun;543
+1307;2904902;Cachoeira;Recôncavo;1991;não_natural_mun;4717
+1308;2905008;Caculé;Sertão Produtivo;1991;não_natural_mun;2735
+1309;2905107;Caém;Piemonte da Diamantina;1991;não_natural_mun;2101
+1310;2905156;Caetanos;Sudoeste Baiano;1991;não_natural_mun;402
+1311;2905206;Caetité;Sertão Produtivo;1991;não_natural_mun;3761
+1312;2905305;Cafarnaum;Irecê;1991;não_natural_mun;2257
+1313;2905404;Cairu;Baixo Sul;1991;não_natural_mun;1344
+1314;2905503;Caldeirão Grande;Piemonte Norte do Itapicuru;1991;não_natural_mun;1469
+1315;2905602;Camacan;Litoral Sul;1991;não_natural_mun;15927
+1316;2905701;Camaçari;Metropolitano de Salvador;1991;não_natural_mun;61095
+1317;2905800;Camamu;Baixo Sul;1991;não_natural_mun;5106
+1318;2905909;Campo Alegre de Lourdes;Sertão do São Francisco;1991;não_natural_mun;2424
+1319;2906006;Campo Formoso;Piemonte Norte do Itapicuru;1991;não_natural_mun;5360
+1320;2906105;Canápolis;Bacia do Rio Corrente;1991;não_natural_mun;353
+1321;2906204;Canarana;Irecê;1991;não_natural_mun;5409
+1322;2906303;Canavieiras;Litoral Sul;1991;não_natural_mun;4796
+1323;2906402;Candeal;Sisal;1991;não_natural_mun;754
+1324;2906501;Candeias;Metropolitano de Salvador;1991;não_natural_mun;19963
+1325;2906600;Candiba;Sertão Produtivo;1991;não_natural_mun;1172
+1326;2906709;Cândido Sales;Sudoeste Baiano;1991;não_natural_mun;4236
+1327;2906808;Cansanção;Sisal;1991;não_natural_mun;3111
+1328;2906824;Canudos;Sertão do São Francisco;1991;não_natural_mun;2109
+1329;2906857;Capela do Alto Alegre;Bacia do Jacuípe;1991;não_natural_mun;675
+1330;2906873;Capim Grosso;Bacia do Jacuípe;1991;não_natural_mun;5472
+1331;2906899;Caraíbas;Sudoeste Baiano;1991;não_natural_mun;1069
+1332;2906907;Caravelas;Extremo Sul;1991;não_natural_mun;2527
+1333;2907004;Cardeal da Silva;Litoral Norte e Agreste Baiano;1991;não_natural_mun;1496
+1334;2907103;Carinhanha;Velho Chico;1991;não_natural_mun;5688
+1335;2907202;Casa Nova;Sertão do São Francisco;1991;não_natural_mun;5871
+1336;2907301;Castro Alves;Recôncavo;1991;não_natural_mun;2721
+1337;2907400;Catolândia;Bacia do Rio Grande;1991;não_natural_mun;371
+1338;2907509;Catu;Litoral Norte e Agreste Baiano;1991;não_natural_mun;7907
+1339;2907558;Caturama;Bacia do Paramirim;1991;não_natural_mun;867
+1340;2907608;Central;Irecê;1991;não_natural_mun;2600
+1341;2907707;Chorrochó;Itaparica;1991;não_natural_mun;584
+1342;2907806;Cícero Dantas;Semiárido Nordeste II;1991;não_natural_mun;3689
+1343;2907905;Cipó;Semiárido Nordeste II;1991;não_natural_mun;2734
+1344;2908002;Coaraci;Litoral Sul;1991;não_natural_mun;6012
+1345;2908101;Côcos;Bacia do Rio Corrente;1991;não_natural_mun;691
+1346;2908200;Conceição da Feira;Portal do Sertão;1991;não_natural_mun;2182
+1347;2908309;Conceição do Almeida;Recôncavo;1991;não_natural_mun;2253
+1348;2908408;Conceição do Coité;Sisal;1991;não_natural_mun;5319
+1349;2908507;Conceição do Jacuípe;Portal do Sertão;1991;não_natural_mun;6013
+1350;2908606;Conde;Litoral Norte e Agreste Baiano;1991;não_natural_mun;721
+1351;2908705;Condeúba;Sudoeste Baiano;1991;não_natural_mun;1663
+1352;2908804;Contendas do Sincorá;Sertão Produtivo;1991;não_natural_mun;824
+1353;2908903;Coração de Maria;Portal do Sertão;1991;não_natural_mun;1275
+1354;2909000;Cordeiros;Sudoeste Baiano;1991;não_natural_mun;1185
+1355;2909109;Coribe;Bacia do Rio Corrente;1991;não_natural_mun;1072
+1356;2909208;Coronel João Sá;Semiárido Nordeste II;1991;não_natural_mun;768
+1357;2909307;Correntina;Bacia do Rio Corrente;1991;não_natural_mun;3532
+1358;2909406;Cotegipe;Bacia do Rio Grande;1991;não_natural_mun;1727
+1359;2909505;Cravolândia;Vale do Jiquiriçá;1991;não_natural_mun;728
+1360;2909604;Crisópolis;Litoral Norte e Agreste Baiano;1991;não_natural_mun;1497
+1361;2909703;Cristópolis;Bacia do Rio Grande;1991;não_natural_mun;1635
+1362;2909802;Cruz das Almas;Recôncavo;1991;não_natural_mun;10160
+1363;2909901;Curaçá;Sertão do São Francisco;1991;não_natural_mun;3060
+1364;2910008;Dário Meira;Médio Rio de Contas;1991;não_natural_mun;2776
+1365;2910057;Dias d'Ávila;Metropolitano de Salvador;1991;não_natural_mun;19804
+1366;2910107;Dom Basílio;Sertão Produtivo;1991;não_natural_mun;340
+1367;2910206;Dom Macedo Costa;Recôncavo;1991;não_natural_mun;472
+1368;2910305;Elísio Medrado;Vale do Jiquiriçá;1991;não_natural_mun;1322
+1369;2910404;Encruzilhada;Sudoeste Baiano;1991;não_natural_mun;1319
+1370;2910503;Entre Rios;Litoral Norte e Agreste Baiano;1991;não_natural_mun;5767
+1371;2900504;Érico Cardoso;Bacia do Paramirim;1991;não_natural_mun;220
+1372;2910602;Esplanada;Litoral Norte e Agreste Baiano;1991;não_natural_mun;5860
+1373;2910701;Euclides da Cunha;Semiárido Nordeste II;1991;não_natural_mun;5955
+1374;2910727;Eunápolis;Costa do Descobrimento;1991;não_natural_mun;37478
+1375;2910750;Fátima;Semiárido Nordeste II;1991;não_natural_mun;1577
+1376;2910776;Feira da Mata;Velho Chico;1991;não_natural_mun;832
+1377;2910800;Feira de Santana;Portal do Sertão;1991;não_natural_mun;142891
+1378;2910859;Filadélfia;Piemonte Norte do Itapicuru;1991;não_natural_mun;3326
+1379;2910909;Firmino Alves;Médio Sudoeste da Bahia;1991;não_natural_mun;1952
+1380;2911006;Floresta Azul;Litoral Sul;1991;não_natural_mun;3450
+1381;2911105;Formosa do Rio Preto;Bacia do Rio Grande;1991;não_natural_mun;1785
+1382;2911204;Gandu;Baixo Sul;1991;não_natural_mun;8530
+1383;2911253;Gavião;Bacia do Jacuípe;1991;não_natural_mun;408
+1384;2911303;Gentio do Ouro;Irecê;1991;não_natural_mun;748
+1385;2911402;Glória;Itaparica;1991;não_natural_mun;1444
+1386;2911501;Gongogi;Médio Rio de Contas;1991;não_natural_mun;3743
+1387;2911600;Governador Mangabeira;Recôncavo;1991;não_natural_mun;3002
+1388;2911659;Guajeru;Sudoeste Baiano;1991;não_natural_mun;330
+1389;2911709;Guanambi;Sertão Produtivo;1991;não_natural_mun;17287
+1390;2911808;Guaratinga;Costa do Descobrimento;1991;não_natural_mun;6207
+1391;2911857;Heliópolis;Semiárido Nordeste II;1991;não_natural_mun;412
+1392;2911907;Iaçu;Piemonte do Paraguaçu;1991;não_natural_mun;6734
+1393;2912004;Ibiassucê;Sertão Produtivo;1991;não_natural_mun;430
+1394;2912103;Ibicaraí;Litoral Sul;1991;não_natural_mun;10110
+1395;2912202;Ibicoara;Chapada Diamantina;1991;não_natural_mun;1657
+1396;2912301;Ibicuí;Médio Sudoeste da Bahia;1991;não_natural_mun;2450
+1397;2912400;Ibipeba;Irecê;1991;não_natural_mun;2470
+1398;2912509;Ibipitanga;Bacia do Paramirim;1991;não_natural_mun;805
+1399;2912608;Ibiquera;Piemonte do Paraguaçu;1991;não_natural_mun;770
+1400;2912707;Ibirapitanga;Baixo Sul;1991;não_natural_mun;6631
+1401;2912806;Ibirapoã;Extremo Sul;1991;não_natural_mun;3794
+1402;2912905;Ibirataia;Médio Rio de Contas;1991;não_natural_mun;5855
+1403;2913002;Ibitiara;Chapada Diamantina;1991;não_natural_mun;327
+1404;2913101;Ibititá;Irecê;1991;não_natural_mun;3401
+1405;2913200;Ibotirama;Velho Chico;1991;não_natural_mun;8791
+1406;2913309;Ichu;Sisal;1991;não_natural_mun;609
+1407;2913408;Igaporã;Velho Chico;1991;não_natural_mun;1468
+1408;2913457;Igrapiúna;Baixo Sul;1991;não_natural_mun;1782
+1409;2913507;Iguaí;Médio Sudoeste da Bahia;1991;não_natural_mun;4779
+1410;2913606;Ilhéus;Litoral Sul;1991;não_natural_mun;45048
+1411;2913705;Inhambupe;Litoral Norte e Agreste Baiano;1991;não_natural_mun;2915
+1412;2913804;Ipecaetá;Portal do Sertão;1991;não_natural_mun;793
+1413;2913903;Ipiaú;Médio Rio de Contas;1991;não_natural_mun;16503
+1414;2914000;Ipirá;Bacia do Jacuípe;1991;não_natural_mun;4022
+1415;2914109;Ipupiara;Irecê;1991;não_natural_mun;1264
+1416;2914208;Irajuba;Vale do Jiquiriçá;1991;não_natural_mun;685
+1417;2914307;Iramaia;Chapada Diamantina;1991;não_natural_mun;1315
+1418;2914406;Iraquara;Chapada Diamantina;1991;não_natural_mun;1822
+1419;2914505;Irará;Portal do Sertão;1991;não_natural_mun;1973
+1420;2914604;Irecê;Irecê;1991;não_natural_mun;24296
+1421;2914653;Itabela;Costa do Descobrimento;1991;não_natural_mun;9613
+1422;2914703;Itaberaba;Piemonte do Paraguaçu;1991;não_natural_mun;16908
+1423;2914802;Itabuna;Litoral Sul;1991;não_natural_mun;70836
+1424;2914901;Itacaré;Litoral Sul;1991;não_natural_mun;4508
+1425;2915007;Itaeté;Chapada Diamantina;1991;não_natural_mun;1455
+1426;2915106;Itagi;Médio Rio de Contas;1991;não_natural_mun;2736
+1427;2915205;Itagibá;Médio Rio de Contas;1991;não_natural_mun;3656
+1428;2915304;Itagimirim;Costa do Descobrimento;1991;não_natural_mun;3409
+1429;2915353;Itaguaçu da Bahia;Irecê;1991;não_natural_mun;1755
+1430;2915403;Itaju do Colônia;Litoral Sul;1991;não_natural_mun;2695
+1431;2915502;Itajuípe;Litoral Sul;1991;não_natural_mun;6433
+1432;2915601;Itamaraju;Extremo Sul;1991;não_natural_mun;21221
+1433;2915700;Itamari;Médio Rio de Contas;1991;não_natural_mun;2581
+1434;2915809;Itambé;Médio Sudoeste da Bahia;1991;não_natural_mun;6790
+1435;2915908;Itanagra;Litoral Norte e Agreste Baiano;1991;não_natural_mun;1073
+1436;2916005;Itanhém;Extremo Sul;1991;não_natural_mun;6587
+1437;2916104;Itaparica;Metropolitano de Salvador;1991;não_natural_mun;4192
+1438;2916203;Itapé;Litoral Sul;1991;não_natural_mun;591
+1439;2916302;Itapebi;Costa do Descobrimento;1991;não_natural_mun;1388
+1440;2916401;Itapetinga;Médio Sudoeste da Bahia;1991;não_natural_mun;19402
+1441;2916500;Itapicuru;Litoral Norte e Agreste Baiano;1991;não_natural_mun;1338
+1442;2916609;Itapitanga;Litoral Sul;1991;não_natural_mun;2476
+1443;2916708;Itaquara;Vale do Jiquiriçá;1991;não_natural_mun;1225
+1444;2916807;Itarantim;Médio Sudoeste da Bahia;1991;não_natural_mun;3855
+1445;2916856;Itatim;Piemonte do Paraguaçu;1991;não_natural_mun;1397
+1446;2916906;Itiruçu;Vale do Jiquiriçá;1991;não_natural_mun;2990
+1447;2917003;Itiúba;Sisal;1991;não_natural_mun;3223
+1448;2917102;Itororó;Médio Sudoeste da Bahia;1991;não_natural_mun;6507
+1449;2917201;Ituaçu;Sertão Produtivo;1991;não_natural_mun;1776
+1450;2917300;Ituberá;Baixo Sul;1991;não_natural_mun;4647
+1451;2917334;Iuiu;Sertão Produtivo;1991;não_natural_mun;2054
+1452;2917359;Jaborandi;Bacia do Rio Corrente;1991;não_natural_mun;682
+1453;2917409;Jacaraci;Sudoeste Baiano;1991;não_natural_mun;361
+1454;2917508;Jacobina;Piemonte da Diamantina;1991;não_natural_mun;14304
+1455;2917607;Jaguaquara;Vale do Jiquiriçá;1991;não_natural_mun;8130
+1456;2917706;Jaguarari;Piemonte Norte do Itapicuru;1991;não_natural_mun;5670
+1457;2917805;Jaguaripe;Baixo Sul;1991;não_natural_mun;813
+1458;2917904;Jandaíra;Litoral Norte e Agreste Baiano;1991;não_natural_mun;1279
+1459;2918001;Jequié;Médio Rio de Contas;1991;não_natural_mun;30678
+1460;2918100;Jeremoabo;Semiárido Nordeste II;1991;não_natural_mun;6047
+1461;2918209;Jiquiriçá;Vale do Jiquiriçá;1991;não_natural_mun;2384
+1462;2918308;Jitaúna;Médio Rio de Contas;1991;não_natural_mun;2239
+1463;2918357;João Dourado;Irecê;1991;não_natural_mun;7546
+1464;2918407;Juazeiro;Sertão do São Francisco;1991;não_natural_mun;49720
+1465;2918456;Jucuruçu;Extremo Sul;1991;não_natural_mun;4410
+1466;2918506;Jussara;Irecê;1991;não_natural_mun;4050
+1467;2918555;Jussari;Litoral Sul;1991;não_natural_mun;2697
+1468;2918605;Jussiape;Chapada Diamantina;1991;não_natural_mun;677
+1469;2918704;Lafayette Coutinho;Vale do Jiquiriçá;1991;não_natural_mun;709
+1470;2919058;Lagedo do Tabocal;Vale do Jiquiriçá;1991;não_natural_mun;2171
+1471;2918753;Lagoa Real;Sertão Produtivo;1991;não_natural_mun;153
+1472;2918803;Laje;Vale do Jiquiriçá;1991;não_natural_mun;2046
+1473;2918902;Lajedão;Extremo Sul;1991;não_natural_mun;1663
+1474;2919009;Lajedinho;Piemonte do Paraguaçu;1991;não_natural_mun;417
+1475;2919108;Lamarão;Sisal;1991;não_natural_mun;675
+1476;2919157;Lapão;Irecê;1991;não_natural_mun;5783
+1477;2919207;Lauro de Freitas;Metropolitano de Salvador;1991;não_natural_mun;41653
+1478;2919306;Lençóis;Chapada Diamantina;1991;não_natural_mun;1732
+1479;2919405;Licínio de Almeida;Sudoeste Baiano;1991;não_natural_mun;1691
+1480;2919504;Livramento de N. Senhora;Sertão Produtivo;1991;não_natural_mun;4337
+1481;2919603;Macajuba;Piemonte do Paraguaçu;1991;não_natural_mun;1555
+1482;2919702;Macarani;Médio Sudoeste da Bahia;1991;não_natural_mun;1289
+1483;2919801;Macaúbas;Bacia do Paramirim;1991;não_natural_mun;1323
+1484;2919900;Macururé;Itaparica;1991;não_natural_mun;239
+1485;2919926;Madre de Deus;Metropolitano de Salvador;1991;não_natural_mun;2811
+1486;2919959;Maetinga;Sudoeste Baiano;1991;não_natural_mun;672
+1487;2920007;Maiquinique;Médio Sudoeste da Bahia;1991;não_natural_mun;2074
+1488;2920106;Mairi;Bacia do Jacuípe;1991;não_natural_mun;2072
+1489;2920205;Malhada;Velho Chico;1991;não_natural_mun;1414
+1490;2920304;Malhada de Pedras;Sertão Produtivo;1991;não_natural_mun;372
+1491;2920403;Manoel Vitorino;Médio Rio de Contas;1991;não_natural_mun;1466
+1492;2920452;Mansidão;Bacia do Rio Grande;1991;não_natural_mun;486
+1493;2920502;Maracás;Vale do Jiquiriçá;1991;não_natural_mun;3215
+1494;2920601;Maragogipe;Recôncavo;1991;não_natural_mun;2228
+1495;2920700;Maraú;Litoral Sul;1991;não_natural_mun;3392
+1496;2920809;Marcionílio Souza;Chapada Diamantina;1991;não_natural_mun;4689
+1497;2920908;Mascote;Litoral Sul;1991;não_natural_mun;5859
+1498;2921005;Mata de São João;Metropolitano de Salvador;1991;não_natural_mun;7701
+1499;2921054;Matina;Velho Chico;1991;não_natural_mun;508
+1500;2921104;Medeiros Neto;Extremo Sul;1991;não_natural_mun;9332
+1501;2921203;Miguel Calmon;Piemonte da Diamantina;1991;não_natural_mun;2817
+1502;2921302;Milagres;Vale do Jiquiriçá;1991;não_natural_mun;2443
+1503;2921401;Mirangaba;Piemonte da Diamantina;1991;não_natural_mun;578
+1504;2921450;Mirante;Sudoeste Baiano;1991;não_natural_mun;134
+1505;2921500;Monte Santo;Sisal;1991;não_natural_mun;1645
+1506;2921609;Morpará;Velho Chico;1991;não_natural_mun;1603
+1507;2921708;Morro do Chapéu;Chapada Diamantina;1991;não_natural_mun;7377
+1508;2921807;Mortugaba;Sudoeste Baiano;1991;não_natural_mun;2248
+1509;2921906;Mucugê;Chapada Diamantina;1991;não_natural_mun;823
+1510;2922003;Mucuri;Extremo Sul;1991;não_natural_mun;5805
+1511;2922052;Mulungu do Morro;Irecê;1991;não_natural_mun;747
+1512;2922102;Mundo Novo;Piemonte do Paraguaçu;1991;não_natural_mun;2362
+1513;2922201;Muniz Ferreira;Recôncavo;1991;não_natural_mun;1664
+1514;2922250;Muquém do São Francisco;Velho Chico;1991;não_natural_mun;2620
+1515;2922300;Muritiba;Recôncavo;1991;não_natural_mun;4291
+1516;2922409;Mutuípe;Vale do Jiquiriçá;1991;não_natural_mun;4567
+1517;2922508;Nazaré;Recôncavo;1991;não_natural_mun;5946
+1518;2922607;Nilo Peçanha;Baixo Sul;1991;não_natural_mun;1067
+1519;2922656;Nordestina;Sisal;1991;não_natural_mun;722
+1520;2922706;Nova Canaã;Médio Sudoeste da Bahia;1991;não_natural_mun;2455
+1521;2922730;Nova Fátima;Bacia do Jacuípe;1991;não_natural_mun;1277
+1522;2922755;Nova Ibiá;Médio Rio de Contas;1991;não_natural_mun;2611
+1523;2922805;Nova Itarana;Vale do Jiquiriçá;1991;não_natural_mun;1636
+1524;2922854;Nova Redenção;Chapada Diamantina;1991;não_natural_mun;2501
+1525;2922904;Nova Soure;Semiárido Nordeste II;1991;não_natural_mun;2517
+1526;2923001;Nova Viçosa;Extremo Sul;1991;não_natural_mun;9653
+1527;2923035;Novo Horizonte;Chapada Diamantina;1991;não_natural_mun;608
+1528;2923050;Novo Triunfo;Semiárido Nordeste II;1991;não_natural_mun;236
+1529;2923100;Olindina;Litoral Norte e Agreste Baiano;1991;não_natural_mun;4197
+1530;2923209;Oliveira dos Brejinhos;Velho Chico;1991;não_natural_mun;1701
+1531;2923308;Ouriçangas;Litoral Norte e Agreste Baiano;1991;não_natural_mun;346
+1532;2923357;Ourolândia;Piemonte da Diamantina;1991;não_natural_mun;2921
+1533;2923407;Palmas de Monte Alto;Sertão Produtivo;1991;não_natural_mun;2719
+1534;2923506;Palmeiras;Chapada Diamantina;1991;não_natural_mun;1379
+1535;2923605;Paramirim;Bacia do Paramirim;1991;não_natural_mun;1052
+1536;2923704;Paratinga;Velho Chico;1991;não_natural_mun;884
+1537;2923803;Paripiranga;Semiárido Nordeste II;1991;não_natural_mun;1595
+1538;2923902;Pau Brasil;Litoral Sul;1991;não_natural_mun;5119
+1539;2924009;Paulo Afonso;Itaparica;1991;não_natural_mun;38846
+1540;2924058;Pé de Serra;Bacia do Jacuípe;1991;não_natural_mun;1026
+1541;2924108;Pedrão;Litoral Norte e Agreste Baiano;1991;não_natural_mun;227
+1542;2924207;Pedro Alexandre;Semiárido Nordeste II;1991;não_natural_mun;1045
+1543;2924306;Piatã;Chapada Diamantina;1991;não_natural_mun;401
+1544;2924405;Pilão Arcado;Sertão do São Francisco;1991;não_natural_mun;683
+1545;2924504;Pindaí;Sertão Produtivo;1991;não_natural_mun;1080
+1546;2924603;Pindobaçu;Piemonte Norte do Itapicuru;1991;não_natural_mun;3167
+1547;2924652;Pintadas;Bacia do Jacuípe;1991;não_natural_mun;800
+1548;2924678;Piraí do Norte;Baixo Sul;1991;não_natural_mun;2041
+1549;2924702;Piripá;Sudoeste Baiano;1991;não_natural_mun;820
+1550;2924801;Piritiba;Piemonte do Paraguaçu;1991;não_natural_mun;4047
+1551;2924900;Planaltino;Vale do Jiquiriçá;1991;não_natural_mun;813
+1552;2925006;Planalto;Sudoeste Baiano;1991;não_natural_mun;3984
+1553;2925105;Poções;Sudoeste Baiano;1991;não_natural_mun;9017
+1554;2925204;Pojuca;Metropolitano de Salvador;1991;não_natural_mun;6861
+1555;2925253;Ponto Novo;Piemonte Norte do Itapicuru;1991;não_natural_mun;2790
+1556;2925303;Porto Seguro;Costa do Descobrimento;1991;não_natural_mun;12135
+1557;2925402;Potiraguá;Médio Sudoeste da Bahia;1991;não_natural_mun;2890
+1558;2925501;Prado;Extremo Sul;1991;não_natural_mun;7579
+1559;2925600;Presidente Dutra;Irecê;1991;não_natural_mun;3229
+1560;2925709;Presidente Jânio Quadros;Sudoeste Baiano;1991;não_natural_mun;781
+1561;2925758;Presidente Tancredo Neves;Baixo Sul;1991;não_natural_mun;3670
+1562;2925808;Queimadas;Sisal;1991;não_natural_mun;3047
+1563;2925907;Quijingue;Sisal;1991;não_natural_mun;2244
+1564;2925931;Quixabeira;Bacia do Jacuípe;1991;não_natural_mun;2687
+1565;2925956;Rafael Jambeiro;Piemonte do Paraguaçu;1991;não_natural_mun;2257
+1566;2926004;Remanso;Sertão do São Francisco;1991;não_natural_mun;4830
+1567;2926103;Retirolândia;Sisal;1991;não_natural_mun;1482
+1568;2926202;Riachão das Neves;Bacia do Rio Grande;1991;não_natural_mun;3502
+1569;2926301;Riachão do Jacuípe;Bacia do Jacuípe;1991;não_natural_mun;3466
+1570;2926400;Riacho de Santana;Velho Chico;1991;não_natural_mun;1408
+1571;2926509;Ribeira do Amparo;Semiárido Nordeste II;1991;não_natural_mun;930
+1572;2926608;Ribeira do Pombal;Semiárido Nordeste II;1991;não_natural_mun;8629
+1573;2926657;Ribeirão do Largo;Sudoeste Baiano;1991;não_natural_mun;1059
+1574;2926707;Rio de Contas;Chapada Diamantina;1991;não_natural_mun;944
+1575;2926806;Rio do Antônio;Sertão Produtivo;1991;não_natural_mun;887
+1576;2926905;Rio do Pires;Bacia do Paramirim;1991;não_natural_mun;544
+1577;2927002;Rio Real;Litoral Norte e Agreste Baiano;1991;não_natural_mun;7096
+1578;2927101;Rodelas;Itaparica;1991;não_natural_mun;837
+1579;2927200;Ruy Barbosa;Piemonte do Paraguaçu;1991;não_natural_mun;2934
+1580;2927309;Salinas da Margarida;Recôncavo;1991;não_natural_mun;1378
+1581;2927408;Salvador;Metropolitano de Salvador;1991;não_natural_mun;646821
+1582;2927507;Santa Bárbara;Portal do Sertão;1991;não_natural_mun;1643
+1583;2927606;Santa Brígida;Semiárido Nordeste II;1991;não_natural_mun;3658
+1584;2927705;Santa Cruz Cabrália;Costa do Descobrimento;1991;não_natural_mun;1993
+1585;2927804;Santa Cruz da Vitória;Médio Sudoeste da Bahia;1991;não_natural_mun;2119
+1586;2927903;Santa Inês;Vale do Jiquiriçá;1991;não_natural_mun;1542
+1587;2928059;Santa Luzia;Litoral Sul;1991;não_natural_mun;5744
+1588;2928109;Santa Maria da Vitória;Bacia do Rio Corrente;1991;não_natural_mun;7336
+1589;2928406;Santa Rita de Cássia;Bacia do Rio Grande;1991;não_natural_mun;2162
+1590;2928505;Santa Terezinha;Piemonte do Paraguaçu;1991;não_natural_mun;690
+1591;2928000;Santaluz;Sisal;1991;não_natural_mun;5481
+1592;2928208;Santana;Bacia do Rio Corrente;1991;não_natural_mun;3338
+1593;2928307;Santanópolis;Portal do Sertão;1991;não_natural_mun;283
+1594;2928604;Santo Amaro;Recôncavo;1991;não_natural_mun;9822
+1595;2928703;Santo Antônio de Jesus;Recôncavo;1991;não_natural_mun;18303
+1596;2928802;Santo Estevão;Portal do Sertão;1991;não_natural_mun;5706
+1597;2928901;São Desidério;Bacia do Rio Grande;1991;não_natural_mun;1739
+1598;2928950;São Domingos;Sisal;1991;não_natural_mun;2241
+1599;2929107;São Felipe;Recôncavo;1991;não_natural_mun;1071
+1600;2929008;São Félix;Recôncavo;1991;não_natural_mun;1888
+1601;2929057;São Félix do Coribe;Bacia do Rio Corrente;1991;não_natural_mun;4303
+1602;2929206;São Francisco do Conde;Metropolitano de Salvador;1991;não_natural_mun;3665
+1603;2929255;São Gabriel;Irecê;1991;não_natural_mun;4103
+1604;2929305;São Gonçalo dos Campos;Portal do Sertão;1991;não_natural_mun;2762
+1605;2929354;São José da Vitória;Litoral Sul;1991;não_natural_mun;2090
+1606;2929370;São José do Jacuípe;Bacia do Jacuípe;1991;não_natural_mun;2459
+1607;2929404;São Miguel das Matas;Vale do Jiquiriçá;1991;não_natural_mun;1200
+1608;2929503;São Sebastião do Passé;Metropolitano de Salvador;1991;não_natural_mun;6154
+1609;2929602;Sapeaçu;Recôncavo;1991;não_natural_mun;2917
+1610;2929701;Sátiro Dias;Litoral Norte e Agreste Baiano;1991;não_natural_mun;890
+1611;2929750;Saubara;Recôncavo;1991;não_natural_mun;532
+1612;2929800;Saúde;Piemonte da Diamantina;1991;não_natural_mun;1880
+1613;2929909;Seabra;Chapada Diamantina;1991;não_natural_mun;5188
+1614;2930006;Sebastião Laranjeiras;Sertão Produtivo;1991;não_natural_mun;2151
+1615;2930105;Senhor do Bonfim;Piemonte Norte do Itapicuru;1991;não_natural_mun;16490
+1616;2930204;Sento Sé;Sertão do São Francisco;1991;não_natural_mun;3881
+1617;2930154;Serra do Ramalho;Velho Chico;1991;não_natural_mun;17727
+1618;2930303;Serra Dourada;Bacia do Rio Corrente;1991;não_natural_mun;1025
+1619;2930402;Serra Preta;Bacia do Jacuípe;1991;não_natural_mun;621
+1620;2930501;Serrinha;Sisal;1991;não_natural_mun;11206
+1621;2930600;Serrolândia;Piemonte da Diamantina;1991;não_natural_mun;2755
+1622;2930709;Simões Filho;Metropolitano de Salvador;1991;não_natural_mun;37862
+1623;2930758;Sítio do Mato;Velho Chico;1991;não_natural_mun;1199
+1624;2930766;Sítio do Quinto;Semiárido Nordeste II;1991;não_natural_mun;1887
+1625;2930774;Sobradinho;Sertão do São Francisco;1991;não_natural_mun;13517
+1626;2930808;Souto Soares;Chapada Diamantina;1991;não_natural_mun;1770
+1627;2930907;Tabocas do Brejo Velho;Bacia do Rio Corrente;1991;não_natural_mun;640
+1628;2931004;Tanhaçu;Sertão Produtivo;1991;não_natural_mun;1238
+1629;2931053;Tanque Novo;Sertão Produtivo;1991;não_natural_mun;700
+1630;2931103;Tanquinho;Portal do Sertão;1991;não_natural_mun;1114
+1631;2931202;Taperoá;Baixo Sul;1991;não_natural_mun;1314
+1632;2931301;Tapiramutá;Piemonte do Paraguaçu;1991;não_natural_mun;2622
+1633;2931350;Teixeira de Freitas;Extremo Sul;1991;não_natural_mun;52826
+1634;2931400;Teodoro Sampaio;Portal do Sertão;1991;não_natural_mun;1140
+1635;2931509;Teofilândia;Sisal;1991;não_natural_mun;1389
+1636;2931608;Teolândia;Baixo Sul;1991;não_natural_mun;2950
+1637;2931707;Terra Nova;Portal do Sertão;1991;não_natural_mun;965
+1638;2931806;Tremedal;Sudoeste Baiano;1991;não_natural_mun;483
+1639;2931905;Tucano;Sisal;1991;não_natural_mun;3771
+1640;2932002;Uauá;Sertão do São Francisco;1991;não_natural_mun;1376
+1641;2932101;Ubaíra;Vale do Jiquiriçá;1991;não_natural_mun;2267
+1642;2932200;Ubaitaba;Litoral Sul;1991;não_natural_mun;7815
+1643;2932309;Ubatã;Médio Rio de Contas;1991;não_natural_mun;9818
+1644;2932408;Uibaí;Irecê;1991;não_natural_mun;3568
+1645;2932457;Umburanas;Piemonte da Diamantina;1991;não_natural_mun;1456
+1646;2932507;Una;Litoral Sul;1991;não_natural_mun;8543
+1647;2932606;Urandi;Sertão Produtivo;1991;não_natural_mun;1450
+1648;2932705;Uruçuca;Litoral Sul;1991;não_natural_mun;6150
+1649;2932804;Utinga;Chapada Diamantina;1991;não_natural_mun;4042
+1650;2932903;Valença;Baixo Sul;1991;não_natural_mun;13921
+1651;2933000;Valente;Sisal;1991;não_natural_mun;1308
+1652;2933059;Várzea da Roça;Bacia do Jacuípe;1991;não_natural_mun;1598
+1653;2933109;Várzea do Poço;Bacia do Jacuípe;1991;não_natural_mun;926
+1654;2933158;Várzea Nova;Piemonte da Diamantina;1991;não_natural_mun;4084
+1655;2933174;Varzedo;Recôncavo;1991;não_natural_mun;1105
+1656;2933208;Vera Cruz;Metropolitano de Salvador;1991;não_natural_mun;5671
+1657;2933257;Vereda;Extremo Sul;1991;não_natural_mun;2813
+1658;2933307;Vitória da Conquista;Sudoeste Baiano;1991;não_natural_mun;77462
+1659;2933406;Wagner;Chapada Diamantina;1991;não_natural_mun;3535
+1660;2933455;Wanderley;Bacia do Rio Grande;1991;não_natural_mun;2462
+1661;2933505;Wenceslau Guimarães;Baixo Sul;1991;não_natural_mun;2376
+1662;2933604;Xique-Xique;Irecê;1991;não_natural_mun;10913
+1663;2900108;Abaíra;Chapada Diamantina;2000;não_natural_mun;1050
+1664;2900207;Abaré;Itaparica;2000;não_natural_mun;2767
+1665;2900306;Acajutiba;Litoral Norte e Agreste Baiano;2000;não_natural_mun;3503
+1666;2900355;Adustina;Semiárido Nordeste II;2000;não_natural_mun;2687
+1667;2900405;Água Fria;Portal do Sertão;2000;não_natural_mun;2004
+1668;2900603;Aiquara;Médio Rio de Contas;2000;não_natural_mun;1582
+1669;2900702;Alagoinhas;Litoral Norte e Agreste Baiano;2000;não_natural_mun;36959
+1670;2900801;Alcobaça;Extremo Sul;2000;não_natural_mun;6390
+1671;2900900;Almadina;Litoral Sul;2000;não_natural_mun;3178
+1672;2901007;Amargosa;Vale do Jiquiriçá;2000;não_natural_mun;6478
+1673;2901106;Amélia Rodrigues;Portal do Sertão;2000;não_natural_mun;5636
+1674;2901155;América Dourada;Irecê;2000;não_natural_mun;3426
+1675;2901205;Anagé;Sudoeste Baiano;2000;não_natural_mun;1914
+1676;2901304;Andaraí;Chapada Diamantina;2000;não_natural_mun;2844
+1677;2901353;Andorinha;Piemonte Norte do Itapicuru;2000;não_natural_mun;3282
+1678;2901403;Angical;Bacia do Rio Grande;2000;não_natural_mun;2306
+1679;2901502;Anguera;Portal do Sertão;2000;não_natural_mun;1196
+1680;2901601;Antas;Semiárido Nordeste II;2000;não_natural_mun;1985
+1681;2901700;Antônio Cardoso;Portal do Sertão;2000;não_natural_mun;878
+1682;2901809;Antônio Gonçalves;Piemonte Norte do Itapicuru;2000;não_natural_mun;2559
+1683;2901908;Aporá;Litoral Norte e Agreste Baiano;2000;não_natural_mun;2919
+1684;2901957;Apuarema;Médio Rio de Contas;2000;não_natural_mun;2192
+1685;2902054;Araçás;Litoral Norte e Agreste Baiano;2000;não_natural_mun;2398
+1686;2902005;Aracatu;Sudoeste Baiano;2000;não_natural_mun;1186
+1687;2902104;Araci;Sisal;2000;não_natural_mun;6628
+1688;2902203;Aramari;Litoral Norte e Agreste Baiano;2000;não_natural_mun;1253
+1689;2902252;Arataca;Litoral Sul;2000;não_natural_mun;4582
+1690;2902302;Aratuípe;Baixo Sul;2000;não_natural_mun;1300
+1691;2902401;Aurelino Leal;Litoral Sul;2000;não_natural_mun;4993
+1692;2902500;Baianópolis;Bacia do Rio Grande;2000;não_natural_mun;1178
+1693;2902609;Baixa Grande;Bacia do Jacuípe;2000;não_natural_mun;1915
+1694;2902658;Banzaê;Semiárido Nordeste II;2000;não_natural_mun;1052
+1695;2902708;Barra;Velho Chico;2000;não_natural_mun;3978
+1696;2902807;Barra da Estiva;Chapada Diamantina;2000;não_natural_mun;2898
+1697;2902906;Barra do Choça;Sudoeste Baiano;2000;não_natural_mun;10846
+1698;2903003;Barra do Mendes;Irecê;2000;não_natural_mun;2385
+1699;2903102;Barra do Rocha;Médio Rio de Contas;2000;não_natural_mun;2630
+1700;2903201;Barreiras;Bacia do Rio Grande;2000;não_natural_mun;70069
+1701;2903235;Barro Alto;Irecê;2000;não_natural_mun;2271
+1702;2903300;Barro Preto/Lomanto Junior;Litoral Sul;2000;não_natural_mun;2411
+1703;2903409;Belmonte;Costa do Descobrimento;2000;não_natural_mun;3641
+1704;2903508;Belo Campo;Sudoeste Baiano;2000;não_natural_mun;3828
+1705;2903607;Biritinga;Sisal;2000;não_natural_mun;1691
+1706;2903706;Boa Nova;Médio Rio de Contas;2000;não_natural_mun;2440
+1707;2903805;Boa Vista do Tupim;Piemonte do Paraguaçu;2000;não_natural_mun;3640
+1708;2903904;Bom Jesus da Lapa;Velho Chico;2000;não_natural_mun;14730
+1709;2903953;Bom Jesus da Serra;Sudoeste Baiano;2000;não_natural_mun;1155
+1710;2904001;Boninal;Chapada Diamantina;2000;não_natural_mun;1586
+1711;2904050;Bonito;Chapada Diamantina;2000;não_natural_mun;4731
+1712;2904100;Boquira;Bacia do Paramirim;2000;não_natural_mun;1843
+1713;2904209;Botuporã;Bacia do Paramirim;2000;não_natural_mun;729
+1714;2904308;Brejões;Vale do Jiquiriçá;2000;não_natural_mun;3232
+1715;2904407;Brejolândia;Bacia do Rio Corrente;2000;não_natural_mun;1263
+1716;2904506;Brotas de Macaúbas;Velho Chico;2000;não_natural_mun;802
+1717;2904605;Brumado;Sertão Produtivo;2000;não_natural_mun;13074
+1718;2904704;Buerarema;Litoral Sul;2000;não_natural_mun;5350
+1719;2904753;Buritirama;Bacia do Rio Grande;2000;não_natural_mun;1421
+1720;2904803;Caatiba;Médio Sudoeste da Bahia;2000;não_natural_mun;1317
+1721;2904852;Cabaceiras do Paraguaçu;Recôncavo;2000;não_natural_mun;1863
+1722;2904902;Cachoeira;Recôncavo;2000;não_natural_mun;5738
+1723;2905008;Caculé;Sertão Produtivo;2000;não_natural_mun;3766
+1724;2905107;Caém;Piemonte da Diamantina;2000;não_natural_mun;2155
+1725;2905156;Caetanos;Sudoeste Baiano;2000;não_natural_mun;486
+1726;2905206;Caetité;Sertão Produtivo;2000;não_natural_mun;4935
+1727;2905305;Cafarnaum;Irecê;2000;não_natural_mun;3831
+1728;2905404;Cairu;Baixo Sul;2000;não_natural_mun;1725
+1729;2905503;Caldeirão Grande;Piemonte Norte do Itapicuru;2000;não_natural_mun;1681
+1730;2905602;Camacan;Litoral Sul;2000;não_natural_mun;11046
+1731;2905701;Camaçari;Metropolitano de Salvador;2000;não_natural_mun;81099
+1732;2905800;Camamu;Baixo Sul;2000;não_natural_mun;5275
+1733;2905909;Campo Alegre de Lourdes;Sertão do São Francisco;2000;não_natural_mun;2682
+1734;2906006;Campo Formoso;Piemonte Norte do Itapicuru;2000;não_natural_mun;6750
+1735;2906105;Canápolis;Bacia do Rio Corrente;2000;não_natural_mun;477
+1736;2906204;Canarana;Irecê;2000;não_natural_mun;5682
+1737;2906303;Canavieiras;Litoral Sul;2000;não_natural_mun;8139
+1738;2906402;Candeal;Sisal;2000;não_natural_mun;985
+1739;2906501;Candeias;Metropolitano de Salvador;2000;não_natural_mun;24700
+1740;2906600;Candiba;Sertão Produtivo;2000;não_natural_mun;1615
+1741;2906709;Cândido Sales;Sudoeste Baiano;2000;não_natural_mun;6032
+1742;2906808;Cansanção;Sisal;2000;não_natural_mun;4192
+1743;2906824;Canudos;Sertão do São Francisco;2000;não_natural_mun;3434
+1744;2906857;Capela do Alto Alegre;Bacia do Jacuípe;2000;não_natural_mun;1858
+1745;2906873;Capim Grosso;Bacia do Jacuípe;2000;não_natural_mun;9522
+1746;2906899;Caraíbas;Sudoeste Baiano;2000;não_natural_mun;1627
+1747;2906907;Caravelas;Extremo Sul;2000;não_natural_mun;5590
+1748;2907004;Cardeal da Silva;Litoral Norte e Agreste Baiano;2000;não_natural_mun;1978
+1749;2907103;Carinhanha;Velho Chico;2000;não_natural_mun;4482
+1750;2907202;Casa Nova;Sertão do São Francisco;2000;não_natural_mun;9285
+1751;2907301;Castro Alves;Recôncavo;2000;não_natural_mun;3100
+1752;2907400;Catolândia;Bacia do Rio Grande;2000;não_natural_mun;564
+1753;2907509;Catu;Litoral Norte e Agreste Baiano;2000;não_natural_mun;8621
+1754;2907558;Caturama;Bacia do Paramirim;2000;não_natural_mun;736
+1755;2907608;Central;Irecê;2000;não_natural_mun;3186
+1756;2907707;Chorrochó;Itaparica;2000;não_natural_mun;842
+1757;2907806;Cícero Dantas;Semiárido Nordeste II;2000;não_natural_mun;4898
+1758;2907905;Cipó;Semiárido Nordeste II;2000;não_natural_mun;3553
+1759;2908002;Coaraci;Litoral Sul;2000;não_natural_mun;6970
+1760;2908101;Côcos;Bacia do Rio Corrente;2000;não_natural_mun;1792
+1761;2908200;Conceição da Feira;Portal do Sertão;2000;não_natural_mun;3260
+1762;2908309;Conceição do Almeida;Recôncavo;2000;não_natural_mun;3501
+1763;2908408;Conceição do Coité;Sisal;2000;não_natural_mun;7038
+1764;2908507;Conceição do Jacuípe;Portal do Sertão;2000;não_natural_mun;7242
+1765;2908606;Conde;Litoral Norte e Agreste Baiano;2000;não_natural_mun;2533
+1766;2908705;Condeúba;Sudoeste Baiano;2000;não_natural_mun;1861
+1767;2908804;Contendas do Sincorá;Sertão Produtivo;2000;não_natural_mun;939
+1768;2908903;Coração de Maria;Portal do Sertão;2000;não_natural_mun;2433
+1769;2909000;Cordeiros;Sudoeste Baiano;2000;não_natural_mun;1269
+1770;2909109;Coribe;Bacia do Rio Corrente;2000;não_natural_mun;2334
+1771;2909208;Coronel João Sá;Semiárido Nordeste II;2000;não_natural_mun;1594
+1772;2909307;Correntina;Bacia do Rio Corrente;2000;não_natural_mun;5314
+1773;2909406;Cotegipe;Bacia do Rio Grande;2000;não_natural_mun;2439
+1774;2909505;Cravolândia;Vale do Jiquiriçá;2000;não_natural_mun;1035
+1775;2909604;Crisópolis;Litoral Norte e Agreste Baiano;2000;não_natural_mun;2890
+1776;2909703;Cristópolis;Bacia do Rio Grande;2000;não_natural_mun;1672
+1777;2909802;Cruz das Almas;Recôncavo;2000;não_natural_mun;12563
+1778;2909901;Curaçá;Sertão do São Francisco;2000;não_natural_mun;4363
+1779;2910008;Dário Meira;Médio Rio de Contas;2000;não_natural_mun;2922
+1780;2910057;Dias d'Ávila;Metropolitano de Salvador;2000;não_natural_mun;28372
+1781;2910107;Dom Basílio;Sertão Produtivo;2000;não_natural_mun;773
+1782;2910206;Dom Macedo Costa;Recôncavo;2000;não_natural_mun;708
+1783;2910305;Elísio Medrado;Vale do Jiquiriçá;2000;não_natural_mun;1418
+1784;2910404;Encruzilhada;Sudoeste Baiano;2000;não_natural_mun;6298
+1785;2910503;Entre Rios;Litoral Norte e Agreste Baiano;2000;não_natural_mun;10595
+1786;2900504;Érico Cardoso;Bacia do Paramirim;2000;não_natural_mun;298
+1787;2910602;Esplanada;Litoral Norte e Agreste Baiano;2000;não_natural_mun;6626
+1788;2910701;Euclides da Cunha;Semiárido Nordeste II;2000;não_natural_mun;10405
+1789;2910727;Eunápolis;Costa do Descobrimento;2000;não_natural_mun;39740
+1790;2910750;Fátima;Semiárido Nordeste II;2000;não_natural_mun;2906
+1791;2910776;Feira da Mata;Velho Chico;2000;não_natural_mun;917
+1792;2910800;Feira de Santana;Portal do Sertão;2000;não_natural_mun;164435
+1793;2910859;Filadélfia;Piemonte Norte do Itapicuru;2000;não_natural_mun;3525
+1794;2910909;Firmino Alves;Médio Sudoeste da Bahia;2000;não_natural_mun;2199
+1795;2911006;Floresta Azul;Litoral Sul;2000;não_natural_mun;2890
+1796;2911105;Formosa do Rio Preto;Bacia do Rio Grande;2000;não_natural_mun;3205
+1797;2911204;Gandu;Baixo Sul;2000;não_natural_mun;8207
+1798;2911253;Gavião;Bacia do Jacuípe;2000;não_natural_mun;823
+1799;2911303;Gentio do Ouro;Irecê;2000;não_natural_mun;1010
+1800;2911402;Glória;Itaparica;2000;não_natural_mun;1379
+1801;2911501;Gongogi;Médio Rio de Contas;2000;não_natural_mun;3283
+1802;2911600;Governador Mangabeira;Recôncavo;2000;não_natural_mun;3799
+1803;2911659;Guajeru;Sudoeste Baiano;2000;não_natural_mun;713
+1804;2911709;Guanambi;Sertão Produtivo;2000;não_natural_mun;19331
+1805;2911808;Guaratinga;Costa do Descobrimento;2000;não_natural_mun;4273
+1806;2911857;Heliópolis;Semiárido Nordeste II;2000;não_natural_mun;1701
+1807;2911907;Iaçu;Piemonte do Paraguaçu;2000;não_natural_mun;7319
+1808;2912004;Ibiassucê;Sertão Produtivo;2000;não_natural_mun;725
+1809;2912103;Ibicaraí;Litoral Sul;2000;não_natural_mun;7439
+1810;2912202;Ibicoara;Chapada Diamantina;2000;não_natural_mun;3913
+1811;2912301;Ibicuí;Médio Sudoeste da Bahia;2000;não_natural_mun;4521
+1812;2912400;Ibipeba;Irecê;2000;não_natural_mun;3626
+1813;2912509;Ibipitanga;Bacia do Paramirim;2000;não_natural_mun;1576
+1814;2912608;Ibiquera;Piemonte do Paraguaçu;2000;não_natural_mun;650
+1815;2912707;Ibirapitanga;Baixo Sul;2000;não_natural_mun;7341
+1816;2912806;Ibirapoã;Extremo Sul;2000;não_natural_mun;2496
+1817;2912905;Ibirataia;Médio Rio de Contas;2000;não_natural_mun;5847
+1818;2913002;Ibitiara;Chapada Diamantina;2000;não_natural_mun;1145
+1819;2913101;Ibititá;Irecê;2000;não_natural_mun;4295
+1820;2913200;Ibotirama;Velho Chico;2000;não_natural_mun;9109
+1821;2913309;Ichu;Sisal;2000;não_natural_mun;1011
+1822;2913408;Igaporã;Velho Chico;2000;não_natural_mun;1854
+1823;2913457;Igrapiúna;Baixo Sul;2000;não_natural_mun;2860
+1824;2913507;Iguaí;Médio Sudoeste da Bahia;2000;não_natural_mun;4532
+1825;2913606;Ilhéus;Litoral Sul;2000;não_natural_mun;58854
+1826;2913705;Inhambupe;Litoral Norte e Agreste Baiano;2000;não_natural_mun;4532
+1827;2913804;Ipecaetá;Portal do Sertão;2000;não_natural_mun;913
+1828;2913903;Ipiaú;Médio Rio de Contas;2000;não_natural_mun;14529
+1829;2914000;Ipirá;Bacia do Jacuípe;2000;não_natural_mun;6242
+1830;2914109;Ipupiara;Irecê;2000;não_natural_mun;1310
+1831;2914208;Irajuba;Vale do Jiquiriçá;2000;não_natural_mun;1330
+1832;2914307;Iramaia;Chapada Diamantina;2000;não_natural_mun;2148
+1833;2914406;Iraquara;Chapada Diamantina;2000;não_natural_mun;2876
+1834;2914505;Irará;Portal do Sertão;2000;não_natural_mun;2994
+1835;2914604;Irecê;Irecê;2000;não_natural_mun;26175
+1836;2914653;Itabela;Costa do Descobrimento;2000;não_natural_mun;11806
+1837;2914703;Itaberaba;Piemonte do Paraguaçu;2000;não_natural_mun;18310
+1838;2914802;Itabuna;Litoral Sul;2000;não_natural_mun;70074
+1839;2914901;Itacaré;Litoral Sul;2000;não_natural_mun;5654
+1840;2915007;Itaeté;Chapada Diamantina;2000;não_natural_mun;2359
+1841;2915106;Itagi;Médio Rio de Contas;2000;não_natural_mun;3094
+1842;2915205;Itagibá;Médio Rio de Contas;2000;não_natural_mun;5015
+1843;2915304;Itagimirim;Costa do Descobrimento;2000;não_natural_mun;2907
+1844;2915353;Itaguaçu da Bahia;Irecê;2000;não_natural_mun;3689
+1845;2915403;Itaju do Colônia;Litoral Sul;2000;não_natural_mun;3453
+1846;2915502;Itajuípe;Litoral Sul;2000;não_natural_mun;7002
+1847;2915601;Itamaraju;Extremo Sul;2000;não_natural_mun;21941
+1848;2915700;Itamari;Médio Rio de Contas;2000;não_natural_mun;2829
+1849;2915809;Itambé;Médio Sudoeste da Bahia;2000;não_natural_mun;4661
+1850;2915908;Itanagra;Litoral Norte e Agreste Baiano;2000;não_natural_mun;1530
+1851;2916005;Itanhém;Extremo Sul;2000;não_natural_mun;6513
+1852;2916104;Itaparica;Metropolitano de Salvador;2000;não_natural_mun;5879
+1853;2916203;Itapé;Litoral Sul;2000;não_natural_mun;2546
+1854;2916302;Itapebi;Costa do Descobrimento;2000;não_natural_mun;3559
+1855;2916401;Itapetinga;Médio Sudoeste da Bahia;2000;não_natural_mun;20569
+1856;2916500;Itapicuru;Litoral Norte e Agreste Baiano;2000;não_natural_mun;4422
+1857;2916609;Itapitanga;Litoral Sul;2000;não_natural_mun;1194
+1858;2916708;Itaquara;Vale do Jiquiriçá;2000;não_natural_mun;1364
+1859;2916807;Itarantim;Médio Sudoeste da Bahia;2000;não_natural_mun;2920
+1860;2916856;Itatim;Piemonte do Paraguaçu;2000;não_natural_mun;2533
+1861;2916906;Itiruçu;Vale do Jiquiriçá;2000;não_natural_mun;2971
+1862;2917003;Itiúba;Sisal;2000;não_natural_mun;4382
+1863;2917102;Itororó;Médio Sudoeste da Bahia;2000;não_natural_mun;7131
+1864;2917201;Ituaçu;Sertão Produtivo;2000;não_natural_mun;1692
+1865;2917300;Ituberá;Baixo Sul;2000;não_natural_mun;6794
+1866;2917334;Iuiu;Sertão Produtivo;2000;não_natural_mun;1704
+1867;2917359;Jaborandi;Bacia do Rio Corrente;2000;não_natural_mun;1145
+1868;2917409;Jacaraci;Sudoeste Baiano;2000;não_natural_mun;1177
+1869;2917508;Jacobina;Piemonte da Diamantina;2000;não_natural_mun;22295
+1870;2917607;Jaguaquara;Vale do Jiquiriçá;2000;não_natural_mun;14271
+1871;2917706;Jaguarari;Piemonte Norte do Itapicuru;2000;não_natural_mun;5623
+1872;2917805;Jaguaripe;Baixo Sul;2000;não_natural_mun;2368
+1873;2917904;Jandaíra;Litoral Norte e Agreste Baiano;2000;não_natural_mun;1709
+1874;2918001;Jequié;Médio Rio de Contas;2000;não_natural_mun;39782
+1875;2918100;Jeremoabo;Semiárido Nordeste II;2000;não_natural_mun;6585
+1876;2918209;Jiquiriçá;Vale do Jiquiriçá;2000;não_natural_mun;2577
+1877;2918308;Jitaúna;Médio Rio de Contas;2000;não_natural_mun;3452
+1878;2918357;João Dourado;Irecê;2000;não_natural_mun;6156
+1879;2918407;Juazeiro;Sertão do São Francisco;2000;não_natural_mun;67275
+1880;2918456;Jucuruçu;Extremo Sul;2000;não_natural_mun;3366
+1881;2918506;Jussara;Irecê;2000;não_natural_mun;3514
+1882;2918555;Jussari;Litoral Sul;2000;não_natural_mun;2725
+1883;2918605;Jussiape;Chapada Diamantina;2000;não_natural_mun;628
+1884;2918704;Lafayette Coutinho;Vale do Jiquiriçá;2000;não_natural_mun;620
+1885;2919058;LaGedo do Tabocal;Vale do Jiquiriçá;2000;não_natural_mun;2253
+1886;2918753;Lagoa Real;Sertão Produtivo;2000;não_natural_mun;964
+1887;2918803;Laje;Vale do Jiquiriçá;2000;não_natural_mun;3900
+1888;2918902;Lajedão;Extremo Sul;2000;não_natural_mun;1578
+1889;2919009;Lajedinho;Piemonte do Paraguaçu;2000;não_natural_mun;949
+1890;2919108;Lamarão;Sisal;2000;não_natural_mun;909
+1891;2919157;Lapão;Irecê;2000;não_natural_mun;7467
+1892;2919207;Lauro de Freitas;Metropolitano de Salvador;2000;não_natural_mun;70085
+1893;2919306;Lençóis;Chapada Diamantina;2000;não_natural_mun;2735
+1894;2919405;Licínio de Almeida;Sudoeste Baiano;2000;não_natural_mun;1891
+1895;2919504;Livramento de N. Senhora;Sertão Produtivo;2000;não_natural_mun;5769
+1896;2919603;Macajuba;Piemonte do Paraguaçu;2000;não_natural_mun;2249
+1897;2919702;Macarani;Médio Sudoeste da Bahia;2000;não_natural_mun;3089
+1898;2919801;Macaúbas;Bacia do Paramirim;2000;não_natural_mun;3232
+1899;2919900;Macururé;Itaparica;2000;não_natural_mun;626
+1900;2919926;Madre de Deus;Metropolitano de Salvador;2000;não_natural_mun;3482
+1901;2919959;Maetinga;Sudoeste Baiano;2000;não_natural_mun;1241
+1902;2920007;Maiquinique;Médio Sudoeste da Bahia;2000;não_natural_mun;2074
+1903;2920106;Mairi;Bacia do Jacuípe;2000;não_natural_mun;2286
+1904;2920205;Malhada;Velho Chico;2000;não_natural_mun;2473
+1905;2920304;Malhada de Pedras;Sertão Produtivo;2000;não_natural_mun;866
+1906;2920403;Manoel Vitorino;Médio Rio de Contas;2000;não_natural_mun;2006
+1907;2920452;Mansidão;Bacia do Rio Grande;2000;não_natural_mun;880
+1908;2920502;Maracás;Vale do Jiquiriçá;2000;não_natural_mun;4253
+1909;2920601;Maragogipe;Recôncavo;2000;não_natural_mun;2626
+1910;2920700;Maraú;Litoral Sul;2000;não_natural_mun;3105
+1911;2920809;Marcionílio Souza;Chapada Diamantina;2000;não_natural_mun;3014
+1912;2920908;Mascote;Litoral Sul;2000;não_natural_mun;6113
+1913;2921005;Mata de São João;Metropolitano de Salvador;2000;não_natural_mun;8095
+1914;2921054;Matina;Velho Chico;2000;não_natural_mun;750
+1915;2921104;Medeiros Neto;Extremo Sul;2000;não_natural_mun;7154
+1916;2921203;Miguel Calmon;Piemonte da Diamantina;2000;não_natural_mun;4120
+1917;2921302;Milagres;Vale do Jiquiriçá;2000;não_natural_mun;2462
+1918;2921401;Mirangaba;Piemonte da Diamantina;2000;não_natural_mun;1887
+1919;2921450;Mirante;Sudoeste Baiano;2000;não_natural_mun;630
+1920;2921500;Monte Santo;Sisal;2000;não_natural_mun;2684
+1921;2921609;Morpará;Velho Chico;2000;não_natural_mun;2382
+1922;2921708;Morro do Chapéu;Chapada Diamantina;2000;não_natural_mun;9252
+1923;2921807;Mortugaba;Sudoeste Baiano;2000;não_natural_mun;2391
+1924;2921906;Mucugê;Chapada Diamantina;2000;não_natural_mun;1625
+1925;2922003;Mucuri;Extremo Sul;2000;não_natural_mun;14610
+1926;2922052;Mulungu do Morro;Irecê;2000;não_natural_mun;1365
+1927;2922102;Mundo Novo;Piemonte do Paraguaçu;2000;não_natural_mun;3544
+1928;2922201;Muniz Ferreira;Recôncavo;2000;não_natural_mun;1338
+1929;2922250;Muquém do São Francisco;Velho Chico;2000;não_natural_mun;2464
+1930;2922300;Muritiba;Recôncavo;2000;não_natural_mun;5390
+1931;2922409;Mutuípe;Vale do Jiquiriçá;2000;não_natural_mun;3846
+1932;2922508;Nazaré;Recôncavo;2000;não_natural_mun;6042
+1933;2922607;Nilo Peçanha;Baixo Sul;2000;não_natural_mun;2303
+1934;2922656;Nordestina;Sisal;2000;não_natural_mun;1368
+1935;2922706;Nova Canaã;Médio Sudoeste da Bahia;2000;não_natural_mun;2812
+1936;2922730;Nova Fátima;Bacia do Jacuípe;2000;não_natural_mun;1944
+1937;2922755;Nova Ibiá;Médio Rio de Contas;2000;não_natural_mun;1848
+1938;2922805;Nova Itarana;Vale do Jiquiriçá;2000;não_natural_mun;1460
+1939;2922854;Nova Redenção;Chapada Diamantina;2000;não_natural_mun;2012
+1940;2922904;Nova Soure;Semiárido Nordeste II;2000;não_natural_mun;3536
+1941;2923001;Nova Viçosa;Extremo Sul;2000;não_natural_mun;12617
+1942;2923035;Novo Horizonte;Chapada Diamantina;2000;não_natural_mun;541
+1943;2923050;Novo Triunfo;Semiárido Nordeste II;2000;não_natural_mun;728
+1944;2923100;Olindina;Litoral Norte e Agreste Baiano;2000;não_natural_mun;5047
+1945;2923209;Oliveira dos Brejinhos;Velho Chico;2000;não_natural_mun;2534
+1946;2923308;Ouriçangas;Litoral Norte e Agreste Baiano;2000;não_natural_mun;1010
+1947;2923357;Ourolândia;Piemonte da Diamantina;2000;não_natural_mun;4702
+1948;2923407;Palmas de Monte Alto;Sertão Produtivo;2000;não_natural_mun;2977
+1949;2923506;Palmeiras;Chapada Diamantina;2000;não_natural_mun;1160
+1950;2923605;Paramirim;Bacia do Paramirim;2000;não_natural_mun;2992
+1951;2923704;Paratinga;Velho Chico;2000;não_natural_mun;2705
+1952;2923803;Paripiranga;Semiárido Nordeste II;2000;não_natural_mun;2349
+1953;2923902;Pau Brasil;Litoral Sul;2000;não_natural_mun;3866
+1954;2924009;Paulo Afonso;Itaparica;2000;não_natural_mun;39659
+1955;2924058;Pé de Serra;Bacia do Jacuípe;2000;não_natural_mun;1817
+1956;2924108;Pedrão;Litoral Norte e Agreste Baiano;2000;não_natural_mun;516
+1957;2924207;Pedro Alexandre;Semiárido Nordeste II;2000;não_natural_mun;1448
+1958;2924306;Piatã;Chapada Diamantina;2000;não_natural_mun;1738
+1959;2924405;Pilão Arcado;Sertão do São Francisco;2000;não_natural_mun;2431
+1960;2924504;Pindaí;Sertão Produtivo;2000;não_natural_mun;1241
+1961;2924603;Pindobaçu;Piemonte Norte do Itapicuru;2000;não_natural_mun;7289
+1962;2924652;Pintadas;Bacia do Jacuípe;2000;não_natural_mun;1406
+1963;2924678;Piraí do Norte;Baixo Sul;2000;não_natural_mun;1207
+1964;2924702;Piripá;Sudoeste Baiano;2000;não_natural_mun;2678
+1965;2924801;Piritiba;Piemonte do Paraguaçu;2000;não_natural_mun;4125
+1966;2924900;Planaltino;Vale do Jiquiriçá;2000;não_natural_mun;1161
+1967;2925006;Planalto;Sudoeste Baiano;2000;não_natural_mun;5409
+1968;2925105;Poções;Sudoeste Baiano;2000;não_natural_mun;15174
+1969;2925204;Pojuca;Metropolitano de Salvador;2000;não_natural_mun;6603
+1970;2925253;Ponto Novo;Piemonte Norte do Itapicuru;2000;não_natural_mun;5146
+1971;2925303;Porto Seguro;Costa do Descobrimento;2000;não_natural_mun;57890
+1972;2925402;Potiraguá;Médio Sudoeste da Bahia;2000;não_natural_mun;2881
+1973;2925501;Prado;Extremo Sul;2000;não_natural_mun;9624
+1974;2925600;Presidente Dutra;Irecê;2000;não_natural_mun;2998
+1975;2925709;Presidente Jânio Quadros;Sudoeste Baiano;2000;não_natural_mun;1122
+1976;2925758;Presidente Tancredo Neves;Baixo Sul;2000;não_natural_mun;4449
+1977;2925808;Queimadas;Sisal;2000;não_natural_mun;5938
+1978;2925907;Quijingue;Sisal;2000;não_natural_mun;2181
+1979;2925931;Quixabeira;Bacia do Jacuípe;2000;não_natural_mun;2690
+1980;2925956;Rafael Jambeiro;Piemonte do Paraguaçu;2000;não_natural_mun;2500
+1981;2926004;Remanso;Sertão do São Francisco;2000;não_natural_mun;6311
+1982;2926103;Retirolândia;Sisal;2000;não_natural_mun;1773
+1983;2926202;Riachão das Neves;Bacia do Rio Grande;2000;não_natural_mun;3384
+1984;2926301;Riachão do Jacuípe;Bacia do Jacuípe;2000;não_natural_mun;4514
+1985;2926400;Riacho de Santana;Velho Chico;2000;não_natural_mun;2138
+1986;2926509;Ribeira do Amparo;Semiárido Nordeste II;2000;não_natural_mun;1586
+1987;2926608;Ribeira do Pombal;Semiárido Nordeste II;2000;não_natural_mun;9496
+1988;2926657;Ribeirão do Largo;Sudoeste Baiano;2000;não_natural_mun;2683
+1989;2926707;Rio de Contas;Chapada Diamantina;2000;não_natural_mun;1521
+1990;2926806;Rio do Antônio;Sertão Produtivo;2000;não_natural_mun;1017
+1991;2926905;Rio do Pires;Bacia do Paramirim;2000;não_natural_mun;869
+1992;2927002;Rio Real;Litoral Norte e Agreste Baiano;2000;não_natural_mun;8498
+1993;2927101;Rodelas;Itaparica;2000;não_natural_mun;2317
+1994;2927200;Ruy Barbosa;Piemonte do Paraguaçu;2000;não_natural_mun;4836
+1995;2927309;Salinas da Margarida;Recôncavo;2000;não_natural_mun;1792
+1996;2927408;Salvador;Metropolitano de Salvador;2000;não_natural_mun;753126
+1997;2927507;Santa Bárbara;Portal do Sertão;2000;não_natural_mun;2232
+1998;2927606;Santa Brígida;Semiárido Nordeste II;2000;não_natural_mun;5214
+1999;2927705;Santa Cruz Cabrália;Costa do Descobrimento;2000;não_natural_mun;13549
+2000;2927804;Santa Cruz da Vitória;Médio Sudoeste da Bahia;2000;não_natural_mun;1760
+2001;2927903;Santa Inês;Vale do Jiquiriçá;2000;não_natural_mun;3711
+2002;2928059;Santa Luzia;Litoral Sul;2000;não_natural_mun;5012
+2003;2928109;Santa Maria da Vitória;Bacia do Rio Corrente;2000;não_natural_mun;9837
+2004;2928406;Santa Rita de Cássia;Bacia do Rio Grande;2000;não_natural_mun;2875
+2005;2928505;Santa Terezinha;Piemonte do Paraguaçu;2000;não_natural_mun;1112
+2006;2928000;Santaluz;Sisal;2000;não_natural_mun;5910
+2007;2928208;Santana;Bacia do Rio Corrente;2000;não_natural_mun;3311
+2008;2928307;Santanópolis;Portal do Sertão;2000;não_natural_mun;664
+2009;2928604;Santo Amaro;Recôncavo;2000;não_natural_mun;10615
+2010;2928703;Santo Antônio de Jesus;Recôncavo;2000;não_natural_mun;23797
+2011;2928802;Santo Estevão;Portal do Sertão;2000;não_natural_mun;7854
+2012;2928901;São Desidério;Bacia do Rio Grande;2000;não_natural_mun;2787
+2013;2928950;São Domingos;Sisal;2000;não_natural_mun;1821
+2014;2929107;São Felipe;Recôncavo;2000;não_natural_mun;2765
+2015;2929008;São Félix;Recôncavo;2000;não_natural_mun;2150
+2016;2929057;São Félix do Coribe;Bacia do Rio Corrente;2000;não_natural_mun;4171
+2017;2929206;São Francisco do Conde;Metropolitano de Salvador;2000;não_natural_mun;6163
+2018;2929255;São Gabriel;Irecê;2000;não_natural_mun;3626
+2019;2929305;São Gonçalo dos Campos;Portal do Sertão;2000;não_natural_mun;4811
+2020;2929354;São José da Vitória;Litoral Sul;2000;não_natural_mun;2812
+2021;2929370;São José do Jacuípe;Bacia do Jacuípe;2000;não_natural_mun;2463
+2022;2929404;São Miguel das Matas;Vale do Jiquiriçá;2000;não_natural_mun;1725
+2023;2929503;São Sebastião do Passé;Metropolitano de Salvador;2000;não_natural_mun;8087
+2024;2929602;Sapeaçu;Recôncavo;2000;não_natural_mun;3361
+2025;2929701;Sátiro Dias;Litoral Norte e Agreste Baiano;2000;não_natural_mun;2024
+2026;2929750;Saubara;Recôncavo;2000;não_natural_mun;2029
+2027;2929800;Saúde;Piemonte da Diamantina;2000;não_natural_mun;2633
+2028;2929909;Seabra;Chapada Diamantina;2000;não_natural_mun;7988
+2029;2930006;Sebastião Laranjeiras;Sertão Produtivo;2000;não_natural_mun;2522
+2030;2930105;Senhor do Bonfim;Piemonte Norte do Itapicuru;2000;não_natural_mun;18902
+2031;2930204;Sento Sé;Sertão do São Francisco;2000;não_natural_mun;4196
+2032;2930154;Serra do Ramalho;Velho Chico;2000;não_natural_mun;15150
+2033;2930303;Serra Dourada;Bacia do Rio Corrente;2000;não_natural_mun;2439
+2034;2930402;Serra Preta;Bacia do Jacuípe;2000;não_natural_mun;1856
+2035;2930501;Serrinha;Sisal;2000;não_natural_mun;13660
+2036;2930600;Serrolândia;Piemonte da Diamantina;2000;não_natural_mun;2871
+2037;2930709;Simões Filho;Metropolitano de Salvador;2000;não_natural_mun;46029
+2038;2930758;Sítio do Mato;Velho Chico;2000;não_natural_mun;3578
+2039;2930766;Sítio do Quinto;Semiárido Nordeste II;2000;não_natural_mun;2755
+2040;2930774;Sobradinho;Sertão do São Francisco;2000;não_natural_mun;10846
+2041;2930808;Souto Soares;Chapada Diamantina;2000;não_natural_mun;1880
+2042;2930907;Tabocas do Brejo Velho;Bacia do Rio Corrente;2000;não_natural_mun;1828
+2043;2931004;Tanhaçu;Sertão Produtivo;2000;não_natural_mun;2385
+2044;2931053;Tanque Novo;Sertão Produtivo;2000;não_natural_mun;1702
+2045;2931103;Tanquinho;Portal do Sertão;2000;não_natural_mun;1031
+2046;2931202;Taperoá;Baixo Sul;2000;não_natural_mun;2355
+2047;2931301;Tapiramutá;Piemonte do Paraguaçu;2000;não_natural_mun;4149
+2048;2931350;Teixeira de Freitas;Extremo Sul;2000;não_natural_mun;60827
+2049;2931400;Teodoro Sampaio;Portal do Sertão;2000;não_natural_mun;1399
+2050;2931509;Teofilândia;Sisal;2000;não_natural_mun;2366
+2051;2931608;Teolândia;Baixo Sul;2000;não_natural_mun;2636
+2052;2931707;Terra Nova;Portal do Sertão;2000;não_natural_mun;1678
+2053;2931806;Tremedal;Sudoeste Baiano;2000;não_natural_mun;2377
+2054;2931905;Tucano;Sisal;2000;não_natural_mun;6043
+2055;2932002;Uauá;Sertão do São Francisco;2000;não_natural_mun;2286
+2056;2932101;Ubaíra;Vale do Jiquiriçá;2000;não_natural_mun;2794
+2057;2932200;Ubaitaba;Litoral Sul;2000;não_natural_mun;10446
+2058;2932309;Ubatã;Médio Rio de Contas;2000;não_natural_mun;6420
+2059;2932408;Uibaí;Irecê;2000;não_natural_mun;2815
+2060;2932457;Umburanas;Piemonte da Diamantina;2000;não_natural_mun;2093
+2061;2932507;Una;Litoral Sul;2000;não_natural_mun;9280
+2062;2932606;Urandi;Sertão Produtivo;2000;não_natural_mun;2486
+2063;2932705;Uruçuca;Litoral Sul;2000;não_natural_mun;4691
+2064;2932804;Utinga;Chapada Diamantina;2000;não_natural_mun;5077
+2065;2932903;Valença;Baixo Sul;2000;não_natural_mun;19859
+2066;2933000;Valente;Sisal;2000;não_natural_mun;3541
+2067;2933059;Várzea da Roça;Bacia do Jacuípe;2000;não_natural_mun;2148
+2068;2933109;Várzea do Poço;Bacia do Jacuípe;2000;não_natural_mun;1524
+2069;2933158;Várzea Nova;Piemonte da Diamantina;2000;não_natural_mun;4410
+2070;2933174;Varzedo;Recôncavo;2000;não_natural_mun;1113
+2071;2933208;Vera Cruz;Metropolitano de Salvador;2000;não_natural_mun;10570
+2072;2933257;Vereda;Extremo Sul;2000;não_natural_mun;2778
+2073;2933307;Vitória da Conquista;Sudoeste Baiano;2000;não_natural_mun;83559
+2074;2933406;Wagner;Chapada Diamantina;2000;não_natural_mun;3495
+2075;2933455;Wanderley;Bacia do Rio Grande;2000;não_natural_mun;1767
+2076;2933505;Wenceslau Guimarães;Baixo Sul;2000;não_natural_mun;4324
+2077;2933604;Xique-Xique;Irecê;2000;não_natural_mun;9623
+2078;2900108;Abaíra;Chapada Diamantina;2010;não_natural_mun;1631
+2079;2900207;Abaré;Itaparica;2010;não_natural_mun;4721
+2080;2900306;Acajutiba;Litoral Norte e Agreste Baiano;2010;não_natural_mun;3998
+2081;2900355;Adustina;Semiárido Nordeste II;2010;não_natural_mun;3255
+2082;2900405;Água Fria;Portal do Sertão;2010;não_natural_mun;3271
+2083;2900603;Aiquara;Médio Rio de Contas;2010;não_natural_mun;1639
+2084;2900702;Alagoinhas;Litoral Norte e Agreste Baiano;2010;não_natural_mun;39118
+2085;2900801;Alcobaça;Extremo Sul;2010;não_natural_mun;7167
+2086;2900900;Almadina;Litoral Sul;2010;não_natural_mun;2075
+2087;2901007;Amargosa;Vale do Jiquiriçá;2010;não_natural_mun;8534
+2088;2901106;Amélia Rodrigues;Portal do Sertão;2010;não_natural_mun;6948
+2089;2901155;América Dourada;Irecê;2010;não_natural_mun;3596
+2090;2901205;Anagé;Sudoeste Baiano;2010;não_natural_mun;4146
+2091;2901304;Andaraí;Chapada Diamantina;2010;não_natural_mun;3565
+2092;2901353;Andorinha;Piemonte Norte do Itapicuru;2010;não_natural_mun;3779
+2093;2901403;Angical;Bacia do Rio Grande;2010;não_natural_mun;2727
+2094;2901502;Anguera;Portal do Sertão;2010;não_natural_mun;1401
+2095;2901601;Antas;Semiárido Nordeste II;2010;não_natural_mun;1938
+2096;2901700;Antônio Cardoso;Portal do Sertão;2010;não_natural_mun;871
+2097;2901809;Antônio Gonçalves;Piemonte Norte do Itapicuru;2010;não_natural_mun;2926
+2098;2901908;Aporá;Litoral Norte e Agreste Baiano;2010;não_natural_mun;3304
+2099;2901957;Apuarema;Médio Rio de Contas;2010;não_natural_mun;2408
+2100;2902054;Araçás;Litoral Norte e Agreste Baiano;2010;não_natural_mun;2420
+2101;2902005;Aracatu;Sudoeste Baiano;2010;não_natural_mun;1547
+2102;2902104;Araci;Sisal;2010;não_natural_mun;8152
+2103;2902203;Aramari;Litoral Norte e Agreste Baiano;2010;não_natural_mun;1636
+2104;2902252;Arataca;Litoral Sul;2010;não_natural_mun;4403
+2105;2902302;Aratuípe;Baixo Sul;2010;não_natural_mun;2025
+2106;2902401;Aurelino Leal;Litoral Sul;2010;não_natural_mun;4791
+2107;2902500;Baianópolis;Bacia do Rio Grande;2010;não_natural_mun;2592
+2108;2902609;Baixa Grande;Bacia do Jacuípe;2010;não_natural_mun;3266
+2109;2902658;Banzaê;Semiárido Nordeste II;2010;não_natural_mun;1196
+2110;2902708;Barra;Velho Chico;2010;não_natural_mun;7308
+2111;2902807;Barra da Estiva;Chapada Diamantina;2010;não_natural_mun;4063
+2112;2902906;Barra do Choça;Sudoeste Baiano;2010;não_natural_mun;12875
+2113;2903003;Barra do Mendes;Irecê;2010;não_natural_mun;2376
+2114;2903102;Barra do Rocha;Médio Rio de Contas;2010;não_natural_mun;2025
+2115;2903201;Barreiras;Bacia do Rio Grande;2010;não_natural_mun;61986
+2116;2903235;Barro Alto;Irecê;2010;não_natural_mun;3192
+2117;2903300;Barro Preto/Lomanto Junior;Litoral Sul;2010;não_natural_mun;1797
+2118;2903276;Barrocas;Sisal;2010;não_natural_mun;1805
+2119;2903409;Belmonte;Costa do Descobrimento;2010;não_natural_mun;5483
+2120;2903508;Belo Campo;Sudoeste Baiano;2010;não_natural_mun;4541
+2121;2903607;Biritinga;Sisal;2010;não_natural_mun;2212
+2122;2903706;Boa Nova;Médio Rio de Contas;2010;não_natural_mun;2770
+2123;2903805;Boa Vista do Tupim;Piemonte do Paraguaçu;2010;não_natural_mun;3817
+2124;2903904;Bom Jesus da Lapa;Velho Chico;2010;não_natural_mun;18338
+2125;2903953;Bom Jesus da Serra;Sudoeste Baiano;2010;não_natural_mun;1610
+2126;2904001;Boninal;Chapada Diamantina;2010;não_natural_mun;2102
+2127;2904050;Bonito;Chapada Diamantina;2010;não_natural_mun;6223
+2128;2904100;Boquira;Bacia do Paramirim;2010;não_natural_mun;2361
+2129;2904209;Botuporã;Bacia do Paramirim;2010;não_natural_mun;1115
+2130;2904308;Brejões;Vale do Jiquiriçá;2010;não_natural_mun;3754
+2131;2904407;Brejolândia;Bacia do Rio Corrente;2010;não_natural_mun;1993
+2132;2904506;Brotas de Macaúbas;Velho Chico;2010;não_natural_mun;1041
+2133;2904605;Brumado;Sertão Produtivo;2010;não_natural_mun;12615
+2134;2904704;Buerarema;Litoral Sul;2010;não_natural_mun;4417
+2135;2904753;Buritirama;Bacia do Rio Grande;2010;não_natural_mun;3546
+2136;2904803;Caatiba;Médio Sudoeste da Bahia;2010;não_natural_mun;1761
+2137;2904852;Cabaceiras do Paraguaçu;Recôncavo;2010;não_natural_mun;2370
+2138;2904902;Cachoeira;Recôncavo;2010;não_natural_mun;8479
+2139;2905008;Caculé;Sertão Produtivo;2010;não_natural_mun;4956
+2140;2905107;Caém;Piemonte da Diamantina;2010;não_natural_mun;2904
+2141;2905156;Caetanos;Sudoeste Baiano;2010;não_natural_mun;1216
+2142;2905206;Caetité;Sertão Produtivo;2010;não_natural_mun;7006
+2143;2905305;Cafarnaum;Irecê;2010;não_natural_mun;3833
+2144;2905404;Cairu;Baixo Sul;2010;não_natural_mun;5895
+2145;2905503;Caldeirão Grande;Piemonte Norte do Itapicuru;2010;não_natural_mun;2195
+2146;2905602;Camacan;Litoral Sul;2010;não_natural_mun;11652
+2147;2905701;Camaçari;Metropolitano de Salvador;2010;não_natural_mun;141112
+2148;2905800;Camamu;Baixo Sul;2010;não_natural_mun;8982
+2149;2905909;Campo Alegre de Lourdes;Sertão do São Francisco;2010;não_natural_mun;4396
+2150;2906006;Campo Formoso;Piemonte Norte do Itapicuru;2010;não_natural_mun;9253
+2151;2906105;Canápolis;Bacia do Rio Corrente;2010;não_natural_mun;846
+2152;2906204;Canarana;Irecê;2010;não_natural_mun;5966
+2153;2906303;Canavieiras;Litoral Sul;2010;não_natural_mun;7997
+2154;2906402;Candeal;Sisal;2010;não_natural_mun;931
+2155;2906501;Candeias;Metropolitano de Salvador;2010;não_natural_mun;30726
+2156;2906600;Candiba;Sertão Produtivo;2010;não_natural_mun;1872
+2157;2906709;Cândido Sales;Sudoeste Baiano;2010;não_natural_mun;7311
+2158;2906808;Cansanção;Sisal;2010;não_natural_mun;5958
+2159;2906824;Canudos;Sertão do São Francisco;2010;não_natural_mun;4920
+2160;2906857;Capela do Alto Alegre;Bacia do Jacuípe;2010;não_natural_mun;2727
+2161;2906873;Capim Grosso;Bacia do Jacuípe;2010;não_natural_mun;12048
+2162;2906899;Caraíbas;Sudoeste Baiano;2010;não_natural_mun;2153
+2163;2906907;Caravelas;Extremo Sul;2010;não_natural_mun;5963
+2164;2907004;Cardeal da Silva;Litoral Norte e Agreste Baiano;2010;não_natural_mun;2722
+2165;2907103;Carinhanha;Velho Chico;2010;não_natural_mun;4773
+2166;2907202;Casa Nova;Sertão do São Francisco;2010;não_natural_mun;15325
+2167;2907301;Castro Alves;Recôncavo;2010;não_natural_mun;3600
+2168;2907400;Catolândia;Bacia do Rio Grande;2010;não_natural_mun;866
+2169;2907509;Catu;Litoral Norte e Agreste Baiano;2010;não_natural_mun;11191
+2170;2907558;Caturama;Bacia do Paramirim;2010;não_natural_mun;536
+2171;2907608;Central;Irecê;2010;não_natural_mun;3440
+2172;2907707;Chorrochó;Itaparica;2010;não_natural_mun;1268
+2173;2907806;Cícero Dantas;Semiárido Nordeste II;2010;não_natural_mun;4918
+2174;2907905;Cipó;Semiárido Nordeste II;2010;não_natural_mun;3849
+2175;2908002;Coaraci;Litoral Sul;2010;não_natural_mun;6270
+2176;2908101;Côcos;Bacia do Rio Corrente;2010;não_natural_mun;2550
+2177;2908200;Conceição da Feira;Portal do Sertão;2010;não_natural_mun;4434
+2178;2908309;Conceição do Almeida;Recôncavo;2010;não_natural_mun;2731
+2179;2908408;Conceição do Coité;Sisal;2010;não_natural_mun;9411
+2180;2908507;Conceição do Jacuípe;Portal do Sertão;2010;não_natural_mun;10481
+2181;2908606;Conde;Litoral Norte e Agreste Baiano;2010;não_natural_mun;4448
+2182;2908705;Condeúba;Sudoeste Baiano;2010;não_natural_mun;2246
+2183;2908804;Contendas do Sincorá;Sertão Produtivo;2010;não_natural_mun;1422
+2184;2908903;Coração de Maria;Portal do Sertão;2010;não_natural_mun;2180
+2185;2909000;Cordeiros;Sudoeste Baiano;2010;não_natural_mun;1231
+2186;2909109;Coribe;Bacia do Rio Corrente;2010;não_natural_mun;3593
+2187;2909208;Coronel João Sá;Semiárido Nordeste II;2010;não_natural_mun;3321
+2188;2909307;Correntina;Bacia do Rio Corrente;2010;não_natural_mun;6732
+2189;2909406;Cotegipe;Bacia do Rio Grande;2010;não_natural_mun;2546
+2190;2909505;Cravolândia;Vale do Jiquiriçá;2010;não_natural_mun;1373
+2191;2909604;Crisópolis;Litoral Norte e Agreste Baiano;2010;não_natural_mun;2722
+2192;2909703;Cristópolis;Bacia do Rio Grande;2010;não_natural_mun;2801
+2193;2909802;Cruz das Almas;Recôncavo;2010;não_natural_mun;16430
+2194;2909901;Curaçá;Sertão do São Francisco;2010;não_natural_mun;6489
+2195;2910008;Dário Meira;Médio Rio de Contas;2010;não_natural_mun;2823
+2196;2910057;Dias d'Ávila;Metropolitano de Salvador;2010;não_natural_mun;46666
+2197;2910107;Dom Basílio;Sertão Produtivo;2010;não_natural_mun;1097
+2198;2910206;Dom Macedo Costa;Recôncavo;2010;não_natural_mun;846
+2199;2910305;Elísio Medrado;Vale do Jiquiriçá;2010;não_natural_mun;1449
+2200;2910404;Encruzilhada;Sudoeste Baiano;2010;não_natural_mun;7280
+2201;2910503;Entre Rios;Litoral Norte e Agreste Baiano;2010;não_natural_mun;10359
+2202;2900504;Érico Cardoso;Bacia do Paramirim;2010;não_natural_mun;587
+2203;2910602;Esplanada;Litoral Norte e Agreste Baiano;2010;não_natural_mun;9621
+2204;2910701;Euclides da Cunha;Semiárido Nordeste II;2010;não_natural_mun;9758
+2205;2910727;Eunápolis;Costa do Descobrimento;2010;não_natural_mun;47380
+2206;2910750;Fátima;Semiárido Nordeste II;2010;não_natural_mun;3485
+2207;2910776;Feira da Mata;Velho Chico;2010;não_natural_mun;879
+2208;2910800;Feira de Santana;Portal do Sertão;2010;não_natural_mun;185199
+2209;2910859;Filadélfia;Piemonte Norte do Itapicuru;2010;não_natural_mun;4919
+2210;2910909;Firmino Alves;Médio Sudoeste da Bahia;2010;não_natural_mun;2031
+2211;2911006;Floresta Azul;Litoral Sul;2010;não_natural_mun;2409
+2212;2911105;Formosa do Rio Preto;Bacia do Rio Grande;2010;não_natural_mun;5120
+2213;2911204;Gandu;Baixo Sul;2010;não_natural_mun;10520
+2214;2911253;Gavião;Bacia do Jacuípe;2010;não_natural_mun;883
+2215;2911303;Gentio do Ouro;Irecê;2010;não_natural_mun;2009
+2216;2911402;Glória;Itaparica;2010;não_natural_mun;4273
+2217;2911501;Gongogi;Médio Rio de Contas;2010;não_natural_mun;3260
+2218;2911600;Governador Mangabeira;Recôncavo;2010;não_natural_mun;5663
+2219;2911659;Guajeru;Sudoeste Baiano;2010;não_natural_mun;976
+2220;2911709;Guanambi;Sertão Produtivo;2010;não_natural_mun;21567
+2221;2911808;Guaratinga;Costa do Descobrimento;2010;não_natural_mun;6234
+2222;2911857;Heliópolis;Semiárido Nordeste II;2010;não_natural_mun;2391
+2223;2911907;Iaçu;Piemonte do Paraguaçu;2010;não_natural_mun;7181
+2224;2912004;Ibiassucê;Sertão Produtivo;2010;não_natural_mun;1279
+2225;2912103;Ibicaraí;Litoral Sul;2010;não_natural_mun;7244
+2226;2912202;Ibicoara;Chapada Diamantina;2010;não_natural_mun;8403
+2227;2912301;Ibicuí;Médio Sudoeste da Bahia;2010;não_natural_mun;4624
+2228;2912400;Ibipeba;Irecê;2010;não_natural_mun;3469
+2229;2912509;Ibipitanga;Bacia do Paramirim;2010;não_natural_mun;2626
+2230;2912608;Ibiquera;Piemonte do Paraguaçu;2010;não_natural_mun;1120
+2231;2912707;Ibirapitanga;Baixo Sul;2010;não_natural_mun;8266
+2232;2912806;Ibirapoã;Extremo Sul;2010;não_natural_mun;3409
+2233;2912905;Ibirataia;Médio Rio de Contas;2010;não_natural_mun;5178
+2234;2913002;Ibitiara;Chapada Diamantina;2010;não_natural_mun;1356
+2235;2913101;Ibititá;Irecê;2010;não_natural_mun;3806
+2236;2913200;Ibotirama;Velho Chico;2010;não_natural_mun;8809
+2237;2913309;Ichu;Sisal;2010;não_natural_mun;1086
+2238;2913408;Igaporã;Velho Chico;2010;não_natural_mun;2597
+2239;2913457;Igrapiúna;Baixo Sul;2010;não_natural_mun;4221
+2240;2913507;Iguaí;Médio Sudoeste da Bahia;2010;não_natural_mun;4838
+2241;2913606;Ilhéus;Litoral Sul;2010;não_natural_mun;62465
+2242;2913705;Inhambupe;Litoral Norte e Agreste Baiano;2010;não_natural_mun;7171
+2243;2913804;Ipecaetá;Portal do Sertão;2010;não_natural_mun;1134
+2244;2913903;Ipiaú;Médio Rio de Contas;2010;não_natural_mun;16067
+2245;2914000;Ipirá;Bacia do Jacuípe;2010;não_natural_mun;6073
+2246;2914109;Ipupiara;Irecê;2010;não_natural_mun;1844
+2247;2914208;Irajuba;Vale do Jiquiriçá;2010;não_natural_mun;1481
+2248;2914307;Iramaia;Chapada Diamantina;2010;não_natural_mun;2449
+2249;2914406;Iraquara;Chapada Diamantina;2010;não_natural_mun;3347
+2250;2914505;Irará;Portal do Sertão;2010;não_natural_mun;4811
+2251;2914604;Irecê;Irecê;2010;não_natural_mun;28115
+2252;2914653;Itabela;Costa do Descobrimento;2010;não_natural_mun;13109
+2253;2914703;Itaberaba;Piemonte do Paraguaçu;2010;não_natural_mun;18358
+2254;2914802;Itabuna;Litoral Sul;2010;não_natural_mun;73963
+2255;2914901;Itacaré;Litoral Sul;2010;não_natural_mun;9243
+2256;2915007;Itaeté;Chapada Diamantina;2010;não_natural_mun;4324
+2257;2915106;Itagi;Médio Rio de Contas;2010;não_natural_mun;2881
+2258;2915205;Itagibá;Médio Rio de Contas;2010;não_natural_mun;4379
+2259;2915304;Itagimirim;Costa do Descobrimento;2010;não_natural_mun;3493
+2260;2915353;Itaguaçu da Bahia;Irecê;2010;não_natural_mun;4530
+2261;2915403;Itaju do Colônia;Litoral Sul;2010;não_natural_mun;3025
+2262;2915502;Itajuípe;Litoral Sul;2010;não_natural_mun;7934
+2263;2915601;Itamaraju;Extremo Sul;2010;não_natural_mun;21868
+2264;2915700;Itamari;Médio Rio de Contas;2010;não_natural_mun;2455
+2265;2915809;Itambé;Médio Sudoeste da Bahia;2010;não_natural_mun;4543
+2266;2915908;Itanagra;Litoral Norte e Agreste Baiano;2010;não_natural_mun;2657
+2267;2916005;Itanhém;Extremo Sul;2010;não_natural_mun;5840
+2268;2916104;Itaparica;Metropolitano de Salvador;2010;não_natural_mun;7759
+2269;2916203;Itapé;Litoral Sul;2010;não_natural_mun;3068
+2270;2916302;Itapebi;Costa do Descobrimento;2010;não_natural_mun;4399
+2271;2916401;Itapetinga;Médio Sudoeste da Bahia;2010;não_natural_mun;23511
+2272;2916500;Itapicuru;Litoral Norte e Agreste Baiano;2010;não_natural_mun;6833
+2273;2916609;Itapitanga;Litoral Sul;2010;não_natural_mun;1718
+2274;2916708;Itaquara;Vale do Jiquiriçá;2010;não_natural_mun;1744
+2275;2916807;Itarantim;Médio Sudoeste da Bahia;2010;não_natural_mun;5803
+2276;2916856;Itatim;Piemonte do Paraguaçu;2010;não_natural_mun;3254
+2277;2916906;Itiruçu;Vale do Jiquiriçá;2010;não_natural_mun;3763
+2278;2917003;Itiúba;Sisal;2010;não_natural_mun;4261
+2279;2917102;Itororó;Médio Sudoeste da Bahia;2010;não_natural_mun;7028
+2280;2917201;Ituaçu;Sertão Produtivo;2010;não_natural_mun;2428
+2281;2917300;Ituberá;Baixo Sul;2010;não_natural_mun;8990
+2282;2917334;Iuiu;Sertão Produtivo;2010;não_natural_mun;2113
+2283;2917359;Jaborandi;Bacia do Rio Corrente;2010;não_natural_mun;2471
+2284;2917409;Jacaraci;Sudoeste Baiano;2010;não_natural_mun;1667
+2285;2917508;Jacobina;Piemonte da Diamantina;2010;não_natural_mun;22111
+2286;2917607;Jaguaquara;Vale do Jiquiriçá;2010;não_natural_mun;12055
+2287;2917706;Jaguarari;Piemonte Norte do Itapicuru;2010;não_natural_mun;8706
+2288;2917805;Jaguaripe;Baixo Sul;2010;não_natural_mun;3603
+2289;2917904;Jandaíra;Litoral Norte e Agreste Baiano;2010;não_natural_mun;1931
+2290;2918001;Jequié;Médio Rio de Contas;2010;não_natural_mun;40434
+2291;2918100;Jeremoabo;Semiárido Nordeste II;2010;não_natural_mun;7956
+2292;2918209;Jiquiriçá;Vale do Jiquiriçá;2010;não_natural_mun;3014
+2293;2918308;Jitaúna;Médio Rio de Contas;2010;não_natural_mun;4376
+2294;2918357;João Dourado;Irecê;2010;não_natural_mun;8305
+2295;2918407;Juazeiro;Sertão do São Francisco;2010;não_natural_mun;70074
+2296;2918456;Jucuruçu;Extremo Sul;2010;não_natural_mun;2584
+2297;2918506;Jussara;Irecê;2010;não_natural_mun;4837
+2298;2918555;Jussari;Litoral Sul;2010;não_natural_mun;2050
+2299;2918605;Jussiape;Chapada Diamantina;2010;não_natural_mun;951
+2300;2918704;Lafayette Coutinho;Vale do Jiquiriçá;2010;não_natural_mun;1037
+2301;2919058;LaGedo do Tabocal;Vale do Jiquiriçá;2010;não_natural_mun;2880
+2302;2918753;Lagoa Real;Sertão Produtivo;2010;não_natural_mun;1747
+2303;2918803;Laje;Vale do Jiquiriçá;2010;não_natural_mun;4991
+2304;2918902;Lajedão;Extremo Sul;2010;não_natural_mun;1535
+2305;2919009;Lajedinho;Piemonte do Paraguaçu;2010;não_natural_mun;537
+2306;2919108;Lamarão;Sisal;2010;não_natural_mun;1133
+2307;2919157;Lapão;Irecê;2010;não_natural_mun;7558
+2308;2919207;Lauro de Freitas;Metropolitano de Salvador;2010;não_natural_mun;106604
+2309;2919306;Lençóis;Chapada Diamantina;2010;não_natural_mun;3519
+2310;2919405;Licínio de Almeida;Sudoeste Baiano;2010;não_natural_mun;2211
+2311;2919504;Livramento de N. Senhora;Sertão Produtivo;2010;não_natural_mun;8289
+2312;2919553;Luís Eduardo Magalhães;Bacia do Rio Grande;2010;não_natural_mun;50980
+2313;2919603;Macajuba;Piemonte do Paraguaçu;2010;não_natural_mun;2174
+2314;2919702;Macarani;Médio Sudoeste da Bahia;2010;não_natural_mun;4118
+2315;2919801;Macaúbas;Bacia do Paramirim;2010;não_natural_mun;5052
+2316;2919900;Macururé;Itaparica;2010;não_natural_mun;1034
+2317;2919926;Madre de Deus;Metropolitano de Salvador;2010;não_natural_mun;8889
+2318;2919959;Maetinga;Sudoeste Baiano;2010;não_natural_mun;1055
+2319;2920007;Maiquinique;Médio Sudoeste da Bahia;2010;não_natural_mun;3160
+2320;2920106;Mairi;Bacia do Jacuípe;2010;não_natural_mun;2873
+2321;2920205;Malhada;Velho Chico;2010;não_natural_mun;2738
+2322;2920304;Malhada de Pedras;Sertão Produtivo;2010;não_natural_mun;1247
+2323;2920403;Manoel Vitorino;Médio Rio de Contas;2010;não_natural_mun;2314
+2324;2920452;Mansidão;Bacia do Rio Grande;2010;não_natural_mun;1624
+2325;2920502;Maracás;Vale do Jiquiriçá;2010;não_natural_mun;5047
+2326;2920601;Maragogipe;Recôncavo;2010;não_natural_mun;4911
+2327;2920700;Maraú;Litoral Sul;2010;não_natural_mun;6366
+2328;2920809;Marcionílio Souza;Chapada Diamantina;2010;não_natural_mun;3529
+2329;2920908;Mascote;Litoral Sul;2010;não_natural_mun;7078
+2330;2921005;Mata de São João;Metropolitano de Salvador;2010;não_natural_mun;15647
+2331;2921054;Matina;Velho Chico;2010;não_natural_mun;1160
+2332;2921104;Medeiros Neto;Extremo Sul;2010;não_natural_mun;9340
+2333;2921203;Miguel Calmon;Piemonte da Diamantina;2010;não_natural_mun;5232
+2334;2921302;Milagres;Vale do Jiquiriçá;2010;não_natural_mun;2944
+2335;2921401;Mirangaba;Piemonte da Diamantina;2010;não_natural_mun;2484
+2336;2921450;Mirante;Sudoeste Baiano;2010;não_natural_mun;1178
+2337;2921500;Monte Santo;Sisal;2010;não_natural_mun;5056
+2338;2921609;Morpará;Velho Chico;2010;não_natural_mun;2478
+2339;2921708;Morro do Chapéu;Chapada Diamantina;2010;não_natural_mun;8502
+2340;2921807;Mortugaba;Sudoeste Baiano;2010;não_natural_mun;2845
+2341;2921906;Mucugê;Chapada Diamantina;2010;não_natural_mun;2783
+2342;2922003;Mucuri;Extremo Sul;2010;não_natural_mun;19073
+2343;2922052;Mulungu do Morro;Irecê;2010;não_natural_mun;2510
+2344;2922102;Mundo Novo;Piemonte do Paraguaçu;2010;não_natural_mun;3400
+2345;2922201;Muniz Ferreira;Recôncavo;2010;não_natural_mun;1674
+2346;2922250;Muquém do São Francisco;Velho Chico;2010;não_natural_mun;3130
+2347;2922300;Muritiba;Recôncavo;2010;não_natural_mun;10702
+2348;2922409;Mutuípe;Vale do Jiquiriçá;2010;não_natural_mun;3700
+2349;2922508;Nazaré;Recôncavo;2010;não_natural_mun;5864
+2350;2922607;Nilo Peçanha;Baixo Sul;2010;não_natural_mun;3798
+2351;2922656;Nordestina;Sisal;2010;não_natural_mun;1945
+2352;2922706;Nova Canaã;Médio Sudoeste da Bahia;2010;não_natural_mun;3470
+2353;2922730;Nova Fátima;Bacia do Jacuípe;2010;não_natural_mun;2370
+2354;2922755;Nova Ibiá;Médio Rio de Contas;2010;não_natural_mun;2697
+2355;2922805;Nova Itarana;Vale do Jiquiriçá;2010;não_natural_mun;1907
+2356;2922854;Nova Redenção;Chapada Diamantina;2010;não_natural_mun;1847
+2357;2922904;Nova Soure;Semiárido Nordeste II;2010;não_natural_mun;3444
+2358;2923001;Nova Viçosa;Extremo Sul;2010;não_natural_mun;17272
+2359;2923035;Novo Horizonte;Chapada Diamantina;2010;não_natural_mun;1966
+2360;2923050;Novo Triunfo;Semiárido Nordeste II;2010;não_natural_mun;575
+2361;2923100;Olindina;Litoral Norte e Agreste Baiano;2010;não_natural_mun;4624
+2362;2923209;Oliveira dos Brejinhos;Velho Chico;2010;não_natural_mun;3122
+2363;2923308;Ouriçangas;Litoral Norte e Agreste Baiano;2010;não_natural_mun;1367
+2364;2923357;Ourolândia;Piemonte da Diamantina;2010;não_natural_mun;5475
+2365;2923407;Palmas de Monte Alto;Sertão Produtivo;2010;não_natural_mun;4038
+2366;2923506;Palmeiras;Chapada Diamantina;2010;não_natural_mun;1829
+2367;2923605;Paramirim;Bacia do Paramirim;2010;não_natural_mun;3447
+2368;2923704;Paratinga;Velho Chico;2010;não_natural_mun;4161
+2369;2923803;Paripiranga;Semiárido Nordeste II;2010;não_natural_mun;3010
+2370;2923902;Pau Brasil;Litoral Sul;2010;não_natural_mun;3093
+2371;2924009;Paulo Afonso;Itaparica;2010;não_natural_mun;44762
+2372;2924058;Pé de Serra;Bacia do Jacuípe;2010;não_natural_mun;2150
+2373;2924108;Pedrão;Litoral Norte e Agreste Baiano;2010;não_natural_mun;825
+2374;2924207;Pedro Alexandre;Semiárido Nordeste II;2010;não_natural_mun;1953
+2375;2924306;Piatã;Chapada Diamantina;2010;não_natural_mun;2330
+2376;2924405;Pilão Arcado;Sertão do São Francisco;2010;não_natural_mun;4350
+2377;2924504;Pindaí;Sertão Produtivo;2010;não_natural_mun;1699
+2378;2924603;Pindobaçu;Piemonte Norte do Itapicuru;2010;não_natural_mun;7226
+2379;2924652;Pintadas;Bacia do Jacuípe;2010;não_natural_mun;2329
+2380;2924678;Piraí do Norte;Baixo Sul;2010;não_natural_mun;2710
+2381;2924702;Piripá;Sudoeste Baiano;2010;não_natural_mun;1895
+2382;2924801;Piritiba;Piemonte do Paraguaçu;2010;não_natural_mun;4788
+2383;2924900;Planaltino;Vale do Jiquiriçá;2010;não_natural_mun;1590
+2384;2925006;Planalto;Sudoeste Baiano;2010;não_natural_mun;6419
+2385;2925105;Poções;Sudoeste Baiano;2010;não_natural_mun;14788
+2386;2925204;Pojuca;Metropolitano de Salvador;2010;não_natural_mun;9587
+2387;2925253;Ponto Novo;Piemonte Norte do Itapicuru;2010;não_natural_mun;7518
+2388;2925303;Porto Seguro;Costa do Descobrimento;2010;não_natural_mun;77103
+2389;2925402;Potiraguá;Médio Sudoeste da Bahia;2010;não_natural_mun;3072
+2390;2925501;Prado;Extremo Sul;2010;não_natural_mun;11475
+2391;2925600;Presidente Dutra;Irecê;2010;não_natural_mun;2826
+2392;2925709;Presidente Jânio Quadros;Sudoeste Baiano;2010;não_natural_mun;1822
+2393;2925758;Presidente Tancredo Neves;Baixo Sul;2010;não_natural_mun;6939
+2394;2925808;Queimadas;Sisal;2010;não_natural_mun;6537
+2395;2925907;Quijingue;Sisal;2010;não_natural_mun;3401
+2396;2925931;Quixabeira;Bacia do Jacuípe;2010;não_natural_mun;2321
+2397;2925956;Rafael Jambeiro;Piemonte do Paraguaçu;2010;não_natural_mun;2691
+2398;2926004;Remanso;Sertão do São Francisco;2010;não_natural_mun;6604
+2399;2926103;Retirolândia;Sisal;2010;não_natural_mun;2453
+2400;2926202;Riachão das Neves;Bacia do Rio Grande;2010;não_natural_mun;5506
+2401;2926301;Riachão do Jacuípe;Bacia do Jacuípe;2010;não_natural_mun;5746
+2402;2926400;Riacho de Santana;Velho Chico;2010;não_natural_mun;2956
+2403;2926509;Ribeira do Amparo;Semiárido Nordeste II;2010;não_natural_mun;2312
+2404;2926608;Ribeira do Pombal;Semiárido Nordeste II;2010;não_natural_mun;10880
+2405;2926657;Ribeirão do Largo;Sudoeste Baiano;2010;não_natural_mun;2344
+2406;2926707;Rio de Contas;Chapada Diamantina;2010;não_natural_mun;1271
+2407;2926806;Rio do Antônio;Sertão Produtivo;2010;não_natural_mun;1578
+2408;2926905;Rio do Pires;Bacia do Paramirim;2010;não_natural_mun;1723
+2409;2927002;Rio Real;Litoral Norte e Agreste Baiano;2010;não_natural_mun;11599
+2410;2927101;Rodelas;Itaparica;2010;não_natural_mun;3372
+2411;2927200;Ruy Barbosa;Piemonte do Paraguaçu;2010;não_natural_mun;5487
+2412;2927309;Salinas da Margarida;Recôncavo;2010;não_natural_mun;3354
+2413;2927408;Salvador;Metropolitano de Salvador;2010;não_natural_mun;741280
+2414;2927507;Santa Bárbara;Portal do Sertão;2010;não_natural_mun;3345
+2415;2927606;Santa Brígida;Semiárido Nordeste II;2010;não_natural_mun;5513
+2416;2927705;Santa Cruz Cabrália;Costa do Descobrimento;2010;não_natural_mun;15122
+2417;2927804;Santa Cruz da Vitória;Médio Sudoeste da Bahia;2010;não_natural_mun;1539
+2418;2927903;Santa Inês;Vale do Jiquiriçá;2010;não_natural_mun;3246
+2419;2928059;Santa Luzia;Litoral Sul;2010;não_natural_mun;3876
+2420;2928109;Santa Maria da Vitória;Bacia do Rio Corrente;2010;não_natural_mun;10761
+2421;2928406;Santa Rita de Cássia;Bacia do Rio Grande;2010;não_natural_mun;4082
+2422;2928505;Santa Terezinha;Piemonte do Paraguaçu;2010;não_natural_mun;2606
+2423;2928000;Santaluz;Sisal;2010;não_natural_mun;6134
+2424;2928208;Santana;Bacia do Rio Corrente;2010;não_natural_mun;3650
+2425;2928307;Santanópolis;Portal do Sertão;2010;não_natural_mun;1348
+2426;2928604;Santo Amaro;Recôncavo;2010;não_natural_mun;11854
+2427;2928703;Santo Antônio de Jesus;Recôncavo;2010;não_natural_mun;30972
+2428;2928802;Santo Estevão;Portal do Sertão;2010;não_natural_mun;11007
+2429;2928901;São Desidério;Bacia do Rio Grande;2010;não_natural_mun;6634
+2430;2928950;São Domingos;Sisal;2010;não_natural_mun;2117
+2431;2929107;São Felipe;Recôncavo;2010;não_natural_mun;2897
+2432;2929008;São Félix;Recôncavo;2010;não_natural_mun;3266
+2433;2929057;São Félix do Coribe;Bacia do Rio Corrente;2010;não_natural_mun;5626
+2434;2929206;São Francisco do Conde;Metropolitano de Salvador;2010;não_natural_mun;10882
+2435;2929255;São Gabriel;Irecê;2010;não_natural_mun;4398
+2436;2929305;São Gonçalo dos Campos;Portal do Sertão;2010;não_natural_mun;7326
+2437;2929354;São José da Vitória;Litoral Sul;2010;não_natural_mun;2766
+2438;2929370;São José do Jacuípe;Bacia do Jacuípe;2010;não_natural_mun;3160
+2439;2929404;São Miguel das Matas;Vale do Jiquiriçá;2010;não_natural_mun;1904
+2440;2929503;São Sebastião do Passé;Metropolitano de Salvador;2010;não_natural_mun;10112
+2441;2929602;Sapeaçu;Recôncavo;2010;não_natural_mun;3759
+2442;2929701;Sátiro Dias;Litoral Norte e Agreste Baiano;2010;não_natural_mun;2479
+2443;2929750;Saubara;Recôncavo;2010;não_natural_mun;3570
+2444;2929800;Saúde;Piemonte da Diamantina;2010;não_natural_mun;3135
+2445;2929909;Seabra;Chapada Diamantina;2010;não_natural_mun;8748
+2446;2930006;Sebastião Laranjeiras;Sertão Produtivo;2010;não_natural_mun;2890
+2447;2930105;Senhor do Bonfim;Piemonte Norte do Itapicuru;2010;não_natural_mun;20760
+2448;2930204;Sento Sé;Sertão do São Francisco;2010;não_natural_mun;6859
+2449;2930154;Serra do Ramalho;Velho Chico;2010;não_natural_mun;15020
+2450;2930303;Serra Dourada;Bacia do Rio Corrente;2010;não_natural_mun;2552
+2451;2930402;Serra Preta;Bacia do Jacuípe;2010;não_natural_mun;2258
+2452;2930501;Serrinha;Sisal;2010;não_natural_mun;16441
+2453;2930600;Serrolândia;Piemonte da Diamantina;2010;não_natural_mun;3373
+2454;2930709;Simões Filho;Metropolitano de Salvador;2010;não_natural_mun;63599
+2455;2930758;Sítio do Mato;Velho Chico;2010;não_natural_mun;3285
+2456;2930766;Sítio do Quinto;Semiárido Nordeste II;2010;não_natural_mun;3219
+2457;2930774;Sobradinho;Sertão do São Francisco;2010;não_natural_mun;12912
+2458;2930808;Souto Soares;Chapada Diamantina;2010;não_natural_mun;2636
+2459;2930907;Tabocas do Brejo Velho;Bacia do Rio Corrente;2010;não_natural_mun;1416
+2460;2931004;Tanhaçu;Sertão Produtivo;2010;não_natural_mun;3805
+2461;2931053;Tanque Novo;Sertão Produtivo;2010;não_natural_mun;2201
+2462;2931103;Tanquinho;Portal do Sertão;2010;não_natural_mun;1316
+2463;2931202;Taperoá;Baixo Sul;2010;não_natural_mun;3579
+2464;2931301;Tapiramutá;Piemonte do Paraguaçu;2010;não_natural_mun;3563
+2465;2931350;Teixeira de Freitas;Extremo Sul;2010;não_natural_mun;76129
+2466;2931400;Teodoro Sampaio;Portal do Sertão;2010;não_natural_mun;1518
+2467;2931509;Teofilândia;Sisal;2010;não_natural_mun;3587
+2468;2931608;Teolândia;Baixo Sul;2010;não_natural_mun;2571
+2469;2931707;Terra Nova;Portal do Sertão;2010;não_natural_mun;2360
+2470;2931806;Tremedal;Sudoeste Baiano;2010;não_natural_mun;2417
+2471;2931905;Tucano;Sisal;2010;não_natural_mun;8476
+2472;2932002;Uauá;Sertão do São Francisco;2010;não_natural_mun;3354
+2473;2932101;Ubaíra;Vale do Jiquiriçá;2010;não_natural_mun;4353
+2474;2932200;Ubaitaba;Litoral Sul;2010;não_natural_mun;8348
+2475;2932309;Ubatã;Médio Rio de Contas;2010;não_natural_mun;6250
+2476;2932408;Uibaí;Irecê;2010;não_natural_mun;3338
+2477;2932457;Umburanas;Piemonte da Diamantina;2010;não_natural_mun;1937
+2478;2932507;Una;Litoral Sul;2010;não_natural_mun;10536
+2479;2932606;Urandi;Sertão Produtivo;2010;não_natural_mun;3168
+2480;2932705;Uruçuca;Litoral Sul;2010;não_natural_mun;7164
+2481;2932804;Utinga;Chapada Diamantina;2010;não_natural_mun;5795
+2482;2932903;Valença;Baixo Sul;2010;não_natural_mun;19944
+2483;2933000;Valente;Sisal;2010;não_natural_mun;4069
+2484;2933059;Várzea da Roça;Bacia do Jacuípe;2010;não_natural_mun;2562
+2485;2933109;Várzea do Poço;Bacia do Jacuípe;2010;não_natural_mun;2466
+2486;2933158;Várzea Nova;Piemonte da Diamantina;2010;não_natural_mun;4614
+2487;2933174;Varzedo;Recôncavo;2010;não_natural_mun;2133
+2488;2933208;Vera Cruz;Metropolitano de Salvador;2010;não_natural_mun;16650
+2489;2933257;Vereda;Extremo Sul;2010;não_natural_mun;3157
+2490;2933307;Vitória da Conquista;Sudoeste Baiano;2010;não_natural_mun;97543
+2491;2933406;Wagner;Chapada Diamantina;2010;não_natural_mun;3741
+2492;2933455;Wanderley;Bacia do Rio Grande;2010;não_natural_mun;3070
+2493;2933505;Wenceslau Guimarães;Baixo Sul;2010;não_natural_mun;5706
+2494;2933604;Xique-Xique;Irecê;2010;não_natural_mun;10161
